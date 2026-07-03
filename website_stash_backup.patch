@@ -1,0 +1,19 @@
+diff --git a/static/robots.txt b/static/robots.txt
+index 19fda1a9f..ed9d55ed0 100644
+--- a/static/robots.txt
++++ b/static/robots.txt
+@@ -32,3 +32,4 @@ Sitemap: https://datacommons.org/sitemap/EurostatNUTS2.0.txt
+ Sitemap: https://datacommons.org/sitemap/CensusTract.0.txt
+ Sitemap: https://datacommons.org/sitemap/HighSchoolDistrict.0.txt
+ Sitemap: https://datacommons.org/sitemap/ElementarySchoolDistrict.0.txt
++Sitemap: https://datacommons.org/sitemap/provenance.txt
+diff --git a/tools/sitemap/run.sh b/tools/sitemap/run.sh
+index c05c97eb7..7d394227c 100755
+--- a/tools/sitemap/run.sh
++++ b/tools/sitemap/run.sh
+@@ -24,4 +24,5 @@ if [[ "$1" == "stat_vars_only" ]]
+   else
+     python3 main.py
+     python3 create_stat_vars_sitemap.py
++    python3 create_provenance_sitemap.py
+ fi
