@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Singapore_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Planning_areas_of_Singapore"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Singapore."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Singapore/ADM2/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Singapore/ADM2/wikidata/SGP.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Singapore/ADM2/wikidata/Singapore_ADM2-final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

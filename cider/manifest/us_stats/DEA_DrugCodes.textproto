@@ -1,0 +1,11 @@
+import: {
+  import_name: "DEA_DrugCodes"
+  provenance_url: "https://www.deadiversion.usdoj.gov/21cfr/cfr/2108cfrt.htm"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dea_codes/nodes.mcf@1"
+  import_groups: "infrequent"
+  provenance_description: "Controlled substances from Section 1308 of the most recent issue of Title 21 Code of Federal Regulations (CFR), section 1308. Please see https://datacommons.org/disclaimers about the scope of the list."
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+}

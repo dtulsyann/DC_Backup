@@ -1,0 +1,9 @@
+Node: dcid:dc/base/CensusACS5YearSurvey
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_census/acs5y"
+lastDataRefreshDate: "2026-03-22"
+# Next release: https://www.census.gov/programs-surveys/acs/news/data-releases.html
+nextSourceReleaseDate: "2026-12-11"
+automaticRefreshType: "NoAutomaticRefresh"

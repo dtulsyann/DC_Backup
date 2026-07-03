@@ -1,0 +1,22 @@
+import: {
+  import_name: "USCensusPEP_By_SexRaceHispanicOrigin"
+  provenance_url: "https://www.census.gov/programs-surveys/popest.html"
+  category: STATS
+  provenance_description: "Annual US population estimates categorized by sex, race, and Hispanic origin."
+  import_groups: "auto1w"
+  import_groups: "laelaps"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_census/pep/pep_by_srh/USCensusPEP_By_SexRaceHispanicOrigin/import_metadata_mcf.mcf"
+  #processingScript: "https://github.com/datacommonsorg/data/tree/master/scripts/us_census/pep"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/USCensusPEP_By_SRH/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/USCensusPEP_By_SRH/latest/population_estimate_by_srh.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/USCensusPEP_By_SRH/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/pep/pep_by_srh/USCensusPEP_By_SexRaceHispanicOrigin/latest_version.txt"
+    }
+  }
+  dataset_name: "Population Estimates Program (PEP)"
+}

@@ -1,0 +1,9 @@
+import {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg"
+  provenance_url: "https://data.census.gov/table/ACSST5Y2023.S0801"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables for ACS Subject Table S0801 (Commuting Characteristics)."
+  import_groups: "uscensus"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusACS5YearSurvey_SubjectTables_S0801/20250219/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg/graph.tfrecord@18.gz"
+  dataset_name: "American Community Survey (ACS)"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WHO_TuberculosisBacteriologicallyConfirmedPercentage
+typeOf: dcid:Provenance
+license: "https://www.who.int/about/policies/publishing/data-policy"
+licenseType: dcid:CreativeCommonsAttributionLicense
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: " https://data.who.int/indicators/i/1891124/449F55C"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2026-03-26"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/who/tuberculosis_percentage/source_files"
+descriptionUrl: " https://data.who.int"

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OECDRegionalEducation
+typeOf: dcid:Provenance
+license: "https://www.oecd.org/en/about/terms-conditions.html"
+licenseType: dcs:PublicDomain
+processingMethod: dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_usda/nass_census/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/oecd/oecd_education/latest/input_files"
+sourceDataUrl: "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_EDU%40DF_ATTAIN&df[ag]=OECD.CFE.EDS&dq=A..AUS%2BAU1%2BAU2%2BAU3%2BAU4%2BAU5%2BAU6%2BAU7%2BAU8%2BAUT%2BAT11%2BAT12%2BAT13%2BAT21%2BAT22%2BAT31%2BAT32%2BAT33%2BAT34.......&lom=LASTNPERIODS&lo=5&to[TIME_PERIOD]=false"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

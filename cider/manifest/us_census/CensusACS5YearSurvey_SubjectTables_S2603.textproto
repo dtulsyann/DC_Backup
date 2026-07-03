@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S2603"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S2603&tid=ACSST5Y2023.S2603"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S2603: Characteristics of the Group Quarters Population by Group Quarters Type (3 Types)."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s2603/20250127/graph.tfrecord@1.gz"
+  start_date_in_kg: "2017"
+  end_date_in_kg: "2023"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s2603/20250127/S2603_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s2603/20250127/S2603_cleaned.csv"
+  }
+  import_groups: "uscensus"
+  dataset_name: "American Community Survey (ACS)"
+}

@@ -1,0 +1,16 @@
+import: {
+  import_name: "EuroGeos"
+  provenance_url: "https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/EuroGeos/*.mcf"
+  import_groups: "place"
+  is_mcf_replicated_from_piper: true
+  resolution_info: {
+    uses_id_resolver: false
+    provides_ids: "nutsCode"
+    new_geo {
+      dcid_sources: "nutsCode"
+    }
+  }
+  dataset_name: "Regional Statistics by NUTS Classification"
+}

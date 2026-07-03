@@ -1,0 +1,3720 @@
+[
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_AmericanCommunitySurveyAcs",
+    "dataset_name": "American Community Survey (ACS)",
+    "provenance_count": 61,
+    "provenances": [
+      {
+        "dcid": "dc/base/CensusACS1YearSurvey",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_AbilityToSpeakEnglish_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_AggCountry",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_AggCountry_SuperEnum",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_Demographics_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_Education_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_Employment_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_HealthInsurance_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_HousingUnit_HomeValue_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_InArmedForces_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_Income_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_Person_Age_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0101",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table?q=S0101:+Age+and+Sex&tid=ACSST1Y2024.S0101"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0503",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S0503&tid=ACSST5Y2023.S0503"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0504",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2023.S0504"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2019.S0504"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0505",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S0505&tid=ACSST5Y2023.S0505"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0506",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S0506&tid=ACSST5Y2023.S0506"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0701",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S0701&tid=ACSST5Y2024.S0701"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0701PR",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S0701PR&tid=ACSST5Y2024.S0701PR"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0801",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table?q=S0801&tid=ACSST5Y2023.S0801"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg",
+        "license": null,
+        "url": "https://data.census.gov/table/ACSST5Y2023.S0801"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0804",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table/ACSST5Y2023.S0804"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg",
+        "license": null,
+        "url": "https://data.census.gov/table/ACSST5Y2022.S0804"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0902",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table/ACSST5Y2024.S0902?q=S0902"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1201",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2023.S1201"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg",
+        "license": null,
+        "url": "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2019.S1201"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1251",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table/ACSST5Y2024.S1251?q=S1251"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1251&tid=ACSST5Y2023.S1251"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1301",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1301&tid=ACSST5Y2023.S1301"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1502",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table/ACSST5Y2024.S1502?q=S1502"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1602",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1602&tid=ACSST5Y2023.S1602"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1603",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1603&tid=ACSST5Y2023.S1603"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1702",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1702&tid=ACSST5Y2023.S1702"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1810",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table/ACSST5Y2024.S1810?q=S1810"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1901",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1901&tid=ACSST5Y2024.S1901"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1903",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S1903&tid=ACSST5Y2023.S1903"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2001",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2001&tid=ACSST1Y2023.S2001"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2201",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/table/ACSST5Y2023.S2201?q=S2201"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2303",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2303&tid=ACSST5Y2023.S2303"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2405",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2405&tid=ACSST5Y2023.S2405"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2406",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2406&tid=ACSST5Y2023.S2406"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2407",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2407&tid=ACSST5Y2023.S2407"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2408",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg",
+        "license": null,
+        "url": "https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2409",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2409&tid=ACSST1Y2023.S2409"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2418",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2418&tid=ACSST5Y2024.S2418"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2502",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2502&tid=ACSST5Y2023.S2502"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2601A",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2601A&tid=ACSST5Y2023.S2601A"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2601APR",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2601APR&tid=ACSST5Y2023.S2601APR"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2602",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2602&tid=ACSST5Y2023.S2602"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2602PR",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2602PR&tid=ACSST5Y2024.S2602PR"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2603",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2603&tid=ACSST5Y2023.S2603"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2701",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2023.S2701"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2702",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2702&tid=ACSST5Y2013.S2702"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2702PR",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2702PR&tid=ACSST5Y2013.S2702PR"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2703",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2703&tid=ACSST5Y2023.S2703"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2704",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://data.census.gov/cedsci/table?q=S2704&tid=ACSST5Y2023.S2704"
+      },
+      {
+        "dcid": "dc/base/CensusACS5YearSurvey_SuperEnum",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/"
+      },
+      {
+        "dcid": "dc/base/CensusACSBtable5YearSurvey_Btable_B25031",
+        "license": null,
+        "url": "https://data.census.gov/table/ACSDT5Y2022.B25031"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.census.gov/about/policies/open-gov/open-data.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Nex-GlobalDownscaledClimateProjectionsFromIpccCmip6",
+    "dataset_name": "NEX - Global Downscaled Climate Projections from IPCC CMIP6",
+    "provenance_count": 12,
+    "provenances": [
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrDiffStats",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrOverTimeOnStatsAcrossModels",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrStatsAcrossModels",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrOverTimeOnStatsAcrossModels",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrStatsAcrossModels",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_PDFs",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Nex-GlobalDownscaledClimateProjectionsFromIpccCmip5",
+    "dataset_name": "NEX - Global Downscaled Climate Projections from IPCC CMIP5",
+    "provenance_count": 10,
+    "provenances": [
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_Country",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_Country_AggrDiffStats",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_IpccPlaces50",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_IpccPlaces50_AggrDiffStats",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_Subnational",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_Subnational_AggrDiffStats",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_Subnational_AggrOverTimeOnStatsAcrossModels",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXGDDP_Subnational_AggrStatsAcrossModels",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+      },
+      {
+        "dcid": "dc/base/NASA_WetBulbComputation",
+        "license": null,
+        "url": "https://datacommons.org/"
+      },
+      {
+        "dcid": "dc/base/NASA_WetBulbComputation_Aggregation",
+        "license": null,
+        "url": "https://datacommons.org/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_PopulationEstimatesProgramPep",
+    "dataset_name": "Population Estimates Program (PEP)",
+    "provenance_count": 9,
+    "provenances": [
+      {
+        "dcid": "dc/base/CensusPEP",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/programs-surveys/popest.html"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_AgeSexRace",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www2.census.gov/programs-surveys/popest/tables"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_AgeSexRaceHispanicOrigin",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www2.census.gov/programs-surveys/popest/tables"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_Annual_Population",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www.census.gov/programs-surveys/popest.html"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_By_SexRaceHispanicOrigin",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www.census.gov/programs-surveys/popest.html"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_By_Sex_Race",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www.census.gov/programs-surveys/popest.html"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_MonthlyPopulation",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www.census.gov/programs-surveys/popest.html"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_PopulationEstimatebyRace",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www.census.gov/programs-surveys/popest.html"
+      },
+      {
+        "dcid": "dc/base/USCensusPEP_Sex",
+        "license": "https://www.census.gov/about/policies/section-508.html",
+        "url": "https://www.census.gov/programs-surveys/popest.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.census.gov/about/policies/open-gov/open-data.html",
+      "https://www.census.gov/about/policies/section-508.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuEurostat_RegionalStatisticsByNutsClassification",
+    "dataset_name": "Regional Statistics by NUTS Classification",
+    "provenance_count": 8,
+    "provenances": [
+      {
+        "dcid": "dc/base/EurostatData_Demographic_Balance_Crude_Rates",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_gind3/default/table?lang=en"
+      },
+      {
+        "dcid": "dc/base/EurostatData_Education_Attainment",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table?lang=en"
+      },
+      {
+        "dcid": "dc/base/EurostatData_Education_Enrollment",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/trng_lfse_04/default/table?lang=en"
+      },
+      {
+        "dcid": "dc/base/EurostatData_Employment_Per_Sector",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3empers/default/table?lang=en"
+      },
+      {
+        "dcid": "dc/base/EurostatData_Fertility",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_find3/default/table?lang=en"
+      },
+      {
+        "dcid": "dc/base/EurostatData_GDP",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en"
+      },
+      {
+        "dcid": "dc/base/EurostatData_LifeExpectancy",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en"
+      },
+      {
+        "dcid": "dc/base/EurostatData_PopulationDensity",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_d3dens/default/table?lang=en"
+      }
+    ],
+    "unique_licenses": [
+      "https://commission.europa.eu/legal-notice_en"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_EnvironmentalHealthToxicology",
+    "dataset_name": "Environmental Health Toxicology",
+    "provenance_count": 8,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDCPM25",
+        "license": null,
+        "url": "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9"
+      },
+      {
+        "dcid": "dc/base/CDC_OzoneCensusTract",
+        "license": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+        "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology"
+      },
+      {
+        "dcid": "dc/base/CDC_OzoneCounty",
+        "license": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+        "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1"
+      },
+      {
+        "dcid": "dc/base/CDC_PM25CensusTract",
+        "license": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+        "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology"
+      },
+      {
+        "dcid": "dc/base/CDC_PM25County",
+        "license": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+        "url": "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-PM2-5-Concentrations-2001-2019/dqwm-pbi7/about_data"
+      },
+      {
+        "dcid": "dc/base/CDC_PalmerDroughtSeverityIndex",
+        "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+        "url": "https://data.cdc.gov/Environmental-Health-Toxicology/Palmer-Drought-Severity-Index-1895-2016/en5r-5ds4"
+      },
+      {
+        "dcid": "dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex",
+        "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+        "url": "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib"
+      },
+      {
+        "dcid": "dc/base/CDC_StandardizedPrecipitationIndex",
+        "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+        "url": "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Index-1895-2016/xbk2-5i4e"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+      "https://www.cdc.gov/nchs/policy/data-user-agreement.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsEnergyInformationAdministrationEia_OpenData",
+    "dataset_name": "Open Data",
+    "provenance_count": 8,
+    "provenances": [
+      {
+        "dcid": "dc/base/EIA_Coal",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/qb.php?category=717234"
+      },
+      {
+        "dcid": "dc/base/EIA_Electricity",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/browser/electricity"
+      },
+      {
+        "dcid": "dc/base/EIA_International",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/qb.php?category=2134384"
+      },
+      {
+        "dcid": "dc/base/EIA_NaturalGas",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/qb.php?category=714804"
+      },
+      {
+        "dcid": "dc/base/EIA_NuclearOutages",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/qb.php?category=2889994"
+      },
+      {
+        "dcid": "dc/base/EIA_Petroleum",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/qb.php?category=714755"
+      },
+      {
+        "dcid": "dc/base/EIA_SEDS",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/qb.php?category=40203"
+      },
+      {
+        "dcid": "dc/base/EIA_TotalEnergy",
+        "license": "https://www.eia.gov/about/copyrights_reuse.php",
+        "url": "https://www.eia.gov/opendata/qb.php?category=711224"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.eia.gov/about/copyrights_reuse.php"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StadtZurichOpenData_ZurichPopulation",
+    "dataset_name": "Zurich population",
+    "provenance_count": 8,
+    "provenances": [
+      {
+        "dcid": "dc/base/Zurich_Population",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3240_wiki.csv"
+      },
+      {
+        "dcid": "dc/base/Zurich_Population_By_Age",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3903_age10_wiki.csv"
+      },
+      {
+        "dcid": "dc/base/Zurich_Population_By_Origin",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3903_hel_wiki.csv"
+      },
+      {
+        "dcid": "dc/base/Zurich_Population_By_Sex",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3903_sex_wiki.csv"
+      },
+      {
+        "dcid": "dc/base/Zurich_Population_Number_Of_Birth",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_4031_wiki.csv"
+      },
+      {
+        "dcid": "dc/base/Zurich_Population_Number_Of_Birth_By_Origin",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_4031_hel_wiki.csv"
+      },
+      {
+        "dcid": "dc/base/Zurich_Population_Number_Of_Birth_By_Sex",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_4031_sex_wiki.csv"
+      },
+      {
+        "dcid": "dc/base/Zurich_Population_Number_Of_Company_Workplace_Employees",
+        "license": "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen",
+        "url": "https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/wir_2552_wiki.csv"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_GreenhouseGasReportingProgram",
+    "dataset_name": "Greenhouse Gas Reporting Program",
+    "provenance_count": 6,
+    "provenances": [
+      {
+        "dcid": "dc/base/EPA_GHGRP",
+        "license": "https://www.epa.gov/accessibility/epa-accessibility-statement",
+        "url": "https://www.epa.gov/ghgreporting"
+      },
+      {
+        "dcid": "dc/base/EPA_GHGRP_AggCensusZipCodeTabulationArea",
+        "license": "https://www.epa.gov/accessibility/epa-accessibility-statement",
+        "url": "https://www.epa.gov/ghgreporting"
+      },
+      {
+        "dcid": "dc/base/EPA_GHGRP_AggCounty",
+        "license": "https://www.epa.gov/accessibility/epa-accessibility-statement",
+        "url": "https://www.epa.gov/ghgreporting"
+      },
+      {
+        "dcid": "dc/base/EPA_GHGRP_AggCounty_AggState",
+        "license": "https://www.epa.gov/accessibility/epa-accessibility-statement",
+        "url": "https://www.epa.gov/ghgreporting"
+      },
+      {
+        "dcid": "dc/base/EPA_GHGRP_ParentCompanies",
+        "license": "https://www.epa.gov/accessibility/epa-accessibility-statement",
+        "url": "https://www.epa.gov/ghgreporting"
+      },
+      {
+        "dcid": "dc/base/EPA_GHGRP_ParentCompanies_Ownership",
+        "license": null,
+        "url": "https://www.epa.gov/ghgreporting"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.epa.gov/accessibility/epa-accessibility-statement"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuEurostat_EurostatHealth",
+    "dataset_name": "EuroStat Health",
+    "provenance_count": 6,
+    "provenances": [
+      {
+        "dcid": "dc/base/EuroStatHealth_AlcoholConsumption",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/web/main/data/database"
+      },
+      {
+        "dcid": "dc/base/EuroStatHealth_BodyMassIndex",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/web/main/data/database"
+      },
+      {
+        "dcid": "dc/base/EuroStatHealth_FruitsAndVegetables",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/web/main/data/database"
+      },
+      {
+        "dcid": "dc/base/EuroStatHealth_PhysicalActivity",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/web/health/database"
+      },
+      {
+        "dcid": "dc/base/EuroStatHealth_SocialEnvironment",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/web/main/data/database"
+      },
+      {
+        "dcid": "dc/base/EurostatHealth_Tobacco_Consumption",
+        "license": "https://commission.europa.eu/legal-notice_en",
+        "url": "https://ec.europa.eu/eurostat/web/main/data/database"
+      }
+    ],
+    "unique_licenses": [
+      "https://commission.europa.eu/legal-notice_en"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OfficeOfCivilRightsData_UsDepartmentOfEducationUrbanEducationDataCensus",
+    "dataset_name": "U.S. Department of Education: Urban Education Data Census",
+    "provenance_count": 6,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_SAT_ACT_Participation",
+        "license": "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc",
+        "url": "https://ocrdata.ed.gov/"
+      },
+      {
+        "dcid": "dc/base/US_SAT_ACT_Participation_state",
+        "license": "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc",
+        "url": "https://ocrdata.ed.gov/"
+      },
+      {
+        "dcid": "dc/base/US_UrbanSchool_Covid_Directional_Indicators",
+        "license": "https://civilrightsdata.ed.gov/data",
+        "url": "https://ocrdata.ed.gov/"
+      },
+      {
+        "dcid": "dc/base/US_UrbanSchool_Enrollment",
+        "license": "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc",
+        "url": "https://ocrdata.ed.gov/"
+      },
+      {
+        "dcid": "dc/base/US_Urban_MathsAndScience_Course_Enrollment",
+        "license": "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc",
+        "url": "https://civilrightsdata.ed.gov/data"
+      },
+      {
+        "dcid": "dc/base/US_Urban_Schools_Teachers_And_Staff",
+        "license": "https://civilrightsdata.ed.gov/data",
+        "url": "https://ocrdata.ed.gov/"
+      }
+    ],
+    "unique_licenses": [
+      "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc",
+      "https://civilrightsdata.ed.gov/data"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CensusOfIndia_IndiaCensusTables",
+    "dataset_name": "India Census Tables",
+    "provenance_count": 5,
+    "provenances": [
+      {
+        "dcid": "dc/base/IndiaCensus_Primary",
+        "license": null,
+        "url": "https://censusindia.gov.in/"
+      },
+      {
+        "dcid": "dc/base/IndiaCensus_PrimaryHouseless",
+        "license": null,
+        "url": "https://censusindia.gov.in/"
+      },
+      {
+        "dcid": "dc/base/IndiaCensus_PrimaryReligion",
+        "license": null,
+        "url": "https://censusindia.gov.in/"
+      },
+      {
+        "dcid": "dc/base/IndiaCensus_PrimarySC",
+        "license": null,
+        "url": "https://censusindia.gov.in/"
+      },
+      {
+        "dcid": "dc/base/IndiaCensus_PrimaryST",
+        "license": null,
+        "url": "https://censusindia.gov.in/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/ReserveBankOfIndia_DatabaseOnIndianEconomy",
+    "dataset_name": "Database on Indian Economy",
+    "provenance_count": 5,
+    "provenances": [
+      {
+        "dcid": "dc/base/India_RBIStateDomesticProduct",
+        "license": "https://rbi.org.in/Scripts/Righttoinfoact.aspx",
+        "url": "https://rbi.org.in/"
+      },
+      {
+        "dcid": "dc/base/India_RBIStateDomesticProduct_AggCountry",
+        "license": null,
+        "url": "https://rbi.org.in/"
+      },
+      {
+        "dcid": "dc/base/India_RBIStateDomesticProduct_StatVarAgg",
+        "license": null,
+        "url": "https://rbi.org.in/"
+      },
+      {
+        "dcid": "dc/base/India_RBIStateDomesticProduct_StatVarAgg_AggCountry",
+        "license": null,
+        "url": "https://rbi.org.in/"
+      },
+      {
+        "dcid": "dc/base/India_RBI_State_Statistics",
+        "license": "https://rbi.org.in/Scripts/Righttoinfoact.aspx",
+        "url": "https://rbi.org.in/"
+      }
+    ],
+    "unique_licenses": [
+      "https://rbi.org.in/Scripts/Righttoinfoact.aspx"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalScienceFoundation_NationalCenterForScienceAndEngineeringStatistics",
+    "dataset_name": "National Center for Science and Engineering Statistics",
+    "provenance_count": 5,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCSES_Demographics_SEH_Import",
+        "license": "https://www.nsf.gov/public-access",
+        "url": "https://ncses.nsf.gov/pubs/nsf25316"
+      },
+      {
+        "dcid": "dc/base/NCSES_DoctorateDegreeEmployment",
+        "license": "https://www.nsf.gov/public-access",
+        "url": "https://ncses.nsf.gov/pubs/nsf19304/data"
+      },
+      {
+        "dcid": "dc/base/NCSES_Employed_College_Grads_Import",
+        "license": "https://www.nsf.gov/public-access",
+        "url": "https://ncsesdata.nsf.gov/explorer/datatables?term=race&exactMatch=no&page=1&filterSuperTopic=Demographics&filterTopic=Sex&datatablespage=2"
+      },
+      {
+        "dcid": "dc/base/NCSES_Median_Annual_Salary_Import",
+        "license": "https://www.nsf.gov/public-access",
+        "url": "https://ncses.nsf.gov/pubs/nsf23306#section13069"
+      },
+      {
+        "dcid": "dc/base/NCSES_Research_Doctorate_Recipients_Import",
+        "license": "https://www.nsf.gov/public-access",
+        "url": "https://ncses.nsf.gov/pubs/nsf23300/data-tables"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.nsf.gov/public-access"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_PublicSchoolAndSchoolDistrictData",
+    "dataset_name": "Public School and School District Data",
+    "provenance_count": 4,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCES_PublicSchoolStats",
+        "license": "https://ies.ed.gov/help/privacy.asp",
+        "url": "https://nces.ed.gov/ccd/elsi/tableGenerator.aspx"
+      },
+      {
+        "dcid": "dc/base/NCES_PublicSchoolStats_SuperEnum",
+        "license": null,
+        "url": "https://datacommons.org/"
+      },
+      {
+        "dcid": "dc/base/NCES_SchoolDistrictStats",
+        "license": "https://ies.ed.gov/help/privacy.asp",
+        "url": "https://nces.ed.gov/ccd/elsi/tableGenerator.aspx"
+      },
+      {
+        "dcid": "dc/base/NCES_SchoolDistrictStats_SuperEnum",
+        "license": null,
+        "url": "https://datacommons.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://ies.ed.gov/help/privacy.asp"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_GpccMonthlySpiData",
+    "dataset_name": "GPCC Monthly SPI Data",
+    "provenance_count": 4,
+    "provenances": [
+      {
+        "dcid": "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex",
+        "license": "https://www.dwd.de/EN/service/legal_notice/legal_notice_node.html",
+        "url": "https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi"
+      },
+      {
+        "dcid": "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_AggPlace",
+        "license": "https://www.dwd.de/EN/service/legal_notice/legal_notice_node.html",
+        "url": "https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi"
+      },
+      {
+        "dcid": "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Observations",
+        "license": "https://www.dwd.de/EN/service/legal_notice/legal_notice_node.html",
+        "url": "https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi"
+      },
+      {
+        "dcid": "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Places",
+        "license": "https://www.dwd.de/EN/service/legal_notice/legal_notice_node.html",
+        "url": "https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.dwd.de/EN/service/legal_notice/legal_notice_node.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_DataCommonsAggregations",
+    "dataset_name": "Data Commons Aggregations",
+    "provenance_count": 4,
+    "provenances": [
+      {
+        "dcid": "dc/base/Climate_StatVarCalculation",
+        "license": null,
+        "url": "https://datacommons.org/"
+      },
+      {
+        "dcid": "dc/base/DataCommons_CoverageStats",
+        "license": null,
+        "url": "https://datacommons.org"
+      },
+      {
+        "dcid": "dc/base/Energy_StatVarCalculation",
+        "license": null,
+        "url": "https://datacommons.org/"
+      },
+      {
+        "dcid": "dc/base/GenderIncomeInequality",
+        "license": null,
+        "url": "https://www.datacommons.org/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaMinistryOfStatisticsAndProgrammeImplementation_PeriodicLabourForceSurvey",
+    "dataset_name": "Periodic Labour Force Survey",
+    "provenance_count": 4,
+    "provenances": [
+      {
+        "dcid": "dc/base/IndiaPLFS_DailyWages",
+        "license": null,
+        "url": "https://mospi.gov.in/web/plfs"
+      },
+      {
+        "dcid": "dc/base/IndiaPLFS_Wages",
+        "license": null,
+        "url": "https://mospi.gov.in/web/plfs"
+      },
+      {
+        "dcid": "dc/base/MOSPI_IndiaPLFS_DailyWages",
+        "license": "https://www.mospi.gov.in/copyright-policy",
+        "url": "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs"
+      },
+      {
+        "dcid": "dc/base/MOSPI_IndiaPLFS_MonthlyWages",
+        "license": "https://www.mospi.gov.in/copyright-policy",
+        "url": "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.mospi.gov.in/copyright-policy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/MongolianStatisticalService_MongoliaStatistics",
+    "dataset_name": "Mongolia Statistics",
+    "provenance_count": 4,
+    "provenances": [
+      {
+        "dcid": "dc/base/Mongolia_Demographics",
+        "license": "https://www.1212.mn/en/terms_of_use",
+        "url": "https://www.1212.mn/en/statcate"
+      },
+      {
+        "dcid": "dc/base/Mongolia_Education",
+        "license": "https://www.1212.mn/en/terms_of_use",
+        "url": "https://www.1212.mn/en/statcate"
+      },
+      {
+        "dcid": "dc/base/Mongolia_Employment",
+        "license": "https://www.1212.mn/en/terms_of_use",
+        "url": "https://www.1212.mn/en/statcate"
+      },
+      {
+        "dcid": "dc/base/Mongolia_Health",
+        "license": "https://www.1212.mn/en/terms_of_use",
+        "url": "https://www.1212.mn/en/statcate"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.1212.mn/en/terms_of_use"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/SouthKoreaStatisticsAgencyKosa_SouthKoreaStatistics",
+    "dataset_name": "South Korea Statistics",
+    "provenance_count": 4,
+    "provenances": [
+      {
+        "dcid": "dc/base/SouthKorea_Demographics",
+        "license": "https://kosis.kr/eng/aboutKosis/policyPublicData.do",
+        "url": "https://kosis.kr/eng/statisticsList/statisticsListIndex.do"
+      },
+      {
+        "dcid": "dc/base/SouthKorea_Education",
+        "license": "https://kosis.kr/eng/aboutKosis/policyPublicData.do",
+        "url": "https://kosis.kr/eng/"
+      },
+      {
+        "dcid": "dc/base/SouthKorea_Employment",
+        "license": "https://kosis.kr/eng/aboutKosis/policyPublicData.do",
+        "url": "https://kosis.kr/eng/statisticsList/statisticsListIndex.do"
+      },
+      {
+        "dcid": "dc/base/SouthKorea_Health",
+        "license": "https://kosis.kr/eng/aboutKosis/policyPublicData.do",
+        "url": "https://kosis.kr/eng/statisticsList/statisticsListIndex.do"
+      }
+    ],
+    "unique_licenses": [
+      "https://kosis.kr/eng/aboutKosis/policyPublicData.do"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Nex-DownscaledClimateProjectionsForUsFromIpccCmip5",
+    "dataset_name": "NEX - Downscaled Climate Projections for US from IPCC CMIP5",
+    "provenance_count": 3,
+    "provenances": [
+      {
+        "dcid": "dc/base/NASA_DCP30_CMIP5_Subnational_AggrDiffStats_LongRangeProjections",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXDCP30",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30"
+      },
+      {
+        "dcid": "dc/base/NASA_NEXDCP30_AggrDiffStats",
+        "license": null,
+        "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_NationalNotifiableDiseasesSurveillanceSystemNndss",
+    "dataset_name": "National Notifiable Diseases Surveillance System (NNDSS)",
+    "provenance_count": 3,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDCWonder_NNDSS_InfectiousAnnual",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://wonder.cdc.gov/nndss/nndss_annual_tables_menu.asp"
+      },
+      {
+        "dcid": "dc/base/CDCWonder_NNDSS_InfectiousWeekly",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp"
+      },
+      {
+        "dcid": "dc/base/CDCWonder_NNDSS_Infectious_Weekly",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://data.cdc.gov/api/views/x9gk-5huc/rows.csv?accessType=DOWNLOAD&api_foundry=true"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/agencymaterials.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/ClimateTrace_ClimateTraceGhgEmissions",
+    "dataset_name": "Climate TRACE GHG Emissions",
+    "provenance_count": 3,
+    "provenances": [
+      {
+        "dcid": "dc/base/ClimateTrace_GHG_Emissions",
+        "license": "https://climatetrace.org/data",
+        "url": "https://api.climatetrace.org/"
+      },
+      {
+        "dcid": "dc/base/ClimateTrace_GHG_Emissions_OldAPI",
+        "license": "https://climatetrace.org/data",
+        "url": "https://climatetrace.org/inventory"
+      },
+      {
+        "dcid": "dc/base/ClimateTrace_GreenhouseGas",
+        "license": "https://climatetrace.org/data",
+        "url": "https://api.climatetrace.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://climatetrace.org/data"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesDrugEnforcementAgencyDea_ArcosRetailDrugSummaryReports",
+    "dataset_name": "ARCOS Retail Drug Summary Reports",
+    "provenance_count": 3,
+    "provenances": [
+      {
+        "dcid": "dc/base/DEA_ARCOS",
+        "license": "https://www.deadiversion.usdoj.gov/security.html",
+        "url": "https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/"
+      },
+      {
+        "dcid": "dc/base/DEA_ARCOS_AggState",
+        "license": "https://www.deadiversion.usdoj.gov/arcos/arcos.html",
+        "url": "https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/"
+      },
+      {
+        "dcid": "dc/base/DEA_ARCOS_AggState_AggCountry",
+        "license": "https://www.deadiversion.usdoj.gov/arcos/arcos.html",
+        "url": "https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.deadiversion.usdoj.gov/arcos/arcos.html",
+      "https://www.deadiversion.usdoj.gov/security.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_NationalEmissionsInventory",
+    "dataset_name": "National Emissions Inventory",
+    "provenance_count": 3,
+    "provenances": [
+      {
+        "dcid": "dc/base/EPA_AirPollutantEmission_Level1",
+        "license": "https://www.epa.gov/privacy/privacy-and-security-notice",
+        "url": "https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei"
+      },
+      {
+        "dcid": "dc/base/EPA_USAirPollutantEmissionTrends_County",
+        "license": "https://www.epa.gov/accessibility/epa-accessibility-statement",
+        "url": "https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data"
+      },
+      {
+        "dcid": "dc/base/EPA_USAirPollutantEmissionTrends_NationalAndState",
+        "license": "https://www.epa.gov/accessibility/epa-accessibility-statement",
+        "url": "https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.epa.gov/accessibility/epa-accessibility-statement",
+      "https://www.epa.gov/privacy/privacy-and-security-notice"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_Ejscreen",
+    "dataset_name": "EJSCREEN",
+    "provenance_count": 3,
+    "provenances": [
+      {
+        "dcid": "dc/base/EPA_EJSCREEN",
+        "license": "https://gaftp.epa.gov/EJSCREEN/2015/EJSCREEN_Technical_Document_20150505.pdf",
+        "url": "https://gaftp.epa.gov/EJSCREEN/"
+      },
+      {
+        "dcid": "dc/base/EPA_EJSCREEN_AggCensusTract",
+        "license": null,
+        "url": "https://gaftp.epa.gov/EJSCREEN/"
+      },
+      {
+        "dcid": "dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty",
+        "license": null,
+        "url": "https://gaftp.epa.gov/EJSCREEN/"
+      }
+    ],
+    "unique_licenses": [
+      "https://gaftp.epa.gov/EJSCREEN/2015/EJSCREEN_Technical_Document_20150505.pdf"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/ResourcesForTheFutureRff_UsWildfireSmokeAndDroughtStatistics-CountyAndState",
+    "dataset_name": "US Wildfire, Smoke and Drought statistics - County and State",
+    "provenance_count": 3,
+    "provenances": [
+      {
+        "dcid": "dc/base/RFF_ClimateWildfireSmoke_EchoLab",
+        "license": null,
+        "url": "https://www.stanfordecholab.com/wildfire_smoke"
+      },
+      {
+        "dcid": "dc/base/RFF_ClimateWildfireSmoke_MTBS",
+        "license": null,
+        "url": "https://www.mtbs.gov"
+      },
+      {
+        "dcid": "dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou",
+        "license": null,
+        "url": "https://doi.org/10.5061/dryad.tmpg4f4x1"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsCanada_CanadaStatistics",
+    "dataset_name": "Canada Statistics",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/CanadaStatistics",
+        "license": "https://www.statcan.gc.ca/en/reference/licence",
+        "url": "https://www150.statcan.gc.ca/n1/en/type/data?MM=1"
+      },
+      {
+        "dcid": "dc/base/CanadaStatisticsAgeGender",
+        "license": "https://www.statcan.gc.ca/en/reference/licence",
+        "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.statcan.gc.ca/en/reference/licence"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DynamicWorldProject_InferredFloodsFromDynamicWorld",
+    "dataset_name": "Inferred Floods from Dynamic World",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/DynamicWorld_FloodEvents_Places_AutoRefresh",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+      },
+      {
+        "dcid": "dc/base/DynamicWorld_Floods",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+      }
+    ],
+    "unique_licenses": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_AirData",
+    "dataset_name": "Air Data",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/EPAAirQualityIndex",
+        "license": "https://edg.epa.gov/EPA_Data_License.html",
+        "url": "https://aqs.epa.gov/aqsweb/airdata/download_files.html"
+      },
+      {
+        "dcid": "dc/base/EPACriteriaAirPollutants",
+        "license": "https://www.epa.gov/data/open-data-plan",
+        "url": "https://aqs.epa.gov/aqsweb/airdata/download_files.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://edg.epa.gov/EPA_Data_License.html",
+      "https://www.epa.gov/data/open-data-plan"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_ViirsActiveFireData",
+    "dataset_name": "VIIRS Active Fire Data",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/NASA_VIIRSActiveFiresEvent_Observations",
+        "license": null,
+        "url": "https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt"
+      },
+      {
+        "dcid": "dc/base/NASA_VIIRSActiveFiresEvents_Agg",
+        "license": null,
+        "url": "https://firms.modaps.eosdis.nasa.gov/active_fire/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsPrivateSchoolData",
+    "dataset_name": "US Private School Data",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCES_PrivateSchoolStats",
+        "license": "https://ies.ed.gov/help/privacy.asp",
+        "url": "https://nces.ed.gov/ccd/elsi/tableGenerator.aspx"
+      },
+      {
+        "dcid": "dc/base/NCES_PrivateSchoolStats_SuperEnum",
+        "license": null,
+        "url": "https://datacommons.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://ies.ed.gov/help/privacy.asp"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_AmericanCommunitySurveyEducationTabulationAcs-ed",
+    "dataset_name": "American Community Survey Education Tabulation (ACS-ED)",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/ACSED5YrSurvey",
+        "license": null,
+        "url": "https://nces.ed.gov/programs/edge/Demographic/ACS"
+      },
+      {
+        "dcid": "dc/base/ACSED5YrSurvey_StatVarAgg",
+        "license": null,
+        "url": "https://nces.ed.gov/programs/edge/Demographic/ACS"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_CurrentEmploymentStatisticsCes",
+    "dataset_name": "Current Employment Statistics (CES)",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/BLS_CES",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/ces/"
+      },
+      {
+        "dcid": "dc/base/BLS_CES_State",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/sae/overview.htm"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bls.gov/bls/linksite.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_ConsumerPriceIndex",
+    "dataset_name": "Consumer Price Index",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/BLS_CPI",
+        "license": "https://www.bls.gov/bls/ada.htm",
+        "url": "https://www.bls.gov/cpi/"
+      },
+      {
+        "dcid": "dc/base/US_CPI",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/cpi/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bls.gov/bls/ada.htm",
+      "https://www.bls.gov/bls/linksite.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilMinistryOfDevelopmentAndSocialAssistanceFamilyAndFightAgainstHunger_BrazilVisData3",
+    "dataset_name": "Brazil VIS DATA 3",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/Brazil_FoodDsitribution",
+        "license": null,
+        "url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+      },
+      {
+        "dcid": "dc/base/Brazil_RuralDevelopmentProgram",
+        "license": null,
+        "url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_PlacesLocalDataForBetterHealth",
+    "dataset_name": "PLACES: Local Data for Better Health",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDC500",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://www.cdc.gov/places/index.html"
+      },
+      {
+        "dcid": "dc/base/CDC500_States",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://www.cdc.gov/places/index.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/agencymaterials.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_SmallAreaHealthInsuranceEstimatesSahie",
+    "dataset_name": "Small Area Health Insurance Estimates (SAHIE)",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/CensusSAHIE",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/programs-surveys/sahie.html"
+      },
+      {
+        "dcid": "dc/base/CensusSAHIE_AggCountry",
+        "license": null,
+        "url": "https://www.census.gov/programs-surveys/sahie.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.census.gov/about/policies/open-gov/open-data.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_EconomicCensus",
+    "dataset_name": "Economic Census",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/CensusSuperTMCFTable_ECNBASIC2012_EC1200A1",
+        "license": null,
+        "url": "https://data.census.gov/api/access/table/download"
+      },
+      {
+        "dcid": "dc/base/USEconomicCensus",
+        "license": null,
+        "url": "https://www.census.gov/programs-surveys/economic-census.html"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/FoodAndAgricultureOrganizationFaoOfTheUnitedNations_FaoCurrencyAndExchangeRate",
+    "dataset_name": "FAO Currency and Exchange Rate",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/FAO_Currency",
+        "license": null,
+        "url": "https://www.fao.org/faostat/en/#data/PE/metadata"
+      },
+      {
+        "dcid": "dc/base/FAO_Currency_statvar",
+        "license": null,
+        "url": "https://www.fao.org/faostat/en/#data/PE/metadata"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalBureauOfInvestigationFbi_UniformCrimeReportingUcrProgram",
+    "dataset_name": "Uniform Crime Reporting (UCR) Program",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/FBIGovCrime",
+        "license": "https://www.justice.gov/legalpolicies",
+        "url": "http://www.fbi.gov/services/cjis/ucr"
+      },
+      {
+        "dcid": "dc/base/FBIGovCrime_AggCountry",
+        "license": null,
+        "url": "http://www.fbi.gov/services/cjis/ucr"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.justice.gov/legalpolicies"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalBureauOfInvestigationFbi_HateCrimeStatistics",
+    "dataset_name": "Hate Crime Statistics",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/FBIHateCrime",
+        "license": null,
+        "url": "https://www.fbi.gov/services/cjis/ucr/hate-crime"
+      },
+      {
+        "dcid": "dc/base/FBIHateCrimePublications",
+        "license": null,
+        "url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/FeedingAmerica_FeedingAmericaMapMealGap",
+    "dataset_name": "Feeding America: Map Meal Gap",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/FeedingAmerica_FoodInsecurity",
+        "license": null,
+        "url": "https://www.feedingamerica.org/hunger-in-america"
+      },
+      {
+        "dcid": "dc/base/FeedingAmerica_MapMealGap",
+        "license": null,
+        "url": "https://map.feedingamerica.org/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaNationalSampleSurvey_IndiaNationalSampleSurvey-Health",
+    "dataset_name": "India National Sample Survey - Health",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/IndiaNSS_HealthAilments",
+        "license": "https://ndap.niti.gov.in/info?tab=termsandconditions",
+        "url": "https://ndap.niti.gov.in/dataset/7300"
+      },
+      {
+        "dcid": "dc/base/IndiaNSS_HealthAilments_StatVarAgg",
+        "license": null,
+        "url": "https://ndap.niti.gov.in/dataset/7300"
+      }
+    ],
+    "unique_licenses": [
+      "https://ndap.niti.gov.in/info?tab=termsandconditions"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_NoaaCoastwatch",
+    "dataset_name": "NOAA CoastWatch",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceSalinity",
+        "license": null,
+        "url": "https://coastwatch.noaa.gov/erddap/griddap/noaacwSMAPsss3Daily.html"
+      },
+      {
+        "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceTemperature",
+        "license": null,
+        "url": "https://coastwatch.noaa.gov/erddap/griddap/noaacwBLENDEDsstDaily.html"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_Noaa-gfsWeatherForecast",
+    "dataset_name": "NOAA-GFS Weather Forecast",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/NOAA_GFS_WeatherForecast",
+        "license": null,
+        "url": "https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast"
+      },
+      {
+        "dcid": "dc/base/NOAA_GlobalForecastSystem",
+        "license": "https://www.weather.gov/disclaimer",
+        "url": "https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.weather.gov/disclaimer"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpportunityInsights_TheOpportunityAtlas",
+    "dataset_name": "The Opportunity Atlas",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/OpportunityInsightsNeighborhoods",
+        "license": null,
+        "url": "http://opportunityinsights.org"
+      },
+      {
+        "dcid": "dc/base/OpportunityInsightsOutcomes",
+        "license": null,
+        "url": "http://opportunityinsights.org/data"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfAgricultureUsda_CensusOfAgriculture",
+    "dataset_name": "Census of Agriculture",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/USDA_AgricultureCensus",
+        "license": "https://www.usda.gov/about-usda/policies-and-links",
+        "url": "https://www.nass.usda.gov/AgCensus/"
+      },
+      {
+        "dcid": "dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg",
+        "license": null,
+        "url": "https://www.nass.usda.gov/AgCensus/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.usda.gov/about-usda/policies-and-links"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfJusticeStatisticsBjs_NationalPrisonerStatisticsNpsProgram",
+    "dataset_name": "National Prisoner Statistics (NPS) Program",
+    "provenance_count": 2,
+    "provenances": [
+      {
+        "dcid": "dc/base/USNationalPrisonerStatistics",
+        "license": "https://www.icpsr.umich.edu/web/NACJD/studies/38871",
+        "url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269"
+      },
+      {
+        "dcid": "dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg",
+        "license": "https://www.icpsr.umich.edu/web/NACJD/studies/38871",
+        "url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.icpsr.umich.edu/web/NACJD/studies/38871"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WikimediaFoundation_Wikidata",
+    "dataset_name": "Wikidata",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WikidataPopulation",
+        "license": null,
+        "url": "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "UnknownDataset",
+    "dataset_name": "UnknownDataset",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WikipediaStatsData",
+        "license": null,
+        "url": "https://www.wikipedia.org"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_DataCommonsSchema",
+    "dataset_name": "Data Commons Schema",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/GeneratedGraphs",
+        "license": null,
+        "url": "https://datacommons.org/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_InternationalBestTrackArchiveForClimateStewardshipIbtracs",
+    "dataset_name": "International Best Track Archive for Climate Stewardship (IBTrACS)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CycloneNOAA_Stats",
+        "license": "https://www.ncei.noaa.gov/products/international-geomagnetic-reference-field",
+        "url": "https://www.ncei.noaa.gov/products/international-best-track-archive"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.ncei.noaa.gov/products/international-geomagnetic-reference-field"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UrbanInstitute_UsUrbanEducationDataCensus",
+    "dataset_name": "US Urban Education Data Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_UrbanEducation_School",
+        "license": "https://educationdata.urban.org/documentation/index.html#terms",
+        "url": "https://educationdata.urban.org/documentation/schools.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://educationdata.urban.org/documentation/index.html#terms"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_GazetteerFiles",
+    "dataset_name": "Gazetteer Files",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USCensusGeos_SurfaceArea",
+        "license": null,
+        "url": "https://www.census.gov/geographies/reference-files.html"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuCopernicus_CopernicusEcmwf-Era5ClimateReanalysisData",
+    "dataset_name": "Copernicus ECMWF - ERA5 Climate Reanalysis Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Copernicus_ECMWF_ERA5_Monthly",
+        "license": "https://cds.climate.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-productsv12.md",
+        "url": "https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels"
+      }
+    ],
+    "unique_licenses": [
+      "https://cds.climate.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-productsv12.md"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalHighwayTrafficSafetyAdministrationNhtsa_FatalityAnalysisReportingSystemFarsCrashData",
+    "dataset_name": "Fatality Analysis Reporting System (FARS) Crash Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/FARS_CrashData",
+        "license": "https://www.nhtsa.gov/about-nhtsa/terms-use",
+        "url": "https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.nhtsa.gov/about-nhtsa/terms-use"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalWildfireCoordinatingGroup_NationalInteragencyFireCenterInteragencySituationReport-209Sit-209",
+    "dataset_name": "National Interagency Fire Center Interagency Situation Report - 209 (SIT-209)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/FireFAMWEB_Agg",
+        "license": null,
+        "url": "https://fam.nwcg.gov/fam-web/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaWaterResourcesInformationSystem_IndiaWaterQuality",
+    "dataset_name": "India Water Quality",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/IndiaWRISWaterQuality",
+        "license": null,
+        "url": "https://indiawris.gov.in/wris"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_Noaa-epaObservedWeatherData",
+    "dataset_name": "NOAA-EPA Observed Weather Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NOAA_EPA_Observed_Historical_Weather",
+        "license": null,
+        "url": "https://www.noaa.gov/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/GlobalLandIceMeasurementsFromSpaceGlims_RandolphGlacierInventory",
+    "dataset_name": "Randolph Glacier Inventory",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/RandolphGlacierInventory_Area",
+        "license": null,
+        "url": "https://www.glims.org/RGI/rgi60_dl.html"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_NationalClimaticDataCenterStormEventsDatabase",
+    "dataset_name": "National Climatic Data Center Storm Events Database",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/StormNOAA_Agg",
+        "license": null,
+        "url": "https://www.ncdc.noaa.gov/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_TemperatureEvent",
+    "dataset_name": "Temperature Event",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/TemperatureEvents_Agg",
+        "license": null,
+        "url": "https://datacommons.org"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_WetbulbTemperatureEvent",
+    "dataset_name": "WetBulb Temperature Event",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WetBulbTemperatureEventPlaces_AutoRefresh",
+        "license": null,
+        "url": "https://datacommons.org/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstituteOfStatisticsAndCensusesIndec_ArgentinaCensus",
+    "dataset_name": "Argentina Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Argentina_Census",
+        "license": "https://www.indec.gob.ar/indec/web/Institucional-Indec-Transparencia",
+        "url": "https://www.indec.gob.ar"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.indec.gob.ar/indec/web/Institucional-Indec-Transparencia"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/AustralianBureauOfStatistics_AustraliaStatistics",
+    "dataset_name": "Australia Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/AustraliaStatistics",
+        "license": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-national-accounts-concepts-sources-and-methods/2020-21/chapter-24-quality-national-accounts/accessibility",
+        "url": "https://www.abs.gov.au/statistics"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-national-accounts-concepts-sources-and-methods/2020-21/chapter-24-quality-national-accounts/accessibility"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfEconomicAnalysisBea_RegionalPriceParitiesByStateAndMetroArea",
+    "dataset_name": "Regional Price Parities by State and Metro Area",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BEAGDPPriceParity",
+        "license": null,
+        "url": "https://www.bea.gov/data"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfEconomicAnalysisBea_GdpByCountyMetroAndOtherAreas",
+    "dataset_name": "GDP by County, Metro, and Other Areas",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BEAGDPv2",
+        "license": "https://www.bea.gov/privacy",
+        "url": "https://www.bea.gov/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bea.gov/privacy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfEconomicAnalysisBea_GrossDomesticProduct",
+    "dataset_name": "Gross Domestic Product",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BEA_USStatesQuarterlyGDP",
+        "license": "https://www.bea.gov/about/policies-and-information/accessibility",
+        "url": "https://www.bea.gov/data/gdp/gdp-state"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bea.gov/about/policies-and-information/accessibility"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BankForInternationalSettlementsBis_CentralBankPolicyRate",
+    "dataset_name": "Central Bank Policy Rate",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BIS_CentralBankPolicyRate",
+        "license": "https://www.bis.org/terms_statistics.htm",
+        "url": "https://data.bis.org/topics/CBPOL/data"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bis.org/terms_statistics.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_ConsumerPriceIndexByCategory",
+    "dataset_name": "Consumer Price Index by Category",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BLS_CPI_Category",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/cpi/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bls.gov/bls/linksite.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_LaborForceStatisticsFromTheCurrentPopulationSurveyCps",
+    "dataset_name": "Labor Force Statistics from the Current Population Survey (CPS)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BLS_CPS",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/cps/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bls.gov/bls/linksite.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_JobOpeningsAndLaborTurnoverSurvey",
+    "dataset_name": "Job Openings and Labor Turnover Survey",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BLS_JOLTS",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/jlt/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bls.gov/bls/linksite.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_LocalAreaUnemploymentStatisticsLaus",
+    "dataset_name": "Local Area Unemployment Statistics (LAUS)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BLS_LAUS",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/lau/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bls.gov/bls/linksite.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_QuarterlyCensusOfEmploymentAndWagesQcew",
+    "dataset_name": "Quarterly Census of Employment and Wages (QCEW)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/BLS_QCEW",
+        "license": "https://www.bls.gov/bls/linksite.htm",
+        "url": "https://www.bls.gov/qcew/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.bls.gov/bls/linksite.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilianInstituteOfGeographyAndStatisticsIbge_BrazilCensus",
+    "dataset_name": "Brazil Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Brazil_Census",
+        "license": "https://www.ibge.gov.br/en/access-to-information/institutional/the-ibge.html",
+        "url": "https://www.ibge.gov.br/en/statistics/social/population.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.ibge.gov.br/en/access-to-information/institutional/the-ibge.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilianInstituteOfGeographyAndStatisticsIbge_BrazilBankOfStatisticalTables",
+    "dataset_name": "Brazil Bank of Statistical Tables",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Brazil_SIDRA_IBGE",
+        "license": "https://dados.gov.br/",
+        "url": "https://sidra.ibge.gov.br/home/pnadct"
+      }
+    ],
+    "unique_licenses": [
+      "https://dados.gov.br/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalStatisticalInstituteOfBulgaria_BulgariaCensus",
+    "dataset_name": "Bulgaria Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Bulgaria_Census",
+        "license": "https://www.nsi.bg/en/pages/license-to-use-statistical-information-produced-and-disseminated-by-the-national-statistical-institute-485",
+        "url": "https://www.nsi.bg/en/statistical-data/206/649"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.nsi.bg/en/pages/license-to-use-statistical-information-produced-and-disseminated-by-the-national-statistical-institute-485"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsEnergyInformationAdministrationEia_CommercialBuildingsEnergyConsumptionSurveyCbecs",
+    "dataset_name": "Commercial Buildings Energy Consumption Survey (CBECS)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CBECS_Energy",
+        "license": null,
+        "url": "https://www.eia.gov/consumption/commercial/data/2012/index.php?view=consumption"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_DiabetesSurveillanceSystem",
+    "dataset_name": "Diabetes Surveillance System",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDCDiabetes",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/agencymaterials.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_WonderCompressedMortality",
+    "dataset_name": "Wonder: Compressed Mortality",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDCMortality",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://wonder.cdc.gov/mcd.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/agencymaterials.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_WonderNatality",
+    "dataset_name": "Wonder: Natality",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDCWonderNatality",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://wonder.cdc.gov/natality.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/agencymaterials.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_WonderMortalityUnderlyingCauseOfDeath",
+    "dataset_name": "Wonder: Mortality, Underlying Cause Of Death",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDC_Mortality_UnderlyingCause",
+        "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+        "url": "https://wonder.cdc.gov/ucd-icd10.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/nchs/data_access/ftp_data.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_UnderlyingCauseOfDeath",
+    "dataset_name": "Underlying cause of death",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDC_Mortality_UnderlyingCause_SingleRace",
+        "license": "https://wonder.cdc.gov/datause.html#",
+        "url": "https://wonder.cdc.gov/ucd-icd10-expanded.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://wonder.cdc.gov/datause.html#"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_NationalOutbreakReportingSystemNors",
+    "dataset_name": "National Outbreak Reporting System (NORS)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDC_NORS_NonInfectious",
+        "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+        "url": "https://wwwn.cdc.gov/norsdashboard/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/nchs/data_access/ftp_data.htm"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_AgencyForToxicSubstancesAndDiseaseRegistryAtsdr",
+    "dataset_name": "Agency for Toxic Substances and Disease Registry (ATSDR)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CDC_Social_Vulnerability_Index",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html?CDC_AAref_Val=https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/agencymaterials.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CivilRightsDataCollectionCrdc_Crdc_educationschool_harassmentorbullying",
+    "dataset_name": "CRDC_EducationSchool_HarassmentOrBullying",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CRDC_EducationSchool_HarassmentOrBullying",
+        "license": "https://civilrightsdata.ed.gov/data",
+        "url": "https://ocrdata.ed.gov/data"
+      }
+    ],
+    "unique_licenses": [
+      "https://civilrightsdata.ed.gov/data"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CivilRightsDataCollectionCrdc_UsSchoolsAttendance",
+    "dataset_name": "U.S Schools Attendance",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CRDC_Education_Discipline_Attendance",
+        "license": "https://civilrightsdata.ed.gov/data",
+        "url": "https://civilrightsdata.ed.gov/data"
+      }
+    ],
+    "unique_licenses": [
+      "https://civilrightsdata.ed.gov/data"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CaliforniaAssessmentOfStudentPerformanceAndProgress_CaliforniaSchoolPerformance",
+    "dataset_name": "California School Performance",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CaliforniaSchoolPerformance",
+        "license": null,
+        "url": "https://caaspp-elpac.ets.org/elpac/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_CountyBusinessPatterns",
+    "dataset_name": "County Business Patterns",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CensusCountyBusinessPatterns",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/programs-surveys/cbp.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.census.gov/about/policies/open-gov/open-data.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesCensusBureau_SmallAreaIncomeAndPovertyEstimatesSaipe",
+    "dataset_name": "Small Area Income and Poverty Estimates (SAIPE)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/CensusSAIPE",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/programs-surveys/saipe.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.census.gov/about/policies/open-gov/open-data.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCommerceDataHub_EconomicDevelopmentAdministrationEda",
+    "dataset_name": "Economic Development Administration (EDA)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Commerce_EDA",
+        "license": "https://www.commerce.gov/about/policies/accessibility",
+        "url": "https://www.commerce.gov/bureaus-and-offices/eda"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.commerce.gov/about/policies/accessibility"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCommerceDataHub_NtiaInternetUseSurvey",
+    "dataset_name": "NTIA Internet Use Survey",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Commerce_NTIA",
+        "license": "https://www.ntia.gov/page/about-ntias-web-site-accessibility-policy",
+        "url": "https://www.ntia.gov/other-publication/2022/digital-nation-data-explorer#sel=homeEverOnline&demo=race&pc=count&disp=both"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.ntia.gov/page/about-ntias-web-site-accessibility-policy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuCopernicus_CopernicusGlobalLandCover",
+    "dataset_name": "Copernicus Global Land Cover",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Copernicus_GlobalLandCoverLayers",
+        "license": "https://www.copernicus.eu/en/access-data/copyright-and-licences",
+        "url": "https://land.copernicus.eu/global/lcviewer"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.copernicus.eu/en/access-data/copyright-and-licences"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_IvoryCoastCensus",
+    "dataset_name": "Ivory Coast Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Cotedivoire_Census",
+        "license": null,
+        "url": "https://cotedivoire.opendataforafrica.org/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/Datameet_Covid-19",
+    "dataset_name": "COVID-19",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Covid19IndiaData",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "url": "http://projects.datameet.org/covid19/"
+      }
+    ],
+    "unique_licenses": [
+      "https://creativecommons.org/licenses/by-sa/4.0/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DartmouthAtlasProject_DartmouthAtlasOfHealthCare",
+    "dataset_name": "Dartmouth Atlas of Health Care",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Dartmouth_Atlas_Medicare",
+        "license": "https://data.dartmouthatlas.org/",
+        "url": "https://atlasdata.dartmouth.edu"
+      }
+    ],
+    "unique_licenses": [
+      "https://data.dartmouthatlas.org/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsDenmark_DenmarkDemographics",
+    "dataset_name": "Denmark Demographics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Denmark_Demographics",
+        "license": "https://www.statbank.dk/",
+        "url": "https://www.statbank.dk/statbank5a/default.asp?w=1280"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.statbank.dk/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_HeatHeat-relatedIllnessHri",
+    "dataset_name": "Heat & Heat-related Illness (HRI)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/EPHHeatRelatedIllness",
+        "license": "https://www.cdc.gov/other/agencymaterials.html",
+        "url": "https://ephtracking.cdc.gov/qrlist/35"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/agencymaterials.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsEgypt_EgyptCensus",
+    "dataset_name": "Egypt Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Egypt_Census",
+        "license": "https://egypt.opendataforafrica.org/legal/termsofuse",
+        "url": "https://egypt.opendataforafrica.org"
+      }
+    ],
+    "unique_licenses": [
+      "https://egypt.opendataforafrica.org/legal/termsofuse"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_EthiopiaStatistics",
+    "dataset_name": "Ethiopia Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/EthiopiaStatistics",
+        "license": "https://ethiopia.opendataforafrica.org/legal/termsofuse",
+        "url": "https://ethiopia.opendataforafrica.org/data/#menu=topic"
+      }
+    ],
+    "unique_licenses": [
+      "https://ethiopia.opendataforafrica.org/legal/termsofuse"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuEurostat_EurostatEarlyEducationAndTraining",
+    "dataset_name": "EuroStat Early Education and Training",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Eurostat_Early_Education_Training",
+        "license": null,
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_30__custom_7874475/default/table?lang=en"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesFederalElectionCommissionFec_CandidatesCommittees",
+    "dataset_name": "Candidates & Committees",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/FEC",
+        "license": null,
+        "url": "https://www.fec.gov/data/browse-data/?tab=bulk-data"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsFinland_FinlandCensus",
+    "dataset_name": "Finland Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Finland_Census",
+        "license": "https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use",
+        "url": "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px/table/tableViewLayout1/"
+      }
+    ],
+    "unique_licenses": [
+      "https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstituteOfStatisticsAndEconomicStudiesFrance_FranceDemographics",
+    "dataset_name": "France Demographics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/France_Demographics",
+        "license": "https://www.insee.fr/fr/information/2381863",
+        "url": "https://www.insee.fr/en/statistiques/8333211?sommaire=8333329"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.insee.fr/fr/information/2381863"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Google_Covid-19CommunityMobilityReports",
+    "dataset_name": "COVID-19 Community Mobility Reports",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Google_COVID19Mobility",
+        "license": "https://policies.google.com/terms?hl=en",
+        "url": "https://www.google.com/covid19/mobility/"
+      }
+    ],
+    "unique_licenses": [
+      "https://policies.google.com/terms?hl=en"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfHousingAndUrbanDevelopmentHud_IncomeLimits",
+    "dataset_name": "Income Limits",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/HUD_IncomeLimits",
+        "license": "https://www.huduser.gov/portal/datasets/il.html",
+        "url": "https://www.huduser.gov/portal/datasets/il.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.huduser.gov/portal/datasets/il.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilInpe-NationalInstituteForSpaceResearch_BrazilInpeFireEventCount",
+    "dataset_name": "BRAZIL INPE Fire Event Count",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/INPE_Fire_Event_Count",
+        "license": null,
+        "url": "https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/estatisticas/estatisticas_estados/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_IpedsStudentToFacultyRatio",
+    "dataset_name": "IPEDS Student to Faculty Ratio",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/IPEDS_StudentToFacultyRatio",
+        "license": "https://ies.ed.gov/accessibility-statement",
+        "url": "https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?gotoReportId=7&fromIpeds=true&sid=859539d0-db09-4d03-a36a-eabf93d07355&rtid=1"
+      }
+    ],
+    "unique_licenses": [
+      "https://ies.ed.gov/accessibility-statement"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaNationalHealthMission_HealthManagementInformationSystem",
+    "dataset_name": "Health Management Information System",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/IndiaNHM",
+        "license": null,
+        "url": "https://hmis.nhp.gov.in/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_IndiaPovertyStatus",
+    "dataset_name": "India Poverty Status",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/IndiaPoverty",
+        "license": null,
+        "url": "https://socialjustice.gov.in/common/76672"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/GeosadakPmgsyNationalGisIndia_IndiaGeosadak",
+    "dataset_name": "India GeoSadak",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/India_GeoSadak",
+        "license": null,
+        "url": "https://geosadak-pmgsy.nic.in/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_IndiaLifeExpectancyByState",
+    "dataset_name": "India Life Expectancy by State",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/India_LifeExpectancy",
+        "license": "https://ndap.niti.gov.in/static/media/Gazette_Notification_OGDL.bce101da.pdf",
+        "url": "https://ndap.niti.gov.in/dataset/7375"
+      }
+    ],
+    "unique_licenses": [
+      "https://ndap.niti.gov.in/static/media/Gazette_Notification_OGDL.bce101da.pdf"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_IndiaNationalFamilyHealthSurvey",
+    "dataset_name": "India National Family Health Survey",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/India_NFHS",
+        "license": "https://ndap.niti.gov.in/info?tab=termsandconditions",
+        "url": "https://ndap.niti.gov.in/dataset/6821, https://ndap.niti.gov.in/dataset/7034, https://ndap.niti.gov.in/dataset/6822"
+      }
+    ],
+    "unique_licenses": [
+      "https://ndap.niti.gov.in/info?tab=termsandconditions"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaMinistryOfStatisticsAndProgrammeImplementation_IndiaNationalAccountsStatistics",
+    "dataset_name": "India National Accounts Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/India_NationalAccountsStatistics",
+        "license": "https://www.mospi.gov.in/copyright-policy",
+        "url": "https://esankhyiki.mospi.gov.in/macroindicators?product=nas"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.mospi.gov.in/copyright-policy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/TheCentralBureauOfStatisticsIndonesia_IndonesiaCensus",
+    "dataset_name": "Indonesia Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Indonesia_Census",
+        "license": null,
+        "url": "https://www.bps.go.id/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/CentralStatisticsOfficeCsoIreland_IrelandCensus",
+    "dataset_name": "Ireland Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Ireland_Census",
+        "license": null,
+        "url": "https://www.cso.ie/en/index.html"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/CentralBureauOfStatisticsCbsIsrael_IsraelCensus",
+    "dataset_name": "Israel Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Israel_Census",
+        "license": null,
+        "url": "https://www.cbs.gov.il/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/PortalSiteOfOfficialStatisticsOfJapanE-stat_JapanCensus",
+    "dataset_name": "Japan Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Japan_Census",
+        "license": null,
+        "url": "https://www.e-stat.go.jp/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_KenyaCensus",
+    "dataset_name": "Kenya Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Kenya_Census",
+        "license": "https://kenya.opendataforafrica.org/gdlkmgb",
+        "url": "https://kenya.opendataforafrica.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://kenya.opendataforafrica.org/gdlkmgb"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/MexicoNationalInstituteOfStatisticsAndGeographyInegi_MexicoCensus",
+    "dataset_name": "Mexico Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/MexicoCensus",
+        "license": null,
+        "url": "https://www.inegi.org.mx/temas/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsOfficeForTheCoordinationOfHumanitarianAffairsUnOcha_MexicoSubnationalPopulationStatistics",
+    "dataset_name": "Mexico Subnational Population Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/MexicoCensus_AA2",
+        "license": null,
+        "url": "https://data.humdata.org/dataset/cod-ps-mex"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Podaac-SeaLevelProjectionsFromIpccCmip6",
+    "dataset_name": "PO.DAAC - Sea level Projections from IPCC CMIP6",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NASA_SeaLevelProjections_CMIP6",
+        "license": null,
+        "url": "https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsBachelorsDegreesData",
+    "dataset_name": "US Bachelor's Degrees Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCES_Bachelors_Degree_By_Field_Import",
+        "license": "https://nces.ed.gov/about/public-access-research",
+        "url": "https://nces.ed.gov"
+      }
+    ],
+    "unique_licenses": [
+      "https://nces.ed.gov/about/public-access-research"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsHbcuData",
+    "dataset_name": "US HBCU Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCES_HBCU_Enrollment_Import",
+        "license": null,
+        "url": "https://nces.ed.gov/programs/digest/d22/tables/dt22_313.30.asp"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_NationsReportCard",
+    "dataset_name": "Nations Report Card",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCES_NationsReportCard",
+        "license": null,
+        "url": "https://nces.ed.gov/nationsreportcard/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsStemDegreesData",
+    "dataset_name": "US STEM Degrees Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCES_STEM_Degrees_Import",
+        "license": "https://ies.ed.gov/about/privacy-security",
+        "url": "https://nces.ed.gov/programs/digest/d22/tables/dt22_318.45.asp"
+      }
+    ],
+    "unique_licenses": [
+      "https://ies.ed.gov/about/privacy-security"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_Brfss-nchsAsthmaPrevalence",
+    "dataset_name": "BRFSS-NCHS Asthma Prevalence",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NCHS_BRFSS_Asthma",
+        "license": "https://www.cdc.gov/other/privacy.html",
+        "url": "https://www.cdc.gov/asthma/brfss/default.htm"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.cdc.gov/other/privacy.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_NitiIndiaPopulationProjection",
+    "dataset_name": "NITI India Population Projection",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NITIIndiaPopulationProjection",
+        "license": "https://ndap.niti.gov.in/static/media/Gazette_Notification_OGDL.bce101da.pdf",
+        "url": "https://ndap.niti.gov.in/dataset/7208, https://ndap.niti.gov.in/dataset/7209"
+      }
+    ],
+    "unique_licenses": [
+      "https://ndap.niti.gov.in/static/media/Gazette_Notification_OGDL.bce101da.pdf"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/TheNewYorkTimes_CoronavirusCovid-19DataInTheUnitedStates",
+    "dataset_name": "Coronavirus (Covid-19) Data in the United States",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NYT_COVID19",
+        "license": null,
+        "url": "https://www.nytimes.com/article/coronavirus-county-data-us.html"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/TennesseeDepartmentOfHealth_TennesseeDepartmentOfHealthDeathStatistics",
+    "dataset_name": "Tennessee department of health: Death statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NYU_Tennessee_Diabetes",
+        "license": "https://www.tn.gov/web-policies/privacy-statement.html",
+        "url": "https://www.tn.gov/health/health-program-areas/statistics/health-data/death-statistics.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.tn.gov/web-policies/privacy-statement.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NewYorkUniversity_NewYorkUniversityDiabetes",
+    "dataset_name": "New York University Diabetes",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NewYorkUniversity_Diabetes",
+        "license": " https://data.ny.gov/download/77gx-ii52/application/pdf",
+        "url": "https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/"
+      }
+    ],
+    "unique_licenses": [
+      " https://data.ny.gov/download/77gx-ii52/application/pdf"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NewYorkCityDepartmentOfEducationUrbanData_NewyorkEducation",
+    "dataset_name": "NewYork Education",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NewYork_Education",
+        "license": "https://cityofnewyork.github.io/opendatatsm/publicpolicies.html",
+        "url": "https://data.cityofnewyork.us/browse?category=Education"
+      }
+    ],
+    "unique_licenses": [
+      "https://cityofnewyork.github.io/opendatatsm/publicpolicies.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsOfNewZealand_NewZealandCensus",
+    "dataset_name": "New Zealand Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/New_Zealand_Census",
+        "license": null,
+        "url": "https://www.stats.govt.nz/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_NigeriaStatistics",
+    "dataset_name": "Nigeria Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/NigeriaStatistics",
+        "license": "https://nigeria.opendataforafrica.org/legal/termsofuse",
+        "url": "https://nigeria.opendataforafrica.org"
+      }
+    ],
+    "unique_licenses": [
+      "https://nigeria.opendataforafrica.org/legal/termsofuse"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdGdp",
+    "dataset_name": "OECD GDP",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDQuarterlyGDP",
+        "license": "https://www.oecd.org/termsandconditions/",
+        "url": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23&fs[1]=Topic%2C3%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23%7CGDP%20and%20non-financial%20accounts%23ECO_NAD_GNF%23%7CGDP%20and%20components%23ECO_NAD_GNF_GDP%23&pg=0&fc=Topic&snb=22&vw=ov&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_NAMAIN1%40DF_QNA_EXPENDITURE_GROWTH_OECD&df[ag]=OECD.SDD.NAD&df[vs]=&dq=Q.....B1GQ......G1.&to[TIME_PERIOD]=false&ly[cl]=TIME_PERIOD&ly[rw]=REF_AREA&lb=bt&pd=%2C"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/termsandconditions/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsDeaths",
+    "dataset_name": "OECD Regional Demography Statistics Deaths",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDRegionalDemography_Deaths",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DEATH_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&pd=%2C"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsLifeExpectancy",
+    "dataset_name": "OECD Regional Demography Statistics Life Expectancy",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDRegionalDemography_LifeExpectancy",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_LIFE_EXP&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsMortality",
+    "dataset_name": "OECD Regional Demography Statistics Mortality",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDRegionalDemography_Mortality",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://stats.oecd.org/Index.aspx?DataSetCode=REGION_DEMOGR#"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatistics",
+    "dataset_name": "OECD Regional Demography Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDRegionalDemography_Person_Age_StatVarAgg",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://datacommons.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsPopulation",
+    "dataset_name": "OECD Regional Demography Statistics Population",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDRegionalDemography_Population",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C0%7CRegional%252C%20rural%20and%20urban%20development%23GEO%23&pg=40&fc=Topic&bp=true&snb=117&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_POP_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&vw=tb&pd=%2C"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsPopulationDensity",
+    "dataset_name": "OECD Regional Demography Statistics Population Density",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDRegionalDemography_PopulationDensity",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://data-explorer.oecd.org/vis?pg=0&snb=1&tm=pop%20density&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DENSITY&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalEducationStatistics",
+    "dataset_name": "OECD Regional Education Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECDRegionalEducation",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://stats.oecd.org/Index.aspx?DataSetCode=REGION_EDUCAT"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_AirAndGhgEmissions",
+    "dataset_name": "Air and GHG emissions",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECD_Air_GHG_emissions",
+        "license": "https://www.oecd.org/termsandconditions/",
+        "url": "https://data.oecd.org/air/air-and-ghg-emissions.htm"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/termsandconditions/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdWasteWaterTreatment",
+    "dataset_name": "OECD Waste Water Treatment",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OECD_Waste_Water_Treatment",
+        "license": "https://www.oecd.org/en/about/terms-conditions.html",
+        "url": "https://www.oecd.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.oecd.org/en/about/terms-conditions.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OurWorldInData_Covid-19Vaccinations",
+    "dataset_name": "COVID-19 Vaccinations",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/OWID_COVID19",
+        "license": null,
+        "url": "https://ourworldindata.org/coronavirus"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/NationalStatisticalInstituteOfPoland_PolandCensus",
+    "dataset_name": "Poland Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Poland_Census",
+        "license": "https://stat.gov.pl/en/news/the-new-knowledge-databases-website%2C119%2C1.html",
+        "url": "https://stat.gov.pl/en/databases/"
+      }
+    ],
+    "unique_licenses": [
+      "https://stat.gov.pl/en/news/the-new-knowledge-databases-website%2C119%2C1.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_RwandaCensus",
+    "dataset_name": "Rwanda Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Rwanda_Census",
+        "license": "https://rwanda.opendataforafrica.org/legal/termsofuse",
+        "url": "https://rwanda.opendataforafrica.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://rwanda.opendataforafrica.org/legal/termsofuse"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DepartmentOfStatisticsSingapore_SingaporeCensus",
+    "dataset_name": "Singapore Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Singapore_Census",
+        "license": "https://data.gov.sg/open-data-licence",
+        "url": "https://www.singstat.gov.sg/"
+      }
+    ],
+    "unique_licenses": [
+      "https://data.gov.sg/open-data-licence"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/SouthafricaBudget_SouthAfricaBudget",
+    "dataset_name": "South Africa Budget",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/SouthAfrica_Budget",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "url": "https://github.com/dsfsi/data-commons-data/tree/master/data/budget%20data/csv"
+      }
+    ],
+    "unique_licenses": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_SouthafricaCensus",
+    "dataset_name": "SouthAfrica Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/SouthAfrica_Census",
+        "license": "https://southafrica.opendataforafrica.org/legal/termsofuse",
+        "url": "https://southafrica.opendataforafrica.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://southafrica.opendataforafrica.org/legal/termsofuse"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsOfficeForTheCoordinationOfHumanitarianAffairsUnOcha_SriLankaCensus",
+    "dataset_name": "Sri Lanka Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Srilanka_Census",
+        "license": "https://data.humdata.org/dataset/cod-ps-lka#metadata-0",
+        "url": "https://data.humdata.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://data.humdata.org/dataset/cod-ps-lka#metadata-0"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankSubnationalPopulation",
+    "dataset_name": "World Bank Subnational Population",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Subnational_Demographics_Stats",
+        "license": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+        "url": "https://databank.worldbank.org/source/subnational-population"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsSweden_SwedenCensus",
+    "dataset_name": "Sweden Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Sweden_Census",
+        "license": null,
+        "url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedArabEmiratesUaeBayanatOpenDataPortal_UaePopulation",
+    "dataset_name": "UAE Population",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/UAE_Population",
+        "license": "https://drive.google.com/file/d/1NSRfcL_rDkMQOgwOXor2m9cPqXzRLCxj/view",
+        "url": "https://bayanat.ae/en/Data?query=population"
+      }
+    ],
+    "unique_licenses": [
+      "https://drive.google.com/file/d/1NSRfcL_rDkMQOgwOXor2m9cPqXzRLCxj/view"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_Undata",
+    "dataset_name": "UNData",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/UNData",
+        "license": "https://data.un.org/Host.aspx?Content=UNdataUse",
+        "url": "https://data.un.org/Data.aspx?q=city+population&d=POP&f=tableCode%3a240"
+      }
+    ],
+    "unique_licenses": [
+      "https://data.un.org/Host.aspx?Content=UNdataUse"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_EnergyStatistics",
+    "dataset_name": "Energy Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/UNEnergy",
+        "license": "https://unstats.un.org/unsd/energystats/data",
+        "url": "https://unstats.un.org/unsd/energystats/data/"
+      }
+    ],
+    "unique_licenses": [
+      "https://unstats.un.org/unsd/energystats/data"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_SdgIndicatorsDatabase",
+    "dataset_name": "SDG Indicators Database",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/UN_SDG",
+        "license": null,
+        "url": "https://unstats.un.org/sdgs/dataportal"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_WhoData",
+    "dataset_name": "WHO Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/UN_WHO",
+        "license": null,
+        "url": "https://www.who.int/data"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfLaborDol_UsaMinimumWages",
+    "dataset_name": "USA Minimum Wages",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USA_DOL_Wages",
+        "license": "hhttps://www.dol.gov/general/privacynotice",
+        "url": "https://www.dol.gov/general/topic/wages"
+      }
+    ],
+    "unique_licenses": [
+      "hhttps://www.dol.gov/general/privacynotice"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesBureauOfTransportationStatistics_UsTractTransportationCharacteristicsForHouseholds",
+    "dataset_name": "US Tract Transportation Characteristics for Households",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USBTS_Tract_Household_Transportation",
+        "license": "https://www.transportation.gov/foia",
+        "url": "https://www.bts.dot.gov/latch/latch-data"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.transportation.gov/foia"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfAgricultureUsda_AgriculturalSurvey",
+    "dataset_name": "Agricultural Survey",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USDA_AgricultureSurvey",
+        "license": "https://www.usda.gov/open",
+        "url": "https://quickstats.nass.usda.gov/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.usda.gov/open"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfLaborDol_WeeklyClaimsAndExtendedBenefitsTriggerData",
+    "dataset_name": "Weekly Claims and Extended Benefits Trigger Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USDOL_ETA539",
+        "license": null,
+        "url": "https://oui.doleta.gov/unemploy/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_UsDecennialCensus-RedistrictingData",
+    "dataset_name": "US Decennial Census - Redistricting data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USDecennialCensus_RedistrictingRelease",
+        "license": null,
+        "url": "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/FederalEmergencyManagementAgency_NationalFloodInsuranceProgramNfip",
+    "dataset_name": "National Flood Insurance Program (NFIP)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USFEMA_FloodInsuranceClaims",
+        "license": "https://www.fema.gov/about/website-information#copyright",
+        "url": "https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.fema.gov/about/website-information#copyright"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/FederalEmergencyManagementAgency_NationalRiskIndex",
+    "dataset_name": "National Risk Index",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USFEMA_NationalRiskIndex",
+        "license": "https://www.fema.gov/about/website-information#copyright",
+        "url": "https://hazards.fema.gov/nri/"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.fema.gov/about/website-information#copyright"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalReserve_TreasuryNominalAndInflation-indexedConstantMaturitySeries",
+    "dataset_name": "Treasury Nominal and Inflation-Indexed Constant Maturity Series",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USFed_ConstantMaturityRates",
+        "license": null,
+        "url": "https://www.federalreserve.gov/releases/h15/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesGeologicalServiceUsgs_NationalWaterUseData",
+    "dataset_name": "National Water Use Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USGSWaterUse",
+        "license": null,
+        "url": "https://waterdata.usgs.gov/nwis/wu"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_MonthlyRetailSalesUsCensus",
+    "dataset_name": "Monthly Retail Sales US Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/USMonthlyRetailSales",
+        "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+        "url": "https://www.census.gov/retail/index.html"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.census.gov/about/policies/open-gov/open-data.html"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsStudentEnrollmentData",
+    "dataset_name": "US Student Enrollment Data",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_CCD_Enrollment",
+        "license": "https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp",
+        "url": "https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp"
+      }
+    ],
+    "unique_licenses": [
+      "https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_PregnancyRiskAssessmentMonitoringSystemPrams",
+    "dataset_name": "Pregnancy Risk Assessment Monitoring System (PRAMS)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_CDC_PRAMS",
+        "license": null,
+        "url": "https://www.cdc.gov/prams/prams-data/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalReserve_UsFederalReserveH15InterestRates",
+    "dataset_name": "US Federal Reserve H.15 Interest Rates",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_Federal_Rates",
+        "license": null,
+        "url": "https://www.federalreserve.gov/DataDownload/Choose.aspx?rel=H15"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsCommerceDataHub_UsItaEconomicActivity",
+    "dataset_name": "US ITA Economic Activity",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_ITA_Economic_Activity",
+        "license": "https://www.trade.gov/privacy-program",
+        "url": "https://www.trade.gov/report/tradestats-express-national-and-state-trade-data?anchor=content-tradestats-express---national-1"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.trade.gov/privacy-program"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/TexasDepartmentOfHealth_TexasDepartmentOfHealthDeathStatistics",
+    "dataset_name": "Texas department of health: Death statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_Texas_Diabetes",
+        "license": "https://healthdata.dshs.texas.gov/policy/datause",
+        "url": "https://healthdata.dshs.texas.gov/dashboard/births-and-deaths/deaths"
+      }
+    ],
+    "unique_licenses": [
+      "https://healthdata.dshs.texas.gov/policy/datause"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OfficeOfCivilRightsData_UsSchoolFinance",
+    "dataset_name": "U.S School Finance",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_UrbanSchool_Finances",
+        "license": "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc",
+        "url": "https://ocrdata.ed.gov/data"
+      }
+    ],
+    "unique_licenses": [
+      "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OfficeOfCivilRightsData_UsSchoolRetention",
+    "dataset_name": "U.S School Retention",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/US_UrbanSchool_Retention",
+        "license": "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc",
+        "url": "https://ocrdata.ed.gov/data"
+      }
+    ],
+    "unique_licenses": [
+      "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_UgandaBureauOfStatisticsUbos",
+    "dataset_name": "Uganda Bureau of Statistics (UBOS)",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Uganda_Census",
+        "license": "https://uganda.opendataforafrica.org/dqgjtcb",
+        "url": "https://uganda.opendataforafrica.org/"
+      }
+    ],
+    "unique_licenses": [
+      "https://uganda.opendataforafrica.org/dqgjtcb"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UkMinistryOfHousingCommunitiesAndLocalGovernment_Imd2019",
+    "dataset_name": "IMD2019",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/UnitedKingdomMHCLG_IMD2019",
+        "license": null,
+        "url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfEducationEd_CollegeScorecard",
+    "dataset_name": "College Scorecard",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/UniversityData",
+        "license": null,
+        "url": "https://collegescorecard.ed.gov"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/GeneralStatisticsOfficeGsoVietnam_VietnamCensus",
+    "dataset_name": "Vietnam Census",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/Vietnam_Census",
+        "license": null,
+        "url": "https://www.gso.gov.vn/en/homepage/"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_CoronavirusDiseaseCovid-19Dashboard",
+    "dataset_name": "Coronavirus Disease (COVID-19) Dashboard",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WHO_COVID19",
+        "license": "https://data.who.int/about/data/terms-and-conditions",
+        "url": "https://data.who.int/dashboards/covid19/data?n=c"
+      }
+    ],
+    "unique_licenses": [
+      "https://data.who.int/about/data/terms-and-conditions"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_WhoTuberculosisAndHivTreatmentOutcome",
+    "dataset_name": "WHO Tuberculosis And HIV Treatment Outcome",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WHO_TuberculosisAndHIVTreatmentOutcome",
+        "license": "https://www.who.int/about/terms-of-use",
+        "url": "https://data.who.int/indicators/i/DCDC2EB/625E736"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.who.int/about/terms-of-use"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_WhoTuberculosisBacteriologicallyConfirmed",
+    "dataset_name": "WHO Tuberculosis Bacteriologically Confirmed",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WHO_TuberculosisBacteriologicallyConfirmed",
+        "license": "https://www.who.int/about/policies/publishing/data-policy",
+        "url": "https://data.who.int/indicators/i/1891124/5D51DB1"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.who.int/about/policies/publishing/data-policy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaWaterResourcesInformationSystem_WrisIndiaRainfall",
+    "dataset_name": "WRIS India Rainfall",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WRIS_India_Rainfall",
+        "license": null,
+        "url": "https://indiawris.gov.in/wris/#/DataDownload"
+      }
+    ],
+    "unique_licenses": []
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankDatasets",
+    "dataset_name": "World Bank Datasets",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WorldBankDatasets",
+        "license": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+        "url": "https://databank.worldbank.org/source/world-development-indicators"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankCommodityMarkets",
+    "dataset_name": "World Bank Commodity Markets",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WorldBank_CommodityMarket",
+        "license": "https://www.worldbank.org/en/about/legal/terms-and-conditions",
+        "url": " https://www.worldbank.org/en/research/commodity-markets"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.worldbank.org/en/about/legal/terms-and-conditions"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankInternationalDebtStatistics",
+    "dataset_name": "World Bank International Debt Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WorldBank_IDS",
+        "license": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+        "url": "https://databank.worldbank.org/source/international-debt-statistics"
+      }
+    ],
+    "unique_licenses": [
+      "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldDevelopmentIndicators",
+    "dataset_name": "World Development Indicators",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/WorldDevelopmentIndicators",
+        "license": "https://datacatalog.worldbank.org/search/dataset/0037712",
+        "url": "https://datatopics.worldbank.org/world-development-indicators/"
+      }
+    ],
+    "unique_licenses": [
+      "https://datacatalog.worldbank.org/search/dataset/0037712"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Crdc_instructional_wifi_devices_CrdcInstructionalWifiDevices",
+    "dataset_name": "crdc instructional wifi devices",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/crdc_instructional_wifi_devices",
+        "license": "https://civilrightsdata.ed.gov/data",
+        "url": "https://civilrightsdata.ed.gov/data"
+      }
+    ],
+    "unique_licenses": [
+      "https://civilrightsdata.ed.gov/data"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_StateAndNationalProvisionalBirthCounts",
+    "dataset_name": "State and National Provisional Birth Counts",
+    "provenance_count": 1,
+    "provenances": [
+      {
+        "dcid": "dc/base/usa_child_birth",
+        "license": null,
+        "url": "https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm"
+      }
+    ],
+    "unique_licenses": []
+  }
+]

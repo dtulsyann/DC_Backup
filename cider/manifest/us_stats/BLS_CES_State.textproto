@@ -1,0 +1,36 @@
+import: {
+  import_name: "BLS_CES_State"
+  provenance_url: "https://www.bls.gov/sae/overview.htm"
+  category: STATS
+  provenance_description: "State-level Current Employment Statistics (CES) detailing employment, hours, and earnings estimates."
+  data_download_url: "https://download.bls.gov/pub/time.series/sm/"
+  #Historical data from 1939 to 2019
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/ces/state/latest/historical_data/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/state/latest/historical_data/state_historical_data.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/state/latest/historical_data/state_historical_data.csv"
+  }
+  #Historical data from 2020 to 2025
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/ces/state/latest/historical_data_2026/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/state/latest/historical_data_2026/bls_ces_state.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/state/latest/historical_data_2026/deleted_historical_data_05_2026.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/ces/state/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/state/latest/bls_ces_state.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/state/latest/bls_ces_state.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/bls_ces_state/BLS_CES_State/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/bls_ces_state/BLS_CES_State/import_metadata_mcf.mcf"
+  import_groups: "infrequent"
+  import_groups: "searchaim"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  start_date_in_kg: "1939"
+  end_date_in_kg: "2025"
+  release_frequency: "P1M"
+  dataset_name: "Current Employment Statistics (CES)"
+}

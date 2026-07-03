@@ -1,0 +1,24 @@
+import {
+  import_name: "NCSES_Demographics_SEH_Import"
+  provenance_url: "https://ncses.nsf.gov/pubs/nsf25316"
+  category: STATS
+  provenance_description: "Demographic characteristics of graduate students, postdoctoral appointees, and doctorate-holding nonfaculty researchers in science, engineering, and health"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/ncses/ncses_demographics_seh/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_demographics_seh/latest/ncses_demographics_seh_import.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_demographics_seh/latest/ncses_demographics_seh_import.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/ncses/ncses_demographics_seh_import/NCSES_Demographics_SEH_Import/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/ncses/ncses_demographics_seh_import/NCSES_Demographics_SEH_Import/import_metadata_mcf.mcf"
+  # Historical data 2017 - 2020
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/ncses/ncses_demographics_seh/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_demographics_seh/historical/ncses_demographics_seh_import_2017_20.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_demographics_seh/historical/ncses_demographics_seh_import_2017_20.csv"
+  }
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "National Center for Science and Engineering Statistics"
+}

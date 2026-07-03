@@ -1,0 +1,9 @@
+import: {
+  import_name: "CensusSAHIE_AggCountry"
+  provenance_url: "https://www.census.gov/programs-surveys/sahie.html"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusSAHIE_AggCountry/graph.tfrecord@1.gz"
+  import_groups: "auto2w"
+  provenance_description: "Aggregated by DataCommons, from State to Country."
+  category: AGGREGATED_STATS
+  dataset_name: "Small Area Health Insurance Estimates (SAHIE)"
+}

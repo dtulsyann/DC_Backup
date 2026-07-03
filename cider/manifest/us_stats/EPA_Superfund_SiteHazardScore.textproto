@@ -1,0 +1,18 @@
+import: {
+  import_name: "EPA_Superfund_SiteHazardScore"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_description: "This dataset is associated with the following publication: Summers, K., A. Lamaper, and K. Buck. National Hazards Vulnerability and the Remediation, Restoration and Revitalization of Contaminated Sites – 1. Superfund. ENVIRONMENTAL MANAGEMENT. Springer-Verlag, New York, NY, USA, 14, (2021)."
+  provenance_url: "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=https://doi.org/10.23719/1519284"
+  category: STATS
+  data_download_url: "https://catalog.data.gov/dataset/intersection-of-natural-hazard-vulnerability-and-superfund-site-location"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/superfund/superfund_sites_hazard_scores/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/superfund_sites_hazard_scores/superfund_hazardExposure.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/superfund_sites_hazard_scores/superfund_hazardExposure.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Superfund Sites"
+}

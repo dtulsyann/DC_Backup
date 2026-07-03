@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OECD_Waste_Water_Treatment
+typeOf: dcs:Provenance
+license : "https://www.oecd.org/en/about/terms-conditions.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/oecd/wastewater_treatment/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/oecd/oecd_wastewater_treatment/latest/input_files/"
+sourceDataUrl : "https://data-explorer.oecd.org/vis?lc=en&tm=DF_WATER_TREAT&pg=0&snb=1&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_WATER_TREAT%40DF_WATER_TREAT&df[ag]=OECD.ENV.EPI&df[vs]=&pd=%2C&dq=.A..&to[TIME_PERIOD]=false"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

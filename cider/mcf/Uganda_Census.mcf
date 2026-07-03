@@ -1,0 +1,6 @@
+Node: dcid:dc/base/Uganda_Census
+typeOf: dcid:Provenance
+license: "https://uganda.opendataforafrica.org/dqgjtcb"
+licenseType: dcid:CreativeCommonsAttributionLicense
+lastDataRefreshDate: "2023-08-11"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,8 @@
+Node: dcid:dc/base/India_NationalAccountsStatistics
+typeOf: dcs:Provenance
+license : "https://www.mospi.gov.in/copyright-policy"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ind_nfhs/20240523/20240705"
+sourceDataUrl : "https://esankhyiki.mospi.gov.in/macroindicators?product=nas"
+automaticRefreshType: "NoAutomaticRefresh"

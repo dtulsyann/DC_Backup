@@ -1,0 +1,15 @@
+
+Node: dcid:dc/base/US_Texas_Diabetes
+
+typeOf: dcid:Provenance
+#TODO(hareeshms): Confirmt the license, details captured in b/471718525
+license : "https://healthdata.dshs.texas.gov/policy/datause"
+licenseType : dcs:TexasDepartmentOfStateHealthServicesDataUsePolicy
+processingMethod : dcs:StatVarProcessor
+descriptionUrl: "https://healthdata.dshs.texas.gov/dashboard/births-and-deaths/deaths"
+#dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/nyu_diabetes/texas/README.md"
+#cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/nyu_diabetes/tennessee/latest/input_files"
+sourceDataUrl : "https://healthdata.dshs.texas.gov/dashboard/births-and-deaths/deaths"
+sourceReleaseFrequency : "P1Y"
+#automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+

@@ -1,0 +1,10 @@
+import: {
+  import_name: "OpportunityInsightsNeighborhoods"
+  provenance_url: "http://opportunityinsights.org"
+  category: STATS
+  provenance_description: "Neighborhood-level data on social mobility, income, and outcomes for children growing up across the US."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oi/neighborhoods/*/*.mcf"
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "The Opportunity Atlas"
+}

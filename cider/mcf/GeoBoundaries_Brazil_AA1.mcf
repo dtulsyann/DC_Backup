@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Brazil_AA1
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/BRA/ADM1"
+licenseType : dcs:CreativeCommonsAttributionLicenseGeneric
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Brazil/ADM1/input_files"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/BRA/ADM1"
+lastDataRefreshDate: "2024-12-10"
+earliestDataImportDate: "2024-12-10"

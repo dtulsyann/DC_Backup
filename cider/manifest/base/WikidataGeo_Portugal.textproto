@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Portugal"
+  provenance_url: "https://en.wikipedia.org/wiki/Administrative_divisions_of_Portugal"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Portugal."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Portugal/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Portugal/wikidata/Portugal_ADM1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Portugal/wikidata/Portugal_ADM1_final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

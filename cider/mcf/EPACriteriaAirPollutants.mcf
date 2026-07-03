@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EPACriteriaAirPollutants
+typeOf: dcid:Provenance
+license : "https://www.epa.gov/data/open-data-plan"
+licenseType : dcs:PublicDomain
+descriptionUrl: "https://aqs.epa.gov/aqsweb/airdata/FileFormats.html"
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_epa/airdata/README.md"
+sourceDataUrl : "https://aqs.epa.gov/aqsweb/airdata/{filename}.zip"
+sourceReleaseFrequency : "P6M"
+

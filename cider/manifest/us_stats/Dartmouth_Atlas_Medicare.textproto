@@ -1,0 +1,15 @@
+import: {
+  import_name: "Dartmouth_Atlas_Medicare"
+  provenance_url: "https://atlasdata.dartmouth.edu"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dartmouth_atlas/*/nodes.mcf@1"
+  import_groups: "infrequent"
+  provenance_description: "Medicare expenditures, utilization, and mortality rates from the Dartmouth Atlas Data."
+  start_date_in_kg: "1999"
+  end_date_in_kg: "2017"
+  data_download_url: "https://atlasdata.dartmouth.edu/downloads"
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "Dartmouth Atlas of Health Care"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Singapore_ADM2
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-sgp"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Singapore/ADM2/wikidata/InputFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-sgp"
+lastDataRefreshDate: "2024-12-03"
+earliestDataImportDate: "2024-12-03"

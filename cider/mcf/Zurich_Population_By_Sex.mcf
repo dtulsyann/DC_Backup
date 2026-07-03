@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Zurich_Population_By_Sex
+typeOf: dcs:Provenance
+license : "https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/open-government-data/rahmenbedingungen.html#nutzungsbedingungen"
+licenseType : dcs:CreativeCommons0
+dataTransformationLogic : "https://github.com/datacommonsorg/data/blob/master/statvar_imports/zurich/README.md"
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/zurich/latest/zurich_by_sex"
+sourceDataUrl : "https://data.stadt-zuerich.ch/"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"
+

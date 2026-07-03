@@ -1,0 +1,21 @@
+import: {
+  import_name: "NYU_Tennessee_Diabetes"
+  provenance_url: "https://www.tn.gov/health/health-program-areas/statistics/health-data/death-statistics.html"
+  category: STATS
+  provenance_description: "This import utilizes official mortality data from the Tennessee Department of Health, detailing county-level death statistics."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nyu_diabetes/tennessee/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nyu_diabetes/tennessee/latest/tennessee_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nyu_diabetes/tennessee/latest/tennessee_output.csv"
+    download_config {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/nyu_diabetes/tennessee/NYU_Tennessee_Diabetes/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/nyu_diabetes/tennessee/NYU_Tennessee_Diabetes/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Tennessee department of health: Death statistics"
+}

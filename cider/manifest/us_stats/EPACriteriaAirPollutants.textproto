@@ -1,0 +1,15 @@
+import: {
+  import_name: "EPACriteriaAirPollutants"
+  provenance_url: "https://aqs.epa.gov/aqsweb/airdata/download_files.html"
+  category: STATS
+  provenance_description: "Measurements of the six criteria air pollutants (PM, Ozone, NO2, CO, SO2, Lead) monitored by the EPA."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/airdata/latest/graph.tfrecord@16.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/airdata/latest/EPA_AirQuality.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/airdata/latest/*.csv"
+  }
+  import_groups: "infrequent"
+  release_frequency: "P6M"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Air Data"
+}

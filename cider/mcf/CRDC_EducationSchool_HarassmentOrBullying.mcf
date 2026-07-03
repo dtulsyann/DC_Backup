@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CRDC_EducationSchool_HarassmentOrBullying
+typeOf: dcid:Provenance
+descriptionUrl: "https://ocrdata.ed.gov/about/crdc"
+license: "https://civilrightsdata.ed.gov/data"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/statvar_imports/crdc_import/crdc_harassment_or_bullying/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/us_education/crdc/harassment_or_bullying/input_files/"
+sourceDataUrl: "https://ocrdata.ed.gov/data"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

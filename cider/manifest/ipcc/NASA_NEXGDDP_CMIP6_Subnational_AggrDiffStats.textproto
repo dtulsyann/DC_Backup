@@ -1,0 +1,13 @@
+import: {
+  # Includes "max_diff_across_measurement_methods" and
+  # "diff_relative_to_base_date" aggregations over
+  # "NASA_NEXGDDP_CMIP6_Subnational"
+  #
+  import_name: "NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/StatVarSeries/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats/graph.tfrecord*"
+  import_groups: "ipcc"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP6"
+}

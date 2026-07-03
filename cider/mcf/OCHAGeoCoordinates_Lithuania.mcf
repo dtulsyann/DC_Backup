@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Lithuania
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-ltu"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Lithuania/boundary_files/source"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-ltu"
+lastDataRefreshDate: "2024-06-07"
+earliestDataImportDate: "2024-06-07"

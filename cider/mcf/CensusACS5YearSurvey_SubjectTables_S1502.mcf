@@ -1,0 +1,14 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1502
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_census/acs5yr/subject_tables/s1502/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/s1502/20260313/input_files"
+sourceDataUrl: "https://data.census.gov/table/ACSST5Y2024.S1502?q=S1502"
+description: "American Community Survey (ACS) 5-Year Subject Tables: S1502: Field of Bachelor's Degree for First Major"
+lastDataRefreshDate: "2026-03-13"
+sourceReleaseFrequency: "P1Y"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2024_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2024_ACSSubjectDefinitions.pdf"
+automaticRefreshType: "NoAutomaticRefresh"
+

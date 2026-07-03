@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CDC_PalmerDroughtSeverityIndex
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/nchs/data_access/ftp_data.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_cdc/cdc_standard_precipiation/palmer_drought/README.md"
+sourceDataUrl: "https://data.cdc.gov/Environmental-Health-Toxicology/Palmer-Drought-Severity-Index-1895-2016/en5r-5ds4/about_data"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/environmental/PalmerDroughtSeverityIndex"
+descriptionUrl: "https://www.cdc.gov/nceh/tracking/topics/Drought.htm"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

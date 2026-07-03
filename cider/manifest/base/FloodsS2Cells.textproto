@@ -1,0 +1,14 @@
+import: {
+  # This is a set of S2Cells at specific levels for Floods.
+  # This will be updated as new regions get flooded over time.
+  import_name: "FloodsS2Cells"
+  provenance_url: "https://s2geometry.io/resources/s2cell_statistics.html"
+  provenance_description: "S2Cells from levels 10 to 13 that have data on floods."
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/floods/places/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/floods/places/flood-places.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/floods/places/*.csv"
+  }
+  import_groups: "place"
+}

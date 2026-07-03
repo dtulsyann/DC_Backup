@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Liechtenstein"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-lie"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the Administrative Areas 1 in Liechtenstein."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Liechtenstein/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

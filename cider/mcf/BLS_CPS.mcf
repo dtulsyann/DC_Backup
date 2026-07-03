@@ -1,0 +1,11 @@
+Node: dcid:dc/base/BLS_CPS
+typeOf: dcid:Provenance
+license: "https://www.bls.gov/bls/linksite.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "google3/datacommons/import/bls"
+sourceDataUrl: "https://download.bls.gov/pub/time.series/ln/ln.data.1.AllData"
+sourceReleaseFrequency: "P1M"
+automaticRefreshType: dcid:InternalPipeline
+automaticRefreshSchedule: "40 5 * * *"
+descriptionUrl: "https://www.bls.gov/cps/definitions.htm"

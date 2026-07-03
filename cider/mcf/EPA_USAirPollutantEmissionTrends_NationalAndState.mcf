@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EPA_USAirPollutantEmissionTrends_NationalAndState
+typeOf: dcs:Provenance
+license : "https://www.epa.gov/accessibility/epa-accessibility-statement"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_epa/air_emissions_inventory/national_state/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_epa/air_emissions_inventory/national_state/20250129/input_files/"
+sourceDataUrl : "https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

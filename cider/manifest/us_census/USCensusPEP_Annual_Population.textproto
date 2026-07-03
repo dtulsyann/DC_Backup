@@ -1,0 +1,24 @@
+import: {
+  import_name: "USCensusPEP_Annual_Population"
+  provenance_url: "https://www.census.gov/programs-surveys/popest.html"
+  category: STATS
+  provenance_description: "Annual aggregate US population estimates produced by the Census Population Estimates Program."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/annual_population/latest/graph.tfrecord@1.gz"
+  # TODO(b/247910157): This should be in "frequent" so it overrides other
+  # census population data in "infrequent" for ranking caches.
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/annual_population/latest/usa_annual_population.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/annual_population/latest/usa_annual_population.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/pep/annual_population/USCensusPEP_Annual_Population/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_census/pep/annual_population/USCensusPEP_Annual_Population/import_metadata_mcf.mcf"
+  dataset_name: "Population Estimates Program (PEP)"
+}

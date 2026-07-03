@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Lithuania"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-ltu"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the districts(Administrative Area 1 division) in Lithuania."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Lithuania/boundary_files/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

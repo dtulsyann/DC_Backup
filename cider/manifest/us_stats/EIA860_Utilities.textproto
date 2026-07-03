@@ -1,0 +1,16 @@
+import: {
+  import_name: "EIA860_Utilities"
+  provenance_url: "https://www.eia.gov/electricity/data/eia860/"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_eia/eia860_schedule1/nodes.mcf@1"
+  import_groups: "place"
+  data_download_url: "https://www.eia.gov/electricity/data/eia860/xls/eia8602019.zip"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/eia860_schedule1/1_utility.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/eia860_schedule1/1_utility.csv"
+  }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "Form EIA-860"
+}

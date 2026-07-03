@@ -1,0 +1,15 @@
+import: {
+  # These are bootstrap dcid<->wikidataId mappings for geos in BaseGeos and
+  # EuroGeos.
+  import_name: "WikidataIdDcidMappings"
+  provenance_url: "https://www.google.com"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/WikidataIdDcidMappings/*.mcf"
+  import_groups: "place"
+  is_mcf_replicated_from_piper: true
+  resolution_info: {
+    uses_id_resolver: false
+    provides_ids: "wikidataId"
+  }
+  dataset_name: "Wikidata"
+}

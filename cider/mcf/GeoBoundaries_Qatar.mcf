@@ -1,0 +1,15 @@
+Node: dcid:dc/base/GeoBoundaries_Qatar
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:CreativeCommonsAttributionLicense
+# processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/QAT/ADM1/20240424/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/TKM/ADM1"
+# sourceReleaseFrequency : ""
+# nextSourceReleaseDate : ""
+# nextDataRefreshDate : ""
+# automaticRefreshType : dcs:InternalPipeline
+# automaticRefreshSchedule : ""
+lastDataRefreshDate : "2024-04-30"
+earliestDataImportDate : "2024-04-30"

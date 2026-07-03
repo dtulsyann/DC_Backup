@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Gabon
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+# processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Gabon/BoundaryFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-gab"
+lastDataRefreshDate : "2024-04-22"
+earliestDataImportDate : "2024-04-22"

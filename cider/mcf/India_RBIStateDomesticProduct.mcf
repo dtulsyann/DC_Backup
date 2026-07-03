@@ -1,0 +1,11 @@
+Node: dcid:dc/base/India_RBIStateDomesticProduct
+typeOf: dcid:Provenance
+license: "https://rbi.org.in/Scripts/Righttoinfoact.aspx"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/2d42f75fa233eaa9b99e2f2cf1c5dc258e9939a9/statvar_imports/india_rbistatedomesticproduct/README.md"
+sourceDataUrl: "https://rbi.org.in/"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshSchedule: "15 22 * * 4"
+descriptionUrl: "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22237"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,20 @@
+import: {
+  import_name: "USGSWaterUse"
+  provenance_url: "https://waterdata.usgs.gov/nwis/wu"
+  category: STATS
+  provenance_description: "Data estimating water withdrawals by source and category of use across the United States."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/usgs/water_use/nodes.mcf@1"
+  import_groups: "infrequent"
+  start_date_in_kg: "1985"
+  end_date_in_kg: "2015"
+  end_date_in_source: "2015"
+  release_frequency: "P5Y"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/usgs/water_use/water.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/usgs/water_use/water.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "National Water Use Data"
+}

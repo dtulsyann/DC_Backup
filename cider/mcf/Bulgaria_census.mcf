@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Bulgaria_Census
+typeOf: dcid:Provenance
+license: "https://www.nsi.bg/en/pages/license-to-use-statistical-information-produced-and-disseminated-by-the-national-statistical-institute-485"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://www.nsi.bg/en/statistical-data/206/649"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2025-03-25"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/bulgaria/input_files"
+descriptionUrl: "https://www.nsi.bg/en/statistical-data/206/649"
+automaticRefreshType: "NoAutomaticRefresh"

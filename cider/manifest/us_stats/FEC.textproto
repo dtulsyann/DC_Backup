@@ -1,0 +1,13 @@
+import: {
+  import_name: "FEC"
+  provenance_url: "https://www.fec.gov/data/browse-data/?tab=bulk-data"
+  category: STATS
+  provenance_description: "The Federal Election Commission provides data on how candidates and committees raise and spend money on US federal elections. Please see https://datacommons.org/disclaimers for disclaimer about the scope of the financial reports."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fec/*.mcf"
+  import_groups: "infrequent"
+  import_groups: "place"
+  release_frequency: "P1W"
+  next_release_date: "2019-06"  # TODO(b/170247024): redo and refresh data
+  data_download_url: "https://download.bls.gov/pub/time.series/la/"
+  dataset_name: "Candidates & Committees"
+}

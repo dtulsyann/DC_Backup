@@ -1,0 +1,8 @@
+Node: dcid:dc/base/BIS_CentralBankPolicyRate
+typeOf: dcid:Provenance
+license: "https://www.bis.org/terms_statistics.htm"
+licenseType: dcid:BankForInternationalSettlementsLicense
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/bis/bis_central_bank_policy_rate/central_bank_policy_rate_pvmap.csv"
+sourceDataUrl: "https://data.bis.org/topics/CBPOL/data"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

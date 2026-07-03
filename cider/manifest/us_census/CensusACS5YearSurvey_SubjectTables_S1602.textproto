@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1602"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S1602&tid=ACSST5Y2023.S1602"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S1602: Limited English Speaking Households."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/acs5yr_subject_tables/S1602/20250116/graph.tfrecord@4.gz"
+  import_groups: "uscensus"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2023"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/acs5yr_subject_tables/S1602/20250116/S1602_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/acs5yr_subject_tables/S1602/20250116/S1602_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

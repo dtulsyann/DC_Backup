@@ -1,0 +1,13 @@
+Node: dcid:dc/base/CDCWonder_NNDSS_InfectiousWeekly
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/other/agencymaterials.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+#dataTransformationLogic: "https://github.com/sharadshriram/data/tree/nndss_weekly/scripts/us_cdc"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/nndss_infectious_diseases_weekly/20250206/input_files"
+sourceDataUrl: "https://www.cdc.gov/mmwr/mmwr_nd/index.html"
+importedSourceReleaseDate: "2024-11"
+sourceReleaseFrequency: "P1W"
+lastDataRefreshDate: "2024-11-24"
+descriptionUrl: "https://ndc.services.cdc.gov/"
+automaticRefreshType: "NoAutomaticRefresh"

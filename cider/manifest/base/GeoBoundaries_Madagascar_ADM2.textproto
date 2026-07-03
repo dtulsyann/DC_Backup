@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_Madagascar_ADM2"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/MDG/ADM2"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the districts(Administrative Area 2 division) of Madagascar."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Madagascar/ADM2/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

@@ -1,0 +1,18 @@
+import: {
+  # NOTE: This dataset includes geos till county-level for US, Eurostat, India,
+  # Pakistan, Nepal and Bangladesh for CMIP6.
+  import_name: "NASA_NEXGDDP_CMIP6_Subnational"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+  category: STATS
+  provenance_description: "Global downscaled climate projections (CMIP6) aggregated to subnational administrative boundaries."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/nex-gddp-cmip6/all-models/graph.tfrecord*"
+  import_groups: "ipcc"
+  start_date_in_kg: "1950"
+  end_date_in_kg: "2100"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/all-models/ipcc_geo_resolved.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/all-models/GDDP_CMIP6_SUBNATIONAL_PROD_*/ipcc_geo_resolved-*-of-*"
+  }
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP6"
+}

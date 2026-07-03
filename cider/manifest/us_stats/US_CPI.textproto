@@ -1,0 +1,19 @@
+import {
+  import_name: "US_CPI"
+  provenance_url: "https://www.bls.gov/cpi/tables/supplemental-files/"
+  category: STATS
+  provenance_description: "USA Consumer Price Index by Consumer Goods Category from Bureau Of Labour Statistics by Country level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/cpi/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/cpi/latest/cpi_w.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/cpi/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/us_cpi/US_CPI/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/us_cpi/US_CPI/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  release_frequency: "P1M"
+  dataset_name: "Consumer Price Index"
+}

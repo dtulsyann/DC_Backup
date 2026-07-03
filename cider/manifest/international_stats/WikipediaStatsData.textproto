@@ -1,0 +1,13 @@
+import: {
+  import_name: "WikipediaStatsData"
+  provenance_url: "https://www.wikipedia.org"
+  category: STATS
+  provenance_description: "Statistical data from Wikipedia"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_stats_v2/20251107/location_population_latest-wiki-freebase/graph.tfrecord@1.gz"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_stats_v2/20251107/location_population_latest-wikimapperv3/graph.tfrecord@1.gz"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_stats_v2/20250626/population-wikimapper/stats.mcf"
+  import_groups: "infrequent"
+  import_groups: "laelaps"
+  resolution_info: { uses_id_resolver: true }
+  release_frequency: "P1M"
+}

@@ -1,0 +1,12 @@
+Node: dcid:dc/base/BEA_USStatesQuarterlyGDP
+typeOf: dcid:Provenance
+license: "https://www.bea.gov/about/policies-and-information/accessibility"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_bea/states_gdp"
+sourceDataUrl: "https://www.bea.gov/data/gdp/gdp-state"
+sourceReleaseFrequency: "P3M"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bea/states_industries_gdp/20250509"
+descriptionUrl: "https://www.bea.gov/news/2025/gross-domestic-product-state-and-personal-income-state-4th-quarter-2024-and-preliminary"
+url: "https://www.bea.gov/resources/methodologies/gdp-by-state"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

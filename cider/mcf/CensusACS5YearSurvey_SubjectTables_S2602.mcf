@@ -1,0 +1,12 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2602
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/96f241b3ff2af0faf3081228ed028034a08ce7e0/scripts/us_census/acs5yr/subject_tables/S2602/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/S2602/20260515/input_file/S2602.zip"
+sourceDataUrl: "https://data.census.gov/table?q=S2602"
+lastDataRefreshDate: "2026-05-15"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2024_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2024_ACSSubjectDefinitions.pdf"
+description: "American Community Survey (ACS) 5-Year Subject Tables: S2602: Characteristics of the Group Quarters Population by Group Quarters Type (3 Types)"
+automaticRefreshType: "NoAutomaticRefresh"

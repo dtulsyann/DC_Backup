@@ -1,0 +1,12 @@
+Node: dcid:dc/base/FBIGovCrime
+typeOf: dcid:Provenance
+descriptionUrl: "http://www.fbi.gov/services/cjis/ucr"
+license: "https://www.justice.gov/legalpolicies"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/fbi/crime/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/fbi/city/20250206/input_files/"
+sourceReleaseFrequency: "P1Y"
+sourceDataUrl: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads"
+descriptionUrl: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/about"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CensusPEP
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/96f241b3ff2af0faf3081228ed028034a08ce7e0/scripts/us_census/pep"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_census/pep"
+sourceDataUrl: "https://www2.census.gov/programs-surveys/popest/tables/"
+lastDataRefreshDate: "2022-07-08"
+descriptionUrl: "https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"

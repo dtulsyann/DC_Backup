@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NYU_Tennessee_Diabetes
+typeOf: dcid:Provenance
+license : "https://www.tn.gov/web-policies/privacy-statement.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+descriptionUrl: "https://www.tn.gov/health/health-program-areas/statistics/health-data/death-statistics.html"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/nyu_diabetes/tennessee/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/nyu_diabetes/tennessee/latest/input_files"
+sourceDataUrl : "https://www.tn.gov/health/health-program-areas/statistics/health-data/death-statistics.html"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,18 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1251-Count_Person_Female_DivorcedInThePast12Months_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1251
+variable: dcid:Count_Person_Female_DivorcedInThePast12Months_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1251-Count_Person_Female_MarriedInThePast12Months_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1251
+variable: dcid:Count_Person_Female_MarriedInThePast12Months_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1251-Count_Person_Male_DivorcedInThePast12Months_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1251
+variable: dcid:Count_Person_Male_DivorcedInThePast12Months_BelowPovertyLevelInThePast12Months
+

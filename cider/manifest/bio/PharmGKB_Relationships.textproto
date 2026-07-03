@@ -1,0 +1,54 @@
+import: {
+  import_name: "PharmGKB_Relationships"
+  dataset_name: "PharmGKB Relationships Data"
+  provenance_url: "https://www.pharmgkb.org/"
+  category: ENTITY
+  import_groups: "biomedical"
+  release_frequency: "P1M"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/chem_chem/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/chem_gene/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/chem_var/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/disease_disease/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/disease_gene/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/disease_var/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/gene_gene/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/gene_var/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/relationships_data/var_var/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/chem_chem/chem_chem.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/chem_chem/chem_chem.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/chem_gene/chem_gene.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/chem_gene/chem_gene.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/chem_var/chem_var.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/chem_var/chem_var.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/disease_disease/disease_disease.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/disease_disease/disease_disease.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/disease_gene/disease_gene.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/disease_gene/disease_gene.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/disease_var/disease_var.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/disease_var/disease_var.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/gene_gene/gene_gene.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/gene_gene/gene_gene.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/gene_var/gene_var.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/gene_var/gene_var.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/var_var/var_var.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/relationships_data/var_var/var_var.csv"
+  }
+}

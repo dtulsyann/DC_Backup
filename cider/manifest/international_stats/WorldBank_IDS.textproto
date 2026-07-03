@@ -1,0 +1,43 @@
+import: {
+  import_name: "WorldBank_IDS"
+  provenance_url: "https://databank.worldbank.org/source/international-debt-statistics"
+  provenance_description: "World Bank principal, currency composition, interest and disbursed and outstanding of debt for different countries."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/world_bank_ids/Currency/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Currency/latest/currency.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Currency/latest/currency.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/worldbank_ids/WorldBank_IDS/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/world_bank_ids/Interest/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Interest/latest/interest_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Interest/latest/interest_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/worldbank_ids/WorldBank_IDS/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/world_bank_ids/Principal/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Principal/latest/principal_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Principal/latest/principal_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/worldbank_ids/WorldBank_IDS/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/world_bank_ids/Disbursed_Outstanding/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Disbursed_Outstanding/latest/disbursed_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/world_bank_ids/Disbursed_Outstanding/latest/disbursed_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/worldbank_ids/WorldBank_IDS/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/worldbank_ids/WorldBank_IDS/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "World Bank International Debt Statistics"
+}

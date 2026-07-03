@@ -1,0 +1,14 @@
+Node: dcid:dc/base/GeoBoundaries_Myanmar
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/MMR/ADM1/Myanmar_ADM1.csv"
+# sourceDataUrl: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/MMR/ADM1"
+lastDataRefreshDate: "2024-05-03"
+earliestDataImportDate: "2024-05-03"
+# sourceReleaseFrequency
+# nextSourceReleaseDate
+# nextDataRefreshDate
+

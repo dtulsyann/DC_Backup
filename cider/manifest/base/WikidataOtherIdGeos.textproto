@@ -1,0 +1,29 @@
+import: {
+  import_name: "WikidataOtherIdGeos"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  # TODO(shanth): Maybe regenerate Wikidata<->AustrianMunicipalityKeys
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/WikidataToOtherIds/*.mcf"
+  import_groups: "place"
+  is_mcf_replicated_from_piper: true
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "wikidataId"
+    # NOTE: This is a partial list from the 220 odd external IDs.
+    # TODO(shanth): Expand list to cover more relevant ones and make these
+    #               resolvable.
+    provides_ids: "austrianMunicipalityKey"
+    provides_ids: "gnisId"
+    provides_ids: "gs1CountryCode"
+    provides_ids: "iataAirportCode"
+    provides_ids: "isoCode"
+    provides_ids: "lauCode"
+    provides_ids: "postalCode"
+    provides_ids: "fips104"
+    provides_ids: "fips52AlphaCode"
+    provides_ids: "fips553"
+    provides_ids: "fips64"
+    provides_ids: "viafId"
+  }
+  dataset_name: "Wikidata"
+}

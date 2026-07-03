@@ -1,0 +1,14 @@
+import {
+  import_name: "WHO_TuberculosisBacteriologicallyConfirmed"
+  provenance_url: "https://data.who.int/indicators/i/1891124/5D51DB1"
+  category: STATS
+  provenance_description: "Number of people diagnosed with a new episode of pulmonary tuberculosis whose disease was bacteriologically confirmed"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/who/PulmonaryTuberculosis_Bacteriologically_Confirmed/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/who/PulmonaryTuberculosis_Bacteriologically_Confirmed/TB_Bacteriologically_Confirmed_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/who/PulmonaryTuberculosis_Bacteriologically_Confirmed/TB_Bacteriologically_Confirmed_output.csv"
+  }
+  import_groups: "country"
+  dataset_name: "WHO Tuberculosis Bacteriologically Confirmed"
+}
+

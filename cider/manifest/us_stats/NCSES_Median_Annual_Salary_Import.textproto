@@ -1,0 +1,24 @@
+import {
+  import_name: "NCSES_Median_Annual_Salary_Import"
+  provenance_url: "https://ncses.nsf.gov/pubs/nsf23306#section13069"
+  category: STATS
+  provenance_description: "Median salary of full-time employed college graduates, by sex, major occupation, age, ethnicity, race, disability status, and citizenship status"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/ncses/ncses_median_annual_salary/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_median_annual_salary/latest/ncses_median_annual_salary.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_median_annual_salary/latest/ncses_median_annual_salary.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/ncses/ncses_median_annual_salary/NCSES_Median_Annual_Salary_Import/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/ncses/ncses_median_annual_salary/NCSES_Median_Annual_Salary_Import/import_metadata_mcf.mcf"
+  # Historical data 2017 - 2019
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/ncses/ncses_median_annual_salary/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_median_annual_salary/historical/NCSES_common_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_median_annual_salary/historical/ncses_median_*.csv"
+  }
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "National Center for Science and Engineering Statistics"
+}

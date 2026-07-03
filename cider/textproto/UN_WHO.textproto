@@ -1,0 +1,12 @@
+import {
+  import_name: "UN_WHO"
+  provenance_url: "https://www.who.int/data"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/un/who/2024-03-19/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/un/who/2024-03-19/who.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/un/who/2024-03-19/*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "WHO Data"
+}

@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Guinea"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the regions(Administrative Area 1 division) of Guinea."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Guinea/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Guinea/gin.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Guinea/Guinea-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

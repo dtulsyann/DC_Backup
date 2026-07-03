@@ -1,0 +1,11 @@
+Node: dcid:dc/base/WorldBankDatasets
+typeOf: dcid:Provenance
+license : "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/world_bank/datasets/observations/observations_20241203/"
+sourceDataUrl : "https://api.worldbank.org/v2/en/indicator/<indicatorcode>?downloadformat=csv"
+sourceReleaseFrequency : "P1Y"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/world_bank/datasets/datasets.py"
+descriptionUrl: "https://databank.worldbank.org/metadataglossary/all/series"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

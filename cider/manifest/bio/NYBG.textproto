@@ -1,0 +1,8 @@
+import: {
+  import_name: "NYBG"
+  provenance_url: "https://nybg.org"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nybg/*.mcf"
+  import_groups: "experimental"
+  dataset_name: "C. V. Starr Virtual Herbarium (Collaboration)"
+}

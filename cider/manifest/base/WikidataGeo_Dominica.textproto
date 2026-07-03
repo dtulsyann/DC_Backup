@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Dominica"
+  provenance_url: "https://en.wikipedia.org/wiki/Parishes_of_Dominica"
+  category: PLACE
+  provenance_description: "Includes the parishes (Administrative Area 1 division) of Dominica."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Dominica/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Dominica/dma.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Dominica/Dominica-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

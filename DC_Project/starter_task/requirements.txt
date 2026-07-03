@@ -1,0 +1,3 @@
+datacommons_client
+pandas
+python-dotenv

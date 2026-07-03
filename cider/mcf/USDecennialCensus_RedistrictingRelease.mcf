@@ -1,0 +1,5 @@
+Node: dcid:dc/base/USDecennialCensus_RedistrictingRelease
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html "
+automaticRefreshType: "NoAutomaticRefresh"

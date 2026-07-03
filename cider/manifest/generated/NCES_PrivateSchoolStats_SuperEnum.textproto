@@ -1,0 +1,9 @@
+import: {
+  import_name: "NCES_PrivateSchoolStats_SuperEnum"
+  provenance_url: "https://datacommons.org/"
+  import_groups: "auto2w"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/NCES_PrivateSchoolStats_SuperEnum/graph.tfrecord@1.gz"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "US Private School Data"
+}

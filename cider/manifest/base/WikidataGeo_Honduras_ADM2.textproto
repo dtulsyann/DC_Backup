@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Honduras_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Municipalities_of_Honduras"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Honduras."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Honduras/ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Honduras/ADM2/HND.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Honduras/ADM2/Honduras_ADM2-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

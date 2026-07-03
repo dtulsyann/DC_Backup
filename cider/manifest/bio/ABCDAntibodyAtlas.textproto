@@ -1,0 +1,8 @@
+import: {
+  import_name: "ABCDAntibodyAtlas"
+  provenance_url: "https://web.expasy.org/abcd/"
+  category: ENTITY
+  provenance_description: "The ABCD (AntiBodies Chemically Defined) database is a repository of sequenced antibodies, integrating curated information about the antibody and its antigen with cross-links to standardized databases of chemical and protein entities."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/abcd_antibody_atlas/AntibodyABCDData.mcf"
+  import_groups: "experimental"
+}

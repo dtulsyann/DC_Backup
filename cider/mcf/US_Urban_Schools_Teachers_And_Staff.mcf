@@ -1,0 +1,10 @@
+Node: dcid:dc/base/US_Urban_Schools_Teachers_And_Staff
+typeOf: dcid:Provenance
+license: "https://civilrightsdata.ed.gov/data"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/us_education/us_urbaneducation_school/teachers_and_staff/latest/input_files/"
+sourceDataUrl: "https://civilrightsdata.ed.gov/data"
+descriptionUrl: "https://civilrightsdata.ed.gov/assets/downloads/2021-22%20Appendix%20Workbook.xlsx","https://civilrightsdata.ed.gov/assets/downloads/2020-21%20Appendix%20Workbook.xlsx","https://civilrightsdata.ed.gov/assets/for-researchers/appendix/Appendix-C-LEAs-Identified-with-Post-Submission-Data-Quality-Checks.xlsx","https://civilrightsdata.ed.gov/assets/for-researchers/appendix/2015-16-data-notes-addendum.pdf"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_urban_school/teachers/README.md"

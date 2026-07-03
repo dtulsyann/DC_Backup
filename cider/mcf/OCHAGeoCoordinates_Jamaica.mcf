@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Jamaica
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/cod-ab-jam#metadata-0"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Jamaica/wikidata/sourceFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-jam"
+lastDataRefreshDate: "2024-08-09"
+earliestDataImportDate: "2024-05-07"

@@ -1,0 +1,9 @@
+import {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2019.S1201"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables for ACS Subject Table S1201."
+  import_groups: "uscensus"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusACS5YearSurvey_SubjectTables_S1201/20250228/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg/graph.tfrecord@4.gz"
+  dataset_name: "American Community Survey (ACS)"
+}

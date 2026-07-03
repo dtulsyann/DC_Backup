@@ -1,0 +1,9 @@
+Node: dcid:dc/base/India_RBI_State_Statistics
+license: "https://rbi.org.in/Scripts/Righttoinfoact.aspx"
+licenseType: dcid:PublicDomain
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22237"
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States"
+automaticRefreshType: "GCPCloudRunSemiAutomaticRefresh"
+

@@ -1,0 +1,13 @@
+import: {
+  import_name: "FireFAMWEB"
+  provenance_url: "https://fam.nwcg.gov/fam-web/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fire/us_fires.mcf"
+  import_groups: "disaster"
+  provenance_description: "The National Fire and Aviation Management hosts yearly releases of fire incidents reported through the SIT-209 application. Please see https://datacommons.org/disclaimers for disclaimers about the scope of this data."
+  start_date_in_kg: "1999"
+  end_date_in_kg: "2018"
+  release_frequency: "P1Y"
+  # Assigned DCIDs, don't need "resolution_info: { uses_id_resolver: true }".
+  dataset_name: "National Interagency Fire Center Interagency Situation Report - 209 (SIT-209)"
+}

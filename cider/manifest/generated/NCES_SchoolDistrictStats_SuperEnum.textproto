@@ -1,0 +1,9 @@
+import: {
+  import_name: "NCES_SchoolDistrictStats_SuperEnum"
+  provenance_url: "https://datacommons.org/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/NCES_SchoolDistrictStats_SuperEnum/graph.tfrecord@16.gz"
+  import_groups: "auto2w"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "Public School and School District Data"
+}

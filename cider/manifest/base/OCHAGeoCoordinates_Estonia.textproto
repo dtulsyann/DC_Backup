@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Estonia"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-est"
+  category: PLACE
+  provenance_description: "Includes administratrive area 1 place boundaries for Estonia"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Estonia/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

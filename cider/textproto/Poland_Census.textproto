@@ -1,0 +1,13 @@
+import {
+  import_name: "Poland_Census"
+  provenance_url: "https://stat.gov.pl/en/databases/"
+  category: STATS
+  provenance_description: "Population Census and Statistics for Poland."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/poland/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/poland/StatisticsPoland_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/poland/StatisticsPoland_output.csv"
+  }
+  import_groups: "country"
+  dataset_name: "Poland Census"
+}

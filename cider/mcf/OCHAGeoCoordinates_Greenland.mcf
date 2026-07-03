@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Greenland
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-grl"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Greenland/wikidata/sourceFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-grl"
+lastDataRefreshDate: "2024-06-26"
+earliestDataImportDate: "2024-06-26"

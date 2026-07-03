@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OECD_Air_GHG_emissions
+typeOf: dcs:Provenance
+license : "https://www.oecd.org/termsandconditions/"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+#cachedSourceDataUrl :
+sourceDataUrl : "https://data.oecd.org/air/air-and-ghg-emissions.htm"
+sourceReleaseFrequency : "P1Y"
+#importedSourceReleaseDate:
+automaticRefreshType: "NoAutomaticRefresh"

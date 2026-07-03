@@ -1,0 +1,16 @@
+import {
+  import_name: "Egypt_Census"
+  provenance_url: "https://egypt.opendataforafrica.org"
+  category: STATS
+  provenance_description: "Egypt demographics, economy, education and health data from statistics Egypt at city and district level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/egypt/20250312/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/egypt/20250312/common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/egypt/20250312/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  start_date_in_kg: "1998"
+  end_date_in_kg: "2018"
+  dataset_name: "Egypt Census"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Madagascar
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-mdg"
+licenseType : dcs:CreativeCommonsAttributionLicense
+# processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/madagascar/BoundaryFiles"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-mdg"
+lastDataRefreshDate : "2024-05-18"
+earliestDataImportDate : "2024-05-18"

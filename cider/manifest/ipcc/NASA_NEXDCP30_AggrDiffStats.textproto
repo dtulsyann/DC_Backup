@@ -1,0 +1,11 @@
+import: {
+  # Includes "max_diff_across_measurement_methods" and
+  # "diff_relative_to_base_date" aggregations over "NASA_NEXDCP30".
+  import_name: "NASA_NEXDCP30_AggrDiffStats"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/StatVarSeries/NASA_NEXDCP30_AggrDiffStats/graph.tfrecord*"
+  import_groups: "ipcc"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "NEX - Downscaled Climate Projections for US from IPCC CMIP5"
+}

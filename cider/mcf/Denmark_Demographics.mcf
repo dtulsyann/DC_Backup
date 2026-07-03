@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Denmark_Demographics
+typeOf: dcid:Provenance
+license: "https://www.statbank.dk/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+automaticRefreshType: dcid:GCPCloudRunAutomaticRefresh
+sourceDataUrl: "https://www.statbank.dk/statbank5a/default.asp?w=1280"
+sourceReleaseFrequency: "P3M"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/denmark/input_files"
+descriptionUrl: "https://www.dst.dk/en/Statistik/dokumentation/documentationofstatistics/the-population"

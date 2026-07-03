@@ -1,0 +1,9 @@
+Node: dcid:dc/base/NigeriaStatistics
+typeOf: dcid:Provenance
+license: "https://nigeria.opendataforafrica.org/legal/termsofuse"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/nigeria/20250328/input_files/NigeriaSource.zip"
+sourceDataUrl: "https://nigeria.opendataforafrica.org"
+lastDataRefreshDate: "2025-03-17"
+

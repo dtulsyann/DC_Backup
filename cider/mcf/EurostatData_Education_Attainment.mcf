@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EurostatData_Education_Attainment
+typeOf: dcid:Provenance
+descriptionUrl: "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Statistical_themes"
+license: "https://commission.europa.eu/legal-notice_en"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/eurostat/regional_statistics_by_nuts/education_attainment/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/eurostat/education_attainment/latest/input_file/"
+sourceDataUrl: "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/edat_lfse_04/?format=TSV&compressed=true"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

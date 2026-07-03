@@ -1,0 +1,310 @@
+[
+  {
+    "dcid": "dc/base/FeedingAmerica_FoodInsecurity",
+    "license_category": "Standard Copyright",
+    "closest_license_category": "FeedingAmericaLicense",
+    "license": "https://www.feedingamerica.org/privacy-policy",
+    "source_name": "Feeding America"
+  },
+  {
+    "dcid": "dc/base/FeedingAmerica_MapMealGap",
+    "license_category": "Standard Copyright",
+    "closest_license_category": "FeedingAmericaLicense",
+    "license": "https://www.feedingamerica.org/privacy-policy",
+    "source_name": "Feeding America"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_Primary",
+    "license_category": "Restricted Government Copyright",
+    "closest_license_category": "CensusOfIndiaLicense",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "source_name": "Census Of India"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryHouseless",
+    "license_category": "Restricted Government Copyright",
+    "closest_license_category": "CensusOfIndiaLicense",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "source_name": "Census Of India"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryReligion",
+    "license_category": "Restricted Government Copyright",
+    "closest_license_category": "CensusOfIndiaLicense",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "source_name": "Census Of India"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimarySC",
+    "license_category": "Restricted Government Copyright",
+    "closest_license_category": "CensusOfIndiaLicense",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "source_name": "Census Of India"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryST",
+    "license_category": "Restricted Government Copyright",
+    "closest_license_category": "CensusOfIndiaLicense",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "source_name": "Census Of India"
+  },
+  {
+    "dcid": "dc/base/IndiaNHM",
+    "license_category": "Indian Government Proprietary Copyright",
+    "closest_license_category": "",
+    "license": "https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_manual/cso_all_manual/pooling_of_central_and_state_sample_data/T&C.pdf",
+    "source_name": "India National Health Mission"
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_DailyWages",
+    "license_category": "Indian Government Proprietary Copyright",
+    "closest_license_category": "",
+    "license": "https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_manual/cso_all_manual/pooling_of_central_and_state_sample_data/T&C.pdf",
+    "source_name": "India Ministry Of Statistics And Programme Implementation"
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_Wages",
+    "license_category": "Indian Government Proprietary Copyright",
+    "closest_license_category": "",
+    "license": "https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_manual/cso_all_manual/pooling_of_central_and_state_sample_data/T&C.pdf",
+    "source_name": "India Ministry Of Statistics And Programme Implementation"
+  },
+  {
+    "dcid": "dc/base/IndiaPoverty",
+    "license_category": "Restricted Government Copyright",
+    "closest_license_category": "",
+    "license": "https://www.niti.gov.in/copyright-policy",
+    "source_name": "National Institution For Transforming India"
+  },
+  {
+    "dcid": "dc/base/IndiaWRISWaterQuality",
+    "license_category": "Government Open Data License - India",
+    "closest_license_category": "GovernmentOpenDataLicenseIndia",
+    "license": "https://www.data.gov.in/Godl",
+    "source_name": "India Water Resources Information System"
+  },
+  {
+    "dcid": "dc/base/Israel_Census",
+    "license_category": "CBS Custom Open License",
+    "closest_license_category": "CentralBureauOfStatisticsCbsIsraelLicense",
+    "license": "https://forum.hasadna.org.il/uploads/default/original/1X/5053ef9103b547ceff3de67a3899653affbe805d.pdf",
+    "source_name": "Central Bureau Of Statistics Cbs Israel"
+  },
+  {
+    "dcid": "dc/base/Japan_Census",
+    "license_category": "Government of Japan Standard Terms of Use",
+    "closest_license_category": "PortalSiteOfOfficialStatisticsOfJapanE-statLicense",
+    "license": "https://www.e-stat.go.jp/en/terms-of-use",
+    "source_name": "Portal Site Of Official Statistics Of Japan E-stat"
+  },
+  {
+    "dcid": "dc/base/MexicoCensus",
+    "license_category": "Free Use License",
+    "closest_license_category": "MexicoNationalInstituteOfStatisticsAndGeographyInegiLicense",
+    "license": "https://en.www.inegi.org.mx/inegi/terminos.html",
+    "source_name": "Mexico National Institute Of Statistics And Geography Inegi"
+  },
+  {
+    "dcid": "dc/base/MexicoCensus_AA2",
+    "license_category": "Proprietary / Restricted Non-Commercial License",
+    "closest_license_category": "UnitedNationsOfficeForTheCoordinationOfHumanitarianAffairsUnOchaLicense",
+    "license": "https://gms.unocha.org/en/content/terms-and-conditions-use",
+    "source_name": "United Nations Office For The Coordination Of Humanitarian Affairs Un Ocha"
+  },
+  {
+    "dcid": "dc/base/NYT_COVID19",
+    "license_category": "Strictly Proprietary / All Rights Reserved",
+    "closest_license_category": "TheNewYorkTimesLicense",
+    "license": "https://help.nytimes.com/115014893428-Terms-of-Service",
+    "source_name": "The New York Times"
+  },
+  {
+    "dcid": "dc/base/RandolphGlacierInventory_Area",
+    "license_category": "Open Access",
+    "closest_license_category": "GlobalLandIceMeasurementsFromSpaceGlimsLicense",
+    "license": "https://www.glims.org/About/citations.html",
+    "source_name": "Global Land Ice Measurements From Space Glims"
+  },
+  {
+    "dcid": "dc/base/UN_SDG",
+    "license_category": "Proprietary / Restricted Non-Commercial License",
+    "closest_license_category": "UnitedNationsUnLicense",
+    "license": "https://www.un.org/en/about-us/terms-of-use",
+    "source_name": "United Nations Un"
+  },
+  {
+    "dcid": "dc/base/WRIS_India_Rainfall",
+    "license_category": "Government Open Data License - India",
+    "closest_license_category": "GovernmentOpenDataLicenseIndia",
+    "license": "https://www.data.gov.in/Godl",
+    "source_name": "India Water Resources Information System"
+  },
+  {
+    "dcid": "dc/base/WetBulbTemperatureEventPlaces_AutoRefresh",
+    "license_category": "Creative Commons Attribution License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://developers.google.com/terms",
+    "source_name": "Data Commons"
+  },
+  {
+    "dcid": "dc/base/UN_WHO",
+    "license_category": "Creative Commons Attribution Non-Commercial ShareAlike License",
+    "closest_license_category": "CreativeCommonsAttributionNonCommercialShareAlikeLicense",
+    "license": "https://www.who.int/about/policies/publishing/copyright",
+    "source_name": "World Health Organization Who"
+  },
+  {
+    "dcid": "dc/base/GenderIncomeInequality",
+    "license_category": "Creative Commons Attribution License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://developers.google.com/terms",
+    "source_name": "Data Commons"
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsNeighborhoods",
+    "license_category": "Creative Commons Attribution License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://github.com/orgs/OpportunityInsights/repositories",
+    "source_name": "Opportunity Insights"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_MTBS",
+    "license_category": "Creative Commons Attribution Non-Commercial No Derivatives License",
+    "closest_license_category": "CreativeCommonsAttributionNonCommercialNoDerivativesLicense",
+    "license": "https://www.rff.org/privacy-policy/",
+    "source_name": "Resources For The Future Rff"
+  },
+  {
+    "dcid": "dc/base/WikipediaStatsData",
+    "license_category": "Creative Commons Attribution ShareAlikeLicense",
+    "closest_license_category": "CreativeCommonsAttributionShareAlikeLicense",
+    "license": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+    "source_name": ""
+  },
+  {
+    "dcid": "dc/base/Eurostat_Early_Education_Training",
+    "license_category": "Creative Commons Attribution 4.0 License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "source_name": "European Union Eu Eurostat"
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsOutcomes",
+    "license_category": "Creative Commons Attribution License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://github.com/orgs/OpportunityInsights/repositories",
+    "source_name": "Opportunity Insights"
+  },
+  {
+    "dcid": "dc/base/Sweden_Census",
+    "license_category": "Creative Commons Attribution License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://www.scb.se/en/About-us/about-the-website-and-terms-of-use/accessibility-statement/",
+    "source_name": "Statistics Sweden"
+  },
+  {
+    "dcid": "dc/base/UnitedKingdomMHCLG_IMD2019",
+    "license_category": "Open Government Licence v3.0",
+    "closest_license_category": "UKOpenGovernmentLicence",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "source_name": "Uk Ministry Of Housing Communities And Local Government"
+  },
+  {
+    "dcid": "dc/base/Brazil_FoodDsitribution",
+    "license_category": "Creative Commons Attribution-NoDerivatives 3.0 Unported",
+    "closest_license_category": "CreativeCommonsAttributionNoDerivativesLicense",
+    "license": "https://www.gov.br/mds/pt-br/pt-br/acesso-a-informacao/participacao-social/fale-conosco",
+    "source_name": "Brazil Ministry Of Development And Social Assistance Family And Fight Against Hunger"
+  },
+  {
+    "dcid": "dc/base/Vietnam_Census",
+    "license_category": "Government-Controlled / Restricted Use",
+    "closest_license_category": "GeneralStatisticsOfficeGsoVietnamLicense",
+    "license": "https://www.nso.gov.vn/en/legal-document/",
+    "source_name": "General Statistics Office Gso Vietnam"
+  },
+  {
+    "dcid": "dc/base/WikidataPopulation",
+    "license_category": "Creative Commons Attribution ShareAlikeLicense",
+    "closest_license_category": "CreativeCommonsAttributionShareAlikeLicense",
+    "license": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+    "source_name": "Wikimedia Foundation"
+  },
+  {
+    "dcid": "dc/base/India_GeoSadak",
+    "license_category": "Government Open Data License - India",
+    "closest_license_category": "GovernmentOpenDataLicenseIndia",
+    "license": "https://www.data.gov.in/Godl",
+    "source_name": "Geosadak Pmgsy National Gis India"
+  },
+  {
+    "dcid": "dc/base/INPE_Fire_Event_Count",
+    "license_category": "Creative Commons Attribution ShareAlikeLicense",
+    "closest_license_category": "CreativeCommonsAttributionShareAlikeLicense",
+    "license": "https://terrabrasilis.dpi.inpe.br/en/about/",
+    "source_name": "Brazil Inpe- National Institute For Space Research"
+  },
+  {
+    "dcid": "dc/base/New_Zealand_Census",
+    "license_category": "Creative Commons Attribution License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://www.stats.govt.nz/about-us/copyright/",
+    "source_name": "Statistics Of New Zealand"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou",
+    "license_category": "Creative Commons Attribution Non-Commercial No Derivatives License",
+    "closest_license_category": "CreativeCommonsAttributionNonCommercialNoDerivativesLicense",
+    "license": "https://www.rff.org/privacy-policy/",
+    "source_name": "Resources For The Future Rff"
+  },
+  {
+    "dcid": "dc/base/Cotedivoire_Census",
+    "license_category": "Creative Commons Attribution 4.0 License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://dataportal.opendataforafrica.org/tzucfxc",
+    "source_name": "Open Data For Africa"
+  },
+  {
+    "dcid": "dc/base/Ireland_Census",
+    "license_category": "Open Data Commons Attribution License",
+    "closest_license_category": "OpenDataCommonsAttributionLicense",
+    "license": "https://www.cso.ie/en/aboutus/whoweare/copyrightpolicy/",
+    "source_name": "Central Statistics Office Cso Ireland"
+  },
+  {
+    "dcid": "dc/base/FAO_Currency_statvar",
+    "license_category": "Creative Commons Attribution 4.0 License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+    "source_name": "Food And Agriculture Organization Fao Of The United Nations"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_EchoLab",
+    "license_category": "Creative Commons Attribution Non-Commercial No Derivatives License",
+    "closest_license_category": "CreativeCommonsAttributionNonCommercialNoDerivativesLicense",
+    "license": "https://www.rff.org/privacy-policy/",
+    "source_name": "Resources For The Future Rff"
+  },
+  {
+    "dcid": "dc/base/Brazil_RuralDevelopmentProgram",
+    "license_category": "Creative Commons Attribution-NoDerivatives 3.0 Unported",
+    "closest_license_category": "CreativeCommonsAttributionNoDerivativesLicense",
+    "license": "https://www.gov.br/mds/pt-br/pt-br/acesso-a-informacao/participacao-social/fale-conosco",
+    "source_name": "Brazil Ministry Of Development And Social Assistance Family And Fight Against Hunger"
+  },
+  {
+    "dcid": "dc/base/FAO_Currency",
+    "license_category": "Creative Commons Attribution 4.0 License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+    "source_name": "Food And Agriculture Organization Fao Of The United Nations"
+  },
+  {
+    "dcid": "dc/base/OWID_COVID19",
+    "license_category": "Creative Commons Attribution License",
+    "closest_license_category": "CreativeCommonsAttributionLicense",
+    "license": "https://ourworldindata.org/faqs",
+    "source_name": "Our World In Data"
+  }
+]

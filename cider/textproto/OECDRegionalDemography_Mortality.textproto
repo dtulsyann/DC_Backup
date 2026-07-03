@@ -1,0 +1,25 @@
+import: {
+  import_name: "OECDRegionalDemography_Mortality"
+  provenance_url: "https://stats.oecd.org/Index.aspx?DataSetCode=REGION_DEMOGR#"
+  category: STATS
+  provenance_description: "Mortality statistics measured by age and gender by OECD."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oecd/regional_demography/mortality/cleaned/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/mortality/cleaned/OECD_mortality_cleaned.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/mortality/cleaned/OECD_mortality_cleaned.csv"
+  }
+  #Retained dataset
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oecd/regional_demography/mortality/retained/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/mortality/retained/OECD_mortality_retained.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/mortality/retained/OECD_mortality_retained.csv"
+  }
+  import_groups: "infrequent"
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  start_date_in_kg: "2001"
+  end_date_in_kg: "2017"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "OECD Regional Demography Statistics Mortality"
+}

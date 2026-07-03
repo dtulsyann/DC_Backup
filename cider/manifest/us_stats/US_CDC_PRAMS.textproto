@@ -1,0 +1,15 @@
+import: {
+  import_name: "US_CDC_PRAMS"
+  provenance_url: "https://www.cdc.gov/prams/prams-data/"
+  provenance_description: "It is a population-based surveillance system designed to identify groups of women and infants at high risk for health problems, to monitor changes in health status, and to measure progress towards goals in improving the health of mothers and infants for USA."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/prams/20231228/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/prams/20231228/PRAMS-MCH-Indicators-2016-20211.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/prams/20231228/PRAMS*.csv"
+  }
+  start_date_in_kg: "2016"
+  end_date_in_kg: "2021"
+  import_groups: "infrequent"
+  dataset_name: "Pregnancy Risk Assessment Monitoring System (PRAMS)"
+}

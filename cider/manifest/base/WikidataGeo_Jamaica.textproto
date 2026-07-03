@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Jamaica"
+  provenance_url: "https://en.wikipedia.org/wiki/Parishes_of_Jamaica"
+  category: PLACE
+  provenance_description: "Includes the parishes(Administrative Area 1 division) of Jamaica."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Jamaica/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Jamaica/wikidata/jam.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Jamaica/wikidata/Jamaica-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

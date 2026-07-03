@@ -1,0 +1,35 @@
+import: {
+  # Includes tables 1 (summary), 48-54 (owner race)
+  # https://www.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_2_US_State_Level/
+  # TODO(b/203363253): Reconcile with USDA_AgricultureCensus import.
+  import_name: "USDA_AgricultureSurvey"
+  provenance_url: "https://quickstats.nass.usda.gov/"
+  category: STATS
+  provenance_description: "Annual survey data tracking crop acreage, yields, livestock inventories, and agricultural economic indicators."
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+
+  # TODO(b/203363253): Import earlier dates
+  release_frequency: "P1Y"
+  # Agriculture Survey stats 2024 - 2025.
+  # Used USDA quickstats API: https://quickstats.nass.usda.gov/api/
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_usda/ag_survey/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_survey/latest/ag.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_survey/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_usda/quickstats/USDA_AgricultureSurvey/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_usda/quickstats/USDA_AgricultureSurvey/import_metadata_mcf.mcf"
+  # Agriculture Survey stats 2000 - 2023.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_usda/ag_survey/historical_data/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_survey/historical_data/ag.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_survey/historical_data/*.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Agricultural Survey"
+}

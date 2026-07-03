@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Niger_ADM2
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Niger/ADM2/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Departments_of_Niger"
+lastDataRefreshDate: "2024-10-28"
+earliestDataImportDate: "2024-10-28"

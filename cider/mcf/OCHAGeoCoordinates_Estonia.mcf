@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Estonia
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionLicense
+# processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Estonia/BoundaryFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-est"
+lastDataRefreshDate : "2024-04-29"
+earliestDataImportDate : "2024-04-29"

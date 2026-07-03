@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CDCMortality
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/other/agencymaterials.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://source.corp.google.com/piper///depot/google3/datacommons/mcf/cdc/cdc_mortality/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/mortality"
+sourceDataUrl: "https://wonder.cdc.gov/cmf-icd10.html"
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://wonder.cdc.gov/wonder/help/mcd-provisional.html"
+automaticRefreshType: "NoAutomaticRefresh"

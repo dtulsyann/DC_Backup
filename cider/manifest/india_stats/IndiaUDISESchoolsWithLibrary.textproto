@@ -1,0 +1,18 @@
+import: {
+  import_name: "IndiaUDISESchoolsWithLibrary"
+  provenance_url: "https://dashboard.udiseplus.gov.in/"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_udise/udise_schools_having_library/nodes.mcf@100"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "udiseCode"
+    kg_for_resolution: KG_MCF
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_schools_having_library/UDISEIndia_Schools_Having_Library.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_schools_having_library/UDISEIndia_Schools_Having_Library.csv"
+  }
+  dataset_name: "Unified District Information System for Education (UDISE)"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_NewZealand
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/NZL/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/NZL/ADM1/BoundaryFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/NZL/ADM1"
+lastDataRefreshDate: "2024-05-03"
+earliestDataImportDate: "2024-05-03"

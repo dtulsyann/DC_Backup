@@ -1,0 +1,25 @@
+import: {
+  import_name: "USFed_ConstantMaturityRates"
+  provenance_url: "https://www.federalreserve.gov/releases/h15/"
+  category: STATS
+  provenance_description: "U.S. Federal Reserve Constant Maturity Rates"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_fed/treasury_constant_maturity_rates/treasury_constant_maturity_rates_20230906/nodes.mcf@1"
+  mcf_gcs_path_prefix: "/bigstore/datcom-prod-imports/prophet/"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_fed/treasury_constant_maturity_rates/treasury_constant_maturity_rates_20230906/treasury_constant_maturity_rates.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_fed/treasury_constant_maturity_rates/treasury_constant_maturity_rates_20230906/treasury_constant_maturity_rates.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_fed/treasury_constant_maturity_rates/USFed_ConstantMaturityRates/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_fed/treasury_constant_maturity_rates/USFed_ConstantMaturityRates/import_metadata_mcf.mcf"
+  import_groups: "infrequent"
+  import_groups: "auto1d"
+  automated_mcf_generation_by: "auto1d"
+  release_frequency: "P1D"
+  data_download_url: "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15"
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "Treasury Nominal and Inflation-Indexed Constant Maturity Series"
+}

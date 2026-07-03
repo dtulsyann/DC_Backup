@@ -1,0 +1,13 @@
+import: {
+  import_name: "SIDER"
+  dataset_name: "Side Effect Resource (SIDER) 4.1"
+  provenance_url: "http://sideeffects.embl.de/"
+  category: ENTITY
+  import_groups: "experimental"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/sider/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/sider/sider.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/sider/sider.csv"
+  }
+}

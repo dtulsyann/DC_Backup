@@ -1,0 +1,23 @@
+import {
+  import_name: "DynamicWorld_FloodEvents_AutoRefresh"
+  provenance_url: "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+  provenance_description: "Flood events inferred from areas marked with high probability of water outside the permanent water bodies."
+  category: ENTITY
+  import_groups: "frequent"
+  import_groups: "auto2w"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2023"
+  release_frequency: "P3M"
+  automated_mcf_generation_by: "auto2w"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/floods/events/nodes.mcf@100"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/floods/events/flood_events.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/floods/events/*events.csv"
+    download_config: {
+      src_prefix_dir: "/bigstore/datcom-prod-imports/scripts/floods/events"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/floods/DynamicWorld_FloodEvents_AutoRefresh/import_metadata_mcf.mcf"
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "Inferred Floods from Dynamic World"
+}

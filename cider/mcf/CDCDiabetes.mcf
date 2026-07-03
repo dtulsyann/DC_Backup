@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CDCDiabetes
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/other/agencymaterials.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/diabetes/20240112"
+sourceDataUrl: "https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#"
+lastDataRefreshDate: "2024-01-12"
+descriptionUrl: "https://www.cdc.gov/diabetes/data/statistics-report/appendix.html"
+automaticRefreshType: "NoAutomaticRefresh"

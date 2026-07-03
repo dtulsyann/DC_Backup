@@ -1,0 +1,9 @@
+import: {
+  # NOTE: All StatVar nodes with curated DCIDs should go in this import.
+  import_name: "HumanReadableStatVars"
+  provenance_url: "https://datacommons.org"
+  category: CURATED_STATVAR
+  mcf_url: "/memfile/resolved_mcfs_memfile/schema/stat_vars/*.mcf"
+  import_groups: "schema"
+  dataset_name: "Data Commons Schema"
+}

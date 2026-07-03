@@ -1,0 +1,500 @@
+[
+  {
+    "dcid": "dc/base/ACSED5YrSurvey",
+    "license": "https://ies.ed.gov/accessibility-statement",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/BEAGDPPriceParity",
+    "license": "https://www.bea.gov/about/policies-and-information",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/Brazil_FoodDsitribution",
+    "license": "https://www.gov.br/mds/pt-br/pt-br/acesso-a-informacao/participacao-social/fale-conosco",
+    "licenseType": "Creative Commons Attribution-NoDerivatives 3.0 Unported",
+    "chosen_license_category": "CreativeCommonsAttributionNoDerivativesLicense"
+  },
+  {
+    "dcid": "dc/base/Brazil_RuralDevelopmentProgram",
+    "license": "https://www.gov.br/mds/pt-br/pt-br/acesso-a-informacao/participacao-social/fale-conosco",
+    "licenseType": "Creative Commons Attribution-NoDerivatives 3.0 Unported",
+    "chosen_license_category": "CreativeCommonsAttributionNoDerivativesLicense"
+  },
+  {
+    "dcid": "dc/base/CBECS_Energy",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/CDCPM25",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/CaliforniaSchoolPerformance",
+    "license": "https://www.ca.gov/legal/conditions-of-use/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/CensusACSBtable5YearSurvey_Btable_B25031",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/CensusSuperTMCFTable_ECNBASIC2012_EC1200A1",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/Cotedivoire_Census",
+    "license": "https://dataportal.opendataforafrica.org/tzucfxc",
+    "licenseType": "Creative Commons Attribution 4.0 License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/EPA_GHGRP_ParentCompanies_Ownership",
+    "license": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/Eurostat_Early_Education_Training",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "licenseType": "Creative Commons Attribution 4.0 License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/FAO_Currency",
+    "license": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+    "licenseType": "Creative Commons Attribution 4.0 License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/FAO_Currency_statvar",
+    "license": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+    "licenseType": "Creative Commons Attribution 4.0 License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/FBIHateCrime",
+    "license": "https://www.fbi.gov/privacy-policy",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/FBIHateCrimePublications",
+    "license": "https://www.fbi.gov/privacy-policy",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/FEC",
+    "license": "https://www.fec.gov/accessibility-statement/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/FeedingAmerica_FoodInsecurity",
+    "license": "https://www.feedingamerica.org/privacy-policy",
+    "licenseType": "Standard Copyright",
+    "chosen_license_category": "FeedingAmericaLicense"
+  },
+  {
+    "dcid": "dc/base/FeedingAmerica_MapMealGap",
+    "license": "https://www.feedingamerica.org/privacy-policy",
+    "licenseType": "Standard Copyright",
+    "chosen_license_category": "FeedingAmericaLicense"
+  },
+  {
+    "dcid": "dc/base/GenderIncomeInequality",
+    "license": "https://developers.google.com/terms",
+    "licenseType": "Creative Commons Attribution License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/INPE_Fire_Event_Count",
+    "license": "https://terrabrasilis.dpi.inpe.br/en/about/",
+    "licenseType": "Creative Commons Attribution ShareAlikeLicense",
+    "chosen_license_category": "CreativeCommonsAttributionShareAlikeLicense"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_Primary",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "licenseType": "Restricted Government Copyright",
+    "chosen_license_category": "CensusOfIndiaLicense"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryHouseless",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "licenseType": "Restricted Government Copyright",
+    "chosen_license_category": "CensusOfIndiaLicense"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryReligion",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "licenseType": "Restricted Government Copyright",
+    "chosen_license_category": "CensusOfIndiaLicense"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimarySC",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "licenseType": "Restricted Government Copyright",
+    "chosen_license_category": "CensusOfIndiaLicense"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryST",
+    "license": "https://censusindia.gov.in/census.website/en/node/288",
+    "licenseType": "Restricted Government Copyright",
+    "chosen_license_category": "CensusOfIndiaLicense"
+  },
+  {
+    "dcid": "dc/base/IndiaNHM",
+    "license": "https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_manual/cso_all_manual/pooling_of_central_and_state_sample_data/T&C.pdf",
+    "licenseType": "Indian Government Proprietary Copyright",
+    "chosen_license_category": ""
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_DailyWages",
+    "license": "https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_manual/cso_all_manual/pooling_of_central_and_state_sample_data/T&C.pdf",
+    "licenseType": "Indian Government Proprietary Copyright",
+    "chosen_license_category": ""
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_Wages",
+    "license": "https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_manual/cso_all_manual/pooling_of_central_and_state_sample_data/T&C.pdf",
+    "licenseType": "Indian Government Proprietary Copyright",
+    "chosen_license_category": ""
+  },
+  {
+    "dcid": "dc/base/IndiaPoverty",
+    "license": "https://www.niti.gov.in/copyright-policy",
+    "licenseType": "Restricted Government Copyright",
+    "chosen_license_category": ""
+  },
+  {
+    "dcid": "dc/base/IndiaWRISWaterQuality",
+    "license": "https://www.data.gov.in/Godl",
+    "licenseType": "Government Open Data License - India",
+    "chosen_license_category": "GovernmentOpenDataLicenseIndia"
+  },
+  {
+    "dcid": "dc/base/India_GeoSadak",
+    "license": "https://www.data.gov.in/Godl",
+    "licenseType": "",
+    "chosen_license_category": "GovernmentOpenDataLicenseIndia"
+  },
+  {
+    "dcid": "dc/base/Indonesia_Census",
+    "license": "https://www.wipo.int/wipolex/en/legislation/details/15600",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/Ireland_Census",
+    "license": "https://www.cso.ie/en/aboutus/whoweare/copyrightpolicy/",
+    "licenseType": "Open Data Commons Attribution License",
+    "chosen_license_category": "OpenDataCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/Israel_Census",
+    "license": "https://www.cbs.gov.il/he/CBSNewBrand/Pages/%D7%A8%D7%99%D7%A9%D7%99%D7%95%D7%9F-%D7%A9%D7%99%D7%9E%D7%95%D7%A9.aspx",
+    "licenseType": "CBS Custom Open License",
+    "chosen_license_category": "CentralBureauOfStatisticsCbsIsraelLicense"
+  },
+  {
+    "dcid": "dc/base/Japan_Census",
+    "license": "https://www.e-stat.go.jp/en/terms-of-use",
+    "licenseType": "Government of Japan Standard Terms of Use",
+    "chosen_license_category": "PortalSiteOfOfficialStatisticsOfJapanE-statLicense"
+  },
+  {
+    "dcid": "dc/base/MexicoCensus",
+    "license": "https://en.www.inegi.org.mx/inegi/terminos.html",
+    "licenseType": "Free Use License",
+    "chosen_license_category": "MexicoNationalInstituteOfStatisticsAndGeographyInegiLicense"
+  },
+  {
+    "dcid": "dc/base/MexicoCensus_AA2",
+    "license": "https://gms.unocha.org/en/content/terms-and-conditions-use",
+    "licenseType": "Proprietary / Restricted Non-Commercial License",
+    "chosen_license_category": "UnitedNationsOfficeForTheCoordinationOfHumanitarianAffairsUnOchaLicense"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXDCP30",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_PDFs",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Country",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_IpccPlaces50",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Subnational",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_SeaLevelProjections_CMIP6",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NASA_VIIRSActiveFiresEvent_Observations",
+    "license": "https://sti.nasa.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NCES_HBCU_Enrollment_Import",
+    "license": "https://nces.ed.gov/statprog/licenseapp/licenseinfo",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NCES_NationsReportCard",
+    "license": "https://nces.ed.gov/statprog/licenseapp/licenseinfo",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceSalinity",
+    "license": "https://www.weather.gov/disclaimer",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceTemperature",
+    "license": "https://www.weather.gov/disclaimer",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NOAA_EPA_Observed_Historical_Weather",
+    "license": "https://www.weather.gov/disclaimer",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NOAA_GFS_WeatherForecast",
+    "license": "https://www.weather.gov/disclaimer",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/NYT_COVID19",
+    "license": "https://help.nytimes.com/115014893428-Terms-of-Service",
+    "licenseType": "Strictly Proprietary / All Rights Reserved",
+    "chosen_license_category": "TheNewYorkTimesLicense"
+  },
+  {
+    "dcid": "dc/base/New_Zealand_Census",
+    "license": "https://www.stats.govt.nz/about-us/copyright/",
+    "licenseType": "Creative Commons Attribution License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/OWID_COVID19",
+    "license": "https://ourworldindata.org/faqs",
+    "licenseType": "Creative Commons Attribution License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsNeighborhoods",
+    "license": "https://github.com/orgs/OpportunityInsights/repositories",
+    "licenseType": "Creative Commons Attribution License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsOutcomes",
+    "license": "https://github.com/orgs/OpportunityInsights/repositories",
+    "licenseType": "Creative Commons Attribution License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_EchoLab",
+    "license": "https://www.rff.org/privacy-policy/",
+    "licenseType": "Creative Commons Attribution Non-Commercial No Derivatives License",
+    "chosen_license_category": "CreativeCommonsAttributionNonCommercialNoDerivativesLicense"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_MTBS",
+    "license": "https://www.rff.org/privacy-policy/",
+    "licenseType": "Creative Commons Attribution Non-Commercial No Derivatives License",
+    "chosen_license_category": "CreativeCommonsAttributionNonCommercialNoDerivativesLicense"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou",
+    "license": "https://www.rff.org/privacy-policy/",
+    "licenseType": "Creative Commons Attribution Non-Commercial No Derivatives License",
+    "chosen_license_category": "CreativeCommonsAttributionNonCommercialNoDerivativesLicense"
+  },
+  {
+    "dcid": "dc/base/RandolphGlacierInventory_Area",
+    "license": "https://www.glims.org/About/citations.html",
+    "licenseType": "Open Access",
+    "chosen_license_category": "GlobalLandIceMeasurementsFromSpaceGlimsLicense"
+  },
+  {
+    "dcid": "dc/base/Sweden_Census",
+    "license": "https://www.scb.se/en/About-us/about-the-website-and-terms-of-use/accessibility-statement/",
+    "licenseType": "Creative Commons Attribution License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/UN_SDG",
+    "license": "https://www.un.org/en/about-us/terms-of-use",
+    "licenseType": "Proprietary / Restricted Non-Commercial License",
+    "chosen_license_category": "UnitedNationsUnLicense"
+  },
+  {
+    "dcid": "dc/base/UN_WHO",
+    "license": "https://www.who.int/about/policies/publishing/copyright",
+    "licenseType": "Creative Commons Attribution Non-Commercial ShareAlike License",
+    "chosen_license_category": "CreativeCommonsAttributionNonCommercialShareAlikeLicense"
+  },
+  {
+    "dcid": "dc/base/USCensusGeos_SurfaceArea",
+    "license": "https://www.census.gov/about/policies/privacy/privacy-policy.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/USDOL_ETA539",
+    "license": "https://www.dol.gov/general/aboutdol/copyright",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/USDecennialCensus_RedistrictingRelease",
+    "license": "https://www.census.gov/about/policies/privacy/privacy-policy.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/USEconomicCensus",
+    "license": "https://www.census.gov/about/policies/privacy/privacy-policy.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/USFed_ConstantMaturityRates",
+    "license": "https://www.federalreserveconsumerhelp.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/USGSWaterUse",
+    "license": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/US_CDC_PRAMS",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/US_Federal_Rates",
+    "license": "https://www.federalreserveconsumerhelp.gov/disclaimers/",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/UnitedKingdomMHCLG_IMD2019",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "licenseType": "Open Government Licence v3.0",
+    "chosen_license_category": "UKOpenGovernmentLicence"
+  },
+  {
+    "dcid": "dc/base/UniversityData",
+    "license": "https://www.ed.gov/about/ed-overview/required-notices/website-policies/copyright-status-notice",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  },
+  {
+    "dcid": "dc/base/Vietnam_Census",
+    "license": "https://www.nso.gov.vn/en/legal-document/",
+    "licenseType": "Government-Controlled / Restricted Use",
+    "chosen_license_category": "GeneralStatisticsOfficeGsoVietnamLicense"
+  },
+  {
+    "dcid": "dc/base/WRIS_India_Rainfall",
+    "license": "https://www.data.gov.in/Godl",
+    "licenseType": "Government Open Data License - India",
+    "chosen_license_category": "GovernmentOpenDataLicenseIndia"
+  },
+  {
+    "dcid": "dc/base/WetBulbTemperatureEventPlaces_AutoRefresh",
+    "license": "https://developers.google.com/terms",
+    "licenseType": "Creative Commons Attribution License",
+    "chosen_license_category": "CreativeCommonsAttributionLicense"
+  },
+  {
+    "dcid": "dc/base/WikidataPopulation",
+    "license": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+    "licenseType": "Creative Commons Attribution ShareAlikeLicense",
+    "chosen_license_category": "CreativeCommonsAttributionShareAlikeLicense"
+  },
+  {
+    "dcid": "dc/base/WikipediaStatsData",
+    "license": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+    "licenseType": "Creative Commons Attribution ShareAlikeLicense",
+    "chosen_license_category": "CreativeCommonsAttributionShareAlikeLicense"
+  },
+  {
+    "dcid": "dc/base/usa_child_birth",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "licenseType": "PublicDomain",
+    "chosen_license_category": "PublicDomain"
+  }
+]

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/US_SAT_ACT_Participation_state
+typeOf: dcid:Provenance
+license: "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/us_education/us_urbaneducation_school/school_sat_and_act_participation/sat_act_state/latest/input_files_state/"
+sourceDataUrl: "https://civilrightsdata.ed.gov/data"
+descriptionUrl: "https://civilrightsdata.ed.gov/assets/downloads/2021-22%20Appendix%20Workbook.xlsx","https://civilrightsdata.ed.gov/assets/downloads/2020-21%20Appendix%20Workbook.xlsx","https://civilrightsdata.ed.gov/assets/for-researchers/appendix/Appendix-C-LEAs-Identified-with-Post-Submission-Data-Quality-Checks.xlsx","https://civilrightsdata.ed.gov/assets/for-researchers/appendix/2015-16-data-notes-addendum.pdf"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_urban_school/sat_act_participation/state/README.md"

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/ZurichGeoImport_ADM1
+typeOf: dcs:Provenance
+license : "http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/64091dfe-2785-4b8d-ab01-4ae291c1054a/formatters/xsl-view?root=div&view=advanced"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Zurich/ADM1/InputFiles/"
+sourceDataUrl : "https://data.stadt-zuerich.ch/dataset/geo_stadtkreise"
+lastDataRefreshDate: "2024-11-30"
+earliestDataImportDate: "2024-11-26"

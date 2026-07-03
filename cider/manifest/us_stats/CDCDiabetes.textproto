@@ -1,0 +1,19 @@
+import: {
+  import_name: "CDCDiabetes"
+  provenance_url: "https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html"
+  category: STATS
+  provenance_description: "County-level data and estimates regarding diabetes prevalence and incidence in the United States."
+  start_date_in_kg: "2004"
+  end_date_in_kg: "2021"
+  release_frequency: "P1Y"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/diabetes/20240112/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/diabetes/20240112/DiabetesAtlasCountyData_female_inactivity2018.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/diabetes/20240112/DiabetesAtlasCountyData*.csv"
+  }
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "Diabetes Surveillance System"
+}

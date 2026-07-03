@@ -1,0 +1,14 @@
+import {
+  import_name: "Colombia_Census"
+  provenance_url: "https://www.dane.gov.co/index.php/en/statistics-by-topic"
+  category: STATS
+  provenance_description: "Colombia Demographics, Health, Education data from National Administrative Department of Statistics at Country, Departments and Municipality of Residence."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/colombia/20230719/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/colombia/20230719/colombia_census_common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/colombia/20230719/*.csv"
+  }
+  #import_groups: "country"
+  import_groups: "experimental"
+  dataset_name: "Colombia Census"
+}

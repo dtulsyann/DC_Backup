@@ -1,0 +1,25 @@
+import: {
+  # NOTE: Even though this has international data, currently we only extract
+  # US-level data.
+  # TODO(shanth): Add table.download_config, set automated_mcf_generation_by
+  #               and move it to "dcbranch" once the upstream auto-refresh is
+  #               working (https://github.com/datacommonsorg/data/issues/628).
+  import_name: "Google_COVID19Mobility"
+  provenance_url: "https://www.google.com/covid19/mobility/"
+  category: STATS
+  provenance_description: "Aggregated and anonymized data showing movement trends across different categories of places during the COVID-19 pandemic."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/google_covid/mobility/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/google_covid/mobility/latest/covid_mobility.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/google_covid/mobility/latest/covid_mobility.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/google_covid/mobility/Google_COVID19Mobility/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/google_covid/mobility/Google_COVID19Mobility/import_metadata_mcf.mcf"
+  release_frequency: "P1D"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "COVID-19 Community Mobility Reports"
+}

@@ -1,0 +1,18 @@
+import: {
+  import_name: "IndiaLGDCodes"
+  provenance_url: "https://lgdirectory.gov.in/downloadDirectory.do?OWASP_CSRFTOKEN=G4BW-2HK0-ZHUD-605W-VA1F-EAC8-M9J0-W4S5"
+  provenance_description: "Indian local government directory codes for land regions/revenue, rural and urban local governments."
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_lgd/lgd_districts/20230831/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_lgd/lgd_districts/20230831/LocalGovernmentDirectory_Districts.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_lgd/lgd_districts/20230831/LocalGovernmentDirectory_Districts.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_lgd/lgd_states/20230831/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_lgd/lgd_states/20230831/LocalGovernmentDirectory_States.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_lgd/lgd_states/20230831/LocalGovernmentDirectory_States.csv"
+  }
+  import_groups: "place"
+  dataset_name: "India Local Government Directory"
+}

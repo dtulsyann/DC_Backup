@@ -1,0 +1,2092 @@
+[
+  {
+    "dataset_dcid": "dc/d/WikimediaFoundation_Wikidata",
+    "dataset_name": "Wikidata",
+    "provenance_count": 84,
+    "provenances": [
+      "dc/base/WikidataGeo_Afghanistan",
+      "dc/base/WikidataGeo_Afghanistan_ADM2",
+      "dc/base/WikidataGeo_Albania",
+      "dc/base/WikidataGeo_Argentina",
+      "dc/base/WikidataGeo_Bahamas",
+      "dc/base/WikidataGeo_Bahrain",
+      "dc/base/WikidataGeo_Belarus",
+      "dc/base/WikidataGeo_BosniaAndHerzegovina_ADM2",
+      "dc/base/WikidataGeo_Brazil_AA1",
+      "dc/base/WikidataGeo_Brunei",
+      "dc/base/WikidataGeo_CapeVerde",
+      "dc/base/WikidataGeo_CapeVerde_ADM2",
+      "dc/base/WikidataGeo_Congo",
+      "dc/base/WikidataGeo_Croatia",
+      "dc/base/WikidataGeo_Cyprus",
+      "dc/base/WikidataGeo_Dominica",
+      "dc/base/WikidataGeo_Estonia",
+      "dc/base/WikidataGeo_Federated_States_of_Micronesia",
+      "dc/base/WikidataGeo_Federated_States_of_Micronesia_ADM2",
+      "dc/base/WikidataGeo_Fiji",
+      "dc/base/WikidataGeo_Finland",
+      "dc/base/WikidataGeo_France",
+      "dc/base/WikidataGeo_GB_Ireland",
+      "dc/base/WikidataGeo_Gabon",
+      "dc/base/WikidataGeo_Gambia",
+      "dc/base/WikidataGeo_Ghana",
+      "dc/base/WikidataGeo_Greece",
+      "dc/base/WikidataGeo_Greenland",
+      "dc/base/WikidataGeo_Guinea",
+      "dc/base/WikidataGeo_Guinea_Bissau",
+      "dc/base/WikidataGeo_Guinea_Bissau_ADM2",
+      "dc/base/WikidataGeo_Honduras_ADM2",
+      "dc/base/WikidataGeo_Iceland",
+      "dc/base/WikidataGeo_Israel",
+      "dc/base/WikidataGeo_Jamaica",
+      "dc/base/WikidataGeo_Japan",
+      "dc/base/WikidataGeo_Jordan",
+      "dc/base/WikidataGeo_Kiribati",
+      "dc/base/WikidataGeo_Latvia",
+      "dc/base/WikidataGeo_Latvia_ADM2",
+      "dc/base/WikidataGeo_Liechtenstein",
+      "dc/base/WikidataGeo_Lithuania",
+      "dc/base/WikidataGeo_Lithuania_ADM2",
+      "dc/base/WikidataGeo_Luxembourg",
+      "dc/base/WikidataGeo_Macedonia",
+      "dc/base/WikidataGeo_Madagascar",
+      "dc/base/WikidataGeo_Madagascar_ADM2",
+      "dc/base/WikidataGeo_Moldova",
+      "dc/base/WikidataGeo_Monaco",
+      "dc/base/WikidataGeo_Myanmar",
+      "dc/base/WikidataGeo_NewZealand",
+      "dc/base/WikidataGeo_NewZealand_ADM2",
+      "dc/base/WikidataGeo_Niger",
+      "dc/base/WikidataGeo_Niger_ADM2",
+      "dc/base/WikidataGeo_NorthKorea",
+      "dc/base/WikidataGeo_Norway",
+      "dc/base/WikidataGeo_OCHA_Ireland",
+      "dc/base/WikidataGeo_Pakistan",
+      "dc/base/WikidataGeo_Portugal",
+      "dc/base/WikidataGeo_Qatar",
+      "dc/base/WikidataGeo_Romania",
+      "dc/base/WikidataGeo_SaudiArabia",
+      "dc/base/WikidataGeo_Singapore",
+      "dc/base/WikidataGeo_Singapore_ADM2",
+      "dc/base/WikidataGeo_Slovenia",
+      "dc/base/WikidataGeo_Solomon_Islands",
+      "dc/base/WikidataGeo_Somalia",
+      "dc/base/WikidataGeo_Somalia_ADM2",
+      "dc/base/WikidataGeo_SouthKorea",
+      "dc/base/WikidataGeo_Sudan",
+      "dc/base/WikidataGeo_Switzerland_ADM2",
+      "dc/base/WikidataGeo_Tonga",
+      "dc/base/WikidataGeo_Tonga_ADM2",
+      "dc/base/WikidataGeo_TrinidadAndTobago",
+      "dc/base/WikidataGeo_Turkmenistan",
+      "dc/base/WikidataGeo_Ukraine",
+      "dc/base/WikidataGeo_UnitedArabEmirates",
+      "dc/base/WikidataGeo_UnitedKingdom",
+      "dc/base/WikidataGeos",
+      "dc/base/WikidataGeos_HongKong",
+      "dc/base/WikidataI18nNames",
+      "dc/base/WikidataIdDcidMappings",
+      "dc/base/WikidataOtherIdGeos",
+      "dc/base/WikidataPopulation"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_AmericanCommunitySurveyAcs",
+    "dataset_name": "American Community Survey (ACS)",
+    "provenance_count": 61,
+    "provenances": [
+      "dc/base/CensusACS1YearSurvey",
+      "dc/base/CensusACS5YearSurvey",
+      "dc/base/CensusACS5YearSurvey_AbilityToSpeakEnglish_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_AggCountry",
+      "dc/base/CensusACS5YearSurvey_AggCountry_SuperEnum",
+      "dc/base/CensusACS5YearSurvey_Demographics_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_Education_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_Employment_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_HealthInsurance_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_HousingUnit_HomeValue_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_InArmedForces_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_Income_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_Person_Age_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0101",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0503",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0504",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0505",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0506",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0701",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0701PR",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0801",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0804",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S0902",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1201",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1251",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1301",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1502",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1602",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1603",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1702",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1810",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1901",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S1903",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2001",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2201",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2303",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2405",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2406",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2407",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2408",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2409",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2418",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2502",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2601A",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2601APR",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2602",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2602PR",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2603",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2701",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2702",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2702PR",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2703",
+      "dc/base/CensusACS5YearSurvey_SubjectTables_S2704",
+      "dc/base/CensusACS5YearSurvey_SuperEnum",
+      "dc/base/CensusACSBtable5YearSurvey_Btable_B25031"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Geoboundaries_GlobalDatabaseOfPoliticalAdministrativeBoundariesDatabase",
+    "dataset_name": "Global Database of Political Administrative Boundaries Database",
+    "provenance_count": 42,
+    "provenances": [
+      "dc/base/GeoBoundaries_Afghanistan",
+      "dc/base/GeoBoundaries_Afghanistan_ADM2",
+      "dc/base/GeoBoundaries_Albania",
+      "dc/base/GeoBoundaries_Argentina",
+      "dc/base/GeoBoundaries_Bahamas",
+      "dc/base/GeoBoundaries_Belarus",
+      "dc/base/GeoBoundaries_BosniaAndHerzegovina_ADM2",
+      "dc/base/GeoBoundaries_Brazil_AA1",
+      "dc/base/GeoBoundaries_Brunei",
+      "dc/base/GeoBoundaries_CapeVerde_ADM2",
+      "dc/base/GeoBoundaries_Dominica",
+      "dc/base/GeoBoundaries_Federated_States_of_Micronesia",
+      "dc/base/GeoBoundaries_Federated_States_of_Micronesia_ADM2",
+      "dc/base/GeoBoundaries_Fiji",
+      "dc/base/GeoBoundaries_Greece",
+      "dc/base/GeoBoundaries_Guinea",
+      "dc/base/GeoBoundaries_Honduras_ADM2",
+      "dc/base/GeoBoundaries_Ireland",
+      "dc/base/GeoBoundaries_Israel",
+      "dc/base/GeoBoundaries_Jordan",
+      "dc/base/GeoBoundaries_Latvia",
+      "dc/base/GeoBoundaries_Latvia_ADM2",
+      "dc/base/GeoBoundaries_Macedonia",
+      "dc/base/GeoBoundaries_Madagascar_ADM2",
+      "dc/base/GeoBoundaries_Moldova",
+      "dc/base/GeoBoundaries_Myanmar",
+      "dc/base/GeoBoundaries_NewZealand",
+      "dc/base/GeoBoundaries_NewZealand_ADM2",
+      "dc/base/GeoBoundaries_Niger_ADM2",
+      "dc/base/GeoBoundaries_NorthKorea",
+      "dc/base/GeoBoundaries_Norway",
+      "dc/base/GeoBoundaries_Pakistan",
+      "dc/base/GeoBoundaries_Qatar",
+      "dc/base/GeoBoundaries_Romania",
+      "dc/base/GeoBoundaries_Solomon_Islands",
+      "dc/base/GeoBoundaries_SouthKorea",
+      "dc/base/GeoBoundaries_Sudan",
+      "dc/base/GeoBoundaries_Turkmenistan",
+      "dc/base/GeoBoundaries_UnitedKingdom",
+      "dc/base/OCHAGeoCoordinates_Liechtenstein",
+      "dc/base/OCHAGeoCoordinates_Monaco",
+      "dc/base/OCHAGeoCoordinates_Portugal"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_UnOchaSubnationalAdministrativeBoundaries",
+    "dataset_name": "UN OCHA Subnational Administrative Boundaries",
+    "provenance_count": 40,
+    "provenances": [
+      "dc/base/OCHAGeoCoordinates",
+      "dc/base/OCHAGeoCoordinatesExtended",
+      "dc/base/OCHAGeoCoordinates_ArabEmirates",
+      "dc/base/OCHAGeoCoordinates_Bahrain",
+      "dc/base/OCHAGeoCoordinates_CapeVerde",
+      "dc/base/OCHAGeoCoordinates_Congo",
+      "dc/base/OCHAGeoCoordinates_Croatia",
+      "dc/base/OCHAGeoCoordinates_Cyprus",
+      "dc/base/OCHAGeoCoordinates_Estonia",
+      "dc/base/OCHAGeoCoordinates_Finland",
+      "dc/base/OCHAGeoCoordinates_France",
+      "dc/base/OCHAGeoCoordinates_Gabon",
+      "dc/base/OCHAGeoCoordinates_Gambia",
+      "dc/base/OCHAGeoCoordinates_Ghana",
+      "dc/base/OCHAGeoCoordinates_Greenland",
+      "dc/base/OCHAGeoCoordinates_Guinea_Bissau",
+      "dc/base/OCHAGeoCoordinates_Guinea_Bissau_ADM2",
+      "dc/base/OCHAGeoCoordinates_HongKong",
+      "dc/base/OCHAGeoCoordinates_Iceland",
+      "dc/base/OCHAGeoCoordinates_Ireland",
+      "dc/base/OCHAGeoCoordinates_Jamaica",
+      "dc/base/OCHAGeoCoordinates_Japan",
+      "dc/base/OCHAGeoCoordinates_Kiribati",
+      "dc/base/OCHAGeoCoordinates_Lithuania",
+      "dc/base/OCHAGeoCoordinates_Lithuania_ADM2",
+      "dc/base/OCHAGeoCoordinates_Luxembourg",
+      "dc/base/OCHAGeoCoordinates_Madagascar",
+      "dc/base/OCHAGeoCoordinates_Niger",
+      "dc/base/OCHAGeoCoordinates_SaudiArabia",
+      "dc/base/OCHAGeoCoordinates_Simplified",
+      "dc/base/OCHAGeoCoordinates_Singapore",
+      "dc/base/OCHAGeoCoordinates_Singapore_ADM2",
+      "dc/base/OCHAGeoCoordinates_Slovenia",
+      "dc/base/OCHAGeoCoordinates_Somalia",
+      "dc/base/OCHAGeoCoordinates_Somalia_ADM2",
+      "dc/base/OCHAGeoCoordinates_Switzerland_ADM2",
+      "dc/base/OCHAGeoCoordinates_Tonga",
+      "dc/base/OCHAGeoCoordinates_Tonga_ADM2",
+      "dc/base/OCHAGeoCoordinates_TrinidadAndTobago",
+      "dc/base/OCHAGeoCoordinates_Ukraine"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Nex-GlobalDownscaledClimateProjectionsFromIpccCmip6",
+    "dataset_name": "NEX - Global Downscaled Climate Projections from IPCC CMIP6",
+    "provenance_count": 14,
+    "provenances": [
+      "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50",
+      "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrDiffStats",
+      "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrOverTimeOnStatsAcrossModels",
+      "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrStatsAcrossModels",
+      "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrYearsStats",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrOverTimeOnStatsAcrossModels",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrStatsAcrossModels",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrYearsStats",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_PDFs",
+      "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Nex-GlobalDownscaledClimateProjectionsFromIpccCmip5",
+    "dataset_name": "NEX - Global Downscaled Climate Projections from IPCC CMIP5",
+    "provenance_count": 12,
+    "provenances": [
+      "dc/base/IPCCPlaces",
+      "dc/base/IPCCPlaces_GeoCoordinates",
+      "dc/base/NASA_NEXGDDP_Country",
+      "dc/base/NASA_NEXGDDP_Country_AggrDiffStats",
+      "dc/base/NASA_NEXGDDP_IpccPlaces50",
+      "dc/base/NASA_NEXGDDP_IpccPlaces50_AggrDiffStats",
+      "dc/base/NASA_NEXGDDP_Subnational",
+      "dc/base/NASA_NEXGDDP_Subnational_AggrDiffStats",
+      "dc/base/NASA_NEXGDDP_Subnational_AggrOverTimeOnStatsAcrossModels",
+      "dc/base/NASA_NEXGDDP_Subnational_AggrStatsAcrossModels",
+      "dc/base/NASA_WetBulbComputation",
+      "dc/base/NASA_WetBulbComputation_Aggregation"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuEurostat_RegionalStatisticsByNutsClassification",
+    "dataset_name": "Regional Statistics by NUTS Classification",
+    "provenance_count": 10,
+    "provenances": [
+      "dc/base/EuroGeos",
+      "dc/base/EurostatData_Demographic_Balance_Crude_Rates",
+      "dc/base/EurostatData_Education_Attainment",
+      "dc/base/EurostatData_Education_Enrollment",
+      "dc/base/EurostatData_Employment_Per_Sector",
+      "dc/base/EurostatData_Fertility",
+      "dc/base/EurostatData_GDP",
+      "dc/base/EurostatData_LifeExpectancy",
+      "dc/base/EurostatData_PopulationDensity",
+      "dc/base/EurostatGeoCoodinates"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_PopulationEstimatesProgramPep",
+    "dataset_name": "Population Estimates Program (PEP)",
+    "provenance_count": 9,
+    "provenances": [
+      "dc/base/CensusPEP",
+      "dc/base/USCensusPEP_AgeSexRace",
+      "dc/base/USCensusPEP_AgeSexRaceHispanicOrigin",
+      "dc/base/USCensusPEP_Annual_Population",
+      "dc/base/USCensusPEP_By_SexRaceHispanicOrigin",
+      "dc/base/USCensusPEP_By_Sex_Race",
+      "dc/base/USCensusPEP_MonthlyPopulation",
+      "dc/base/USCensusPEP_PopulationEstimatebyRace",
+      "dc/base/USCensusPEP_Sex"
+    ]
+  },
+  {
+    "dataset_dcid": "UnknownDataset",
+    "dataset_name": "UnknownDataset",
+    "provenance_count": 9,
+    "provenances": [
+      "dc/base/DEA_DrugCodes",
+      "dc/base/FiresS2Cells",
+      "dc/base/FloodsS2Cells",
+      "dc/base/IndiaGeoCoordinates_Simplified",
+      "dc/base/RFFGridGeos",
+      "dc/base/S2Cells",
+      "dc/base/TideGaugeStations",
+      "dc/base/WeatherNOAA",
+      "dc/base/WikipediaStatsData"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_EnvironmentalHealthToxicology",
+    "dataset_name": "Environmental Health Toxicology",
+    "provenance_count": 8,
+    "provenances": [
+      "dc/base/CDCPM25",
+      "dc/base/CDC_OzoneCensusTract",
+      "dc/base/CDC_OzoneCounty",
+      "dc/base/CDC_PM25CensusTract",
+      "dc/base/CDC_PM25County",
+      "dc/base/CDC_PalmerDroughtSeverityIndex",
+      "dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex",
+      "dc/base/CDC_StandardizedPrecipitationIndex"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsEnergyInformationAdministrationEia_OpenData",
+    "dataset_name": "Open Data",
+    "provenance_count": 8,
+    "provenances": [
+      "dc/base/EIA_Coal",
+      "dc/base/EIA_Electricity",
+      "dc/base/EIA_International",
+      "dc/base/EIA_NaturalGas",
+      "dc/base/EIA_NuclearOutages",
+      "dc/base/EIA_Petroleum",
+      "dc/base/EIA_SEDS",
+      "dc/base/EIA_TotalEnergy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_GreenhouseGasReportingProgram",
+    "dataset_name": "Greenhouse Gas Reporting Program",
+    "provenance_count": 8,
+    "provenances": [
+      "dc/base/EPA_GHGRP",
+      "dc/base/EPA_GHGRPFacilities",
+      "dc/base/EPA_GHGRP_AggCensusZipCodeTabulationArea",
+      "dc/base/EPA_GHGRP_AggCounty",
+      "dc/base/EPA_GHGRP_AggCounty_AggState",
+      "dc/base/EPA_GHGRP_ParentCompanies",
+      "dc/base/EPA_GHGRP_ParentCompanies_Ownership",
+      "dc/base/EPA_ParentCompanies"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StadtZurichOpenData_ZurichPopulation",
+    "dataset_name": "Zurich population",
+    "provenance_count": 8,
+    "provenances": [
+      "dc/base/Zurich_Population",
+      "dc/base/Zurich_Population_By_Age",
+      "dc/base/Zurich_Population_By_Origin",
+      "dc/base/Zurich_Population_By_Sex",
+      "dc/base/Zurich_Population_Number_Of_Birth",
+      "dc/base/Zurich_Population_Number_Of_Birth_By_Origin",
+      "dc/base/Zurich_Population_Number_Of_Birth_By_Sex",
+      "dc/base/Zurich_Population_Number_Of_Company_Workplace_Employees"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_DataCommonsSchema",
+    "dataset_name": "Data Commons Schema",
+    "provenance_count": 7,
+    "provenances": [
+      "dc/base/AutoGeneratedStatVars",
+      "dc/base/BaseSchema",
+      "dc/base/GeneratedGraphs",
+      "dc/base/HumanReadableStatVars",
+      "dc/base/NearbyGeos",
+      "dc/base/PlacePageComparisonCohortSets",
+      "dc/base/RawStatVars"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuEurostat_EurostatHealth",
+    "dataset_name": "EuroStat Health",
+    "provenance_count": 6,
+    "provenances": [
+      "dc/base/EuroStatHealth_AlcoholConsumption",
+      "dc/base/EuroStatHealth_BodyMassIndex",
+      "dc/base/EuroStatHealth_FruitsAndVegetables",
+      "dc/base/EuroStatHealth_PhysicalActivity",
+      "dc/base/EuroStatHealth_SocialEnvironment",
+      "dc/base/EurostatHealth_Tobacco_Consumption"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_PublicSchoolAndSchoolDistrictData",
+    "dataset_name": "Public School and School District Data",
+    "provenance_count": 6,
+    "provenances": [
+      "dc/base/NCES_PublicSchool",
+      "dc/base/NCES_PublicSchoolStats",
+      "dc/base/NCES_PublicSchoolStats_SuperEnum",
+      "dc/base/NCES_SchoolDistrict",
+      "dc/base/NCES_SchoolDistrictStats",
+      "dc/base/NCES_SchoolDistrictStats_SuperEnum"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OfficeOfCivilRightsData_UsDepartmentOfEducationUrbanEducationDataCensus",
+    "dataset_name": "U.S. Department of Education: Urban Education Data Census",
+    "provenance_count": 6,
+    "provenances": [
+      "dc/base/US_SAT_ACT_Participation",
+      "dc/base/US_SAT_ACT_Participation_state",
+      "dc/base/US_UrbanSchool_Covid_Directional_Indicators",
+      "dc/base/US_UrbanSchool_Enrollment",
+      "dc/base/US_Urban_MathsAndScience_Course_Enrollment",
+      "dc/base/US_Urban_Schools_Teachers_And_Staff"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StadtZurichOpenData_ZurichGeocoordinates",
+    "dataset_name": "Zurich GeoCoordinates",
+    "provenance_count": 6,
+    "provenances": [
+      "dc/base/WikidataGeo_Zurich_ADM1",
+      "dc/base/WikidataGeo_Zurich_ADM2",
+      "dc/base/WikidataGeo_Zurich_ADM3",
+      "dc/base/ZurichGeoImport_ADM1",
+      "dc/base/ZurichGeoImport_ADM2",
+      "dc/base/ZurichGeoImport_ADM3"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CensusOfIndia_IndiaCensusTables",
+    "dataset_name": "India Census Tables",
+    "provenance_count": 5,
+    "provenances": [
+      "dc/base/IndiaCensus_Primary",
+      "dc/base/IndiaCensus_PrimaryHouseless",
+      "dc/base/IndiaCensus_PrimaryReligion",
+      "dc/base/IndiaCensus_PrimarySC",
+      "dc/base/IndiaCensus_PrimaryST"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/ReserveBankOfIndia_DatabaseOnIndianEconomy",
+    "dataset_name": "Database on Indian Economy",
+    "provenance_count": 5,
+    "provenances": [
+      "dc/base/India_RBIStateDomesticProduct",
+      "dc/base/India_RBIStateDomesticProduct_AggCountry",
+      "dc/base/India_RBIStateDomesticProduct_StatVarAgg",
+      "dc/base/India_RBIStateDomesticProduct_StatVarAgg_AggCountry",
+      "dc/base/India_RBI_State_Statistics"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalScienceFoundation_NationalCenterForScienceAndEngineeringStatistics",
+    "dataset_name": "National Center for Science and Engineering Statistics",
+    "provenance_count": 5,
+    "provenances": [
+      "dc/base/NCSES_Demographics_SEH_Import",
+      "dc/base/NCSES_DoctorateDegreeEmployment",
+      "dc/base/NCSES_Employed_College_Grads_Import",
+      "dc/base/NCSES_Median_Annual_Salary_Import",
+      "dc/base/NCSES_Research_Doctorate_Recipients_Import"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_GpccMonthlySpiData",
+    "dataset_name": "GPCC Monthly SPI Data",
+    "provenance_count": 5,
+    "provenances": [
+      "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex",
+      "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_AggPlace",
+      "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event",
+      "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Observations",
+      "dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Places"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_DataCommonsAggregations",
+    "dataset_name": "Data Commons Aggregations",
+    "provenance_count": 4,
+    "provenances": [
+      "dc/base/Climate_StatVarCalculation",
+      "dc/base/DataCommons_CoverageStats",
+      "dc/base/Energy_StatVarCalculation",
+      "dc/base/GenderIncomeInequality"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaMinistryOfStatisticsAndProgrammeImplementation_PeriodicLabourForceSurvey",
+    "dataset_name": "Periodic Labour Force Survey",
+    "provenance_count": 4,
+    "provenances": [
+      "dc/base/IndiaPLFS_DailyWages",
+      "dc/base/IndiaPLFS_Wages",
+      "dc/base/MOSPI_IndiaPLFS_DailyWages",
+      "dc/base/MOSPI_IndiaPLFS_MonthlyWages"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/MongolianStatisticalService_MongoliaStatistics",
+    "dataset_name": "Mongolia Statistics",
+    "provenance_count": 4,
+    "provenances": [
+      "dc/base/Mongolia_Demographics",
+      "dc/base/Mongolia_Education",
+      "dc/base/Mongolia_Employment",
+      "dc/base/Mongolia_Health"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Nex-DownscaledClimateProjectionsForUsFromIpccCmip5",
+    "dataset_name": "NEX - Downscaled Climate Projections for US from IPCC CMIP5",
+    "provenance_count": 4,
+    "provenances": [
+      "dc/base/NASA_DCP30_CMIP5_Subnational_AggrDiffStats_LongRangeProjections",
+      "dc/base/NASA_NEXDCP30",
+      "dc/base/NASA_NEXDCP30_AggrDiffStats",
+      "dc/base/NASA_NEXDCP30_AggrYearsStats"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/SouthKoreaStatisticsAgencyKosa_SouthKoreaStatistics",
+    "dataset_name": "South Korea Statistics",
+    "provenance_count": 4,
+    "provenances": [
+      "dc/base/SouthKorea_Demographics",
+      "dc/base/SouthKorea_Education",
+      "dc/base/SouthKorea_Employment",
+      "dc/base/SouthKorea_Health"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_NationalNotifiableDiseasesSurveillanceSystemNndss",
+    "dataset_name": "National Notifiable Diseases Surveillance System (NNDSS)",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/CDCWonder_NNDSS_InfectiousAnnual",
+      "dc/base/CDCWonder_NNDSS_InfectiousWeekly",
+      "dc/base/CDCWonder_NNDSS_Infectious_Weekly"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsCanada_CanadaStatistics",
+    "dataset_name": "Canada Statistics",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/CanadaStatistics",
+      "dc/base/CanadaStatisticsAgeGender",
+      "dc/base/Canada_Census_Places"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/ClimateTrace_ClimateTraceGhgEmissions",
+    "dataset_name": "Climate TRACE GHG Emissions",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/ClimateTrace_GHG_Emissions",
+      "dc/base/ClimateTrace_GHG_Emissions_OldAPI",
+      "dc/base/ClimateTrace_GreenhouseGas"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_InternationalBestTrackArchiveForClimateStewardshipIbtracs",
+    "dataset_name": "International Best Track Archive for Climate Stewardship (IBTrACS)",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/CycloneNOAA_Entities",
+      "dc/base/CycloneNOAA_Paths",
+      "dc/base/CycloneNOAA_Stats"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesDrugEnforcementAgencyDea_ArcosRetailDrugSummaryReports",
+    "dataset_name": "ARCOS Retail Drug Summary Reports",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/DEA_ARCOS",
+      "dc/base/DEA_ARCOS_AggState",
+      "dc/base/DEA_ARCOS_AggState_AggCountry"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DynamicWorldProject_InferredFloodsFromDynamicWorld",
+    "dataset_name": "Inferred Floods from Dynamic World",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/DynamicWorld_FloodEvents_AutoRefresh",
+      "dc/base/DynamicWorld_FloodEvents_Places_AutoRefresh",
+      "dc/base/DynamicWorld_Floods"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsEnergyInformationAdministrationEia_FormEia-860",
+    "dataset_name": "Form EIA-860",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/EIA860_PowerPlants",
+      "dc/base/EIA860_Utilities",
+      "dc/base/EIA_860"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_AirData",
+    "dataset_name": "Air Data",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/EPAAirQualityIndex",
+      "dc/base/EPACriteriaAirPollutants",
+      "dc/base/EPACriteriaAirPollutants_Stations"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_NationalEmissionsInventory",
+    "dataset_name": "National Emissions Inventory",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/EPA_AirPollutantEmission_Level1",
+      "dc/base/EPA_USAirPollutantEmissionTrends_County",
+      "dc/base/EPA_USAirPollutantEmissionTrends_NationalAndState"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_Ejscreen",
+    "dataset_name": "EJSCREEN",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/EPA_EJSCREEN",
+      "dc/base/EPA_EJSCREEN_AggCensusTract",
+      "dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_ViirsActiveFireData",
+    "dataset_name": "VIIRS Active Fire Data",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/NASA_VIIRSActiveFiresEvent_Observations",
+      "dc/base/NASA_VIIRSActiveFiresEvents",
+      "dc/base/NASA_VIIRSActiveFiresEvents_Agg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsPrivateSchoolData",
+    "dataset_name": "US Private School Data",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/NCES_PrivateSchool",
+      "dc/base/NCES_PrivateSchoolStats",
+      "dc/base/NCES_PrivateSchoolStats_SuperEnum"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/ResourcesForTheFutureRff_UsWildfireSmokeAndDroughtStatistics-CountyAndState",
+    "dataset_name": "US Wildfire, Smoke and Drought statistics - County and State",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/RFF_ClimateWildfireSmoke_EchoLab",
+      "dc/base/RFF_ClimateWildfireSmoke_MTBS",
+      "dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UrbanInstitute_UsUrbanEducationDataCensus",
+    "dataset_name": "US Urban Education Data Census",
+    "provenance_count": 3,
+    "provenances": [
+      "dc/base/US_UrbanEducation_School",
+      "dc/base/US_UrbanOrg_Colleges_Directory_IPEDS",
+      "dc/base/US_UrbanOrg_Schools_Directory"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_AmericanCommunitySurveyEducationTabulationAcs-ed",
+    "dataset_name": "American Community Survey Education Tabulation (ACS-ED)",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/ACSED5YrSurvey",
+      "dc/base/ACSED5YrSurvey_StatVarAgg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_CurrentEmploymentStatisticsCes",
+    "dataset_name": "Current Employment Statistics (CES)",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/BLS_CES",
+      "dc/base/BLS_CES_State"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_ConsumerPriceIndex",
+    "dataset_name": "Consumer Price Index",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/BLS_CPI",
+      "dc/base/US_CPI"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_GazetteerFiles",
+    "dataset_name": "Gazetteer Files",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/BaseGeos",
+      "dc/base/USCensusGeos_SurfaceArea"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilMinistryOfDevelopmentAndSocialAssistanceFamilyAndFightAgainstHunger_BrazilVisData3",
+    "dataset_name": "Brazil VIS DATA 3",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/Brazil_FoodDsitribution",
+      "dc/base/Brazil_RuralDevelopmentProgram"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_PlacesLocalDataForBetterHealth",
+    "dataset_name": "PLACES: Local Data for Better Health",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/CDC500",
+      "dc/base/CDC500_States"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_SmallAreaHealthInsuranceEstimatesSahie",
+    "dataset_name": "Small Area Health Insurance Estimates (SAHIE)",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/CensusSAHIE",
+      "dc/base/CensusSAHIE_AggCountry"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_EconomicCensus",
+    "dataset_name": "Economic Census",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/CensusSuperTMCFTable_ECNBASIC2012_EC1200A1",
+      "dc/base/USEconomicCensus"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuCopernicus_CopernicusEcmwf-Era5ClimateReanalysisData",
+    "dataset_name": "Copernicus ECMWF - ERA5 Climate Reanalysis Data",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/Copernicus_ECMWF_ERA5_Monthly",
+      "dc/base/Copernicus_ECMWF_ERA5_Monthly_AggrYearsStats"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesEnvironmentalProtectionAgencyEpa_SuperfundSites",
+    "dataset_name": "Superfund Sites",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/EPA_Superfund_Measurement_Sites",
+      "dc/base/EPA_Superfund_Sites"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/FoodAndAgricultureOrganizationFaoOfTheUnitedNations_FaoCurrencyAndExchangeRate",
+    "dataset_name": "FAO Currency and Exchange Rate",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/FAO_Currency",
+      "dc/base/FAO_Currency_statvar"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalHighwayTrafficSafetyAdministrationNhtsa_FatalityAnalysisReportingSystemFarsCrashData",
+    "dataset_name": "Fatality Analysis Reporting System (FARS) Crash Data",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/FARS_CrashData",
+      "dc/base/FARS_CrashNodes"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalBureauOfInvestigationFbi_UniformCrimeReportingUcrProgram",
+    "dataset_name": "Uniform Crime Reporting (UCR) Program",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/FBIGovCrime",
+      "dc/base/FBIGovCrime_AggCountry"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalBureauOfInvestigationFbi_HateCrimeStatistics",
+    "dataset_name": "Hate Crime Statistics",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/FBIHateCrime",
+      "dc/base/FBIHateCrimePublications"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/FeedingAmerica_FeedingAmericaMapMealGap",
+    "dataset_name": "Feeding America: Map Meal Gap",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/FeedingAmerica_FoodInsecurity",
+      "dc/base/FeedingAmerica_MapMealGap"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalWildfireCoordinatingGroup_NationalInteragencyFireCenterInteragencySituationReport-209Sit-209",
+    "dataset_name": "National Interagency Fire Center Interagency Situation Report - 209 (SIT-209)",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/FireFAMWEB",
+      "dc/base/FireFAMWEB_Agg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_CartographicBoundaryFiles",
+    "dataset_name": "Cartographic Boundary Files",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/GeoCoordinatesData",
+      "dc/base/GeoCoordinatesData_Simplified"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Marineregionsorg_GlobalOceansAndSeas",
+    "dataset_name": "Global Oceans and Seas",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/GeoCoordinatesData_Oceans",
+      "dc/base/GeoGridPlace_1Deg_Contains_With_Oceans"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Google_GooglePlaces",
+    "dataset_name": "Google Places",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/GoogleKGOnlyGeos",
+      "dc/base/PlaceIdDcidMappings"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Datameet_DatameetMaps",
+    "dataset_name": "DataMeet Maps",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/IndiaGeoCoordinates",
+      "dc/base/IndiaGeodata"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaNationalSampleSurvey_IndiaNationalSampleSurvey-Health",
+    "dataset_name": "India National Sample Survey - Health",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/IndiaNSS_HealthAilments",
+      "dc/base/IndiaNSS_HealthAilments_StatVarAgg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaMinistryOfEducation_UnifiedDistrictInformationSystemForEducationUdise",
+    "dataset_name": "Unified District Information System for Education (UDISE)",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/IndiaUDISEGeos",
+      "dc/base/IndiaUDISEStateMappings"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaWaterResourcesInformationSystem_IndiaWaterQuality",
+    "dataset_name": "India Water Quality",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/IndiaWRISWaterQuality",
+      "dc/base/IndiaWaterQualityStations"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_NoaaCoastwatch",
+    "dataset_name": "NOAA CoastWatch",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/NOAA_CoastWatch_SeaSurfaceSalinity",
+      "dc/base/NOAA_CoastWatch_SeaSurfaceTemperature"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_Noaa-epaObservedWeatherData",
+    "dataset_name": "NOAA-EPA Observed Weather Data",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/NOAA_EPA_Observed_Historical_Weather",
+      "dc/base/NOAA_EPA_Observed_Historical_Weather_AggrYearsStats"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_Noaa-gfsWeatherForecast",
+    "dataset_name": "NOAA-GFS Weather Forecast",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/NOAA_GFS_WeatherForecast",
+      "dc/base/NOAA_GlobalForecastSystem"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpportunityInsights_TheOpportunityAtlas",
+    "dataset_name": "The Opportunity Atlas",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/OpportunityInsightsNeighborhoods",
+      "dc/base/OpportunityInsightsOutcomes"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/GlobalLandIceMeasurementsFromSpaceGlims_RandolphGlacierInventory",
+    "dataset_name": "Randolph Glacier Inventory",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/RandolphGlacierInventory",
+      "dc/base/RandolphGlacierInventory_Area"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalOceanicAndAtmosphericAdministrationNoaa_NationalClimaticDataCenterStormEventsDatabase",
+    "dataset_name": "National Climatic Data Center Storm Events Database",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/StormNOAA",
+      "dc/base/StormNOAA_Agg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_TemperatureEvent",
+    "dataset_name": "Temperature Event",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/TemperatureEvents",
+      "dc/base/TemperatureEvents_Agg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfAgricultureUsda_CensusOfAgriculture",
+    "dataset_name": "Census of Agriculture",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/USDA_AgricultureCensus",
+      "dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfJusticeStatisticsBjs_NationalPrisonerStatisticsNpsProgram",
+    "dataset_name": "National Prisoner Statistics (NPS) Program",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/USNationalPrisonerStatistics",
+      "dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_WetbulbTemperatureEvent",
+    "dataset_name": "WetBulb Temperature Event",
+    "provenance_count": 2,
+    "provenances": [
+      "dc/base/WetBulbTemperatureEventPlaces_AutoRefresh",
+      "dc/base/WetBulbTemperatureEvents_AutoRefresh"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstituteOfStatisticsAndCensusesIndec_ArgentinaCensus",
+    "dataset_name": "Argentina Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Argentina_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/AustralianBureauOfStatistics_AustraliaSubnationalAdministrativeBoundaries",
+    "dataset_name": "Australia Subnational Administrative Boundaries",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/AustraliaGeoCoordinates"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/AustralianBureauOfStatistics_AustraliaStatistics",
+    "dataset_name": "Australia Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/AustraliaStatistics"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfEconomicAnalysisBea_RegionalPriceParitiesByStateAndMetroArea",
+    "dataset_name": "Regional Price Parities by State and Metro Area",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BEAGDPPriceParity"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfEconomicAnalysisBea_GdpByCountyMetroAndOtherAreas",
+    "dataset_name": "GDP by County, Metro, and Other Areas",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BEAGDPv2"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfEconomicAnalysisBea_GrossDomesticProduct",
+    "dataset_name": "Gross Domestic Product",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BEA_USStatesQuarterlyGDP"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BankForInternationalSettlementsBis_CentralBankPolicyRate",
+    "dataset_name": "Central Bank Policy Rate",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BIS_CentralBankPolicyRate"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_ConsumerPriceIndexByCategory",
+    "dataset_name": "Consumer Price Index by Category",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BLS_CPI_Category"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_LaborForceStatisticsFromTheCurrentPopulationSurveyCps",
+    "dataset_name": "Labor Force Statistics from the Current Population Survey (CPS)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BLS_CPS"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_JobOpeningsAndLaborTurnoverSurvey",
+    "dataset_name": "Job Openings and Labor Turnover Survey",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BLS_JOLTS"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_LocalAreaUnemploymentStatisticsLaus",
+    "dataset_name": "Local Area Unemployment Statistics (LAUS)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BLS_LAUS"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsBureauOfLaborStatisticsBls_QuarterlyCensusOfEmploymentAndWagesQcew",
+    "dataset_name": "Quarterly Census of Employment and Wages (QCEW)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/BLS_QCEW"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilianInstituteOfGeographyAndStatisticsIbge_BrazilCensus",
+    "dataset_name": "Brazil Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Brazil_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilianInstituteOfGeographyAndStatisticsIbge_BrazilBankOfStatisticalTables",
+    "dataset_name": "Brazil Bank of Statistical Tables",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Brazil_SIDRA_IBGE"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalStatisticalInstituteOfBulgaria_BulgariaCensus",
+    "dataset_name": "Bulgaria Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Bulgaria_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsEnergyInformationAdministrationEia_CommercialBuildingsEnergyConsumptionSurveyCbecs",
+    "dataset_name": "Commercial Buildings Energy Consumption Survey (CBECS)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CBECS_Energy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_DiabetesSurveillanceSystem",
+    "dataset_name": "Diabetes Surveillance System",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CDCDiabetes"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_WonderCompressedMortality",
+    "dataset_name": "Wonder: Compressed Mortality",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CDCMortality"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_WonderNatality",
+    "dataset_name": "Wonder: Natality",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CDCWonderNatality"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_WonderMortalityUnderlyingCauseOfDeath",
+    "dataset_name": "Wonder: Mortality, Underlying Cause Of Death",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CDC_Mortality_UnderlyingCause"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_UnderlyingCauseOfDeath",
+    "dataset_name": "Underlying cause of death",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CDC_Mortality_UnderlyingCause_SingleRace"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_NationalOutbreakReportingSystemNors",
+    "dataset_name": "National Outbreak Reporting System (NORS)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CDC_NORS_NonInfectious"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_AgencyForToxicSubstancesAndDiseaseRegistryAtsdr",
+    "dataset_name": "Agency for Toxic Substances and Disease Registry (ATSDR)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CDC_Social_Vulnerability_Index"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CivilRightsDataCollectionCrdc_Crdc_educationschool_harassmentorbullying",
+    "dataset_name": "CRDC_EducationSchool_HarassmentOrBullying",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CRDC_EducationSchool_HarassmentOrBullying"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CivilRightsDataCollectionCrdc_UsSchoolsAttendance",
+    "dataset_name": "U.S Schools Attendance",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CRDC_Education_Discipline_Attendance"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CaliforniaAssessmentOfStudentPerformanceAndProgress_CaliforniaSchoolPerformance",
+    "dataset_name": "California School Performance",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CaliforniaSchoolPerformance"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_CountyBusinessPatterns",
+    "dataset_name": "County Business Patterns",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CensusCountyBusinessPatterns"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesCensusBureau_SmallAreaIncomeAndPovertyEstimatesSaipe",
+    "dataset_name": "Small Area Income and Poverty Estimates (SAIPE)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/CensusSAIPE"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCommerceDataHub_EconomicDevelopmentAdministrationEda",
+    "dataset_name": "Economic Development Administration (EDA)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Commerce_EDA"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCommerceDataHub_NtiaInternetUseSurvey",
+    "dataset_name": "NTIA Internet Use Survey",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Commerce_NTIA"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Openfigi_Figi",
+    "dataset_name": "FIGI",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Company_FIGI"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuCopernicus_CopernicusGlobalLandCover",
+    "dataset_name": "Copernicus Global Land Cover",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Copernicus_GlobalLandCoverLayers"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_IvoryCoastCensus",
+    "dataset_name": "Ivory Coast Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Cotedivoire_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Datameet_Covid-19",
+    "dataset_name": "COVID-19",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Covid19IndiaData"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DartmouthAtlasProject_DartmouthAtlasOfHealthCare",
+    "dataset_name": "Dartmouth Atlas of Health Care",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Dartmouth_Atlas_Medicare"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsDenmark_DenmarkDemographics",
+    "dataset_name": "Denmark Demographics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Denmark_Demographics"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_HeatHeat-relatedIllnessHri",
+    "dataset_name": "Heat & Heat-related Illness (HRI)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/EPHHeatRelatedIllness"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsEgypt_EgyptCensus",
+    "dataset_name": "Egypt Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Egypt_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_EthiopiaStatistics",
+    "dataset_name": "Ethiopia Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/EthiopiaStatistics"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/EuropeanUnionEuEurostat_EurostatEarlyEducationAndTraining",
+    "dataset_name": "EuroStat Early Education and Training",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Eurostat_Early_Education_Training"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesFederalElectionCommissionFec_CandidatesCommittees",
+    "dataset_name": "Candidates & Committees",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/FEC"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsFinland_FinlandCensus",
+    "dataset_name": "Finland Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Finland_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstituteOfStatisticsAndEconomicStudiesFrance_FranceDemographics",
+    "dataset_name": "France Demographics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/France_Demographics"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UkOfficeForNationalStatistics_UkOpenGeographyPortal",
+    "dataset_name": "UK Open Geography Portal",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/GeoCoordinatesData_UK"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Google_Covid-19CommunityMobilityReports",
+    "dataset_name": "COVID-19 Community Mobility Reports",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Google_COVID19Mobility"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Google_SustainabilityEnergyAndTransportFinancialIncentives",
+    "dataset_name": "Sustainability Energy and Transport Financial Incentives",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Google_SustainabilityFinancialIncentives"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfHousingAndUrbanDevelopmentHud_IncomeLimits",
+    "dataset_name": "Income Limits",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/HUD_IncomeLimits"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/BrazilInpe-NationalInstituteForSpaceResearch_BrazilInpeFireEventCount",
+    "dataset_name": "BRAZIL INPE Fire Event Count",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/INPE_Fire_Event_Count"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_IpedsStudentToFacultyRatio",
+    "dataset_name": "IPEDS Student to Faculty Ratio",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/IPEDS_StudentToFacultyRatio"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaNationalInformaticsCentre_IndiaLocalGovernmentDirectory",
+    "dataset_name": "India Local Government Directory",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/IndiaLGDCodes"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaNationalHealthMission_HealthManagementInformationSystem",
+    "dataset_name": "Health Management Information System",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/IndiaNHM"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_IndiaPovertyStatus",
+    "dataset_name": "India Poverty Status",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/IndiaPoverty"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/GeosadakPmgsyNationalGisIndia_IndiaGeosadak",
+    "dataset_name": "India GeoSadak",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/India_GeoSadak"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_IndiaLifeExpectancyByState",
+    "dataset_name": "India Life Expectancy by State",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/India_LifeExpectancy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_IndiaNationalFamilyHealthSurvey",
+    "dataset_name": "India National Family Health Survey",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/India_NFHS"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaMinistryOfStatisticsAndProgrammeImplementation_IndiaNationalAccountsStatistics",
+    "dataset_name": "India National Accounts Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/India_NationalAccountsStatistics"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/TheCentralBureauOfStatisticsIndonesia_IndonesiaCensus",
+    "dataset_name": "Indonesia Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Indonesia_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CentralStatisticsOfficeCsoIreland_IrelandCensus",
+    "dataset_name": "Ireland Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Ireland_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/CentralBureauOfStatisticsCbsIsrael_IsraelCensus",
+    "dataset_name": "Israel Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Israel_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/PortalSiteOfOfficialStatisticsOfJapanE-stat_JapanCensus",
+    "dataset_name": "Japan Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Japan_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_KenyaCensus",
+    "dataset_name": "Kenya Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Kenya_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/MexicoNationalInstituteOfStatisticsAndGeographyInegi_MexicoCensus",
+    "dataset_name": "Mexico Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/MexicoCensus"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsOfficeForTheCoordinationOfHumanitarianAffairsUnOcha_MexicoSubnationalPopulationStatistics",
+    "dataset_name": "Mexico Subnational Population Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/MexicoCensus_AA2"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DataCommons_DataCommonsCurated",
+    "dataset_name": "Data Commons Curated",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/MidDcidMappings"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalAeronauticsAndSpaceAdministrationNasa_Podaac-SeaLevelProjectionsFromIpccCmip6",
+    "dataset_name": "PO.DAAC - Sea level Projections from IPCC CMIP6",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NASA_SeaLevelProjections_CMIP6"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsBachelorsDegreesData",
+    "dataset_name": "US Bachelor's Degrees Data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NCES_Bachelors_Degree_By_Field_Import"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsHbcuData",
+    "dataset_name": "US HBCU Data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NCES_HBCU_Enrollment_Import"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_NationsReportCard",
+    "dataset_name": "Nations Report Card",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NCES_NationsReportCard"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsStemDegreesData",
+    "dataset_name": "US STEM Degrees Data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NCES_STEM_Degrees_Import"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_Brfss-nchsAsthmaPrevalence",
+    "dataset_name": "BRFSS-NCHS Asthma Prevalence",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NCHS_BRFSS_Asthma"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalInstitutionForTransformingIndia_NitiIndiaPopulationProjection",
+    "dataset_name": "NITI India Population Projection",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NITIIndiaPopulationProjection"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/TheNewYorkTimes_CoronavirusCovid-19DataInTheUnitedStates",
+    "dataset_name": "Coronavirus (Covid-19) Data in the United States",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NYT_COVID19"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/TennesseeDepartmentOfHealth_TennesseeDepartmentOfHealthDeathStatistics",
+    "dataset_name": "Tennessee department of health: Death statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NYU_Tennessee_Diabetes"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NewYorkUniversity_NewYorkUniversityDiabetes",
+    "dataset_name": "New York University Diabetes",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NewYorkUniversity_Diabetes"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NewYorkCityDepartmentOfEducationUrbanData_NewyorkEducation",
+    "dataset_name": "NewYork Education",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NewYork_Education"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsOfNewZealand_NewZealandCensus",
+    "dataset_name": "New Zealand Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/New_Zealand_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_NigeriaStatistics",
+    "dataset_name": "Nigeria Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/NigeriaStatistics"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdGdp",
+    "dataset_name": "OECD GDP",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDQuarterlyGDP"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsDeaths",
+    "dataset_name": "OECD Regional Demography Statistics Deaths",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDRegionalDemography_Deaths"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsLifeExpectancy",
+    "dataset_name": "OECD Regional Demography Statistics Life Expectancy",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDRegionalDemography_LifeExpectancy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsMortality",
+    "dataset_name": "OECD Regional Demography Statistics Mortality",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDRegionalDemography_Mortality"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatistics",
+    "dataset_name": "OECD Regional Demography Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDRegionalDemography_Person_Age_StatVarAgg"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsPopulation",
+    "dataset_name": "OECD Regional Demography Statistics Population",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDRegionalDemography_Population"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalDemographyStatisticsPopulationDensity",
+    "dataset_name": "OECD Regional Demography Statistics Population Density",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDRegionalDemography_PopulationDensity"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdRegionalEducationStatistics",
+    "dataset_name": "OECD Regional Education Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECDRegionalEducation"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_AirAndGhgEmissions",
+    "dataset_name": "Air and GHG emissions",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECD_Air_GHG_emissions"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OrganisationForEconomicCo-operationAndDevelopmentOecd_OecdWasteWaterTreatment",
+    "dataset_name": "OECD Waste Water Treatment",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OECD_Waste_Water_Treatment"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OurWorldInData_Covid-19Vaccinations",
+    "dataset_name": "COVID-19 Vaccinations",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/OWID_COVID19"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/NationalStatisticalInstituteOfPoland_PolandCensus",
+    "dataset_name": "Poland Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Poland_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_RwandaCensus",
+    "dataset_name": "Rwanda Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Rwanda_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/DepartmentOfStatisticsSingapore_SingaporeCensus",
+    "dataset_name": "Singapore Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Singapore_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/SouthafricaBudget_SouthAfricaBudget",
+    "dataset_name": "South Africa Budget",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/SouthAfrica_Budget"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_SouthafricaCensus",
+    "dataset_name": "SouthAfrica Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/SouthAfrica_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsOfficeForTheCoordinationOfHumanitarianAffairsUnOcha_SriLankaCensus",
+    "dataset_name": "Sri Lanka Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Srilanka_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankSubnationalPopulation",
+    "dataset_name": "World Bank Subnational Population",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Subnational_Demographics_Stats"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/StatisticsSweden_SwedenCensus",
+    "dataset_name": "Sweden Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Sweden_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedArabEmiratesUaeBayanatOpenDataPortal_UaePopulation",
+    "dataset_name": "UAE Population",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UAE_Population"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_Undata",
+    "dataset_name": "UNData",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UNData"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_EnergyStatistics",
+    "dataset_name": "Energy Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UNEnergy"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_UnGeodata",
+    "dataset_name": "UN Geodata",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UNGeodataSimplified"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedNationsUn_SdgIndicatorsDatabase",
+    "dataset_name": "SDG Indicators Database",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UN_SDG"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_WhoData",
+    "dataset_name": "WHO Data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UN_WHO"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfLaborDol_UsaMinimumWages",
+    "dataset_name": "USA Minimum Wages",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USA_DOL_Wages"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesBureauOfTransportationStatistics_UsTractTransportationCharacteristicsForHouseholds",
+    "dataset_name": "US Tract Transportation Characteristics for Households",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USBTS_Tract_Household_Transportation"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfAgricultureUsda_AgriculturalSurvey",
+    "dataset_name": "Agricultural Survey",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USDA_AgricultureSurvey"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfLaborDol_WeeklyClaimsAndExtendedBenefitsTriggerData",
+    "dataset_name": "Weekly Claims and Extended Benefits Trigger Data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USDOL_ETA539"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_UsDecennialCensus-RedistrictingData",
+    "dataset_name": "US Decennial Census - Redistricting data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USDecennialCensus_RedistrictingRelease"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/FederalEmergencyManagementAgency_NationalFloodInsuranceProgramNfip",
+    "dataset_name": "National Flood Insurance Program (NFIP)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USFEMA_FloodInsuranceClaims"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/FederalEmergencyManagementAgency_NationalRiskIndex",
+    "dataset_name": "National Risk Index",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USFEMA_NationalRiskIndex"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalReserve_TreasuryNominalAndInflation-indexedConstantMaturitySeries",
+    "dataset_name": "Treasury Nominal and Inflation-Indexed Constant Maturity Series",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USFed_ConstantMaturityRates"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UnitedStatesGeologicalServiceUsgs_NationalWaterUseData",
+    "dataset_name": "National Water Use Data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USGSWaterUse"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCensusBureau_MonthlyRetailSalesUsCensus",
+    "dataset_name": "Monthly Retail Sales US Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/USMonthlyRetailSales"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsNationalCenterForEducationStatisticsNces_UsStudentEnrollmentData",
+    "dataset_name": "US Student Enrollment Data",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_CCD_Enrollment"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_PregnancyRiskAssessmentMonitoringSystemPrams",
+    "dataset_name": "Pregnancy Risk Assessment Monitoring System (PRAMS)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_CDC_PRAMS"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OfficeOfCivilRightsData_CivilRightsDataCollectionCrdcSchoolDirectory",
+    "dataset_name": "Civil Rights Data Collection (CRDC) School Directory",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_CRDC_Schools_Directory"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsFederalReserve_UsFederalReserveH15InterestRates",
+    "dataset_name": "US Federal Reserve H.15 Interest Rates",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_Federal_Rates"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCommerceDataHub_UsItaEconomicActivity",
+    "dataset_name": "US ITA Economic Activity",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_ITA_Economic_Activity"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/TexasDepartmentOfHealth_TexasDepartmentOfHealthDeathStatistics",
+    "dataset_name": "Texas department of health: Death statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_Texas_Diabetes"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OfficeOfCivilRightsData_UsSchoolFinance",
+    "dataset_name": "U.S School Finance",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_UrbanSchool_Finances"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OfficeOfCivilRightsData_UsSchoolRetention",
+    "dataset_name": "U.S School Retention",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/US_UrbanSchool_Retention"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/OpenDataForAfrica_UgandaBureauOfStatisticsUbos",
+    "dataset_name": "Uganda Bureau of Statistics (UBOS)",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Uganda_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UkMinistryOfHousingCommunitiesAndLocalGovernment_Imd2019",
+    "dataset_name": "IMD2019",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UnitedKingdomMHCLG_IMD2019"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsDepartmentOfEducationEd_CollegeScorecard",
+    "dataset_name": "College Scorecard",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/UniversityData"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/GeneralStatisticsOfficeGsoVietnam_VietnamCensus",
+    "dataset_name": "Vietnam Census",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/Vietnam_Census"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_CoronavirusDiseaseCovid-19Dashboard",
+    "dataset_name": "Coronavirus Disease (COVID-19) Dashboard",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WHO_COVID19"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_WhoTuberculosisAndHivTreatmentOutcome",
+    "dataset_name": "WHO Tuberculosis And HIV Treatment Outcome",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WHO_TuberculosisAndHIVTreatmentOutcome"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldHealthOrganizationWho_WhoTuberculosisBacteriologicallyConfirmed",
+    "dataset_name": "WHO Tuberculosis Bacteriologically Confirmed",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WHO_TuberculosisBacteriologicallyConfirmed"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/IndiaWaterResourcesInformationSystem_WrisIndiaRainfall",
+    "dataset_name": "WRIS India Rainfall",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WRIS_India_Rainfall"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankOfficialBoundaries",
+    "dataset_name": "World Bank Official Boundaries",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WorldBankCountryBoundaries"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankDatasets",
+    "dataset_name": "World Bank Datasets",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WorldBankDatasets"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankCommodityMarkets",
+    "dataset_name": "World Bank Commodity Markets",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WorldBank_CommodityMarket"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldBankInternationalDebtStatistics",
+    "dataset_name": "World Bank International Debt Statistics",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WorldBank_IDS"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/WorldBank_WorldDevelopmentIndicators",
+    "dataset_name": "World Development Indicators",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/WorldDevelopmentIndicators"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/Crdc_instructional_wifi_devices_CrdcInstructionalWifiDevices",
+    "dataset_name": "crdc instructional wifi devices",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/crdc_instructional_wifi_devices"
+    ]
+  },
+  {
+    "dataset_dcid": "dc/d/UsCentersForDiseaseControlAndPreventionCdc_StateAndNationalProvisionalBirthCounts",
+    "dataset_name": "State and National Provisional Birth Counts",
+    "provenance_count": 1,
+    "provenances": [
+      "dc/base/usa_child_birth"
+    ]
+  }
+]

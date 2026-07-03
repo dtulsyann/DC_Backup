@@ -1,0 +1,15 @@
+import: {
+  import_name: "ACSED5YrSurvey"
+  provenance_url: "https://nces.ed.gov/programs/edge/Demographic/ACS"
+  category: STATS
+  provenance_description: "American Community Survey (ACS) 5-Year Estimates focusing on educational attainment, enrollment, and related demographic characteristics."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/acs_ed/*.mcf"
+  import_groups: "uscensus"
+  start_date_in_kg: "2017"
+  end_date_in_kg: "2017"
+  release_frequency: "P1Y"
+  next_release_date: "2018"  # TODO(b/150455643): refresh data
+  data_download_url: "https://nces.ed.gov/programs/edge/Demographic/ACS"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "American Community Survey Education Tabulation (ACS-ED)"
+}

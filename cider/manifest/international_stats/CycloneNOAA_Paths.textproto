@@ -1,0 +1,22 @@
+import {
+  import_name: "CycloneNOAA_Paths"
+  provenance_url: "https://www.ncei.noaa.gov/products/international-best-track-archive"
+  provenance_description: "International cyclone data (including shapefiles with cyclone trails) aggregated from multiple international weather agencies"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cyclone/path/nodes.mcf@1"
+  import_groups: "auto1d"
+  start_date_in_kg: "1842-10-25"
+  # Updates on Monday and Friday.
+  release_frequency: "P4D"
+  data_download_url: "https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/ibtracs.ALL.list.v04r00.csv"
+  automated_mcf_generation_by: "auto1d"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cyclone/path/cyclone_path.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cyclone/path/cyclone_path.csv"
+    download_config: {
+      src_latest_version_file: "/cns/jv-d/home/datcom/xenon_mcf/cyclone/path/latest_version.txt"
+    }
+  }
+  dataset_name: "International Best Track Archive for Climate Stewardship (IBTrACS)"
+}

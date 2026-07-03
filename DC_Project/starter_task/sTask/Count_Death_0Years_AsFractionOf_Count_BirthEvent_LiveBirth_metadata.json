@@ -1,0 +1,2356 @@
+{
+  "Count_Death_0Years_AsFractionOf_Count_BirthEvent_LiveBirth": {
+    "country/AFG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AGO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1980",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ALB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1978",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AND": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1985",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ARE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ARG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1969",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ARM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1976",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ATG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AUS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AUT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AZE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1982",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BDI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1965",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BEL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BFA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BGD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BGR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BHR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BHS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1968",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BIH": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1984",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BLR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BLZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1967",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BOL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BRA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BRB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BRN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BTN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1968",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BWA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CAF": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CAN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CHE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CHL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CHN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1969",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CIV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CMR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/COD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1969",
+        "latestDate": "2023"
+      }
+    ],
+    "country/COG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/COL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/COM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1973",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CPV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CRI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CUB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CYP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1971",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CZE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DEU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1968",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DJI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1978",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DMA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DNK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DOM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DZA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ECU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/EGY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ERI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1975",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ESP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/EST": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1980",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ETH": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1966",
+        "latestDate": "2023"
+      }
+    ],
+    "country/FIN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/FJI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/FRA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/FSM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GAB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GBR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GEO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1975",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GHA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GIN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GMB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GNB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1985",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GNQ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1982",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GRC": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GRD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GTM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GUY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/HND": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/HRV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1981",
+        "latestDate": "2023"
+      }
+    ],
+    "country/HTI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/HUN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/IDN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/IND": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/IRL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/IRN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1971",
+        "latestDate": "2023"
+      }
+    ],
+    "country/IRQ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ISL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ISR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ITA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/JAM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/JOR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/JPN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KAZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1971",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KGZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1978",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KHM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1976",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KIR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KNA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1973",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KOR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KWT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LAO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1978",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LBN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LBR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LBY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LCA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LKA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LSO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LTU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1967",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LUX": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LVA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1979",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MAR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MCO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1985",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MDA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1971",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MDG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1972",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MDV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1962",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MEX": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MHL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MKD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1981",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MLI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1966",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MLT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MMR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1968",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MNE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1984",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MNG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1980",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MOZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1963",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MRT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MUS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MWI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1961",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MYS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NAM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1967",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NER": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1969",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NGA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1964",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NIC": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NLD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NOR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NPL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NRU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1985",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NZL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/OMN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PAK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PAN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PER": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PHL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PLW": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1965",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PNG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/POL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PRK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PRT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PRY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PSE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1975",
+        "latestDate": "2023"
+      }
+    ],
+    "country/QAT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1969",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ROU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/RUS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/RWA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SAU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1972",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SDN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SGP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SLB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SLE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SLV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SMR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1985",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SOM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1983",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SRB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1984",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SSD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/STP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1965",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SUR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1983",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SVK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SVN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1981",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SWE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SWZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SYC": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SYR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TCA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1966",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TCD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TGO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/THA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TJK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1972",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TKM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1977",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TLS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1985",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TON": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1963",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TTO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TUN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1962",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TUR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TUV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TZA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/UGA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/UKR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1971",
+        "latestDate": "2023"
+      }
+    ],
+    "country/URY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/USA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/UZB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1979",
+        "latestDate": "2023"
+      }
+    ],
+    "country/VCT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1969",
+        "latestDate": "2023"
+      }
+    ],
+    "country/VEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/VGB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/VNM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1964",
+        "latestDate": "2023"
+      }
+    ],
+    "country/VUT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/WSM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/XKS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1985",
+        "latestDate": "2023"
+      }
+    ],
+    "country/YEM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ZAF": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1976",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ZMB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ZWE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "Per1000LiveBirths",
+        "measurementMethod": "UnitedNationsIGMEEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1960",
+        "latestDate": "2023"
+      }
+    ]
+  }
+}

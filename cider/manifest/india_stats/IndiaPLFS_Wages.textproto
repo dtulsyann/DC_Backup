@@ -1,0 +1,18 @@
+import: {
+  import_name: "IndiaPLFS_Wages"
+  provenance_url: "https://mospi.gov.in/web/plfs"
+  category: STATS
+  provenance_description: "General wage and earnings statistics from the Periodic Labour Force Survey in India."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_plfs/nodes.mcf@1"
+  import_groups: "infrequent"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "indianCensusAreaCode2011"
+    kg_for_resolution: KG_MCF
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_plfs/PLFSWageData_India.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_plfs/PLFSWageData_India.csv"
+  }
+  dataset_name: "Periodic Labour Force Survey"
+}

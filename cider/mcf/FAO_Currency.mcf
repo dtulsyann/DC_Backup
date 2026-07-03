@@ -1,0 +1,6 @@
+Node: dcid:dc/base/FAO_Currency
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-09-04"
+descriptionUrl: "https://www.fao.org/faostat/en/#data/PE/metadata "
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/96f241b3ff2af0faf3081228ed028034a08ce7e0/scripts/fao"
+automaticRefreshType: "NoAutomaticRefresh"

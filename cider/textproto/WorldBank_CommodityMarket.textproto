@@ -1,0 +1,21 @@
+# proto-file: datacommons/proto/import_server.proto
+# proto-message: Import
+import {
+  import_name: "WorldBank_CommodityMarket"
+  provenance_url: "https://www.worldbank.org/en/research/commodity-markets"
+  category: STATS
+  provenance_description: "World Bank Commodity Markets Annual And Monthly Data "
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/commodity_market/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/commodity_market/latest/commodity.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/commodity_market/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/commodity_market/WorldBank_CommodityMarket/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/commodity_market/WorldBank_CommodityMarket/import_metadata_mcf.mcf"
+  import_groups: "searchaim"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  dataset_name: "World Bank Commodity Markets"
+}

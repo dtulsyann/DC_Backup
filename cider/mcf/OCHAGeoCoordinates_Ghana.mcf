@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Ghana
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/cod-ab-gha#metadata-0"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Ghana/wikidata/Source"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-gha"
+lastDataRefreshDate: "2024-07-16"
+earliestDataImportDate: "2024-07-16"

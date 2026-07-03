@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Madagascar_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Districts_of_Madagascar"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Madagascar."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Madagascar/ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Madagascar/ADM2/MDG.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Madagascar/ADM2/Madagascar_ADM2-final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

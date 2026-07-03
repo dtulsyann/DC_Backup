@@ -1,0 +1,6 @@
+Node: dcid:dc/base/CensusACS1YearSurvey
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+lastDataRefreshDate: "2022-06-02"
+automaticRefreshType: "NoAutomaticRefresh"

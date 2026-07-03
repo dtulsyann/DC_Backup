@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Liechtenstein"
+  provenance_url: "https://en.wikipedia.org/wiki/Municipalities_of_Liechtenstein"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Liechtenstein."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Liechtenstein/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Liechtenstein/wikidata/Liechtenstein.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Liechtenstein/wikidata/Liechtenstein_ADM1_Final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

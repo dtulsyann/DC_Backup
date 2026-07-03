@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CensusSAHIE
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/census_v2/sahie/Readme.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census_v2/sahie/sahie/latest/input_files"
+sourceDataUrl: "https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html"
+descriptionUrl: "https://www.census.gov/programs-surveys/sahie/technical-documentation/methodology/demographic-income-model.html"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

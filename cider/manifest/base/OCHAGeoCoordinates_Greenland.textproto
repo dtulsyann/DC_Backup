@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Greenland"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-grl"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the municipalities(Administrative Area 1 division) in Greenland."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Greenland/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

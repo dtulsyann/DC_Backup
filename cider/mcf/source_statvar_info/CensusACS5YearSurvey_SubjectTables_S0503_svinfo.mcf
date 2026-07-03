@@ -1,0 +1,54 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthEurope_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthEurope_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthEurope_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthEurope_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthEurope_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthEurope_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthNorthernWesternEurope_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthNorthernWesternEurope_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthNorthernWesternEurope_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthNorthernWesternEurope_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthNorthernWesternEurope_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthNorthernWesternEurope_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthSouthernEasternEurope_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthernEasternEurope_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthSouthernEasternEurope_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthernEasternEurope_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0503-Count_Person_ForeignBorn_PlaceOfBirthSouthernEasternEurope_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0503
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthernEasternEurope_2OrMoreRatioToPovertyLine
+

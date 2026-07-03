@@ -1,0 +1,12 @@
+# LINT.IfChange
+import: {
+  # Simplified GeoJSONs from OCHA for: Pakistan, Nepal, Bangladesh, China
+  import_name: "OCHAGeoCoordinates_Simplified"
+  provenance_url: "https://data.humdata.org"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/simplified/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

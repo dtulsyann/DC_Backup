@@ -1,0 +1,10 @@
+Node: dcid:dc/base/SouthKorea_Demographics
+typeOf: dcs:Provenance
+license : "https://kosis.kr/eng/aboutKosis/policyPublicData.do"
+licenseType : dcs:PublicDomain
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/statvar_imports/southkorea_statistics/README.md"
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/country/southkorea/demographics/input_files/"
+sourceDataUrl : "https://kosis.kr/eng/"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

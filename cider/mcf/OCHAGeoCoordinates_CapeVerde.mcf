@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_CapeVerde
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/CapeVerde/wikidata/source_files"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-cpv"
+lastDataRefreshDate: "2024-07-14"
+earliestDataImportDate: "2024-07-14"

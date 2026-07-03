@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Ukraine
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Ukraine/wikidata/UKR_ADM1-final.csv"
+sourceDataUrl : "https://en.m.wikipedia.org/wiki/Administrative_divisions_of_Ukraine"
+lastDataRefreshDate: "2024-07-05"
+earliestDataImportDate: "2024-07-05"

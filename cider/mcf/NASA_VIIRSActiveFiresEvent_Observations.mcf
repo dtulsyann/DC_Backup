@@ -1,0 +1,4 @@
+Node: dcid:dc/base/NASA_VIIRSActiveFiresEvent_Observations
+typeOf: dcid:Provenance
+descriptionUrl: "https://viirsland.gsfc.nasa.gov/PDF/VIIRS_activefire_User_Guide.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

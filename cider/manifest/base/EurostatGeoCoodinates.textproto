@@ -1,0 +1,11 @@
+# LINT.IfChange
+import: {
+  import_name: "EurostatGeoCoodinates"
+  provenance_url: "https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat_geojson/*.mcf"
+  import_groups: "place"
+  dataset_name: "Regional Statistics by NUTS Classification"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

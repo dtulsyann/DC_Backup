@@ -1,0 +1,9 @@
+Node: dcid:dc/base/US_CCD_Enrollment
+typeOf: dcid:Provenance
+license: "https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/ccd/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ccd/enrollment/latest/input_files/"
+sourceDataUrl: "https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp"
+descriptionUrl: "https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp"

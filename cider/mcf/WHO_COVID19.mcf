@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WHO_COVID19
+typeOf: dcs:Provenance
+license : "https://data.who.int/about/data/terms-and-conditions"
+licenseType: dcid:CreativeCommonsAttributionLicense
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/who_covid19/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/who_covid19/latest/input_files"
+sourceDataUrl : "https://data.who.int/dashboards/covid19/cases?n=c"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

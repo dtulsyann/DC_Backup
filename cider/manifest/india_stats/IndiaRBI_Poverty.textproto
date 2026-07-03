@@ -1,0 +1,22 @@
+import: {
+  import_name: "IndiaRBI_Poverty"
+  provenance_url: "https://rbi.org.in/"
+  provenance_description: "Number and Percentage of Population Below Poverty Line"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_rbi/poverty/nodes.mcf@1"
+  import_groups: "experimental"
+  start_date_in_kg: "2005"
+  end_date_in_kg: "2012"
+  data_download_url: "https://rbi.org.in/scripts/PublicationsView.aspx?id=15283"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "isoCode"
+    kg_for_resolution: KG_MCF
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/poverty/BelowPovertyLine_India.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/poverty/BelowPovertyLine_India.csv"
+  }
+  # TODO(b/234018877): Add datasets for RBI/Census of India source.
+  dataset_name: "Database on Indian Economy"
+}

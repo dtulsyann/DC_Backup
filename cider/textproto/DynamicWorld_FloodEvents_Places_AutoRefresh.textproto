@@ -1,0 +1,21 @@
+import {
+  import_name: "DynamicWorld_FloodEvents_Places_AutoRefresh"
+  provenance_url: "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+  provenance_description: "Statistics for places with flood events inferred from areas marked with high probability of water outside the permanent water bodies."
+  category: STATS
+  import_groups: "auto2w"
+  import_groups: "laelaps"
+  release_frequency: "P3M"
+  automated_mcf_generation_by: "auto2w"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/floods/events/place_svobs/graph.tfrecord@10.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/floods/events/place_svobs/flood_place_svobs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/floods/events/place_svobs/*place_svobs.csv"
+    download_config: {
+      src_prefix_dir: "/bigstore/datcom-prod-imports/scripts/floods/events/place_svobs"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/floods/DynamicWorld_FloodEvents_Places_AutoRefresh/import_metadata_mcf.mcf"
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "Inferred Floods from Dynamic World"
+}

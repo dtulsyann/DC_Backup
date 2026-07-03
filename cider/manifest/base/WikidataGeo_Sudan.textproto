@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Sudan"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Sudan."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Sudan/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Sudan/Sudan_ADM1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Sudan/Sudan_ADM1_final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

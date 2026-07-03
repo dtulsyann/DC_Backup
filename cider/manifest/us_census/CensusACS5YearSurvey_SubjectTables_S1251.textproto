@@ -1,0 +1,18 @@
+import {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1251"
+  provenance_url: "https://data.census.gov/table/ACSST5Y2024.S1251?q=S1251"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S1251: Non-Grandparents Living with Own Grandchildren."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/S1251/20260312/graph.tfrecord@1.gz"
+  start_date_in_kg: "2012"
+  end_date_in_kg: "2024"
+  resolution_info {
+    uses_id_resolver: true
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S1251/20260312/S1251_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S1251/20260312/S1251_cleaned.csv"
+  }
+  import_groups: "uscensus"
+  dataset_name: "American Community Survey (ACS)"
+}

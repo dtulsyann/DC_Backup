@@ -1,0 +1,9 @@
+import: {
+  import_name: "EPA_Superfund_Measurement_Sites"
+  provenance_url: "https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0601269&doc=Y&colid=33990&region=06&type=SC"
+  category: PLACE
+  provenance_description: "Measurement sites within and across EPA Superfund sites that are used to measure levels of contamination."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/superfund/measurement_sites/nodes.mcf"
+  import_groups: "place"
+  dataset_name: "Superfund Sites"
+}

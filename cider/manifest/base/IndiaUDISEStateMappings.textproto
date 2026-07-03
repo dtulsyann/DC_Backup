@@ -1,0 +1,18 @@
+import: {
+  import_name: "IndiaUDISEStateMappings"
+  provenance_url: "http://pgi.seshagun.gov.in/BackEnd-master/api/report/getMasterData"
+  provenance_description: "Indian Unified District Information System for Education (UDISE) codes for states."
+  category: PLACE
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "isoCode"
+    kg_for_resolution: KG_MCF
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_udise/udise_geography/udise_states/nodes.mcf@1"
+  import_groups: "place"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_geography/udise_states/UDISE_States.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_geography/udise_states/UDISE_States.csv"
+  }
+  dataset_name: "Unified District Information System for Education (UDISE)"
+}

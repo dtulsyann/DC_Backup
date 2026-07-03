@@ -1,0 +1,12 @@
+Node: dcid:dc/base/US_CPI
+typeOf: dcid:Provenance
+license: "https://www.bls.gov/bls/linksite.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_bls/us_cpi/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bls/cpi/latest/input_files/"
+sourceReleaseFrequency: "P1M"
+sourceDataUrl: "https://www.bls.gov/cpi/tables/supplemental-files/"
+descriptionUrl: "https://www.bls.gov/cpi/overview.htm"
+url: "https://www.bls.gov/cpi/"
+automaticRefreshType: dcid:GCPCloudRunAutomaticRefresh

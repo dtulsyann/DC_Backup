@@ -1,0 +1,11 @@
+Node: dcid:dc/base/OECDRegionalDemography_Deaths
+typeOf: dcid:Provenance
+descriptionUrl: "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DEATH_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A"
+license: "https://www.oecd.org/en/about/terms-conditions.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/oecd/regional_demography/"
+sourceDataUrl: "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DEATH_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&pd=%2C"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/oecd/sharded/20241015/"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

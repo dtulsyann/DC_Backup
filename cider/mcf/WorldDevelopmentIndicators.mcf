@@ -1,0 +1,12 @@
+Node: dcid:dc/base/WorldDevelopmentIndicators
+typeOf: dcid:Provenance
+descriptionUrl: "https://datacatalog.worldbank.org/search/dataset/0037712"
+license: "https://datacatalog.worldbank.org/search/dataset/0037712"
+licenseType: dcid:CreativeCommonsAttributionLicense
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/world_bank/wdi/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/world_bank/wdi/202410/"
+# We need update the url with "ISO3166Alpha3" as per place from csv file https://github.com/datacommonsorg/data/scripts/world_bank/wdi/WorldBankCountries.csv
+sourceDataUrl : "http://api.worldbank.org/v2/en/country/AFG?downloadformat=csv"
+sourceReleaseFrequency : "P1M"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

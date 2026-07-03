@@ -1,0 +1,15 @@
+# The five imports below are all P1Y, P5Y, P10Y aggregations for CMIP6 and
+# NOAA (observed) temperatures. The cache value of them is very large, exceeding
+# 100MB (the Cloud BT limit).
+# These imports might not be critical to be in BT for serving, but they are
+# input imports for other derived graph computations, so we annotate them with
+# a INTERMEDIATE_STATS category.
+import: {
+  import_name: "NOAA_EPA_Observed_Historical_Weather_AggrYearsStats"
+  provenance_url: "https://www.ncei.noaa.gov/cdo-web/"
+  provenance_description: "Aggregated by DataCommons."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/StatVarSeries/Aggregates/v2/NOAA_EPA_Observed_Historical_Weather_AggrYearsStats/graph.tfrecord*"
+  import_groups: "ipcc"
+  category: INTERMEDIATE_STATS
+  dataset_name: "NOAA-EPA Observed Weather Data"
+}

@@ -1,0 +1,9 @@
+import: {
+  import_name: "EPA_GHGRP_AggCounty_AggState"
+  provenance_url: "https://www.epa.gov/ghgreporting"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/EPA_GHGRP_AggCounty_AggState/graph.tfrecord@1.gz"
+  import_groups: "auto2w"
+  provenance_description: "Aggregated by DataCommons from EpaReportingFacility to State."
+  category: AGGREGATED_STATS
+  dataset_name: "Greenhouse Gas Reporting Program"
+}

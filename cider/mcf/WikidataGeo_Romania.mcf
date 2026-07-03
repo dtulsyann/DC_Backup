@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Romania
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/ROU/ADM1/20240621/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Administrative_divisions_of_Romania"
+lastDataRefreshDate: "2024-07-30"
+earliestDataImportDate: "2024-06-24"

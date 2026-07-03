@@ -1,0 +1,18 @@
+import {
+  import_name: "NASA_SeaLevelProjections_CMIP6"
+  provenance_url: "https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report"
+  category: STATS
+  provenance_description: "Sea-level rise projections based on CMIP6 climate models provided by NASA's PO.DAAC."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/cmip6_sealevel/global/nodes.mcf@16"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/cmip6_sealevel/global/sea_level_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/cmip6_sealevel/global/*.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/cmip6_sealevel/regional/nodes.mcf@10"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/cmip6_sealevel/regional/sea_level_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/cmip6_sealevel/regional/*.csv"
+  }
+  import_groups: "ipcc"
+  dataset_name: "PO.DAAC - Sea level Projections from IPCC CMIP6"
+}

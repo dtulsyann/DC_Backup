@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Slovenia"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-svn"
+  category: PLACE
+  provenance_description: "Includes Administrative Area1 places of Slovenia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Slovenia/boundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CDC_NORS_NonInfectious
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/nchs/data_access/ftp_data.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_cdc/non_infectious_diseases/README.md"
+sourceDataUrl: "https://data.cdc.gov/Foodborne-Waterborne-and-Related-Diseases/NORS/5xkq-dg7x/about_data"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/nors_non_infectious_diseases/latest/input_file"
+descriptionUrl: "https://www.cdc.gov/nors/downloads/guidance.pdf"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

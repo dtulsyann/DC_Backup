@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Jamaica
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Jamaica/wikidata/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Parishes_of_Jamaica"
+lastDataRefreshDate: "2024-08-09"
+earliestDataImportDate: "2024-05-10"

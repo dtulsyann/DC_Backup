@@ -1,0 +1,11 @@
+Node: dcid:dc/base/USNationalPrisonerStatistics
+typeOf: dcid:Provenance
+license : "https://www.icpsr.umich.edu/web/NACJD/studies/38871"
+licenseType : dcs:PublicDomain
+descriptionUrl: "https://bjs.ojp.gov/data/national-archive-criminal-justice-data "
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bjs/nps/latest/input_files/"
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_bjs/nps/README.md"
+sourceDataUrl : "https://www.icpsr.umich.edu/web/NACJD/studies/38871"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

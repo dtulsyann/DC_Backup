@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_France
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/France/ADM1/wikidata/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Regions_of_France"
+lastDataRefreshDate: "2024-10-15"
+earliestDataImportDate: "2024-10-15"

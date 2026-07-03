@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Latvia_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Administrative_divisions_of_Latvia#Municipalities_as_of_2021"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Latvia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Latvia/ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Latvia/ADM2/Latvia.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Latvia/ADM2/Latvia_ADM2-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

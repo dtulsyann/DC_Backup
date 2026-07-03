@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Croatia
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Croatia/Boundaryfiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-hrv"
+lastDataRefreshDate: "2024-06-21"
+earliestDataImportDate: "2024-06-21"

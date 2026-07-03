@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CDC_PM25County
+typeOf: dcs:Provenance
+license: "https://www.cdc.gov/nchs/policy/data-user-agreement.html"
+licenseType: dcs:PublicDomain
+processingMethod: dcs:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_cdc/environmental_health_toxicology/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/environmental/PM25County/latest/input"
+sourceDataUrl: "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-PM2-5-Concentrations-2001-2019/dqwm-pbi7/about_data"
+sourceReleaseFrequency: "P1M"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

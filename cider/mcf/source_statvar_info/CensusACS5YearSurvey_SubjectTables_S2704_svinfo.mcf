@@ -1,0 +1,24 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2704-Count_Person_Civilian_NonInstitutionalized_1.38OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2704
+variable: dcid:Count_Person_Civilian_NonInstitutionalized_1.38OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2704-Count_Person_Civilian_NonInstitutionalized_1.38OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2704
+variable: dcid:Count_Person_Civilian_NonInstitutionalized_1.38OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2704-Count_Person_WithPublicHealthInsurance_1.38OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2704
+variable: dcid:Count_Person_WithPublicHealthInsurance_1.38OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2704-Count_Person_WithPublicHealthInsurance_1.38OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2704
+variable: dcid:Count_Person_WithPublicHealthInsurance_1.38OrMoreRatioToPovertyLine
+

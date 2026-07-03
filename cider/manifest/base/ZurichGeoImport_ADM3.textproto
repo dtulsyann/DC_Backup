@@ -1,0 +1,9 @@
+import {
+  import_name: "ZurichGeoImport_ADM3"
+  provenance_url: "https://data.stadt-zuerich.ch/dataset/geo_stadtkreise"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the Administrative Area 3 divisions of Zurich."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Zurich/ADM3/*.mcf"
+  import_groups: "place"
+  dataset_name: "Zurich GeoCoordinates"
+}

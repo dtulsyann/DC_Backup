@@ -1,0 +1,9 @@
+import: {
+  import_name: "ACSED5YrSurvey_StatVarAgg"
+  provenance_url: "https://nces.ed.gov/programs/edge/Demographic/ACS"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/ACSED5YrSurvey_StatVarAgg/graph.tfrecord@1.gz"
+  import_groups: "uscensus"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables for the American Community Survey (ACS) 5-Year Education Tabulation."
+  dataset_name: "American Community Survey Education Tabulation (ACS-ED)"
+}

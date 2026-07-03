@@ -1,0 +1,20 @@
+import: {
+  import_name: "Brazil_RuralDevelopmentProgram"
+  provenance_url: "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+  provenance_description: "Different population benefiting from Rural Development Program."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/brazil/VISDATA/Benefits_RuralDevelopmentProgram/latest/graph.tfrecord@1.gz"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/VISDATA/Benefits_RuralDevelopmentProgram/latest/Families_RuralDevelopmentProgram_Gender_Brazil_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/VISDATA/Benefits_RuralDevelopmentProgram/latest/*_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/brazil_visdata/brazil_rural_development_program/Brazil_RuralDevelopmentProgram/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/brazil_visdata/brazil_rural_development_program/Brazil_RuralDevelopmentProgram/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Brazil VIS DATA 3"
+}

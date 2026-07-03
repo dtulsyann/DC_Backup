@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_UnitedArabEmirates
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/UnitedArabEmirates/wikidata/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Emirates_of_the_United_Arab_Emirates"
+lastDataRefreshDate: "2024-05-28"
+earliestDataImportDate: "2024-05-10"

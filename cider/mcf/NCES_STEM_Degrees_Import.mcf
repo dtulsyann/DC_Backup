@@ -1,0 +1,10 @@
+Node: dcid:dc/base/NCES_STEM_Degrees_Import
+typeOf: dcs:Provenance
+license : "https://ies.ed.gov/about/privacy-security"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_steam_degrees_data/nces_stem_degrees_import/README.md"
+sourceDataUrl : "https://nces.ed.gov/programs/digest/d22/tables/dt22_318.45.asp"
+#automaticRefreshSchedule : "0 10 * * 2"
+cachedSourceDataUrl: "https://storage.googleapis.com/datacommons_public/unresolved_mcf/ncses/nces_stem_degrees_import/nces_table_318_45%20-%20Digest%202022%20Table%20318.45.csv"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

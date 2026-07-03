@@ -1,0 +1,20 @@
+import {
+  import_name: "USA_DOL_Wages"
+  provenance_url: "https://www.dol.gov/general/topic/wages"
+  category: STATS
+  provenance_description: "USA minimum wages presents the minimum wages for every year at country and state level. The data comes from the US Department of Labor."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_wages/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_wages/latest/us_dol_wages.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_wages/latest/us_dol_wages.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/usa_dol/minimum_wage/USA_DOL_Wages/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/usa_dol/minimum_wage/USA_DOL_Wages/import_metadata_mcf.mcf"
+  import_groups: "laelaps"
+  import_groups: "auto2w"
+  release_frequency: "P1Y"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "USA Minimum Wages"
+}

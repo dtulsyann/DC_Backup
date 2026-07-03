@@ -1,0 +1,16 @@
+import {
+  import_name: "India_aqi"
+  provenance_url: "https://app.cpcbccr.com/AQI_India/"
+  category: STATS
+  provenance_description: "Data covering the pollutants measured once in 4 hours along with other details like station name, state, city, and date for the period of 2012-2022."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_aqi/data/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_aqi/data/India_AQI.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_aqi/data/India_AQI.csv"
+  }
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  start_date_in_kg: "2012"
+  end_date_in_kg: "2022"
+  dataset_name: "India aqi pollutants"
+}

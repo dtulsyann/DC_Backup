@@ -1,0 +1,14 @@
+import: {
+  # TODO(b/283460987): Update scaling factors.
+  import_name: "OECDStats"
+  provenance_url: "https://stats.oecd.org"
+  category: STATS
+  provenance_description: "Regional demographic statistics measured by OECD (Organisation for Economic Co-operation and Development)."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oecd/stats/graph.tfrecord@10.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/stats/oecd.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/stats/output/*.csv"
+  }
+  import_groups: "experimental"
+  dataset_name: "OECD Statistics"
+}

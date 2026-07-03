@@ -1,0 +1,10 @@
+import: {
+  import_name: "DeepSolar_AggCensusTract"
+  provenance_url: "http://web.stanford.edu/group/deepsolar/home"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/Place_2021-09-20/DeepSolar_AggCensusTract/place_aggregation.mcf@2"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "DeepSolar"
+}

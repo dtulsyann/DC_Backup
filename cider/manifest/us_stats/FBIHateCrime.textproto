@@ -1,0 +1,19 @@
+import: {
+  import_name: "FBIHateCrime"
+  provenance_url: "https://www.fbi.gov/services/cjis/ucr/hate-crime"
+  category: STATS
+  provenance_description: "Statistics on criminal offenses motivated by bias against race, religion, disability, sexual orientation, or ethnicity."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/hate_crime/aggregated/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/aggregated/latest/aggregations.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/aggregated/latest/aggregation.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/fbi/hate_crime/aggregations/FBIHateCrime/latest_version.txt"
+    }
+  }
+  import_groups: "infrequent"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Hate Crime Statistics"
+}

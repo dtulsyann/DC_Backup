@@ -1,0 +1,17 @@
+import {
+  import_name: "RFFGridGeos"
+  provenance_url: "https://www.rff.org/publications/data-tools/"
+  category: PLACE
+  provenance_description: "Includes GeoGridPlace_0.25Degree and GeoGridPlace_4KM entities for the US associated with weather variability statistics. Each entity is mapped to be contained in one or more US counties."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/rff/grids_0.25deg/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/rff/grids_0.25deg/places_forecast.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/rff/grids_0.25deg/places_forecast.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/rff/grids_4km/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/rff/grids_4km/places_4km.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/rff/grids_4km/places_4km.csv"
+  }
+  import_groups: "place"
+}

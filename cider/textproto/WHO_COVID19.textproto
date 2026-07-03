@@ -1,0 +1,21 @@
+import: {
+  import_name: "WHO_COVID19"
+  provenance_url: "https://data.who.int/dashboards/covid19/data?n=c"
+  provenance_description: "World Health Organization's (WHO) raw data and statistical releases covering global COVID-19 cases, deaths, hospitalizations, and vaccination coverage"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/who_covid19/latest/output/graph.tfrecord@1.gz"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/who_covid19/latest/output/common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/who_covid19/latest/output/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/who_covid19/WHO_COVID19/latest_version.txt"
+    }
+  }
+  import_groups: "dcbranch"
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/who_covid19/WHO_COVID19/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Coronavirus Disease (COVID-19) Dashboard"
+}

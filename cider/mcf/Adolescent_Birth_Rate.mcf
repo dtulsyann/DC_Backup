@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Adolescent_Birth_Rate
+typeOf: dcid:Provenance
+licenseType: dcid:CreativeCommonsAttributionLicense
+license: "https://data.who.int/about/data/terms-and-conditions"
+processingMethod: dcid:StatVarProcessor
+automaticRefreshType: dcid:GCPCloudRunAutomaticRefresh
+automaticRefreshSchedule: "0 0 20 6 *"
+sourceDataUrl: "https://data.who.int/indicators/i/24C65FE/27D371A"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://storage.mtls.cloud.google.com/datacommons_public/unresolved_mcf/who/Adolescent_Birth_Rate_Per_1000_Women/input_files/adolescent_birth_rate_input.csv"
+descriptionUrl: "https://data.who.int/indicators/i/24C65FE/27D371A"

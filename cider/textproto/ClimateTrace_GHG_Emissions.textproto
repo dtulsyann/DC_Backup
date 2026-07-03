@@ -1,0 +1,19 @@
+import: {
+  import_name: "ClimateTrace_GHG_Emissions"
+  provenance_url: "https://api.climatetrace.org/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/climate_trace/gas/graph.tfrecord@1.gz"
+  category: STATS
+  # NOTE: This is in "dcbranch" as fix.  We can remove it once infrequent gets rebuilt.
+  import_groups: "dcbranch"
+  import_groups: "infrequent"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2022"
+  end_date_in_source: "2022"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/climate_trace/gas/climate.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/climate_trace/gas/output.csv"
+  }
+  dataset_name: "Climate TRACE GHG Emissions"
+}

@@ -1,0 +1,26 @@
+import: {
+  import_name: "NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Observations"
+  provenance_url: "https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi"
+  provenance_description: "Area of drought events over time generated from SPI for 1 degree grids calculated from 9 month precipitation data using the Pearson distribution."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/gpcc_spi/events_spi_9m_polygon/latest/events_observation/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/events_spi_9m_polygon/latest/events_observation/drought_spi_9m_polygon_svobs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/events_spi_9m_polygon/latest/events_observation/drought_spi_9m_polygon_svobs.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/noaa/gpcc_spi/NOAA_GPCC_StandardardizedPrecipitationIndex/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/noaa/gpcc_spi/NOAA_GPCC_StandardardizedPrecipitationIndex/import_metadata_mcf.mcf"
+  import_groups: "auto1w"
+  import_groups: "infrequent"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1M"
+  resolution_info: { uses_id_resolver: true }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/gpcc_spi/events_spi_9m_polygon/retained_1900_2010/events_observation/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/events_spi_9m_polygon/retained_1900_2010/events_observation/drought_event_svobs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/events_spi_9m_polygon/retained_1900_2010/events_observation/drought_spi_9m_polygon_*_svobs.csv"
+  }
+  dataset_name: "GPCC Monthly SPI Data"
+}

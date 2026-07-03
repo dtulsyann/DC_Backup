@@ -1,0 +1,49 @@
+import: {
+  import_name: "USCensusPEP_By_Sex_Race"
+  provenance_url: "https://www.census.gov/programs-surveys/popest.html"
+  provenance_description: "US Census Population Estimates Program (PEP)."
+  category: STATS
+  # These files contains data before year 2000 at National Level. National data for the years 1980 - 2000 is aggregated from State data.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_national_before_2000/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_national_before_2000/national_before_2000.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_national_before_2000/national_before_2000.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/pep/us_pep_sexrace/USCensusPEP_By_Sex_Race/latest_version.txt"
+    }
+  }
+  # These files conatins data after year 2000 at National Level. National data for the years 2010 - 2022 is aggregated from State data.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_national_after_2000/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_national_after_2000/national_after_2000.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_national_after_2000/national_after_2000.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/pep/us_pep_sexrace/USCensusPEP_By_Sex_Race/latest_version.txt"
+    }
+  }
+  # These files conatins data before year 2000 at State and County Level.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_before_2000/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_before_2000/state_county_before_2000.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_before_2000/state_county_before_2000.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/pep/us_pep_sexrace/USCensusPEP_By_Sex_Race/latest_version.txt"
+    }
+  }
+  # These files conatins data after year 2000 at State and County Level.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_after_2000/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_after_2000/state_county_after_2000.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_sr/latest/sex_race_aggregate_after_2000/state_county_after_2000.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/pep/us_pep_sexrace/USCensusPEP_By_Sex_Race/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_census/pep/us_pep_sexrace/USCensusPEP_By_Sex_Race/import_metadata_mcf.mcf"
+  import_groups: "auto1w"
+  import_groups: "laelaps"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Population Estimates Program (PEP)"
+}

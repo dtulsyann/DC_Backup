@@ -1,0 +1,10 @@
+Node: dcid:dc/base/France_Demographics
+typeOf: dcid:Provenance
+license: "https://www.insee.fr/fr/information/2381863"
+licenseType: dcid:INSEEOpenLicense
+processingMethod: dcid:StatVarProcessor
+automaticRefreshType: dcid:GCPCloudRunAutomaticRefresh
+sourceDataUrl: "https://www.insee.fr/en/statistiques/8333211?sommaire=8333329"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/france/input_files"
+descriptionUrl: "https://www.insee.fr/en/statistiques/8333211?sommaire=8333329#documentation-sommaire"

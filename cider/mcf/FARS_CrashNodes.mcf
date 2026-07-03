@@ -1,0 +1,8 @@
+Node: dcid:dc/base/FARS_CrashNodes
+typeOf: dcs:Provenance
+license: "https://www.nhtsa.gov/about-nhtsa/terms-use"
+licenseType: dcs:PublicDomain
+processingMethod: dcs:StatVarProcessor
+sourceDataUrl: "https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

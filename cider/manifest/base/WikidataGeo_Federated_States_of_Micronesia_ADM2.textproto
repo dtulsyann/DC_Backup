@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Federated_States_of_Micronesia_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Federated_States_of_Micronesia"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Federated States of Micronesia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Federated_States_of_Micronesia/ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Federated_States_of_Micronesia/ADM2/FSM.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Federated_States_of_Micronesia/ADM2/FSM_ADM2-final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

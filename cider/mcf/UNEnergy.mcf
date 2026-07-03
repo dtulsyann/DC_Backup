@@ -1,0 +1,9 @@
+Node: dcid:dc/base/UNEnergy
+licenseType: dcid:PublicDomain
+license: "https://unstats.un.org/unsd/energystats/data"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_fema/national_risk_index/20250115/input_files"
+processingMethod: dcid:CustomScript
+typeOf: dcid:Provenance
+descriptionUrl: "https://unstats.un.org/unsd/energystats/data/"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/un/energy/README.md"
+

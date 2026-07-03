@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Ukraine"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the Administrative Areas 1 of Ukraine."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Ukraine/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Ukraine/wikidata/Ukraine.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Ukraine/wikidata/UKR_ADM1-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

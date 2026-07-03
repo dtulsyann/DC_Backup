@@ -1,0 +1,10 @@
+Node: dcid:dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg
+typeOf: dcid:Provenance
+license : "https://www.icpsr.umich.edu/web/NACJD/studies/38871"
+licenseType : dcs:PublicDomain
+descriptionUrl: "https://bjs.ojp.gov/document/BJS-Statistical-Coverage.pdf "
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bjs/nps/latest/input_files/"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_bjs/nps/README.md"
+sourceDataUrl : "https://www.icpsr.umich.edu/web/NACJD/studies/38871"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType: "NoAutomaticRefresh"

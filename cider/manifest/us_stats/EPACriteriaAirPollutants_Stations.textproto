@@ -1,0 +1,14 @@
+import: {
+  import_name: "EPACriteriaAirPollutants_Stations"
+  provenance_url: "https://aqs.epa.gov/aqsweb/airdata/download_files.html"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/epa_stations/latest/nodes.mcf@45"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/epa_stations/latest/EPA_AirQuality_stations.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/epa_stations/latest/EPA_AirQuality*.csv"
+  }
+  import_groups: "place"
+  release_frequency: "P6M"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Air Data"
+}

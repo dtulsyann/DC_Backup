@@ -1,0 +1,16 @@
+import: {
+  import_name: "SouthKorea_Education"
+  provenance_url: "https://kosis.kr/eng/"
+  category: STATS
+  data_download_url: "https://kosis.kr/eng/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ETITLE&parmTabId=M_01_01"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/southkorea/education/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/southkorea/education/common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/southkorea/education/*.csv"
+  }
+  import_groups: "country"
+  start_date_in_kg: "2011"
+  end_date_in_kg: "2024"
+  release_frequency: "P1Y"
+  dataset_name: "South Korea Statistics"
+}

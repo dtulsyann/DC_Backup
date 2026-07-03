@@ -1,0 +1,15 @@
+import {
+  import_name: "US_UrbanOrg_Colleges_Directory_IPEDS"
+  provenance_url: "https://educationdata.urban.org/documentation/colleges.html#ipeds_directory"
+  category: PLACE
+  provenance_description: "Data on US colleges and universities from the Urban Institute Education Data Explorer"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/IPEDS/directory_ipeds_colleges/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/IPEDS/directory_ipeds_colleges/directory_college_ipeds.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/IPEDS/directory_ipeds_colleges/directory_IPEDS_new_colleges_master.csv"
+  }
+  import_groups: "place"
+  dataset_name: "US Urban Education Data Census"
+  #TO-DO: Latitude and Longitude details available for some of the places, adding the bug here-https://buganizer.corp.google.com/issues/new?component=814898
+
+}

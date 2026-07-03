@@ -1,0 +1,27 @@
+import: {
+  import_name: "CDCWonderNatality"
+  provenance_url: "https://wonder.cdc.gov/natality.html"
+  category: STATS
+  provenance_description: "Birth data and natality statistics, including birth weights and demographics, from the CDC WONDER database."
+  start_date_in_kg: "1995"
+  end_date_in_kg: "2022"
+  release_frequency: "P1Y"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/wonder/natality/states/20231215/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/wonder/natality/states/20231215/output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/wonder/natality/states/20231215/*.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/wonder/natality/county/20231215/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/wonder/natality/county/20231215/output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/wonder/natality/county/20231215/*.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/wonder/natality/country/20231215/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/wonder/natality/country/20231215/output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/wonder/natality/country/20231215/*.csv"
+  }
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Wonder: Natality"
+}

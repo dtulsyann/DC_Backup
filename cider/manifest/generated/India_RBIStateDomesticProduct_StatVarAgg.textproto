@@ -1,0 +1,9 @@
+import {
+  import_name: "India_RBIStateDomesticProduct_StatVarAgg"
+  provenance_url: "https://rbi.org.in/"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables related to India's State Domestic Product."
+  import_groups: "auto2w"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/India_RBIStateDomesticProduct_StatVarAgg/graph.tfrecord@1.gz"
+  dataset_name: "Database on Indian Economy"
+}

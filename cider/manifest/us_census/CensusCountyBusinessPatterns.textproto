@@ -1,0 +1,25 @@
+import: {
+  import_name: "CensusCountyBusinessPatterns"
+  provenance_url: "https://www.census.gov/programs-surveys/cbp.html"
+  category: STATS
+  provenance_description: "Annual data on US business establishments, employment, and payroll broken down by geographic area and industry."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/CensusCountyBusinessPatterns/latest/graph.tfrecord@8.gz"
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/censuscountybusinesspatterns/CensusCountyBusinessPatterns/import_metadata_mcf.mcf"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/CensusCountyBusinessPatterns/latest/output_cbp.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/CensusCountyBusinessPatterns/latest/output*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/census_county_business_patterns/CensusCountyBusinessPatterns/latest_version.txt"
+    }
+  }
+  #Retained
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/CensusCountyBusinessPatterns/historical/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/CensusCountyBusinessPatterns/historical/output_cbp.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/CensusCountyBusinessPatterns/historical/bq-results*.csv"
+  }
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "County Business Patterns"
+}

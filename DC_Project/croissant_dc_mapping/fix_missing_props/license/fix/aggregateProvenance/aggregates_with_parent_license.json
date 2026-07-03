@@ -1,0 +1,98 @@
+[
+  {
+    "aggregate_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg",
+    "parent_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0801",
+    "parent_license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg",
+    "parent_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0804",
+    "parent_license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg",
+    "parent_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1201",
+    "parent_license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg",
+    "parent_dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2408",
+    "parent_license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/CensusSAHIE_AggCountry",
+    "parent_dcid": "dc/base/CensusSAHIE",
+    "parent_license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/Copernicus_ECMWF_ERA5_Monthly_AggrYearsStats",
+    "parent_dcid": "dc/base/Copernicus_ECMWF_ERA5_Monthly",
+    "parent_license": "https://cds.climate.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-productsv12.md",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/EPA_EJSCREEN_AggCensusTract",
+    "parent_dcid": "dc/base/EPA_EJSCREEN",
+    "parent_license": "https://gaftp.epa.gov/EJSCREEN/2015/EJSCREEN_Technical_Document_20150505.pdf",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty",
+    "parent_dcid": "dc/base/EPA_EJSCREEN",
+    "parent_license": "https://gaftp.epa.gov/EJSCREEN/2015/EJSCREEN_Technical_Document_20150505.pdf",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/FBIGovCrime_AggCountry",
+    "parent_dcid": "dc/base/FBIGovCrime",
+    "parent_license": "https://www.justice.gov/legalpolicies",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/IndiaNSS_HealthAilments_StatVarAgg",
+    "parent_dcid": "dc/base/IndiaNSS_HealthAilments",
+    "parent_license": "https://ndap.niti.gov.in/info?tab=termsandconditions",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/India_RBIStateDomesticProduct_AggCountry",
+    "parent_dcid": "dc/base/India_RBIStateDomesticProduct",
+    "parent_license": "https://rbi.org.in/Scripts/Righttoinfoact.aspx",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/India_RBIStateDomesticProduct_StatVarAgg",
+    "parent_dcid": "dc/base/India_RBIStateDomesticProduct",
+    "parent_license": "https://rbi.org.in/Scripts/Righttoinfoact.aspx",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/NCES_PrivateSchoolStats_SuperEnum",
+    "parent_dcid": "dc/base/NCES_PrivateSchoolStats",
+    "parent_license": "https://ies.ed.gov/help/privacy.asp",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/NCES_PublicSchoolStats_SuperEnum",
+    "parent_dcid": "dc/base/NCES_PublicSchoolStats",
+    "parent_license": "https://ies.ed.gov/help/privacy.asp",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/NCES_SchoolDistrictStats_SuperEnum",
+    "parent_dcid": "dc/base/NCES_SchoolDistrictStats",
+    "parent_license": "https://ies.ed.gov/help/privacy.asp",
+    "parent_licenseType": "PublicDomain"
+  },
+  {
+    "aggregate_dcid": "dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg",
+    "parent_dcid": "dc/base/USDA_AgricultureCensus",
+    "parent_license": "https://www.usda.gov/about-usda/policies-and-links",
+    "parent_licenseType": "PublicDomain"
+  }
+]

@@ -1,0 +1,14 @@
+import: {
+  import_name: "ICTV_MasterSpeciesList"
+  dataset_name: "Master Species List"
+  provenance_url: "https://ictv.global/msl"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/taxonomy/ictv3/VirusSpecies/nodes.mcf@1"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusSpecies/VirusSpecies.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusSpecies/VirusSpecies.csv"
+  }
+}

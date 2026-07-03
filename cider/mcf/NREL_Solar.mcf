@@ -1,0 +1,6 @@
+Node: dcid:dc/base/NREL_Solar
+typeOf: dcid:Provenance
+license: "https://www.nlr.gov/disclaimer"
+licenseType: dcid:PublicDomain
+lastDataRefreshDate: "2022-06-02"
+automaticRefreshType: "NoAutomaticRefresh"

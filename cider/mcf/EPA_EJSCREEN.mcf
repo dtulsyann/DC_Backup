@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EPA_EJSCREEN
+typeOf: dcid:Provenance
+license: "https://gaftp.epa.gov/EJSCREEN/2015/EJSCREEN_Technical_Document_20150505.pdf"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_epa/ejscreen/README.md"
+sourceDataUrl: "https://zenodo.org/records/14767363"
+descriptionUrl: "https://gaftp.epa.gov/ejscreen/2023/2.22_September_UseMe/EJSCREEN_2023_BG_Columns.xlsx "
+cachedSourceDataUrl: "https://console.cloud.google.com/datacommons_public/unresolved_mcf/epa/ejscreen/latest/input_files.zip"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

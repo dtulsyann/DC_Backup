@@ -1,0 +1,19 @@
+import: {
+  import_name: "ICTV_VirusMetadataResource"
+  dataset_name: "Virus Metadata Resource"
+  provenance_url: "https://ictv.global/vmr"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/taxonomy/ictv3/VirusIsolates/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/taxonomy/ictv3/VirusGenomeSegments/nodes.mcf@1"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusIsolates/VirusIsolates.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusIsolates/VirusIsolates.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusGenomeSegments/VirusGenomeSegments.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusGenomeSegments/VirusGenomeSegments.csv"
+  }
+}

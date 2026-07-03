@@ -1,0 +1,12 @@
+Node: dcid:dc/base/CDCWonder_NNDSS_InfectiousAnnual
+typeOf: dcid:Provenance
+descriptionUrl: "https://wonder.cdc.gov/wonder/help/nndss.html#"
+license: "https://www.cdc.gov/other/agencymaterials.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar/us_cdc/nndss_annual_tables/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/nndss_infectious_diseases_annual/latest/input_files"
+sourceDataUrl: "https://wonder.cdc.gov/nndss/"
+sourceReleaseFrequency: "P1Y"
+importedSourceReleaseDate: "2024-11-24"
+automaticRefreshType: "NoAutomaticRefresh"

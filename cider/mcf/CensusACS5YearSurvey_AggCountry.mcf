@@ -1,0 +1,9 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_AggCountry
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+lastDataRefreshDate: "2025-01-27"
+# Next release: https://www.census.gov/programs-surveys/acs/news/data-releases.html
+nextSourceReleaseDate: "2025-12-11"
+automaticRefreshType: "NoAutomaticRefresh"
+

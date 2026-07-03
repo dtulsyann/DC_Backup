@@ -1,0 +1,18 @@
+import {
+  import_name: "Subnational_Demographics_Stats"
+  provenance_url: "https://databank.worldbank.org/source/subnational-population"
+  category: STATS
+  provenance_description: "Sub-national Demographic data - Worldbank Population for Country and States."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/subnational/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/subnational/latest/wb_subnational_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/subnational/latest/wb_subnational_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/subnational_demographics_stats/Subnational_Demographics_Stats/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/world_bank/subnational_demographics_stats/Subnational_Demographics_Stats/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "World Bank Subnational Population"
+}

@@ -1,0 +1,13 @@
+import: {
+  import_name: "EarthquakeUSGS"
+  provenance_url: "https://earthquake.usgs.gov/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/earthquake/usgs_comcat_1900_01_01_2022_10_06.mcf"
+  import_groups: "experimental"
+  start_date_in_kg: "1900-01-01"
+  end_date_in_kg: "2022-10-06"
+  release_frequency: "P1D"  # TODO(b/142973110): refresh data
+  data_download_url: "https://earthquake.usgs.gov/earthquakes/search/"
+  # Assigned DCIDs, don't need "resolution_info: { uses_id_resolver: true }".
+  dataset_name: "Advanced National Seismic System Comprehensive Earthquake Catalog (ComCat)"
+}

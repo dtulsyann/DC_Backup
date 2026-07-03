@@ -1,0 +1,18 @@
+import: {
+  import_name: "RFF_USCounty_AdditionalWeatherVariabilityHistorical"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_url: "https://www.rff.org/publications/data-tools/"
+  category: STATS
+  start_date_in_kg: "1981"
+  end_date_in_kg: "2021"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/rff/additional_county_weather_variability/nodes.mcf@17"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/rff/additional_county_weather_variability/WeatherVariability_Additional_Counties.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/rff/additional_county_weather_variability/WeatherVariability_Additional_Counties.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "US Historical Weather Variability - County"
+}

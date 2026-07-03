@@ -1,0 +1,76 @@
+# proto-file: datacommons/proto/dc_manifest.proto
+# proto-message: DataCommonsManifest
+#
+# Names should only have alpha-numeric chars.
+import_groups {
+  name: "infrequent"
+  description: "Imports that only require infrequent cache builds"
+}
+import_groups {
+  name: "ipcc"
+  description: "Imports that are part of the IPCC pipeline"
+}
+import_groups {
+  name: "frequent"
+  description: "Imports that are part of cron cache builds"
+}
+import_groups {
+  name: "dcbranch"
+  description: "Imports that get built and autopushed to DC service. This includes COVID19 and employment related data."
+}
+import_groups {
+  name: "searchbranch"
+  description: "Imports that get built and autopushed into Search. This primarily includes employment related data."
+}
+import_groups {
+  name: "biomedical"
+  description: "Imports that are related to biomedical datasets."
+}
+import_groups {
+  name: "disaster"
+  description: "Imports that are related to disaster datasets."
+}
+import_groups {
+  name: "place"
+  description: "Imports that are related to place datasets."
+}
+import_groups {
+  name: "country"
+  description: "Imports for country specific data sources."
+}
+import_groups {
+  name: "uscensus"
+  description: "Imports from the US Census."
+}
+import_groups {
+  name: "experimental"
+  description: "Experimental imports that will not be included in prod."
+}
+import_groups {
+  name: "auto1d"
+  description: "Imports that are auto-refreshed every day."
+}
+import_groups {
+  name: "auto1w"
+  description: "Imports that are auto-refreshed every week."
+}
+import_groups {
+  name: "auto2w"
+  description: "Imports that are auto-refreshed every two weeks."
+}
+import_groups {
+  name: "schema"
+  description: "Schema imports, including statistical variables."
+}
+import_groups {
+  name: "searchonly"
+  description: "Blocklist of imports that are not accessible from Data Commons APIs or BigQuery. These should also be added to the laelaps import group to be accessible in Google Search."
+}
+import_groups {
+  name: "laelaps"
+  description: "Imports that are used in Laelaps for Google Search."
+}
+import_groups {
+  name: "searchaim"
+  description: "Imports that are used in Laelaps for AI Mode."
+}

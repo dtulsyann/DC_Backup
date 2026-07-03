@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_NewZealand_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Territorial_authorities_of_New_Zealand"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 2 districts and cities) of NewZealand."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/NewZealand/ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/NewZealand/ADM2/NewZealand_ADM2.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/NewZealand/ADM2/NewZealand_ADM2_final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

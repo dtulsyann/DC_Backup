@@ -1,0 +1,36 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2702-Count_Person_NoHealthInsurance_0.5OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2702
+variable: dcid:Count_Person_NoHealthInsurance_0.5OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2702-Count_Person_NoHealthInsurance_0.5To0.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2702
+variable: dcid:Count_Person_NoHealthInsurance_0.5To0.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2702-Count_Person_NoHealthInsurance_1.5To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2702
+variable: dcid:Count_Person_NoHealthInsurance_1.5To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2702-Count_Person_NoHealthInsurance_1To1.49RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2702
+variable: dcid:Count_Person_NoHealthInsurance_1To1.49RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2702-Count_Person_NoHealthInsurance_2.0To2.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2702
+variable: dcid:Count_Person_NoHealthInsurance_2.0To2.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S2702-Count_Person_NoHealthInsurance_3OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2702
+variable: dcid:Count_Person_NoHealthInsurance_3OrMoreRatioToPovertyLine
+

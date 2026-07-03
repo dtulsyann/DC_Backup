@@ -1,0 +1,21 @@
+import: {
+  import_name: "CDC500_States"
+  provenance_url: "https://www.cdc.gov/places/index.html"
+  category: STATS
+  provenance_description: "State-level aggregates of chronic disease risk factors, health outcomes, and clinical preventive services from the CDC."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/places/cdc500_states/latest/graph.tfrecord@1.gz"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/cdc500_states/latest/cdc500_state.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/cdc500_states/latest/CDC500State_Output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/cdc500_state/CDC500_States/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/cdc500_state/CDC500_States/import_metadata_mcf.mcf"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "PLACES: Local Data for Better Health"
+}

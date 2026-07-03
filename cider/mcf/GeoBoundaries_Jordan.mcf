@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Jordan
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:CreativeCommonsAttributionLicenseGeneric
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/JOR/ADM1/BoundaryFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/JOR/ADM1"
+lastDataRefreshDate: "2024-05-20"
+earliestDataImportDate: "2024-05-20"

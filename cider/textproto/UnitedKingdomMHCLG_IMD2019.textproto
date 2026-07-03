@@ -1,0 +1,9 @@
+import: {
+  import_name: "UnitedKingdomMHCLG_IMD2019"
+  provenance_url: "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/uk/mhclg/nodes.mcf@1"
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "IMD2019"
+}

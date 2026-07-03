@@ -1,0 +1,12 @@
+import: {
+  import_name: "OpportunityInsightsOutcomes"
+  provenance_url: "http://opportunityinsights.org/data"
+  category: STATS
+  provenance_description: "Data on intergenerational mobility and economic outcomes based on geographic childhood environments."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oi/outcomes/commuting_zone/Observations_*.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oi/outcomes/tract/*/Observations_*.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oi/outcomes/county/*/Observations_*.mcf"
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "The Opportunity Atlas"
+}

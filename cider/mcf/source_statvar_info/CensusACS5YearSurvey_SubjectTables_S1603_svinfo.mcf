@@ -1,0 +1,60 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_AbovePovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_AbovePovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_AbovePovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_AbovePovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_OnlyEnglishSpokenAtHome_AbovePovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_OnlyEnglishSpokenAtHome_AbovePovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_OnlyEnglishSpokenAtHome_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_OnlyEnglishSpokenAtHome_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_SpanishOrSpanishCreoleSpokenAtHome_AbovePovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_SpanishOrSpanishCreoleSpokenAtHome_AbovePovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_SpanishOrSpanishCreoleSpokenAtHome_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_SpanishOrSpanishCreoleSpokenAtHome_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_SpanishSpokenAtHome_AbovePovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_SpanishSpokenAtHome_AbovePovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S1603-Count_Person_5OrMoreYears_SpanishSpokenAtHome_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+variable: dcid:Count_Person_5OrMoreYears_SpanishSpokenAtHome_BelowPovertyLevelInThePast12Months
+

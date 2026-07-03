@@ -1,0 +1,28 @@
+import: {
+  import_name: "OECDRegionalDemography_Population"
+  provenance_url: "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C0%7CRegional%252C%20rural%20and%20urban%20development%23GEO%23&pg=40&fc=Topic&bp=true&snb=117&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_POP_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&vw=tb&pd=%2C"
+  category: STATS
+  provenance_description: "Population statistics by age and sex measured by OECD."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oecd/regional_demography/population/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/population/latest/OECD_population_cleaned.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/population/latest/OECD_population_cleaned.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/oecd/regional_demography/population/OECDRegionalDemography_Population/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/oecd/regional_demography/population/OECDRegionalDemography_Population/import_metadata_mcf.mcf"
+  #Retained dataset
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oecd/regional_demography/population/retained/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/population/retained/OECD_population_retained.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/regional_demography/population/retained/OECD_population_retained.csv"
+  }
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "OECD Regional Demography Statistics Population"
+}

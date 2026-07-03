@@ -1,0 +1,16 @@
+import: {
+  import_name: "DiseasesJensenLab_Experiment"
+  dataset_name: "DISEASES: Experiment"
+  provenance_url: "https://download.jensenlab.org/human_disease_experiments_full.tsv"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_241101/experiment/nodes.mcf@1"
+  import_groups: "biomedical"
+  next_release_date: "2024-11-04"
+  release_frequency: "P1W"
+  # Next release: https://github.com/spiekos/data/blob/diseasesAtJensenLab/scripts/biomedical/diseasesAtJensenLab/
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_241101/experiment/experiment.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_241101/experiment/codingGenes-experiments.csv"
+  }
+}

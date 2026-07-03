@@ -1,0 +1,9 @@
+Node: dcid:dc/base/StormNOAA_Agg
+typeOf: dcid:Provenance
+licenseType: dcid:PublicDomain
+sourceDataUrl: "https://www.ncdc.noaa.gov/stormevents/ftp.jsp"
+dataTransformationLogic: "https://source.corp.google.com/piper///depot/google3/datacommons/mcf/us_storms/gen_storm_mcf.py"
+sourceReleaseFrequency: "P1M"
+lastDataRefreshDate: "2025-10-23"
+automaticRefreshType: "NoAutomaticRefresh"
+

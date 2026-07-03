@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Macedonia"
+  provenance_url: "https://en.wikipedia.org/wiki/Governorates_of_Macedonian/"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Macedonia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Macedonia/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Macedonia/Macedonia.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Macedonia/Macedonia_ADM1-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

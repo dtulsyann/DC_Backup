@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Niger"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the regions(Administrative Area 1 division) of Niger."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Niger/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Niger/wikidata/Niger.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Niger/wikidata/Niger - Final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

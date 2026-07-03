@@ -1,0 +1,21 @@
+import: {
+  import_name: "DiseasesJensenLab_Textmining"
+  dataset_name: "DISEASES: Textmining"
+  provenance_url: "https://download.jensenlab.org/human_disease_textmining_full.tsv"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_241101/codingGenes-textmining/nodes.mcf@28"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_241101/nonCodingGenes-textmining/nodes.mcf@2"
+  import_groups: "biomedical"
+  next_release_date: "2024-11-04"
+  release_frequency: "P1W"
+  # Next release: https://github.com/spiekos/data/blob/diseasesAtJensenLab/scripts/biomedical/diseasesAtJensenLab/
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_241101/codingGenes-textmining/codingGenes-textmining.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_241101/codingGenes-textmining/codingGenes-textmining.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_241101/nonCodingGenes-textmining/nonCodingGenes-textmining.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_241101/nonCodingGenes-textmining/nonCodingGenes-textmining.csv"
+  }
+}

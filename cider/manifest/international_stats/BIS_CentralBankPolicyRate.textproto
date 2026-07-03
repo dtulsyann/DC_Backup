@@ -1,0 +1,19 @@
+import: {
+  import_name: "BIS_CentralBankPolicyRate"
+  provenance_url: "https://data.bis.org/topics/CBPOL/data"
+  provenance_description: "Bank for International Settlements (2025), Central bank policy rates, BIS WS_CBPOL 1.0 (data set)"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bis/central_bank_policy_rate/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bis/central_bank_policy_rate/latest/central_bank_policy_rate.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bis/central_bank_policy_rate/latest/central_bank_policy_rate.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/bis/bis_central_bank_policy_rate/BIS_CentralBankPolicyRate/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/bis/bis_central_bank_policy_rate/BIS_CentralBankPolicyRate/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  import_groups: "searchaim"
+  dataset_name: "Central Bank Policy Rate"
+}

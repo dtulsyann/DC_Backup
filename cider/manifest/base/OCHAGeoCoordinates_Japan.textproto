@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Japan"
+  provenance_url: "https://data.humdata.org/dataset/cod-xa-jpn"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the prefectures(Administrative Area 1 division) of Japan."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Japan/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

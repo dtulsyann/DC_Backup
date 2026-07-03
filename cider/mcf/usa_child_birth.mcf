@@ -1,0 +1,8 @@
+Node: dcid:dc/base/usa_child_birth
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm"
+sourceDataUrl: "https://data.cdc.gov/api/views/hmz2-vwda/rows.csv?accessType=DOWNLOAD"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/usa_child_birth/input_files/"
+sourceReleaseFrequency: "P1Y"
+processingMethod: dcid:StatVarProcessor
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

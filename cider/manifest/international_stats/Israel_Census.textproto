@@ -1,0 +1,14 @@
+import {
+  import_name: "Israel_Census"
+  provenance_url: "https://www.cbs.gov.il/"
+  category: STATS
+  provenance_description: "Population Census and Statistics for Israel at country, district and sub-district Level. Imported variables related to demographic based on religion, gender, age and health based on cause and count of mortality and count of employed people."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/israel/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/israel/common_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/israel/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  dataset_name: "Israel Census"
+}

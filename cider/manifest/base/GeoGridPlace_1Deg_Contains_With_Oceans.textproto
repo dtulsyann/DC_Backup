@@ -1,0 +1,10 @@
+import: {
+  import_name: "GeoGridPlace_1Deg_Contains_With_Oceans"
+  provenance_url: "https://www.marineregions.org/sources.php#goas"
+  category: PLACE
+  provenance_description: "containedInPlace property values for one degree lat/long grids based on the Global Oceans and Seas boundaries."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oceans/geo/grid_1_ocean_contained.mcf"
+  import_groups: "place"
+  resolution_info: { uses_id_resolver: false }
+  dataset_name: "Global Oceans and Seas"
+}

@@ -1,0 +1,16 @@
+import {
+  import_name: "Uganda_Census"
+  provenance_url: "https://uganda.opendataforafrica.org/"
+  category: STATS
+  provenance_description: "Uganda Demographics, education and Health data from Uganda Bureau of Statistics (UBOS) at country ,region and district Level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/uganda/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/uganda/Uganda_common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/uganda/*_csv.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  start_date_in_kg: "1969"
+  end_date_in_kg: "2016"
+  dataset_name: "Uganda Bureau of Statistics (UBOS)"
+}

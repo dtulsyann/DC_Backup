@@ -1,0 +1,15 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0902"
+  provenance_url: "https://data.census.gov/table/ACSST5Y2024.S0902?q=S0902"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/acs5yr_subject_tables/S0902/20260313/graph.tfrecord@1.gz"
+  import_groups: "uscensus"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2024"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/acs5yr_subject_tables/S0902/20260313/S0902_cleaned.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/acs5yr_subject_tables/S0902/20260313/S0902_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

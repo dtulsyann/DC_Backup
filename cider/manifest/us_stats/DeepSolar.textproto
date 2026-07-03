@@ -1,0 +1,16 @@
+import: {
+  import_name: "DeepSolar"
+  provenance_url: "http://web.stanford.edu/group/deepsolar/home"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/deepsolar/nodes.mcf@1"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  start_date_in_kg: "2017"
+  end_date_in_kg: "2017"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/deepsolar/deepsolar.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/deepsolar/deepsolar.csv"
+  }
+  dataset_name: "DeepSolar"
+}

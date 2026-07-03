@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EurostatHealth_Tobacco_Consumption
+typeOf: dcid:Provenance
+descriptionUrl: "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_det_esms.htm"
+license: "https://commission.europa.eu/legal-notice_en"
+licenseType: dcid:CreativeCommonsAttributionLicense
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/eurostat/health_determinants/tobacco_consumption/README.md"
+sourceDataUrl: "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_sk1i?format=TSV&compressed=true"
+sourceReleaseFrequency: "P5Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

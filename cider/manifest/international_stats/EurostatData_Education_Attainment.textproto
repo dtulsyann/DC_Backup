@@ -1,0 +1,27 @@
+import: {
+  import_name: "EurostatData_Education_Attainment"
+  provenance_url: "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table?lang=en"
+  category: STATS
+  provenance_description: "Educational attainment levels of the population across European regions."
+  # retained data
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/education_attainment/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_attainment/historical/Eurostats_NUTS2_Edat.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_attainment/historical/education_attainment_historical_rows.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/education_attainment/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_attainment/latest/Eurostats_NUTS2_Edat.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_attainment/latest/Eurostats_NUTS2_Edat.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/education_attainment/EurostatData_Education_Attainment/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/education_attainment/EurostatData_Education_Attainment/import_metadata_mcf.mcf"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Regional Statistics by NUTS Classification"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Ukraine
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Ukraine/wikidata"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-ukr"
+lastDataRefreshDate: "2024-07-05"
+earliestDataImportDate: "2024-07-05"

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701PR
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_census/acs5yr/subject_tables/S0701PR/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/s0701pr/20260220/input_file/S0701PR.zip"
+sourceDataUrl: "https://data.census.gov/cedsci/table?q=S0701PR&tid=ACSST5Y2024.S0701PR"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2024_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2024_ACSSubjectDefinitions.pdf"
+description: "American Community Survey (ACS) 5-Year Subject Tables: S0701PR: Geographic Mobility by Selected Characteristics in Puerto Rico"
+automaticRefreshType: "NoAutomaticRefresh"

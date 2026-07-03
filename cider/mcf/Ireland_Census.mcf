@@ -1,0 +1,7 @@
+Node: dcid:dc/base/Ireland_Census
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.cso.ie/en/methods/"
+sourceDataUrl: "https://data.cso.ie/"
+sourceReleaseFrequency: "P5Y"
+processingMethod: dcid:StatVarProcessor
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

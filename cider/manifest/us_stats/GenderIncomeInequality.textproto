@@ -1,0 +1,20 @@
+import: {
+  import_name: "GenderIncomeInequality"
+  provenance_url: "https://www.datacommons.org/"
+  category: STATS
+  provenance_description: "Aggregated statistics computing income disparities between different genders."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census_v2/inequality/gender_income/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/inequality/gender_income/latest/gender_income_inequality.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/inequality/gender_income/latest/gender_income_inequality.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/gender_income_inequality/GenderIncomeInequality/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_census/gender_income_inequality/GenderIncomeInequality/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  import_groups: "laelaps"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Data Commons Aggregations"
+}

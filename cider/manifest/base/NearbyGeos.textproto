@@ -1,0 +1,11 @@
+import: {
+  import_name: "NearbyGeos"
+  provenance_url: "https://datacommons.org"
+  category: PLACE
+  provenance_description: "Nearby places computed for common place types by Data Commons."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/NearbyGeos/*.mcf"
+  import_groups: "place"
+  is_mcf_replicated_from_piper: true
+  resolution_info: { uses_id_resolver: false }
+  dataset_name: "Data Commons Schema"
+}

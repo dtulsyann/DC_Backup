@@ -1,0 +1,9 @@
+import: {
+  import_name: "UniProt"
+  provenance_url: "https://www.uniprot.org/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/chemicalCompound/protein/*.mcf"
+  import_groups: "biomedical"
+  dataset_name: "UniProt"
+  release_frequency: "P8W"
+}

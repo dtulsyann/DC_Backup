@@ -1,0 +1,14 @@
+import: {
+  import_name: "IndiaPoverty"
+  provenance_url: "https://socialjustice.gov.in/common/76672"
+  category: STATS
+  provenance_description: "Percentage of population below poverty line by social groups, place of residence at country and state level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_niti/india_poverty/graph.tfrecord@1.gz"
+  import_groups: "infrequent"
+  import_groups: "country"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_niti/india_poverty/India_Poverty1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_niti/india_poverty/*.csv"
+  }
+  dataset_name: "India Poverty Status"
+}

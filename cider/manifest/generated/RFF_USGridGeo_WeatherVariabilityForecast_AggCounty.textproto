@@ -1,0 +1,11 @@
+import: {
+  import_name: "RFF_USGridGeo_WeatherVariabilityForecast_AggCounty"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_url: "https://www.rff.org/publications/data-tools/"
+  category: AGGREGATED_STATS
+  start_date_in_kg: "2006"
+  end_date_in_kg: "2100"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/Place_2022_07_27/RFF_USGridGeo_WeatherVariabilityForecast_AggCounty/graph.tfrecord@8.gz"
+  dataset_name: "US Forecast Weather Variability - County"
+}

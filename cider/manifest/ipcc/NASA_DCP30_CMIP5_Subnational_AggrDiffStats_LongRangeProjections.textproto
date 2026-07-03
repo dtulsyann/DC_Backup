@@ -1,0 +1,17 @@
+# The import below contains aggregates over CMIP model projections compared to
+# 1981-2010 observational data over longer time horizons for US counties, e.g.
+# Max of Max_Temp differences between 2011-2050.
+# Generated from SQL script in http://shortn/_Ena64leImb for quick demo.
+import: {
+  import_name: "NASA_DCP30_CMIP5_Subnational_AggrDiffStats_LongRangeProjections"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/oneoff-aggregations/nex-dcp30/nodes.mcf@1"
+  import_groups: "ipcc"
+  provenance_description: "Aggregated by DataCommons."
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/oneoff-aggregations/nex-dcp30/temp_projections_delta_extremes_counties_yearly.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/oneoff-aggregations/nex-dcp30/temp_projections_delta_extremes_counties_yearly.csv"
+  }
+  category: AGGREGATED_STATS
+  dataset_name: "NEX - Downscaled Climate Projections for US from IPCC CMIP5"
+}

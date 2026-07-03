@@ -1,0 +1,26 @@
+import: {
+  import_name: "India_RBIStateDomesticProduct"
+  provenance_url: "https://rbi.org.in/"
+  category: STATS
+  provenance_description: "The total value of goods and services produced during any financial year within the geographical boundaries of a state"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_rbi/State_domestic_product/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/State_domestic_product/latest/rbi.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/State_domestic_product/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/india_rbistatedomesticproduct/India_RBIStateDomesticProduct/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/india_rbistatedomesticproduct/India_RBIStateDomesticProduct/import_metadata_mcf.mcf"
+  # Historical data is for base year2004-05 for year 2004-2010.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_rbi/State_domestic_product/historical/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/State_domestic_product/historical/rbistatedomesticproduct_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/State_domestic_product/historical/rbistatedomesticproduct_history.csv"
+  }
+  import_groups: "auto2w"
+  release_frequency: "P1Y"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Database on Indian Economy"
+}

@@ -1,0 +1,16 @@
+import {
+  import_name: "Sweden_Census"
+  provenance_url: "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/"
+  category: STATS
+  provenance_description: "Sweden Demographics, Health and Education data from Statistics Sweden at country, nuts1, nuts2, nuts3 and municipality level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/sweden/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/sweden/sweden_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/sweden/sweden_all_csv/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  start_date_in_kg: "1860"
+  end_date_in_kg: "2022"
+  dataset_name: "Sweden Census"
+}

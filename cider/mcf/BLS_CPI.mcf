@@ -1,0 +1,12 @@
+Node: dcid:dc/base/BLS_CPI
+typeOf: dcid:Provenance
+license : "https://www.bls.gov/bls/ada.htm"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_bls/cpi/README.md"
+descriptionUrl: "https://www.bls.gov/cpi/overview.htm"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/bls/cpi/latest/input_files/"
+sourceDataUrl : "https://download.bls.gov/pub/time.series/cu/cu.data.1.AllItems"
+sourceReleaseFrequency : "P1M"
+# statvarConfig: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/latest/"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

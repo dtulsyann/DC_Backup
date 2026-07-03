@@ -1,0 +1,18 @@
+import: {
+  import_name: "EPA_USAirPollutantEmissionTrends_County"
+  provenance_url: "https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data"
+  provenance_description: "The import has variables that are directly available from EPA source for Air Pollution Emissions."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/air_emissions_inventory_county/graph.tfrecord@1.gz"
+  category: STATS
+  import_groups: "infrequent"
+  start_date_in_kg: "2008"
+  end_date_in_kg: "2017"
+  end_date_in_source: "2017"
+  release_frequency: "P3Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/air_emissions_inventory_county/airpollution_emission_trends_county_tier1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/air_emissions_inventory_county/airpollution_emission_trends_county_tier1.csv"
+  }
+  dataset_name: "National Emissions Inventory"
+}

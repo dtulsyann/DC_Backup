@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Liechtenstein
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-lie"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Liechtenstein/sourceFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-lie"
+lastDataRefreshDate: "2024-07-11"
+earliestDataImportDate: "2024-07-11"

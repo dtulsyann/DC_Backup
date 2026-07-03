@@ -1,0 +1,9 @@
+import: {
+  import_name: "DEA_ARCOS_AggState_AggCountry"
+  provenance_url: "https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/Place_2021-09-20/DEA_ARCOS_AggState_AggCountry/place_aggregation.mcf@1"
+  import_groups: "infrequent"
+  provenance_description: "Aggregated by DataCommons, from State to Country."
+  category: AGGREGATED_STATS
+  dataset_name: "ARCOS Retail Drug Summary Reports"
+}

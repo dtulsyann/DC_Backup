@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Niger"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-ner"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the regions(Administrative Area 1 division) of Niger."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Niger/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

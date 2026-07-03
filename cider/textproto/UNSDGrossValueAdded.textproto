@@ -1,0 +1,12 @@
+import: {
+  import_name: "UNSDGrossValueAdded"
+  provenance_url: "https://unstats.un.org/home/"
+  category: STATS
+  data_download_url: "https://unstats.un.org/unsd/snaama/downloads"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/unsd/value_added_by_country_and_sector.mcf"
+  import_groups: "experimental"
+  start_date_in_kg: "1970"
+  end_date_in_kg: "2018"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+}

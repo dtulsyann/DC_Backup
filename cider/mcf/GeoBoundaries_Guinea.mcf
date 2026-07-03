@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Guinea
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/GIN/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/GIN/ADM1/InputFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/GIN/ADM1"
+lastDataRefreshDate: "2024-07-04"
+earliestDataImportDate: "2024-07-04"

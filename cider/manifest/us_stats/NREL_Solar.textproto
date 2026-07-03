@@ -1,0 +1,15 @@
+import {
+  import_name: "NREL_Solar"
+  provenance_url: "https://maps.nrel.gov/re-atlas"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nrel/REAtlas/nodes.mcf@1"
+  import_groups: "experimental"
+  start_date_in_kg: "2009"
+  end_date_in_kg: "2009"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nrel/REAtlas/NREL_Solar_Insolation.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nrel/REAtlas/NREL_Solar_Insolation.csv"
+  }
+  dataset_name: "RE Atlas"
+}

@@ -1,0 +1,23 @@
+import: {
+  import_name: "CDC_Mortality_UnderlyingCause"
+  provenance_url: "https://wonder.cdc.gov/ucd-icd10.html"
+  category: STATS
+  provenance_description: "Detailed statistics on underlying causes of death recorded on death certificates in the United States."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/mortality/ucd_county/20231005/graph.tfrecord@3.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/mortality/ucd_county/20231005/cdc_mortality_ucd.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/mortality/ucd_county/20231005/*.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/mortality/ucd_states/20230728/nodes.mcf@28"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/mortality/ucd_states/20230728/cdc_mortality_ucd.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/mortality/ucd_states/20230728/*.csv"
+  }
+  import_groups: "infrequent"
+  start_date_in_kg: "1999"
+  end_date_in_kg: "2021"
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "Wonder: Mortality, Underlying Cause Of Death"
+}

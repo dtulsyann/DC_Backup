@@ -1,0 +1,17 @@
+import: {
+  import_name: "USEconomicCensus"
+  provenance_url: "https://www.census.gov/programs-surveys/economic-census.html"
+  category: STATS
+  provenance_description: "Comprehensive official measure of US businesses and the economy conducted every five years."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/econ_census/*.mcf"
+  import_groups: "uscensus"
+  start_date_in_kg: "2002"
+  end_date_in_kg: "2017"
+  release_frequency: "P5Y"
+  # Based on 2+ year lag from beginning of 2017 release.
+  # https://www.census.gov/programs-surveys/economic-census/news-updates/releases.html
+  next_release_date: "2024"  # ESTIMATED
+  data_download_url: "https://www2.census.gov/programs-surveys/economic-census/data/"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Economic Census"
+}

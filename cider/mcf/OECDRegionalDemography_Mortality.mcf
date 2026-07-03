@@ -1,0 +1,13 @@
+Node: dcid:dc/base/OECDRegionalDemography_Mortality
+typeOf: dcid:Provenance
+descriptionUrl: "https://data-explorer.oecd.org/?pg=0&snb=23","https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/oecd/sharded/20230801/input_files/REGION_DEMOGR.pdf"
+license: "https://www.oecd.org/en/about/terms-conditions.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/oecd/regional_demography/"
+sourceDataUrl: "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_LIFE_EXP&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb"
+lastDataRefreshDate: "2024-12-03"
+importedSourceReleaseDate: "2024-10-07"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/oecd/sharded/20241015/"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType: "NoAutomaticRefresh"

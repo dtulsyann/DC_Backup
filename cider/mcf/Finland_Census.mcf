@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Finland_Census
+typeOf: dcid:Provenance
+license: "https://stat.fi/en/about-us/get-to-know-statistics-finland/legislation/terms-of-use"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/statvar_imports/finland_census/README.md"
+automaticRefreshType: dcid:GCPCloudRunSemiAutomaticRefresh
+sourceDataUrl: "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px/table/tableViewLayout1/"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/finland/input_files"
+descriptionUrl: "https://stat.fi/tup/tilastotietokannat/ohjeet_en.html"

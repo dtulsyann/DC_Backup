@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_TrinidadAndTobago
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/cod-ab-tto#metadata-0"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/TrinidadAndTobago/wikidata/sourceFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-tto"
+lastDataRefreshDate: "2024-07-17"
+earliestDataImportDate: "2024-07-17"

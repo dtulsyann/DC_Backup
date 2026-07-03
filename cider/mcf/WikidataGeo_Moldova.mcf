@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Moldova
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Moldova/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Administrative_divisions_of_Moldova"
+lastDataRefreshDate: "2024-07-16"
+earliestDataImportDate: "2024-07-16"

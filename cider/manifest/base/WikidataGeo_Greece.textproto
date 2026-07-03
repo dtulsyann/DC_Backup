@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Greece"
+  provenance_url: "https://en.wikipedia.org/wiki/Decentralized_administrations_of_Greece"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 1 division of Greece."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Greece/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Greece/grc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Greece/Greece-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

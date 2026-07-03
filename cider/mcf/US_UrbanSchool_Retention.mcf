@@ -1,0 +1,11 @@
+Node: dcid:dc/base/US_UrbanSchool_Retention
+typeOf: dcs:Provenance
+license: "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc"
+licenseType: dcid:CreativeCommonsAttributionLicense
+dataTransformationLogic : "https://github.com/datacommonsorg/data/blob/master/statvar_imports/school_retention/README.md"
+processingMethod : dcid:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/us_education/us_urbaneducation_school/school_retention/latest/input_files/"
+sourceDataUrl : "https://ocrdata.ed.gov/data"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+#automaticRefreshSchedule : "30 07 27 * *"

@@ -1,0 +1,22 @@
+import: {
+  import_name: "CDCWonder_NNDSS_InfectiousWeekly"
+  import_groups: "infrequent"
+  # TODO(chandaluri): Remove frequent once in autopush
+  provenance_url: "https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp"
+  category: STATS
+  provenance_description: "Notifiable Infectious Diseases Data: Weekly tables from CDC WONDER which has the incident counts of different infectious diseases per week that are reported by the 50 states, New York City, the District of Columbia, and the U.S. territories. "
+  start_date_in_kg: "2006"
+  end_date_in_kg: "2024-11-24"
+  end_date_in_source: "2024"
+  release_frequency: "P1W"
+  next_release_date: "2025"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/nndss_infectious_diseases_weekly/20250206/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nndss_infectious_diseases_weekly/20250206/cdc_nndss_weekly_tables.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nndss_infectious_diseases_weekly/20250206/cdc_nndss_weekly_tables.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "National Notifiable Diseases Surveillance System (NNDSS)"
+}

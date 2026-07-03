@@ -1,0 +1,23 @@
+import {
+  import_name: "NCES_HBCU_Enrollment_Import"
+  provenance_url: "https://nces.ed.gov/programs/digest/d22/tables/dt22_313.30.asp"
+  category: STATS
+  provenance_description: "Statistics on degree-granting historically Black colleges and universities, by control and level of institution"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/nces/nces_hbcu_enrollment/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/nces/nces_hbcu_enrollment/historical/nces_hbcu_historical_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/nces/nces_hbcu_enrollment/historical/nces_hbcu_historical_output.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/nces/nces_hbcu_enrollment/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/nces/nces_hbcu_enrollment/latest/nces_hbcu_output_tabn313.30.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/nces/nces_hbcu_enrollment/latest/nces_hbcu_output_tabn313.30.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_hbcu_data/nces_hbcu_enrollment_import/NCES_HBCU_Enrollment_Import/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_hbcu_data/nces_hbcu_enrollment_import/NCES_HBCU_Enrollment_Import/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "US HBCU Data"
+}

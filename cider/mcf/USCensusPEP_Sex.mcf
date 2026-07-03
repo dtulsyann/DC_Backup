@@ -1,0 +1,11 @@
+Node: dcid:dc/base/USCensusPEP_Sex
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.census.gov/newsroom/blogs/random-samplings/2021/08/measuring-racial-ethnic-diversity-2020-census.html"
+license: "https://www.census.gov/about/policies/section-508.html"
+licenseType: dcid:PublicDomain
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_census/pep/us_pep_sex/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_census/pep/population_estimate_by_sex/20241017/input_files/"
+sourceDataUrl: "https://www2.census.gov/programs-surveys/popest/datasets/"
+sourceReleaseFrequency: "P1Y"
+processingMethod: dcid:CustomScript
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

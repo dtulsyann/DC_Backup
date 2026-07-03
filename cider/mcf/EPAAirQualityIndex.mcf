@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EPAAirQualityIndex
+typeOf: dcid:Provenance
+license: "https://edg.epa.gov/EPA_Data_License.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_epa/airqualityindex/README.md"
+sourceDataUrl: "https://aqs.epa.gov/aqsweb/airdata/daily_{pollutant}_{year}.zip"
+sourceReleaseFrequency: "P6M"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/epa/airdata/aqi/latest/"
+descriptionUrl: "https://aqs.epa.gov/aqsweb/airdata/FileFormats.html"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

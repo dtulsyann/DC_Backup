@@ -1,0 +1,25 @@
+import: {
+  import_name: "Covid19IndiaData"
+  provenance_url: "http://projects.datameet.org/covid19/"
+  category: STATS
+  provenance_description: "DataMeet community collected, cleaned and organized COVID-19 India datasets, sourced from various government websites."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datameet/covid19_india/nodes.mcf@1"
+  import_groups: "dcbranch"
+  import_groups: "frequent"
+  release_frequency: "P1D"
+  # automated_mcf_generation_by: "dcbranch"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "isoCode"
+    kg_for_resolution: KG_MCF
+  }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datameet/covid19_india/COVID19_cases_indian_states.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datameet/covid19_india/COVID19_cases_indian_states.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/covid19_india/cases_count_states_data/Covid19IndiaData/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/covid19_india/cases_count_states_data/Covid19IndiaData/import_metadata_mcf.mcf"
+  dataset_name: "COVID-19"
+}

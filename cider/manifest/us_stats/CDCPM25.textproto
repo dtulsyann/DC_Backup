@@ -1,0 +1,12 @@
+import: {
+  import_name: "CDCPM25"
+  provenance_url: "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9"
+  category: STATS
+  provenance_description: "Estimates of fine particulate matter (PM2.5) air pollution levels tracked by the CDC Environmental Public Health Tracking Network."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/PM2.5/*.mcf"
+  import_groups: "infrequent"
+  start_date_in_kg: "2001-01-01"
+  end_date_in_kg: "2014-12-31"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Environmental Health Toxicology"
+}

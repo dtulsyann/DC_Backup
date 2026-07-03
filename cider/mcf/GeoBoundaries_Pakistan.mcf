@@ -1,0 +1,11 @@
+Node: dcid:dc/base/GeoBoundaries_Pakistan
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/PAK/ADM1/"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/PAK/ADM1/20240703/source_files/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/PAK/ADM1"
+lastDataRefreshDate: "2024-07-03"
+earliestDataImportDate: "2024-07-03"
+

@@ -1,0 +1,28 @@
+import: {
+  import_name: "CensusSAHIE"
+  provenance_url: "https://www.census.gov/programs-surveys/sahie.html"
+  category: STATS
+  provenance_description: "The Small Area Health Insurance Estimates (SAHIE) program was created to develop model-based estimates of health insurance coverage for counties and states"
+  # Retain historic data from 2008-2017.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census_v2/sahie/historical/graph.tfrecord@2.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/sahie/historical/census_sahie_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/sahie/historical/*.csv"
+  }
+  # Latest data from 2018 in autorefresh.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census_v2/sahie/latest/output/graph.tfrecord@2.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/sahie/latest/output/census_sahie_output_2018.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/sahie/latest/output/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/census_v2/sahie/CensusSAHIE/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/census_v2/sahie/CensusSAHIE/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Small Area Health Insurance Estimates (SAHIE)"
+}
+

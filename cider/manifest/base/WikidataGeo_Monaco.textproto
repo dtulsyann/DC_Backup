@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Monaco"
+  provenance_url: "https://en.m.wikipedia.org/wiki/Municipality_of_Monaco"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Monaco."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Monaco/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Monaco/wikidata/Monaco_ADM1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Monaco/wikidata/Monaco_ADM1_final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

@@ -1,0 +1,22 @@
+import {
+  import_name: "NigeriaStatistics"
+  provenance_url: "https://nigeria.opendataforafrica.org"
+  category: STATS
+  provenance_description: "Nigeria Demographics, Economy, Health, Education, Agriculture data from Open Data for Africa."
+  #Old data
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/nigeria/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/nigeria/nga_employment.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/nigeria/*.csv"
+  }
+  #Latest data
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/nigeria/20250328/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/nigeria/20250328/economic_nigeria_2011_2019.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/nigeria/20250328/*.csv"
+  }
+  import_groups: "country"
+  #import_groups: "experimental"
+  release_frequency: "P1Y"
+  dataset_name: "Nigeria Statistics"
+}

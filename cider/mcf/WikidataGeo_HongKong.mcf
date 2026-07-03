@@ -1,0 +1,9 @@
+Node: dcid:dc/base/WikidataGeos_HongKong
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/HongKong/wikidata/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Districts_of_Hong_Kong"
+lastDataRefreshDate: "2024-07-01"
+earliestDataImportDate: "2024-07-01"

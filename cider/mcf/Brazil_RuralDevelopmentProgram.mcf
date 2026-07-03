@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Brazil_RuralDevelopmentProgram
+typeOf: dcs:Provenance
+#license : "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+#licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/brazil_visdata/brazil_rural_development_program/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/brazil/VISDATA/Benefits_RuralDevelopmentProgram/latest/input_files"
+sourceDataUrl : "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType: "GCPCloudRunSemiAutomaticRefresh"

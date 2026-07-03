@@ -1,0 +1,9 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2001
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/subject_tables/20250107/S2001"
+sourceDataUrl: "https://data.census.gov/table?q=S2001"
+lastDataRefreshDate: "2025-03-05"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2022_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2022_ACSSubjectDefinitions.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

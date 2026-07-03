@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Argentina"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Argentina."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Argentina/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Argentina/arg.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Argentina/Argentina_ADM1_Final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

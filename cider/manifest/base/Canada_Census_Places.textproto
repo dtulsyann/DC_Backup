@@ -1,0 +1,15 @@
+import {
+  import_name: "Canada_Census_Places"
+  provenance_url: "https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21"
+  category: PLACE
+  provenance_description: "Includes census divisions,census sub-division,electoral districts and designated places of Canada."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/canada_statistics/geo/20240305/nodes.mcf@5"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/canada_statistics/geo/20240305/geo_boundary/*.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/canada_statistics/geo/20240305/geo_boundary/simplified-remove-loops/*.mcf"
+  #table {
+  #  mapping_path: "/cns/jv-d/home/datcom/v3_mcf/canada_statistics/geo/20240305/can_place.tmcf"
+  # csv_path: "/cns/jv-d/home/datcom/v3_mcf/canada_statistics/geo/20240305/*.csv"
+  #}
+  import_groups: "place"
+  dataset_name: "Canada Statistics"
+}

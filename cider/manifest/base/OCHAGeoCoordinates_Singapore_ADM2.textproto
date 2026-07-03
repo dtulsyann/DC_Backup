@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Singapore_ADM2"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-sgp"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the Administrative Area 2 divisions of Singapore."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Singapore/ADM2/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

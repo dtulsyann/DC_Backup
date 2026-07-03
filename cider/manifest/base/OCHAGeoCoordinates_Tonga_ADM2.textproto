@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Tonga_ADM2"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-ton"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the districts(Administrative Area 2 division) in Tonga."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Tonga/BoundaryFiles_ADM2/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

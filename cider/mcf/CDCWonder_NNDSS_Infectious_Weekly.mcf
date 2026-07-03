@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CDCWonder_NNDSS_Infectious_Weekly
+typeOf: dcs:Provenance
+license : "https://www.cdc.gov/other/agencymaterials.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+sourceDataUrl : "https://data.cdc.gov/api/views/x9gk-5huc/rows.csv?accessType=DOWNLOAD&api_foundry=true"
+sourceReleaseFrequency : "P1W"
+lastDataRefreshDate: "2026-04-18"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/nndss_infectious_diseases_weekly/20260418/input_files"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"

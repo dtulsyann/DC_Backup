@@ -1,0 +1,13 @@
+Node: dcid:dc/base/GeoBoundaries_Turkmenistan
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/TKM/ADM1/Turkmenistan_ADM1.csv"
+# sourceDataUrl: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/TKM/ADM1"
+lastDataRefreshDate: "2024-04-30"
+earliestDataImportDate: "2024-04-30"
+# sourceReleaseFrequency
+# nextSourceReleaseDate
+# nextDataRefreshDate

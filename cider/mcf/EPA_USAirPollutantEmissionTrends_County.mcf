@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EPA_USAirPollutantEmissionTrends_County
+typeOf: dcid:Provenance
+license: "https://www.epa.gov/accessibility/epa-accessibility-statement"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/6681baa5dc111a7848b9967ac5ba01cfa4aa64f1/scripts/us_epa/air_emissions_inventory/county/README.md?plain=1"
+sourceDataUrl: "https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data"
+lastDataRefreshDate: "2022-09-14"
+descriptionUrl: "https://www.epa.gov/air-emissions-inventories/trends-procedural-documentation"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_epa/air_emissions_inventory_county/"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"

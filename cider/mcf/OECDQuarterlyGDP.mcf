@@ -1,0 +1,9 @@
+Node: dcid:dc/base/OECDQuarterlyGDP
+typeOf: dcid:Provenance
+license: "https://www.oecd.org/termsandconditions/"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/oecd/gdp"
+sourceDataUrl: "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA_EXPENDITURE_GROWTH_OECD,/Q.....B1GQ......G1.?dimensionAtObservation=AllDimensions"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

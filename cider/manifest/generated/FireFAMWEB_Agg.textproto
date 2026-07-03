@@ -1,0 +1,12 @@
+import: {
+  import_name: "FireFAMWEB_Agg"
+  provenance_url: "https://fam.nwcg.gov/fam-web/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/Entity_2022-10-06/USFireAgg/graph.tfrecord@1.gz"
+  import_groups: "infrequent"
+  provenance_description: "The National Fire and Aviation Management hosts yearly releases of fire incidents reported through the SIT-209 application. Please see https://datacommons.org/disclaimers for disclaimers about the scope of this data."
+  start_date_in_kg: "1999"
+  end_date_in_kg: "2013"
+  release_frequency: "P1Y"
+  category: AGGREGATED_STATS
+  dataset_name: "National Interagency Fire Center Interagency Situation Report - 209 (SIT-209)"
+}

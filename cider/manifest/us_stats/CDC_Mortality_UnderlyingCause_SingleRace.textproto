@@ -1,0 +1,22 @@
+import: {
+  import_name: "CDC_Mortality_UnderlyingCause_SingleRace"
+  provenance_url: "https://wonder.cdc.gov/ucd-icd10-expanded.html"
+  category: STATS
+  provenance_description: "Mortality statistics by the underlying cause of death, demographics, and location (State level) for single races."
+  release_frequency: "P1Y"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/UnderlyingCause/Single_Race/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/UnderlyingCause/Single_Race/latest/underlyingcauseofdeath2018_2023singlerace.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/UnderlyingCause/Single_Race/latest/underlyingcauseofdeath2018_2023singlerace.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_cdc/single_race/CDC_Mortality_UnderlyingCause_SingleRace/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_cdc/single_race/CDC_Mortality_UnderlyingCause_SingleRace/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Underlying cause of death"
+}

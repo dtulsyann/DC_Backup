@@ -1,0 +1,9 @@
+import: {
+  import_name: "IndiaNSS_HealthAilments_StatVarAgg"
+  provenance_url: "https://ndap.niti.gov.in/dataset/7300"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables from the India National Sample Survey covering health and ailments."
+  import_groups: "auto2w"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/IndiaNSS_HealthAilments_StatVarAgg/graph.tfrecord@1.gz"
+  dataset_name: "India National Sample Survey - Health"
+}

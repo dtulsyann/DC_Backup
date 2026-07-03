@@ -1,0 +1,29 @@
+import {
+  import_name: "NOAA_GlobalForecastSystem"
+  provenance_url: "https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/"
+  category: STATS
+  provenance_description: "NOAA Global Forecast System (GFS) data"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa_gfs/graph.tfrecord@72.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa_gfs/noaa_gfs_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa_gfs/noaa_gfs_output.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa_gfs/20260326/graph.tfrecord@45.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa_gfs/20260326/noaa_gfs_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa_gfs/20260326/noaa_gfs_output.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa_gfs/latest/graph.tfrecord@*.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa_gfs/latest/noaa_gfs_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa_gfs/latest/noaa_gfs_output_*.csv"
+    download_config: {
+      src_prefix_dir: "/bigstore/datcom-prod-imports/scripts/noaa_gfs/NOAA_GlobalForecastSystem/output"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/noaa_gfs/NOAA_GlobalForecastSystem/import_metadata_mcf.mcf"
+  import_groups: "auto1d"
+  release_frequency: "P1D"
+  automated_mcf_generation_by: "auto1d"
+  dataset_name: "NOAA-GFS Weather Forecast"
+}

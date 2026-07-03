@@ -1,0 +1,18 @@
+import: {
+  import_name: "PubChem"
+  dataset_name: "PubChem"
+  provenance_url: "https://pubchem.ncbi.nlm.nih.gov/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/pubChem/chembl_pubChem_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/pubChem/mesh_pubchem_mapping_3/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/chembl_pubChem_mapping/chembl_pubchem_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/chembl_pubChem_mapping/chembl_pubchem_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/mesh_pubchem_mapping_3/mesh_pubchem_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/mesh_pubchem_mapping_3/mesh_pubchem_mapping.csv"
+  }
+}

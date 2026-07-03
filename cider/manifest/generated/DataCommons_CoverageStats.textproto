@@ -1,0 +1,63 @@
+import {
+  import_name: "DataCommons_CoverageStats"
+  provenance_url: "https://datacommons.org"
+  category: AGGREGATED_STATS
+  provenance_description: "Metadata and internal statistics tracking data coverage and availability across different variables within Data Commons."
+  import_groups: "infrequent"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202303/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202303/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202303/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202308/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202308/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202308/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202402/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202402/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202402/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202404/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202404/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202404/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202405/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202405/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202405/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202406/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202406/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202406/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202407/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202407/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202407/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202408/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202408/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202408/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202409/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202409/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202409/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202410/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202410/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202410/coverage_stats.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/datacommons/coverage_stats/202411/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202411/coverage_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/datacommons/coverage_stats/202411/coverage_stats.csv"
+  }
+  dataset_name: "Data Commons Aggregations"
+}

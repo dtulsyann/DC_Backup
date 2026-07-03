@@ -1,0 +1,5 @@
+Node: dcid:dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-01-12"
+descriptionUrl: "https://www.nass.usda.gov/AgCensus/Report_Form_and_Instructions/2022_Report_Form/2022_Census_of_Agriculture_Report_Form_Guide.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

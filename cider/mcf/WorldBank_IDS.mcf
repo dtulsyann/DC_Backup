@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WorldBank_IDS
+typeOf: dcs:Provenance
+license : "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/worldbank_ids/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/world_bank/world_bank_ids/input_files.zip"
+sourceDataUrl : "https://databank.worldbank.org/source/international-debt-statistics"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

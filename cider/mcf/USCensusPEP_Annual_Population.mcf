@@ -1,0 +1,10 @@
+Node: dcid:dc/base/USCensusPEP_Annual_Population
+typeOf: dcs:Provenance
+license : "https://www.census.gov/about/policies/section-508.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_census/pep/annual_population/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_census/pep/annual_population/latest/input_files"
+sourceDataUrl : "https://www.census.gov/"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

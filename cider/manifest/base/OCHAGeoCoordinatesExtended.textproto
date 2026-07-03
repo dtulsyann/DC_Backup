@@ -1,0 +1,15 @@
+# LINT.IfChange
+import: {
+  # GeoJSONs (full and simplified) from OCHA for countries other than ones in
+  # OCHAGeoCoordinates, GeoCoordinatesData and EurostatGeoCoodinates.
+  #
+  # Refer: /cns/jv-d/home/datcom/v3_resolved_mcf/ocha/global/stats.json
+  import_name: "OCHAGeoCoordinatesExtended"
+  provenance_url: "https://data.humdata.org"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/global_new/*/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

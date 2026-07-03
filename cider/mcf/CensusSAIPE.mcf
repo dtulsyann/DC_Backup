@@ -1,0 +1,9 @@
+Node: dcid:dc/base/CensusSAIPE
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/census_v2/saipe/Readme.md"
+sourceDataUrl: "https://www.census.gov/data/datasets/time-series/demo/saipe/estimates-acs.html"
+descriptionUrl: "https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/demographic-income-model.html"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

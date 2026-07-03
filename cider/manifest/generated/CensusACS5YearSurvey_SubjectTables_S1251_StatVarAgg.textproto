@@ -1,0 +1,11 @@
+import {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S1251&tid=ACSST5Y2023.S1251"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables for ACS Subject Table S1251."
+  import_groups: "uscensus"
+  start_date_in_kg: "2012"
+  end_date_in_kg: "2023"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg/20250218/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg/graph.tfrecord@1.gz"
+  dataset_name: "American Community Survey (ACS)"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Gambia
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Gambia/wikidata/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Subdivisions_of_the_Gambia"
+lastDataRefreshDate: "2024-07-08"
+earliestDataImportDate: "2024-07-08"

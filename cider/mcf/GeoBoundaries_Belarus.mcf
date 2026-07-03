@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Belarus
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/BLR/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/BLR/ADM1/wikidata/sourceFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/BLR/ADM1"
+lastDataRefreshDate: "2024-08-27"
+earliestDataImportDate: "2024-07-08"

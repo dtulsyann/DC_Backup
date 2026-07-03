@@ -1,0 +1,21 @@
+import: {
+  import_name: "USNationalPrisonerStatistics"
+  provenance_url: "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269"
+  category: STATS
+  provenance_description: "Data on the number of prisoners in state and federal prison facilities across the United States."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bjs/nps/latest/graph.tfrecord@1.gz"
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_bjs/nps/USNationalPrisonerStatistics/import_metadata_mcf.mcf"
+  release_frequency: "P1Y"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bjs/nps/latest/national_prison_stats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bjs/nps/latest/national_prison_stats.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_bjs/nps/USNationalPrisonerStatistics/latest_version.txt"
+    }
+  }
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  #resolution_info: { uses_id_resolver: true }
+  is_unresolved_mcf_missing: true
+  dataset_name: "National Prisoner Statistics (NPS) Program"
+}

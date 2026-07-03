@@ -1,0 +1,9 @@
+Node: dcid:dc/base/Dartmouth_Atlas_Medicare
+typeOf: dcid:Provenance
+license: "https://data.dartmouthatlas.org/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/dartmouth_atlas/"
+sourceDataUrl: "https://data.dartmouthatlas.org/"
+lastDataRefreshDate: "2022-06-02"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Cotedivoire_Census
+typeOf: dcs:Provenance
+license : "https://cotedivoire.opendataforafrica.org/legal/termsofuse"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/opendataforafrica/cotedivoire_census/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/cotedivoire/input_file"
+sourceDataUrl : "https://cotedivoire.opendataforafrica.org/data/#menu=topic"
+sourceReleaseFrequency : "P1Y"
+descriptionUrl : "https://cotedivoire.opendataforafrica.org/#"
+automaticRefreshType: "NoAutomaticRefresh"

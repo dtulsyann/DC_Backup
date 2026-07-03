@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Solomon_Islands"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Solomon Islands."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/solomon_islands/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/solomon_islands/solomon_ADM_1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/solomon_islands/solomom_island_ADM1 - final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

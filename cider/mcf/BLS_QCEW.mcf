@@ -1,0 +1,14 @@
+Node: dcid:dc/base/BLS_QCEW
+typeOf: dcid:Provenance
+license: "https://www.bls.gov/bls/linksite.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+#dataTransformationLogic: "google3/datacommons/import/bls" # TODO(sanikap): Add pvmap path once PR is raised.
+sourceDataUrl: "https://www.bls.gov/cew/downloadable-data-files.htm","https://data.bls.gov/cew/doc/titles/industry/industry_titles.htm"
+sourceReleaseFrequency: "P3M"
+nextSourceReleaseDate: "2026-06-02"
+nextDataRefreshDate: "2026-06-06"
+#dataTransformationLogic: "google3/datacommons/import/bls"
+lastDataRefreshDate: "2026-04-09"
+descriptionUrl: "https://www.bls.gov/opub/hom/cew/concepts.htm"
+automaticRefreshType: "NoAutomaticRefresh"

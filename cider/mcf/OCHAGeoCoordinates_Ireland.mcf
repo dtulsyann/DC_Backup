@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Ireland
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Ireland/wikidata/source_files"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-irl"
+lastDataRefreshDate: "2024-07-14"
+earliestDataImportDate: "2024-07-14"
+

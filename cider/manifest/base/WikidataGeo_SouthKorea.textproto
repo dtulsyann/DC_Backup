@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_SouthKorea"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of SouthKorea."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/SouthKorea/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/SouthKorea/South_Korea.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/SouthKorea/KOR ADM1 sheet - final_latest.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

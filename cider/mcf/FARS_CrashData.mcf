@@ -1,0 +1,10 @@
+Node: dcid:dc/base/FARS_CrashData
+typeOf: dcs:Provenance
+license : "https://www.nhtsa.gov/about-nhtsa/terms-use"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_crash/fars_crashdata/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_crash/fars_crashdata/latest/input_files"
+sourceDataUrl : "https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,14 @@
+import: {
+  import_name: "EPA_ParentCompanies"
+  provenance_url: "https://www.epa.gov/ghgreporting"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/epa/parent_company/latest/table/table_nodes.mcf@1"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/epa/parent_company/latest/table/EpaParentCompanyTable.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/epa/parent_company/latest/table/EpaParentCompanyTable.csv"
+  }
+  import_groups: "place"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Greenhouse Gas Reporting Program"
+}
+

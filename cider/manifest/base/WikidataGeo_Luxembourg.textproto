@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Luxembourg"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the districts(Administrative Area 1 division) of Luxembourg."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Luxembourg/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Luxembourg/wikidata/Luxembourg.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Luxembourg/wikidata/Luxembourg_ADM1 - final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

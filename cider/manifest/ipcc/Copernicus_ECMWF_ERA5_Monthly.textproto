@@ -1,0 +1,17 @@
+import: {
+  import_name: "Copernicus_ECMWF_ERA5_Monthly"
+  provenance_url: "https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/copernicus_ecmwf/era5_monthly/nodes.mcf@499"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/copernicus_ecmwf/era5_monthly/era5.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/copernicus_ecmwf/era5_monthly/*.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  provenance_description: "Generated using Copernicus Climate Change Service information (2022)"
+  import_groups: "infrequent"
+  import_groups: "ipcc"
+  dataset_name: "Copernicus ECMWF - ERA5 Climate Reanalysis Data"
+}

@@ -1,0 +1,18 @@
+import: {
+  import_name: "India_Aadhaar_Statisics"
+  provenance_url: "https://uidai.gov.in/aadhaar_dashboard/india.php"
+  provenance_description: "Aadhaar enrollment status of India ar country and state level."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india/aadhaar/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india/aadhaar/India_Aadhaar.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india/aadhaar/India_Aadhaar*.csv"
+  }
+  # gSheet path : https://drive.google.com/corp/drive/folders/1MUPK0pLlt7tAwOojZXjBzdVoKrup_rGN
+  #earliestImportDate : "2024-03-13"
+  #latestRefreshDate: "2024-03-13"
+  import_groups: "experimental"
+  start_date_in_kg: "2021-12"
+  end_date_in_kg: "2024-02"
+  dataset_name: "India Aadhaar Dashboard"
+}

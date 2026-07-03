@@ -1,0 +1,28 @@
+import: {
+  import_name: "WorldDevelopmentIndicators"
+  provenance_url: "https://datatopics.worldbank.org/world-development-indicators/"
+  category: STATS
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/wdi/github/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/wdi/github/latest/WorldBank.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/wdi/github/latest/WorldBank.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/world_bank/wdi/WorldDevelopmentIndicators/latest_version.txt"
+    }
+  }
+  #retained
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/wdi/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/wdi/historical/historical_data.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/wdi/historical/historical_data.csv"
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/world_bank/wdi/WorldDevelopmentIndicators/import_metadata_mcf.mcf"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  is_unresolved_mcf_missing: true
+  dataset_name: "World Development Indicators"
+}

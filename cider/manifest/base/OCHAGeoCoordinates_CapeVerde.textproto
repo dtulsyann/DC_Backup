@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_CapeVerde"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-cpv"
+  category: PLACE
+  provenance_description: "Includes the boundary files for Administrative areas 1 in CapeVerde."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/CapeVerde/Boundaryfiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Slovenia"
+  provenance_url: "https://en.m.wikipedia.org/wiki/Municipalities_of_Slovenia"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Slovenia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Slovenia/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Slovenia/wikidata/svn.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Slovenia/wikidata/Slovenia_ADM1_final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

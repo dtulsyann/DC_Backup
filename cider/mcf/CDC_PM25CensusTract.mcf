@@ -1,0 +1,13 @@
+Node: dcid:dc/base/CDC_PM25CensusTract
+typeOf: dcid:Provenance
+license : "https://www.cdc.gov/nchs/policy/data-user-agreement.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_cdc/environmental_health_toxicology/README.md"
+descriptionUrl: "https://www.cdc.gov/environmental-health-tracking/php/data-research/air-quality-outdoor.html"
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/PM25CensusTract/latest/input_files/"
+sourceDataUrl : "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1"
+sourceReleaseFrequency : "P1Y"
+importedSourceReleaseDate : "2024-03-08"
+nextDataRefreshDate: "2025-11-12"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

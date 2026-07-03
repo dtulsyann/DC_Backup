@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Norway"
+  provenance_url: "https://en.wikipedia.org/wiki/Counties_of_Norway"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Norway."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Norway/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Norway/Norway.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Norway/Norway_ADM1-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

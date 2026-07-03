@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Madagascar_ADM2
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Madagascar/ADM2/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Districts_of_Madagascar"
+lastDataRefreshDate: "2024-12-17"
+earliestDataImportDate: "2024-10-25"

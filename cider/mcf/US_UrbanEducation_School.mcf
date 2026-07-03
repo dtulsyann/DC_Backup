@@ -1,0 +1,9 @@
+Node: dcid:dc/base/US_UrbanEducation_School
+typeOf: dcid:Provenance
+descriptionUrl: "https://educationdata.urban.org/documentation/schools.html"
+license: "https://educationdata.urban.org/documentation/index.html#terms"
+licenseType: dcid:OpenDataCommonsAttributionLicense
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/us_education/us_urbaneducation_school/school_apib_enrollment/input_files/"
+sourceDataUrl: "https://educationdata.urban.org/documentation"
+lastDataRefreshDate: "2025-12-03"

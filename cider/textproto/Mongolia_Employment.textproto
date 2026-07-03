@@ -1,0 +1,22 @@
+import: {
+  import_name: "Mongolia_Employment"
+  provenance_url: "https://www.1212.mn/en/statcate"
+  provenance_description: "Mongolian data related to labour and business statistics."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/mongolia/mongolia_employment/latest/graph.tfrecord@1.gz"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/mongolia/mongolia_employment/latest/employment_by_classification_of_economic_activities_region_gender_and_agegroup_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/mongolia/mongolia_employment/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/mongolia_imports/mongolia_employment/Mongolia_Employment/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/mongolia_imports/mongolia_employment/Mongolia_Employment/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  import_groups: "country"
+  dataset_name: "Mongolia Statistics"
+}
+

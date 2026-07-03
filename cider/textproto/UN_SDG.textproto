@@ -1,0 +1,13 @@
+import {
+  import_name: "UN_SDG"
+  provenance_url: "https://unstats.un.org/sdgs/dataportal"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/un/sdg/20250426/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/un/sdg/20250426/un_sdg.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/un/sdg/20250426/*.csv"
+  }
+  import_groups: "country"
+  import_groups: "searchaim"
+  dataset_name: "SDG Indicators Database"
+}

@@ -1,0 +1,9 @@
+Node: dcid:dc/base/WikidataGeo_Somalia
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Somalia/wikidata_ADM2/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/States_and_regions_of_Somalia"
+lastDataRefreshDate: "2024-07-19"
+earliestDataImportDate: "2024-07-19"

@@ -1,0 +1,17 @@
+import: {
+  import_name: "USFEMA_FloodInsuranceClaims"
+  provenance_url: "https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2"
+  category: STATS
+  provenance_description: "Data on flood insurance claims filed under the US National Flood Insurance Program (NFIP)."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_fema/floods/nfip_insurance_claims/latest/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_fema/floods/nfip_insurance_claims/latest/nfip_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_fema/floods/nfip_insurance_claims/latest/nfip_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/fema/flood_insurance_claims/USFEMA_FloodInsuranceClaims/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/fema/flood_insurance_claims/USFEMA_FloodInsuranceClaims/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  dataset_name: "National Flood Insurance Program (NFIP)"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Tonga
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/cod-ab-ton#metadata-0"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Tonga/Tonga/InputFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-ton"
+lastDataRefreshDate: "2024-07-16"
+earliestDataImportDate: "2024-06-14"

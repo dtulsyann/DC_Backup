@@ -1,0 +1,19 @@
+import: {
+  import_name: "NewYorkUniversity_Diabetes"
+  provenance_url: "https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/"
+  category: STATS
+  provenance_description: "New York's county-level data on diagnosed diabetes in adults."
+  dataset_name: "New York University Diabetes"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nyu_diabetes/adult_diabetes/output_files/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nyu_diabetes/adult_diabetes/output_files/ny_percentage_of_adults_with_diagnosed_diabetes_by_county_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nyu_diabetes/adult_diabetes/output_files/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_newyork/ny_diabetes/NewYorkUniversity_Diabetes/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_newyork/ny_diabetes/NewYorkUniversity_Diabetes/import_metadata_mcf.mcf"
+  import_groups: "uscensus"
+  resolution_info: { uses_id_resolver: true }
+}
+

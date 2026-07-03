@@ -1,0 +1,20 @@
+import: {
+  import_name: "OECDQuarterlyGDP"
+  provenance_url: "https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23&fs[1]=Topic%2C3%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23%7CGDP%20and%20non-financial%20accounts%23ECO_NAD_GNF%23%7CGDP%20and%20components%23ECO_NAD_GNF_GDP%23&pg=0&fc=Topic&snb=22&vw=ov&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_NAMAIN1%40DF_QNA_EXPENDITURE_GROWTH_OECD&df[ag]=OECD.SDD.NAD&df[vs]=&dq=Q.....B1GQ......G1.&to[TIME_PERIOD]=false&ly[cl]=TIME_PERIOD&ly[rw]=REF_AREA&lb=bt&pd=%2C"
+  category: STATS
+  provenance_description: "Gross Domestic Product (GDP) measured by OECD (Organisation for Economic Co-operation and Development)."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oecd/gdp/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/gdp/latest/oecd_quarterly_gdp.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/gdp/latest/oecd_quarterly_gdp.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/oecd/quarterly_gdp/OECDQuarterlyGDP/latest_version.txt"
+    }
+  }
+  import_groups: "country"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  release_frequency: "P3M"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "OECD GDP"
+}

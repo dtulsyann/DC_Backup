@@ -1,0 +1,26 @@
+import: {
+  import_name: "FBIGovCrime"
+  provenance_url: "http://www.fbi.gov/services/cjis/ucr"
+  category: STATS
+  provenance_description: "Crime statistics including violent and property crimes reported through the FBI Uniform Crime Reporting (UCR) Program."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/historical/graph.tfrecord@1.gz"  # Data present till 2019 city level & State data currently not available in source, so retaining the existing data
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/historical/fbi_gov_crime.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/historical/*.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/city/latest/graph.tfrecord@1.gz"  # Data from 2020 onwards city level
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/city/latest/fbi_gov_crime.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/city/latest/fbi_gov_crime.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/fbi/fbigovcrime/FBIGovCrime/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/fbi/fbigovcrime/FBIGovCrime/import_metadata_mcf.mcf"
+  import_groups: "infrequent"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  dataset_name: "Uniform Crime Reporting (UCR) Program"
+}

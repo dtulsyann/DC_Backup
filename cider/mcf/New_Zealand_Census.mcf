@@ -1,0 +1,7 @@
+Node: dcid:dc/base/New_Zealand_Census
+typeOf: dcid:Provenance
+descriptionUrl: "https://datainfoplus.stats.govt.nz/search/concepts","https://datainfoplus.stats.govt.nz/search/variables","https://datainfoplus.stats.govt.nz/search/concepts"
+sourceDataUrl: "https://www.stats.govt.nz/large-datasets/csv-files-for-download/"
+sourceReleaseFrequency: "P1Y"
+processingMethod: dcid:StatVarProcessor
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

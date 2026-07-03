@@ -1,0 +1,14 @@
+import: {
+  import_name: "USAN_Stems"
+  dataset_name: "USAN Stems"
+  provenance_url: "https://www.ama-assn.org/about/united-states-adopted-names/united-states-adopted-names-approved-stems"
+  category: ENTITY
+  import_groups: "experimental"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/usan/usan_stems_3/nodes.mcf@1"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/usan/usan_stems_3/usan.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/usan/usan_stems_3/usan.csv"
+  }
+}

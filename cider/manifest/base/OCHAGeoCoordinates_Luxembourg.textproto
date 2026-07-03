@@ -1,0 +1,11 @@
+import {
+  import_name: "OCHAGeoCoordinates_Luxembourg"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-lux"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the districts(Administrative Area 1 division) in Luxembourg."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Luxembourg/boundary_files/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+  #license: "https://data.humdata.org/faqs/licenses"
+  #cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Luxembourg/boundary_files/"
+}

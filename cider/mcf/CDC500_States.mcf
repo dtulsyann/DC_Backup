@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CDC500_States
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/other/agencymaterials.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_cdc/500_places/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/places/cdc_2024_release/raw_data/"
+sourceDataUrl: "https://data.cdc.gov/browse?category=500+Cities+%26+Places"
+descriptionUrl: "https://www.cdc.gov/places/measure-definitions/index.html","https://www.cdc.gov/places/methodology/index.html"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

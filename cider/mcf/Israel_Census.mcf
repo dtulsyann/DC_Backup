@@ -1,0 +1,5 @@
+Node: dcid:dc/base/Israel_Census
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-07-03"
+descriptionUrl: "https://boardsgenerator.cbs.gov.il/Help/Mifkad/hagdarot.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

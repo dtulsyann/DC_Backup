@@ -1,0 +1,9 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Finland
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-fin"
+licenseType : dcs:CreativeCommonsAttributionLicense
+# processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Finland/BoundaryFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-fin"
+lastDataRefreshDate : "2024-07-01"
+earliestDataImportDate : "2024-07-01"

@@ -1,0 +1,4 @@
+Node: dcid:dc/base/GenderIncomeInequality
+typeOf: dcid:Provenance
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_census/gender_income_inequality/README.md"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

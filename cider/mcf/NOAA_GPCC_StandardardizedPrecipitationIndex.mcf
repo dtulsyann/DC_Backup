@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex
+typeOf: dcs:Provenance
+license : "https://www.dwd.de/EN/service/legal_notice/legal_notice_node.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/noaa/gpcc_spi/"
+sourceDataUrl : "https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson/"
+#automaticRefreshSchedule : "0 10 * * 2"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/noaa/gpcc_spi/input_files/"
+descriptionUrl: "https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_BosniaAndHerzegovina_ADM2
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Bosnia_and_Herzegovina/ADM2/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Cantons_of_the_Federation_of_Bosnia_and_Herzegovina"
+lastDataRefreshDate: "2024-11-20"
+earliestDataImportDate: "2024-11-20"

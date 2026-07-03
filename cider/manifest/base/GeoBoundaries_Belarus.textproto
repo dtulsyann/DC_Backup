@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_Belarus"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/BLR/ADM1"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the oblasts (Administrative Area 1 division) of Belarus."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Belarus/ADM1/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

@@ -1,0 +1,67 @@
+# proto-file: datacommons/proto/dc_manifest.proto
+# proto-message: DataCommonsManifest
+import: {
+  import_name: "NCBI_Gene"
+  dataset_name: "NCBI Gene"
+  provenance_url: "https://www.ncbi.nlm.nih.gov/gene"
+  category: ENTITY
+  import_groups: "biomedical"
+  next_release_date: "2024-10-29"
+  release_frequency: "P1D"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/accession/nodes.mcf@428"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/ensembl/nodes.mcf@12"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/gene_info_db/nodes.mcf@30"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/go/nodes.mcf@132"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/group/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/info/nodes.mcf@60"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/neighbors/nodes.mcf@81"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/ortholog/nodes.mcf@2"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/phenotype_association/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/pubmed/nodes.mcf@18"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/gene/rif/nodes.mcf@3"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/accession/ncbi_gene_rna_transcript.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/accession/gene2accession_shard_*.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/ensembl/ncbi_gene_ensembl.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/ensembl/ncbi_gene_ensembl.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/gene_info_db/ncbi_gene_gene_db.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/gene_info_db/ncbi_gene_gene_db.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/go/ncbi_gene_go_terms.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/go/gene2go_shard_*.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/group/ncbi_gene_gene_group.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/group/ncbi_gene_gene_group.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/info/ncbi_gene_gene.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/info/gene_info_shard_*.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/neighbors/ncbi_gene_genomic_coordinates.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/neighbors/gene_neighbors_shard_*.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/ortholog/ncbi_gene_ortholog.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/ortholog/ncbi_gene_gene_ortholog.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/phenotype_association/ncbi_gene_phenotype_associations.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/phenotype_association/ncbi_gene_gene_phenotype_association.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/pubmed/ncbi_gene_pubmed.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/pubmed/ncbi_gene_gene_pubmed.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/rif/ncbi_gene_gene_rif.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/gene/rif/ncbi_gene_gene_rif.csv"
+  }
+}

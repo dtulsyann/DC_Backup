@@ -1,0 +1,15 @@
+import: {
+  import_name: "CensusPEP"
+  provenance_url: "https://www.census.gov/programs-surveys/popest.html"
+  category: STATS
+  provenance_description: "Annual population estimates detailing population counts, births, deaths, and migration by age, sex, race, and Hispanic origin."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_person_counts/NewWikidata/pops_and_obs/CensusPEPSurvey/CensusPEPSurvey.mcf"
+  import_groups: "uscensus"
+  start_date_in_kg: "1900"
+  end_date_in_kg: "2019"
+  # 2020 release is delayed due to Census year.
+  next_release_date: "2025-12"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Population Estimates Program (PEP)"
+}

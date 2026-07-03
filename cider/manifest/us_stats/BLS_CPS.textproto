@@ -1,0 +1,24 @@
+import: {
+  import_name: "BLS_CPS"
+  provenance_url: "https://www.bls.gov/cps/"
+  category: STATS
+  provenance_description: "Current Population Survey (CPS) labor force statistics, including employment and unemployment rates in the US."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/cps/nodes.mcf@1"
+  import_groups: "dcbranch"
+  import_groups: "searchbranch"
+  import_groups: "frequent"
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  release_frequency: "P1M"
+  data_download_url: "https://download.bls.gov/pub/time.series/ln/ln.data.1.AllData"
+  automated_mcf_generation_by: "searchbranch"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cps/cps.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cps/cps.csv"
+    download_config: {
+      src_latest_version_file: "/cns/jv-d/home/datcom/xenon_mcf/bls/cps/latest_version.txt"
+    }
+  }
+  dataset_name: "Labor Force Statistics from the Current Population Survey (CPS)"
+}

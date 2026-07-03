@@ -1,0 +1,21 @@
+import: {
+  import_name: "WHO_GHO"
+  provenance_url: "https://www.who.int/data/gho"
+  category: STATS
+  provenance_description: "Data from World Health Organization's Global Health Observatory."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/who/gho/v1/v1_20231103/prod_data/graph.tfrecord@1.gz"  # Data present in prod but not present in refresh.
+  #Steps to extract prod data - https://docs.google.com/document/d/1KhOkzS1bcIqpLyor36QGEFhTwrHIVaCX3Z6b4ow1iw0/edit
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/who/gho/v1/v1_20231103/prod_data/who_stats.tmcf"  # Data present in prod but not present in refresh.
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/who/gho/v1/v1_20231103/prod_data/who_gho_prod.csv"  # Data present in prod but not present in refresh.
+  }
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/who/gho/v1/v1_20231103/graph.tfrecord@1.gz"  # Refresh Data
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/who/gho/v1/v1_20231103/who_stats.tmcf"  # Refresh Data
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/who/gho/v1/v1_20231103/who_schemaless.csv"  # Refresh Data
+  }
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Global Health Observatory"
+}

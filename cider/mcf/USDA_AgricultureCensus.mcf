@@ -1,0 +1,10 @@
+Node: dcid:dc/base/USDA_AgricultureCensus
+typeOf: dcid:Provenance
+license: "https://www.usda.gov/about-usda/policies-and-links"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_usda/nass_census/README.md"
+sourceDataUrl: "https://www.nass.usda.gov/datasets/"
+descriptionUrl: "https://www.nass.usda.gov/AgCensus/Report_Form_and_Instructions/2022_Report_Form/2022_Census_of_Agriculture_Report_Form_Guide.pdf"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_usda/ag_census/20250117/input"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

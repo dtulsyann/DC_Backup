@@ -1,0 +1,25 @@
+import: {
+  import_name: "UNEnergy"
+  provenance_url: "https://unstats.un.org/unsd/energystats/data/"
+  category: STATS
+  provenance_description: "Global energy statistics tracking production, trade, and consumption of energy resources collected by the United Nations."
+  release_frequency: "P1Y"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/un/energy/historical_data/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/un/energy/historical_data/un_energy_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/un/energy/historical_data/unenergy_output_1990_2019.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/un/energy/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/un/energy/latest/un_energy_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/un/energy/latest/un_energy_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/un/energy/UNEnergy/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/un/energy/UNEnergy/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "Energy Statistics"
+}

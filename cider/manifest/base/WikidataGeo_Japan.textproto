@@ -1,0 +1,14 @@
+import {
+  import_name: "WikidataGeo_Japan"
+  provenance_url: "https://en.wikipedia.org/wiki/Prefectures_of_Japan"
+  category: PLACE
+  provenance_description: "Includes the prefectures(Administrative Area 1 division) of Japan."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Japan/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Japan/wikidata/jpn.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Japan/wikidata/Japan-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}
+

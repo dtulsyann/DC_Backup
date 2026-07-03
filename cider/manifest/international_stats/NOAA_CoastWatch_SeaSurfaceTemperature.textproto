@@ -1,0 +1,20 @@
+import: {
+  # NOTE: This is a demo dataset for Tidal explorations
+  import_name: "NOAA_CoastWatch_SeaSurfaceTemperature"
+  provenance_url: "https://coastwatch.noaa.gov/erddap/griddap/noaacwBLENDEDsstDaily.html"
+  category: STATS
+  provenance_description: "Satellite-derived ocean sea surface temperature measurements from NOAA CoastWatch."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/nesdis_coastwatch/sst/nodes.mcf@8"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/nesdis_coastwatch/sst/l7to9/nodes.mcf@1"
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sst/mapped_sst.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sst/mapped_sst_shard_*.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sst/l7to9/mapped_sst.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sst/l7to9/mapped_sst.csv"
+  }
+  dataset_name: "NOAA CoastWatch"
+}

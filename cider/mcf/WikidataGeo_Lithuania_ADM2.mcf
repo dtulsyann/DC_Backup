@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Lithuania_ADM2
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Lithuania/ADM2/wikidata_ADM2/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Municipalities_of_Lithuania"
+lastDataRefreshDate: "2024-11-22"
+earliestDataImportDate: "2024-11-22"

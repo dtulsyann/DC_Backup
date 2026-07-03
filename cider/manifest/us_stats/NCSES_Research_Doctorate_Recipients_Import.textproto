@@ -1,0 +1,19 @@
+import {
+  import_name: "NCSES_Research_Doctorate_Recipients_Import"
+  provenance_url: "https://ncses.nsf.gov/pubs/nsf23300/data-tables"
+  category: STATS
+  provenance_description: "Research doctorate recipients by ethnicity, race and citizenship status"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/ncses/ncses_research_doctorate_recipients/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_research_doctorate_recipients/latest/research_doctorate_male.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/ncses/ncses_research_doctorate_recipients/latest/research_doctorate_*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/ncses/research_doctorate_recipients/NCSES_Research_Doctorate_Recipients_Import/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/ncses/research_doctorate_recipients/NCSES_Research_Doctorate_Recipients_Import/import_metadata_mcf.mcf"
+  #NOTE: This import is not being updated from 2021.
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "National Center for Science and Engineering Statistics"
+}

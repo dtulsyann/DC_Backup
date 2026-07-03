@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Guinea_Bissau
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/guinea-bissau/BoundaryFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-gnb"
+lastDataRefreshDate: "2024-05-21"
+earliestDataImportDate: "2024-05-21"

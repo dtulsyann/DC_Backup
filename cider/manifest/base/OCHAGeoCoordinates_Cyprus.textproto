@@ -1,0 +1,11 @@
+import {
+  import_name: "OCHAGeoCoordinates_Cyprus"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-cyp"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the districts(Administrative Area 1 division) in Cyprus."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/cyprus/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+  #license: "https://data.humdata.org/faqs/licenses"
+  # cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/cyprus/BoundaryFiles/"
+}

@@ -1,0 +1,13 @@
+# LINT.IfChange
+import {
+  import_name: "WorldBankCountryBoundaries"
+  provenance_url: "https://datacatalog.worldbank.org/dataset/world-bank-official-boundaries"
+  category: PLACE
+  provenance_description: "World Bank boundaries of Administrative Area 0 places, along with simplified boundaries at various threshold levels."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/wb_boundaries/*.mcf"
+  import_groups: "place"
+  resolution_info: { uses_id_resolver: false }
+  dataset_name: "World Bank Official Boundaries"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

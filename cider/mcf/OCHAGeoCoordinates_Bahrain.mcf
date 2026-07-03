@@ -1,0 +1,9 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Bahrain
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/bahrain/wikidata/source_files/"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-bhr"
+lastDataRefreshDate: "2024-07-27"
+earliestDataImportDate: "2024-07-27"

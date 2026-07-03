@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_NorthKorea"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/PRK/ADM1"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the provinces(Administrative Area 1 division) of North Korea."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/NorthKorea/ADM1/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

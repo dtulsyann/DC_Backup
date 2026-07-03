@@ -1,0 +1,11 @@
+Node: dcid:dc/base/BLS_CES
+typeOf: dcid:Provenance
+license: "https://www.bls.gov/bls/linksite.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_bls/bls_ces"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bls/ces/latest/input_files/"
+sourceDataUrl: "https://www.bls.gov/webapps/legacy/cesbtab1.htm"
+sourceReleaseFrequency: "P1M"
+descriptionUrl: "https://www.bls.gov/web/empsit/cesprog.htm"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

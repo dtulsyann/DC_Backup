@@ -1,0 +1,9 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SuperEnum
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/derived_graph/CensusACS5YearSurvey/20240125/CensusACS5YearSurvey_SuperEnum/"
+lastDataRefreshDate: "2025-01-27"
+# Next release: https://www.census.gov/programs-surveys/acs/news/data-releases.html
+nextSourceReleaseDate: "2025-12-11"
+automaticRefreshType: "NoAutomaticRefresh"

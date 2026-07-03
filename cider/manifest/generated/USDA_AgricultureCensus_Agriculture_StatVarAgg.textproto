@@ -1,0 +1,9 @@
+import: {
+  import_name: "USDA_AgricultureCensus_Agriculture_StatVarAgg"
+  provenance_url: "https://www.nass.usda.gov/AgCensus/"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated agricultural statistical variables derived from the USDA Census of Agriculture."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/USDA_AgricultureCensus_Agriculture_StatVarAgg/graph.tfrecord@1.gz"
+  import_groups: "auto2w"
+  dataset_name: "Census of Agriculture"
+}

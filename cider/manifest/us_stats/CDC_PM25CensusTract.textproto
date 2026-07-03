@@ -1,0 +1,20 @@
+import: {
+  import_name: "CDC_PM25CensusTract"
+  provenance_url: "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology"
+  category: STATS
+  provenance_description: "Census tract-level estimates for fine particulate matter (PM2.5) concentrations."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/environmental/PM25CensusTract/latest/graph.tfrecord@41.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/PM25CensusTract/latest/PM25CensusTractPollution.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/PM25CensusTract/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/environmental_health_toxicology/CDC_PM25CensusTract/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/environmental_health_toxicology/CDC_PM25CensusTract/import_metadata_mcf.mcf"
+  release_frequency: "P1Y"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Environmental Health Toxicology"
+}

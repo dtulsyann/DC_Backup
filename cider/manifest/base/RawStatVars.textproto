@@ -1,0 +1,16 @@
+import: {
+  # NOTE: All "schema less" raw StatVars from various data imports go in here.
+  # Add a copy of the same under  datacommons/import/mcf/resolved_mcf/
+  #
+  # If there are a mix of schemaful and schemaless (e.g., from EIA), they tend
+  # to go in HumanReadableStatVars.
+  import_name: "RawStatVars"
+  provenance_url: "https://datacommons.org"
+  category: CURATED_STATVAR
+  # Wildcard paths.
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/raw_stat_vars/*/*.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/raw_stat_vars/*/*/*.mcf"
+  import_groups: "schema"
+  is_mcf_replicated_from_piper: true
+  dataset_name: "Data Commons Schema"
+}

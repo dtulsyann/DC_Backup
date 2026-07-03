@@ -1,0 +1,146 @@
+[
+  {
+    "dcid": "dc/base/DEA_DrugCodes",
+    "name": "DEA_DrugCodes",
+    "description": "Controlled substances from Section 1308 of the most recent issue of Title 21 Code of Federal Regulations (CFR), section 1308. Please see https://datacommons.org/disclaimers about the scope of the list.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.deadiversion.usdoj.gov/21cfr/cfr/2108cfrt.htm",
+    "license": "Public Domain",
+    "dataset": {
+      "name": "DEA Drug Codes",
+      "url": "https://www.deadiversion.usdoj.gov/21cfr/cfr/2108cfrt.htm",
+      "source": {
+        "name": "Drug Enforcement Administration (DEA)",
+        "url": "https://www.dea.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/FiresS2Cells",
+    "name": "FiresS2Cells",
+    "description": "S2Cells from levels 10 to 13 that have data on fires.",
+    "sourceDataUrl": null,
+    "prov_url": "https://s2geometry.io/resources/s2cell_statistics.html",
+    "license": "Apache License 2.0",
+    "dataset": {
+      "name": "S2 Cells - Fires Data",
+      "url": "https://s2geometry.io/resources/s2cell_statistics.html",
+      "source": {
+        "name": "S2 Geometry",
+        "url": "https://s2geometry.io/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/FloodsS2Cells",
+    "name": "FloodsS2Cells",
+    "description": "S2Cells from levels 10 to 13 that have data on floods.",
+    "sourceDataUrl": null,
+    "prov_url": "https://s2geometry.io/resources/s2cell_statistics.html",
+    "license": "Apache License 2.0",
+    "dataset": {
+      "name": "S2 Cells - Floods Data",
+      "url": "https://s2geometry.io/resources/s2cell_statistics.html",
+      "source": {
+        "name": "S2 Geometry",
+        "url": "https://s2geometry.io/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaGeoCoordinates_Simplified",
+    "name": "IndiaGeoCoordinates_Simplified",
+    "description": "Simplified geographic coordinates and boundaries for Indian states and districts.",
+    "sourceDataUrl": null,
+    "prov_url": "http://projects.datameet.org/maps",
+    "license": "https://creativecommons.org/licenses/by-sa/2.5/in/",
+    "dataset": {
+      "name": "India Geo Coordinates Simplified",
+      "url": "http://projects.datameet.org/maps",
+      "source": {
+        "name": "DataMeet",
+        "url": "http://datameet.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/RFFGridGeos",
+    "name": "RFFGridGeos",
+    "description": "Includes GeoGridPlace_0.25Degree and GeoGridPlace_4KM entities for the US associated with weather variability statistics. Each entity is mapped to be contained in one or more US counties.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.rff.org/publications/data-tools/",
+    "license": "https://www.rff.org/about/terms-and-conditions/",
+    "dataset": {
+      "name": "Resources for the Future (RFF) Grid Geos",
+      "url": "https://www.rff.org/publications/data-tools/",
+      "source": {
+        "name": "Resources for the Future (RFF)",
+        "url": "https://www.rff.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/S2Cells",
+    "name": "S2Cells",
+    "description": "S2 Geometry cells defining spherical geometry hierarchy.",
+    "sourceDataUrl": null,
+    "prov_url": "https://s2geometry.io/resources/s2cell_statistics.html",
+    "license": "Apache License 2.0",
+    "dataset": {
+      "name": "S2 Cells Hierarchy",
+      "url": "https://s2geometry.io/resources/s2cell_statistics.html",
+      "source": {
+        "name": "S2 Geometry",
+        "url": "https://s2geometry.io/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/TideGaugeStations",
+    "name": "TideGaugeStations",
+    "description": "Includes TideGaugeStation and GeoGridPlace_1Deg entities containing sea-level projection data.",
+    "sourceDataUrl": null,
+    "prov_url": "https://podaac.jpl.nasa.gov/",
+    "license": "Public Domain",
+    "dataset": {
+      "name": "Tide Gauge Stations and Sea-level Projections",
+      "url": "https://podaac.jpl.nasa.gov/",
+      "source": {
+        "name": "NASA Jet Propulsion Laboratory (JPL) PO.DAAC",
+        "url": "https://podaac.jpl.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/WeatherNOAA",
+    "name": "WeatherNOAA",
+    "description": "Weather and climate data provided by the National Oceanic and Atmospheric Administration (NOAA).",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.noaa.gov/weather",
+    "license": "Public Domain",
+    "dataset": {
+      "name": "NOAA Weather Data",
+      "url": "https://www.noaa.gov/weather",
+      "source": {
+        "name": "National Oceanic and Atmospheric Administration (NOAA)",
+        "url": "https://www.noaa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/WikipediaStatsData",
+    "name": "WikipediaStatsData",
+    "description": "Statistical data from Wikipedia",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.wikipedia.org",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dataset": {
+      "name": "Wikipedia Statistics Data",
+      "url": "https://stats.wikimedia.org/",
+      "source": {
+        "name": "Wikimedia Foundation",
+        "url": "https://wikimediafoundation.org/"
+      }
+    }
+  }
+]

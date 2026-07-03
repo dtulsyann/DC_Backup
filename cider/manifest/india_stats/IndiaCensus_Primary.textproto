@@ -1,0 +1,18 @@
+import: {
+  import_name: "IndiaCensus_Primary"
+  provenance_url: "https://censusindia.gov.in/"
+  category: STATS
+  provenance_description: "Primary demographic and socioeconomic data tables from the Census of India."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_census/primary/nodes.mcf@1"
+  import_groups: "infrequent"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "indianCensusAreaCode2011"
+    kg_for_resolution: KG_MCF
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_census/primary/IndiaCensus2011_Primary_Abstract_Data.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_census/primary/IndiaCensus2011_Primary_Abstract_Data.csv"
+  }
+  dataset_name: "India Census Tables"
+}

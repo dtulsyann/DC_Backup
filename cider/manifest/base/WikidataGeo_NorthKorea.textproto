@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_NorthKorea"
+  provenance_url: "https://en.wikipedia.org/wiki/Administrative_divisions_of_North_Korea"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of North Korea."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/NorthKorea/ADM1/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/NorthKorea/ADM1/prk.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/NorthKorea/ADM1/NorthKorea-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

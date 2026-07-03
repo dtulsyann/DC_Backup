@@ -1,0 +1,12 @@
+# The import below contains aggregates over CMIP model projections (compared to 2015 baseline)
+# over longer time horizons, e.g. Mac of Max_Temp differences between 2015-2030,
+# between 2015-2040 and between 2015-2050.
+import: {
+  import_name: "NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/StatVarSeries/Aggregates/v2/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections/graph.tfrecord*"
+  import_groups: "ipcc"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP6"
+}

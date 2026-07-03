@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Afghanistan
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/AFG/ADM1/20240425/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Provinces_of_Afghanistan"
+lastDataRefreshDate: "2024-05-21"
+earliestDataImportDate: "2024-05-19"

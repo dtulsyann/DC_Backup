@@ -1,0 +1,10 @@
+Node: dcid:dc/base/US_ITA_Economic_Activity
+typeOf: dcid:Provenance
+license: "https://www.trade.gov/privacy-program"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+# dataTransformationLogic = "https://github.com/datacommonsorg/data/pull/1046/files#diff-127ad7f26a7bf8840afdd49165a402457e51bdd3f6c1d4cc9504168420c4e00e"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_ita/US_ITA/input_files/"
+sourceDataUrl: "https://www.trade.gov/data-visualization/tradestats-express-us-trade-product"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2022-01-01"

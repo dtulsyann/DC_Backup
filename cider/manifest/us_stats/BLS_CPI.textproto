@@ -1,0 +1,50 @@
+import: {
+  import_name: "BLS_CPI"
+  provenance_url: "https://www.bls.gov/cpi/"
+  category: STATS
+  provenance_description: "U.S. Bureau of Labor Statistics Consumer Price Index.Historic data from 1913 to 1946 is retained from earlier source versions"
+  # These files contains data from year 1999 - 2024 for C-CPI-U Chained CPI for All Urban Consumers.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/cpi/latest/C_CPI_U/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/latest/C_CPI_U/c_cpi_u.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/latest/C_CPI_U/c_cpi_u.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_bls/cpi/BLS_CPI/latest_version.txt"
+    }
+  }
+  # These files contains data from year 1947 - 2024 for CPI-U Unchained CPI for All Urban Consumers.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/cpi/latest/CPI_U/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/latest/CPI_U/cpi_u.tmcf"
+
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/latest/CPI_U/cpi_u.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_bls/cpi/BLS_CPI/latest_version.txt"
+    }
+  }
+  # These files contains data from year 1947 - 2024 for CPI-W Unchained CPI for All Urban Wage Earners andClerical Workers.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/cpi/latest/CPI_W/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/latest/CPI_W/cpi_w.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/latest/CPI_W/cpi_w.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_bls/cpi/BLS_CPI/latest_version.txt"
+    }
+  }
+  # These files contains data from year 1913 - 1946 for CPI-U and CPI-W for All Urban Consumers.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/cpi/HistoricalData/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/HistoricalData/BLS_CPI_H_Data.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/cpi/HistoricalData/BLS_CPI_H_Data.csv"
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_bls/cpi/BLS_CPI/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  import_groups: "searchaim"
+  automated_mcf_generation_by: "auto2w"
+  # CPI-U and CPI-W start in 1913-01
+  # C-CPI-U doesn't start until 1999-12
+  release_frequency: "P1M"
+  # Next release: https://www.bls.gov/schedule/news_release/cpi.htm
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Consumer Price Index"
+}

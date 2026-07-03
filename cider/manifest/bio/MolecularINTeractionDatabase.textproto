@@ -1,0 +1,9 @@
+import: {
+  import_name: "MolecularINTeractionDatabase"
+  provenance_url: "https://mint.bio.uniroma2.it/"
+  category: ENTITY
+  provenance_description: "Curated protein-protein interactions collected from the literature."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/chemicalCompound/MINT/*.mcf"
+  import_groups: "biomedical"
+  dataset_name: "The Molecular INTeraction (MINT) Database"
+}

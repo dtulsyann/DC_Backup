@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2409
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/96f241b3ff2af0faf3081228ed028034a08ce7e0/scripts/us_census/acs5yr/subject_tables/S2409/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/s2409/20250129/input_files"
+lastDataRefreshDate: "2025-02-17"
+sourceDataUrl: "https://data.census.gov/cedsci/table?q=S2409&tid=ACSST1Y2023.S2409"
+automaticRefreshType: "NoAutomaticRefresh"

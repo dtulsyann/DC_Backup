@@ -1,0 +1,9 @@
+Node: dcid:dc/base/GeoBoundaries_SouthKorea
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://storage.mtls.cloud.google.com/unresolved_mcf/geoBoundaries/gbOpen/KOR/ADM1/SouthKorea_ADM1.csv"
+lastDataRefreshDate: "2024-05-03"
+earliestDataImportDate: "2024-05-03"

@@ -1,0 +1,14 @@
+import {
+  import_name: "Japan_Census"
+  provenance_url: "https://www.e-stat.go.jp/"
+  category: STATS
+  provenance_description: "Japan Demographics, Economy, Health, Education data from Portal Site of Official Statistics of Japan (e-Stat) by country, prefecture and municipality."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/japan/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/japan/common_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/japan/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  dataset_name: "Japan Census"
+}

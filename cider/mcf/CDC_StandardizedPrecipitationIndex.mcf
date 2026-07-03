@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CDC_StandardizedPrecipitationIndex
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/nchs/data_access/ftp_data.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/96f241b3ff2af0faf3081228ed028034a08ce7e0/scripts/us_cdc/environmental_health_toxicology/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/environmental/StandardizedPrecipitationIndex/latest"
+sourceDataUrl: "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Index-1895-2016/xbk2-5i4e/about_data"
+descriptionUrl: "https://data.cdc.gov/api/views/xbk2-5i4e/files/ed7c71a5-ff0a-4dfe-966e-0ed0f380d4a2?download=true&filename=SPI_Metadata_Jan2017.pdf"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

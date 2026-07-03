@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0801"
+  provenance_url: "https://data.census.gov/table?q=S0801&tid=ACSST5Y2023.S0801"
+  provenance_description: "Commuting Characteristics by Sex at Country, State, County , County subdivision and Place."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/S0801/20250219/graph.tfrecord@43.gz"
+  import_groups: "uscensus"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2023"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S0801/20250219/S0801_2021_2023_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S0801/20250219/S0801_*_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

@@ -1,0 +1,22 @@
+import: {
+  import_name: "EIA_SEDS"
+  provenance_url: "https://www.eia.gov/opendata/qb.php?category=40203"
+  category: STATS
+  provenance_description: "State Energy Data System (SEDS) providing comprehensive historical state-level energy consumption, price, and expenditure estimates."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_eia/seds/latest/graph.tfrecord@1.gz"
+  import_groups: "auto2w"
+  import_groups: "infrequent"
+  automated_mcf_generation_by: "auto2w"
+  data_download_url: "http://api.eia.gov/bulk/SEDS.zip"
+  resolution_info: { uses_id_resolver: true }
+  release_frequency: "P1M"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/seds/latest/SEDS.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/seds/latest/SEDS.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_eia/opendata/EIA_SEDS/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_eia/opendata/EIA_SEDS/import_metadata_mcf.mcf"
+  dataset_name: "Open Data"
+}

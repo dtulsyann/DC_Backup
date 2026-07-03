@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Greece
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/GRC/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Greece/sourceFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/GRC/ADM1"
+lastDataRefreshDate: "2024-12-13"
+earliestDataImportDate: "2024-06-11"

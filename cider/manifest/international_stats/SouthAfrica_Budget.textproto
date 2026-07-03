@@ -1,0 +1,18 @@
+import: {
+  import_name: "SouthAfrica_Budget"
+  provenance_url: "https://github.com/dsfsi/data-commons-data/tree/master/data/budget%20data/csv"
+  provenance_description: "Revenue and expenditure budget of South Africa at metropolitan municipality level for different economic sectors."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/southafrica/Budget/graph.tfrecord@1.gz"
+  import_groups: "country"
+  import_groups: "infrequent"
+  start_date_in_kg: "2018"
+  end_date_in_kg: "2023"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/southafrica/Budget/SouthAfrica_Budget_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/southafrica/Budget/*.csv"
+  }
+  dataset_name: "South Africa Budget"
+}

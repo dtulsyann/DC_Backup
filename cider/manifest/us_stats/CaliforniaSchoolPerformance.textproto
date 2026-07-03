@@ -1,0 +1,13 @@
+import {
+  import_name: "CaliforniaSchoolPerformance"
+  provenance_url: "https://caaspp-elpac.ets.org/elpac/"
+  category: STATS
+  provenance_description: "California schools performance data across different grade and sub-groups(Like race, disability etc)."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_nces/performance/california_school/graph.tfrecord@8.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_nces/performance/california_school/california.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_nces/performance/california_school/output_files_20*/california-*.csv"
+  }
+  import_groups: "infrequent"
+  dataset_name: "California School Performance"
+}

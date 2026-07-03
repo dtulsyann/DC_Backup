@@ -1,0 +1,16 @@
+import {
+  import_name: "Srilanka_Census"
+  provenance_url: "https://data.humdata.org/"
+  category: STATS
+  provenance_description: "Population, Education and Agriculture Census and Statistics for Sri Lanka at country, province and district Level. Imported variables related to demographic based on gender, age and education based on cause and count of mortality and count of employed people."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/srilanka/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/srilanka/common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/srilanka/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  start_date_in_kg: "1960"
+  end_date_in_kg: "2022"
+  dataset_name: "Sri Lanka Census"
+}

@@ -1,0 +1,13 @@
+import {
+  import_name: "NITIIndiaPopulationProjection"
+  provenance_url: "https://ndap.niti.gov.in/dataset/7208, https://ndap.niti.gov.in/dataset/7209"
+  category: STATS
+  provenance_description: "Population projection at India state level."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_ndap/india_population_projection/20250128/nodes.mcf@2"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_ndap/india_population_projection/20250128/niti_india.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_ndap/india_population_projection/20250128/*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "NITI India Population Projection"
+}

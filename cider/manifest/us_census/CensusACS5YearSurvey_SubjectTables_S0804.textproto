@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0804"
+  provenance_url: "https://data.census.gov/table/ACSST5Y2023.S0804"
+  provenance_description: "Means of Transportation to Work by Selected Characteristics for Workplace Geography at State, County , County subdivision and Place."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/S0804/20250216/graph.tfrecord@13.gz"
+  import_groups: "uscensus"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2023"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S0804/20250216/s0804_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S0804/20250216/s0804_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

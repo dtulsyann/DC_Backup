@@ -1,0 +1,11 @@
+import {
+  import_name: "TemperatureEvents_Agg"
+  provenance_url: "https://datacommons.org"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistics detailing extreme temperature events and their geographic distribution."
+  import_groups: "disaster"
+  start_date_in_kg: "2022"
+  end_date_in_kg: "2023"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/TemperatureEvents_Agg/2023-01-27/graph.tfrecord@1.gz"
+  dataset_name: "Temperature Event"
+}

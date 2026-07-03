@@ -1,0 +1,10 @@
+Node: dcid:dc/base/USA_DOL_Wages
+typeOf: dcid:Provenance
+license: "hhttps://www.dol.gov/general/privacynotice"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/us_dol_wages_pr/statvar_imports/USA/DOL_Wages/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/source_csv/us_dol/wages/US_DOL_Wages.csv"
+sourceDataUrl: "https://www.dol.gov/agencies/whd/state/minimum-wage/history"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

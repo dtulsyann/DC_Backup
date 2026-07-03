@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Tonga"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-ton"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the provinces(Administrative Area 1 division) in Tonga."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Tonga/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

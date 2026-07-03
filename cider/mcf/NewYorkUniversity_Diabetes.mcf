@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NewYorkUniversity_Diabetes
+typeOf: dcid:Provenance
+license : " https://data.ny.gov/download/77gx-ii52/application/pdf"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+descriptionUrl: "https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_newyork/ny_diabetes/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/nyu_diabetes/adult_diabetes/input_files"
+sourceDataUrl : "https://www.health.ny.gov/"
+sourceReleaseFrequency : "P2Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

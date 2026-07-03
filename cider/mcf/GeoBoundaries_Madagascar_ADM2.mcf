@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Madagascar_ADM2
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/MDG/ADM2/"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Madagascar/ADM2/InputFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/MDG/ADM2"
+lastDataRefreshDate: "2024-12-17"
+earliestDataImportDate: "2024-10-25"

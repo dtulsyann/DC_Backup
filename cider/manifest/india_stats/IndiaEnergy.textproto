@@ -1,0 +1,20 @@
+import: {
+  import_name: "IndiaEnergy"
+  provenance_url: "https://niti.gov.in/edm/"
+  category: STATS
+  provenance_description: "Energy data for India covering statewise and country level production and consumption of energy from different energy sources."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_energy/nodes.mcf@1"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  release_frequency: "P1Y"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "isoCode"
+    kg_for_resolution: KG_MCF
+  }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_energy/india_energy.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_energy/india_energy.csv"
+  }
+  dataset_name: "India Energy Production and Consumption by States"
+}

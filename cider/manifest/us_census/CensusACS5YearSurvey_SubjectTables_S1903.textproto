@@ -1,0 +1,18 @@
+#TODO(sharadshriram): Extend the import with other statvars for the S1903 subject table
+import: {
+  # US-level stats for S1903 - income by householder race
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1903"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S1903&tid=ACSST5Y2023.S1903"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S1903: Median Income in the Past 12 Months."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s1903/US_only_stats_subset_householderRace/nodes.mcf@1"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2023"
+  import_groups: "uscensus"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1903/US_only_stats_subset_householderRace/S1903_USStats_HouseholderRace_subset.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1903/US_only_stats_subset_householderRace/S1903_USStats_HouseholderRace_subset.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

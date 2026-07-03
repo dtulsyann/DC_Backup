@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Slovenia
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-svn"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Slovenia/Source/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-svn"
+lastDataRefreshDate: "2024-08-30"
+earliestDataImportDate: "2024-08-30"

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_SaudiArabia
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-sau"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/SaudiArabia/ADM1/wikidata/InputFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-sau"
+lastDataRefreshDate: "2024-10-11"
+earliestDataImportDate: "2024-10-11"

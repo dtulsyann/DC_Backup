@@ -1,0 +1,18 @@
+import: {
+  import_name: "EPA_GHGRP_ParentCompanies"
+  provenance_url: "https://www.epa.gov/ghgreporting"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/epa/parent_company/svobs/svobs_nodes.mcf@1"
+  import_groups: "infrequent"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2019"
+  end_date_in_source: "2019"
+  release_frequency: "P1Y"
+  next_release_date: "2021-11"  # ESTIMATED (same as above for EPA_GHGRP)
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/epa/parent_company/svobs/SVObs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/epa/parent_company/svobs/SVObs.csv"
+  }
+  provenance_description: "EPA emissions data reported as part of the Greenhouse Gas Reporting Program (GHGRP), aggregated across owner parent companies."
+  dataset_name: "Greenhouse Gas Reporting Program"
+}

@@ -1,0 +1,15 @@
+import: {
+  import_name: "ATC_Codes"
+  dataset_name: "ATC Codes"
+  provenance_url: "https://www.whocc.no/atc_ddd_index/"
+  category: ENTITY
+  import_groups: "experimental"
+  next_release_date: "2025-02-01"
+  release_frequency: "P1Y"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/who/atc_codes_3/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/who/atc_codes_3/atc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/who/atc_codes_3/atc.csv"
+  }
+}

@@ -1,0 +1,21 @@
+import: {
+  import_name: "EurostatData_LifeExpectancy"
+  provenance_url: "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en"
+  category: STATS
+  provenance_description: "Life expectancy at birth and different ages across European countries and regions."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/life_expectancy/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/life_expectancy/latest/demo_r_mlifexp.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/life_expectancy/latest/demo_r_mlifexp_cleaned.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/life_expectancy/EurostatData_LifeExpectancy/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/life_expectancy/EurostatData_LifeExpectancy/import_metadata_mcf.mcf"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Regional Statistics by NUTS Classification"
+}

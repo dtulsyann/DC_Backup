@@ -1,0 +1,18 @@
+import: {
+  import_name: "EPA_GHGRP"
+  provenance_url: "https://www.epa.gov/ghgreporting"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/epa/ghgrp_emissions/latest/graph.tfrecord@1.gz"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  release_frequency: "P1Y"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/epa/ghgrp_emissions/latest/observations.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/epa/ghgrp_emissions/latest/all_data.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_epa/ghgrp/EPA_GHGRP/latest_version.txt"
+    }
+  }
+  provenance_description: "EPA emissions data reported as part of the Greenhouse Gas Reporting Program (GHGRP)."
+  dataset_name: "Greenhouse Gas Reporting Program"
+}

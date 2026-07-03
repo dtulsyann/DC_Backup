@@ -1,0 +1,18 @@
+import: {
+  import_name: "RFF_USGridGeo_WeatherVariabilityForecast"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_url: "https://www.rff.org/publications/data-tools/"
+  category: STATS
+  start_date_in_kg: "2006"
+  end_date_in_kg: "2100"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/rff/grid_weather_variability_forecast/graph.tfrecord@10.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/rff/grid_weather_variability_forecast/WeatherVariability_Forecast.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/rff/grid_weather_variability_forecast/WeatherVariability_Forecast.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "US Forecast Weather Variability - 0.25 degree resolution"
+}

@@ -1,0 +1,9 @@
+Node: dcid:dc/base/Colombia_Census
+typeOf: dcid:Provenance
+license: "https://www.dane.gov.co/index.php/transparencia"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/colombia/20230719/20230719/"
+sourceDataUrl: "https://www.dane.gov.co/index.php/en/statistics-by-topic"
+lastDataRefreshDate: "2023-07-19"
+descriptionUrl: "https://microdatos.dane.gov.co/index.php/catalog/EDU-Metadatos","https://microdatos.dane.gov.co/index.php/catalog/DEM-Metadatos"

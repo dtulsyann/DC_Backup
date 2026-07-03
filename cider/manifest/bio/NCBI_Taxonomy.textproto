@@ -1,0 +1,14 @@
+import: {
+  import_name: "NCBI_Taxonomy"
+  dataset_name: "NCBI Taxonomy"
+  provenance_url: "https://www.ncbi.nlm.nih.gov/taxonomy/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/taxonomy/nodes.mcf@1"
+  release_frequency: "P1D"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/taxonomy/ncbi_taxonomy.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/taxonomy/ncbi_taxonomy.csv"
+  }
+}

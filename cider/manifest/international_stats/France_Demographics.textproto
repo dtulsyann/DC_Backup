@@ -1,0 +1,19 @@
+import {
+  import_name: "France_Demographics"
+  provenance_url: "https://www.insee.fr/en/statistiques/8333211?sommaire=8333329"
+  category: STATS
+  provenance_description: "Population data for France from INSEE"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/france/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/france/latest/population_sex_age_groups_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/france/latest/*_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/france_demographics/France_Demographics/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/france_demographics/France_Demographics/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  release_frequency: "P1Y"
+  dataset_name: "France Demographics"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/SouthAfrica_Census
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-07-19"
+license: "https://southafrica.opendataforafrica.org/legal/termsofuse"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+sourceDataUrl: "https://southafrica.opendataforafrica.org/"
+lastDataRefreshDate: "2025-03-14"
+cachedSourceDataUrl:  "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/southafrica/20250317/input_files"
+automaticRefreshType: "NoAutomaticRefresh"

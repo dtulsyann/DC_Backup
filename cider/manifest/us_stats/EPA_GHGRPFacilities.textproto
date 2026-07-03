@@ -1,0 +1,17 @@
+import: {
+  # NOTE: This is part of TrustedProvenances because it includes
+  # containedInPlace triples used in place aggregation.
+  #
+  # Includes EpaReportingFacility entities (no stats). No resolution necessary.
+  import_name: "EPA_GHGRPFacilities"
+  provenance_url: "https://www.epa.gov/enviro/greenhouse-gas-overview"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/epa/ghgrp_facility/nodes.mcf@1"
+  import_groups: "place"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/epa/ghgrp_facility/us_epa_facility.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/epa/ghgrp_facility/us_epa_facility.csv"
+  }
+  provenance_description: "EPA facilities reporting data as part of the Greenhouse Gas Reporting Program (GHGRP)."
+  dataset_name: "Greenhouse Gas Reporting Program"
+}

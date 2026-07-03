@@ -1,0 +1,5 @@
+Node: dcid:dc/base/USGSWaterUse
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://www.usgs.gov/special-topic/water-science-school/science/glossary-water-terms","https://www.usgs.gov/mission-areas/water-resources/science/water-use-terminology","https://www.usgs.gov/special-topic/water-science-school/science/glossary-water-terms"
+automaticRefreshType: "NoAutomaticRefresh"

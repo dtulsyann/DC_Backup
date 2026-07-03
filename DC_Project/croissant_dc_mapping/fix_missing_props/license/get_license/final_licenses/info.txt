@@ -1,0 +1,68 @@
+Specific Dataset Overrides (First priority):
+If a dataset is known to have specific terms (like the CDC WONDER Natality/Mortality datasets), it overrides them with the exact data use restrictions page (https://wonder.cdc.gov/wonder/help/data-use-restrictions.html).
+It also checks the existing metadata to preserve specific dataset-level user agreements (like NCHS Data User Agreements or NCHS FTP terms).
+Standard Domain/Agency Mapping (Second priority):
+For datasets that follow standard agency-wide licensing (like ABS Australia, UK Gov, India Gov, BLS, BEA, Census, etc.), it maps their domains to the official, verified policy/terms pages (such as Creative Commons, OGL, or agency copyright disclaimers).
+Smart Fallback rules (Final priority):
+For any unmapped domains, it uses domain suffix rules (e.g., checking if a site ends in .gov.in to apply India's Open Government License, or .gov.uk for the UK Open Government Licence).
+
+
+Out of the 424 elements where the original license was already present:
+
+Exactly the same: 75 entries (17.7%)
+Different: 349 entries (82.3%)
+Why are they different?
+Almost all the differences are standardization improvements:
+
+Consolidation to Standard Policies: Many entries had slight variants of standard URLs. For example, Census Bureau entries originally linked to various subpages like .../policies/open-gov/open-data.html, and have now been standardized to the main policies page https://www.census.gov/about/policies.html.
+Standard BLS/BEA Pages: BLS entries originally linked to accessibility pages like .../ada.htm and are now standardized to https://www.bls.gov/bls/linksite.htm (their official copyright/linking policy).
+Specific Dataset Terms (CDC WONDER): WONDER datasets previously linked to the generic CDC site copyright page (https://www.cdc.gov/other/agencymaterials.html) but are now correctly updated to the exact dataset terms: https://wonder.cdc.gov/wonder/help/data-use-restrictions.html.
+
+Yes, exactly. To be precise:
+
+Some existing licenses in Data Commons were too generic: For example, the CDC WONDER datasets previously linked to the general CDC homepage terms (https://www.cdc.gov/other/agencymaterials.html), whereas the correct license URL is the specific CDC WONDER Data Use Agreement (https://wonder.cdc.gov/wonder/help/data-use-restrictions.html).
+Some were inconsistent/incorrect landing pages: Many entries linked to accessibility pages (/bls/ada.htm) or privacy policies (/bea/privacy), which are not the actual copyright or dataset license terms. I updated and standardized these to point to the official copyright/disclaimer page for that agency (e.g., https://www.bls.gov/bls/linksite.htm).
+So the URLs populated under jet_license represent a more accurate, standardized, and precise mapping of the actual licenses than the existing ones in Data Commons.
+
+### Examples of Inconsistent/Incorrect Landing Pages in Data Commons:
+
+1. **BLS CPI (Index 12)**
+   * **Old (Data Commons):** `https://www.bls.gov/bls/ada.htm` (Section 508 Accessibility / Assistive Technology statement page).
+   * **New (Standardized):** `https://www.bls.gov/bls/linksite.htm` (Official BLS copyright & linking policy).
+
+2. **BEAGDPv2 (Index 7)**
+   * **Old (Data Commons):** `https://www.bea.gov/privacy` (General website Privacy Policy page).
+   * **New (Standardized):** `https://www.bea.gov/policies-and-information` (Official BEA data dissemination and public domain policies).
+
+3. **AustraliaStatistics (Index 4)**
+   * **Old (Data Commons):** `https://www.abs.gov.au/statistics/.../accessibility` (Accessibility page for a specific 2020-21 national accounts methodology report).
+   * **New (Standardized):** `https://creativecommons.org/licenses/by/4.0/` (The actual CC BY 4.0 license governing ABS statistics).
+
+4. **CDC Mortality Underlying Cause (Index 35)**
+   * **Old (Data Commons):** `https://www.cdc.gov/nchs/data_access/ftp_data.htm` (Generic NCHS FTP Data download page - Deprecated/Not Found).
+   * **New (Standardized):** `https://www.cdc.gov/nchs/policy/data-user-agreement.html` (The specific legally-binding NCHS Data User Agreement).
+   * **WONDER Restriction page:** `https://wonder.cdc.gov/wonder/help/restrictions.html` (Correct live CDC WONDER Data Use Restrictions URL).
+
+
+ {
+    "dcid": "dc/base/EIA_Coal",
+    "name": "EIA_Coal",
+    "description": null,
+    "sourceDataUrl": "http://api.eia.gov/bulk/COAL.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=717234",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "jet_license": "https://www.eia.gov/opendata/",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+
+  dc is correct
+
+
+  

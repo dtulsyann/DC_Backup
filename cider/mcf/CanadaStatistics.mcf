@@ -1,0 +1,12 @@
+Node: dcid:dc/base/CanadaStatistics
+typeOf: dcid:Provenance
+license: "https://www.statcan.gc.ca/en/reference/licence"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+#dataTransformationLogic: "https://docs.google.com/document/d/11i37qV5eBkIasVy3RioG30rvvclh84mCeJcnqp_4EzQ/edit?tab=t.0#heading=h.f9cam3i0r6g5"
+sourceDataUrl: "https://www150.statcan.gc.ca/n1/en/type/data?MM=1#tables"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2023-07-19"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/canada/input_files/input_files"
+descriptionUrl: "https://www.statcan.gc.ca/en/statistical-programs/document/3233_D4_T9_V2","https://www.statcan.gc.ca/en/statistical-programs/instrument/3901_Q1_V7","https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=314270","https://www.statcan.gc.ca/en/statistical-programs/document/3233_D4_T9_V2","https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5102#a3","https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5046"
+automaticRefreshType: "NoAutomaticRefresh"

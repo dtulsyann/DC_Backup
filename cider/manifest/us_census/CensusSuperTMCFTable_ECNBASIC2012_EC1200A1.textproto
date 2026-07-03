@@ -1,0 +1,18 @@
+import: {
+  import_name: "CensusSuperTMCFTable_ECNBASIC2012_EC1200A1"
+  provenance_url: "https://data.census.gov/api/access/table/download"
+  provenance_description: "The import brings U.S. Census data from table ECNBASIC2012.EC1200A1 via super TMCF format and CSV data files mappings."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census_super_tmcf/import_1/ECNBASIC2012_EC1200A1_nodes@4"
+  category: STATS
+  import_groups: "uscensus"
+  start_date_in_kg: "2012"
+  end_date_in_kg: "2012"
+  end_date_in_source: "2012"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census_super_tmcf/import_1/ECNBASIC2012_EC1200A1_super_tcmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census_super_tmcf/import_1/*.csv"
+  }
+  dataset_name: "Economic Census"
+}

@@ -1,0 +1,5 @@
+Node: dcid:dc/base/NOAA_EPA_Observed_Historical_Weather
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2024-03-25"
+descriptionUrl: "https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation.php","https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs/documentation.php"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,12 @@
+Node: dcid:dc/base/WHO_TuberculosisAndHIVTreatmentOutcome
+typeOf: dcid:Provenance
+#lastDataRefreshDate: "2023-11-03"
+descriptionUrl: "https://data.who.int/indicators/i/DCDC2EB/625E736"
+license: "https://www.who.int/about/terms-of-use"
+licenseType: dcid:CreativeCommonsAttributionLicense
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/who/treatement_outcome_tb_hiv/input_files"
+sourceDataUrl: "https://data.who.int/indicators/i/DCDC2EB/625E736"
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/statvar_imports/who_tuberculosis/treatmentoutcome_tb_hiv/README.md"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

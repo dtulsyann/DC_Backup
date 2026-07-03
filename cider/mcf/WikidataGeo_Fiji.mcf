@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Fiji
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Fiji/"
+sourceDataUrl : "https://en.m.wikipedia.org/wiki/Local_government_in_Fiji"
+lastDataRefreshDate: "2024-07-14"
+earliestDataImportDate: "2024-07-14"

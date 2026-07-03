@@ -1,0 +1,10 @@
+Node: dcid:dc/base/BLS_JOLTS
+typeOf: dcs:Provenance
+license : "https://www.bls.gov/bls/linksite.htm"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/blob/master/scripts/us_bls/jolts/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bls/jolts/latest/input_files"
+sourceDataUrl : "https://download.bls.gov/pub/time.series/jt/"
+sourceReleaseFrequency : "P1M"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

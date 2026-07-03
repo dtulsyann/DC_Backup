@@ -1,0 +1,14 @@
+import {
+  import_name: "India_NationalAccountsStatistics"
+  provenance_url: "https://esankhyiki.mospi.gov.in/macroindicators?product=nas"
+  category: STATS
+  provenance_description: "India economic statistics at country and state level."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_mospi/economy/20260202/nodes.mcf@9"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_mospi/economy/20260202/mospi_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_mospi/economy/20260202/*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "India National Accounts Statistics"
+}
+

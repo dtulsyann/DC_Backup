@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Honduras_ADM2
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/HND/ADM2/"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Honduras/ADM2/InputFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/HND/ADM2"
+lastDataRefreshDate: "2024-10-23"
+earliestDataImportDate: "2024-10-23"

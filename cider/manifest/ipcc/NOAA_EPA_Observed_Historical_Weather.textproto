@@ -1,0 +1,18 @@
+import: {
+  import_name: "NOAA_EPA_Observed_Historical_Weather"
+  provenance_url: "https://www.noaa.gov/"
+  category: STATS
+  provenance_description: "Historical observed weather data including temperature and precipitation from NOAA and EPA networks."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/weather/historical/2024-03-21/graph.tfrecord@87.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/weather/historical/2024-03-21/historical_weather.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/weather/historical/2024-03-21/*.csv*"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  # TODO(wsws): Setting up auto-refresh (in auto2w), then remove from other import groups.
+  import_groups: "infrequent"
+  import_groups: "ipcc"
+  dataset_name: "NOAA-EPA Observed Weather Data"
+}

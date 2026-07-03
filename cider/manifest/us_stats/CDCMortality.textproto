@@ -1,0 +1,14 @@
+import: {
+  import_name: "CDCMortality"
+  provenance_url: "https://wonder.cdc.gov/mcd.html"
+  category: STATS
+  provenance_description: "Mortality rates and death counts by cause of death across various demographics from the CDC."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/wonder/county_counts/*.mcf"
+  import_groups: "infrequent"
+  start_date_in_kg: "1999"
+  end_date_in_kg: "2017"
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "Wonder: Compressed Mortality"
+}

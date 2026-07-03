@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NCSES_Employed_College_Grads_Import
+typeOf: dcid:Provenance
+license: "https://www.nsf.gov/public-access"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/national_center_for_science_and_engineering_statistics/ncses_employed_college_grads_import/README.md"
+sourceDataUrl: "https://ncsesdata.nsf.gov/explorer/datatables/?term=race&exactMatch=no&page=1&filterSuperTopic=Demographics&filterTopic=Sex&datatablespage=2%22"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType: dcid:InternalPipeline
+automaticRefreshSchedule: "15 22 * * 4"
+descriptionUrl: "https://www.nsf.gov/about"

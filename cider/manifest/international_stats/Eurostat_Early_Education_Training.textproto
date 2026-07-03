@@ -1,0 +1,17 @@
+import: {
+  import_name: "Eurostat_Early_Education_Training"
+  provenance_url: "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_30__custom_7874475/default/table?lang=en"
+  provenance_description: "Participation in early childhood education by sex (children aged 4 and over). The indicator measures the share of the children between the age of four and the starting age of compulsory primary education who participated in early childhood education."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/education_training_20231017/graph.tfrecord@1.gz"
+  category: STATS
+  import_groups: "infrequent"
+  start_date_in_kg: "2000"
+  end_date_in_kg: "2021"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_training_20231017/Eurostat_early_childhood_education_by_sex.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_training_20231017/*.csv"
+  }
+  dataset_name: "EuroStat Early Education and Training"
+}

@@ -1,0 +1,9 @@
+import: {
+  import_name: "NASA_NEXDCP30_AggrYearsStats"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/StatVarSeries/Aggregates/v2/NASA_NEXDCP30_AggrYearsStats/graph.tfrecord*"
+  import_groups: "ipcc"
+  provenance_description: "Aggregated by DataCommons."
+  category: INTERMEDIATE_STATS
+  dataset_name: "NEX - Downscaled Climate Projections for US from IPCC CMIP5"
+}

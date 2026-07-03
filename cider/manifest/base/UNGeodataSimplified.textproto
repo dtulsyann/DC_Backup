@@ -1,0 +1,13 @@
+# LINT.IfChange
+import {
+  import_name: "UNGeodataSimplified"
+  provenance_url: "https://geoportal.un.org/arcgis/apps/sites/#/geohub/datasets/d7caaff3ef4b4f7c82689b7c4694ad92/about"
+  category: PLACE
+  provenance_description: "UN Geodata Simplified"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/un/boundaries/*.mcf"
+  import_groups: "place"
+  resolution_info: { uses_id_resolver: false }
+  dataset_name: "UN Geodata"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

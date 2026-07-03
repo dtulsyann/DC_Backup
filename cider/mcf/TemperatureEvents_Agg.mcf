@@ -1,0 +1,4 @@
+Node: dcid:dc/base/TemperatureEvents_Agg
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-01-28"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,8 @@
+Node: dcid:dc/base/DynamicWorld_FloodEvents_Places_AutoRefresh
+typeOf: dcid:Provenance
+license: "https://creativecommons.org/licenses/by/4.0/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/floods/events/place_svobs/"
+sourceDataUrl: "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+automaticRefreshType: "NoAutomaticRefresh"

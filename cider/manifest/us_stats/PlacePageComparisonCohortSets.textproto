@@ -1,0 +1,14 @@
+import: {
+  import_name: "PlacePageComparisonCohortSets"
+  provenance_url: "https://datacommons.org"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cohort_sets/*.mcf"
+  import_groups: "place"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "geoId"
+    requires_ids: "dcid"
+    kg_for_resolution: KG_MCF
+  }
+  dataset_name: "Data Commons Schema"
+}

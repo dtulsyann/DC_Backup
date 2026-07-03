@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Copernicus_GlobalLandCoverLayers
+typeOf: dcid:Provenance
+license: "https://www.copernicus.eu/en/access-data/copyright-and-licences"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/earth_engine/copernicus/land_cover/"
+sourceDataUrl: "https://land.copernicus.eu/en/global"
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://lcviewer.vito.be/about"
+automaticRefreshType: "NoAutomaticRefresh"

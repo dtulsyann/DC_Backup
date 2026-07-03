@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_TrinidadAndTobago"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-tto"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the Administrative Area 1 divisions of Trinidad and Tobago."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/TrinidadAndTobago/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

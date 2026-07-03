@@ -1,0 +1,19 @@
+--- cro_validate.json
++++ cro_validate.json
+@@ -5,6 +5,7 @@
+         "cr": "http://mlcommons.org/croissant/",
+         "dc": "https://datacommons.org/browser/",
+         "dcs": "https://datacommons.org/ontology/",
++        "sc": "https://schema.org/"
+       },
+       "@type": "Dataset",
+       "name": "US Census Bureau - ACS 5 Year Survey",
+@@ -17,7 +18,7 @@
+       "conformsTo": "http://mlcommons.org/croissant/1.0",
+       "distribution": [
+         {
+-          "@type": "cr:FileObject",
++          "@type": "sc:FileObject",
+           "@id": "provenance_data_source",
+           "name": "acs_all_variables.csv",
+           "description": "A bulk export of all StatVarObservations for this provenance.",

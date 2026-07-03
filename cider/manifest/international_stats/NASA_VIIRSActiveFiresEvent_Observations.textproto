@@ -1,0 +1,21 @@
+import {
+  import_name: "NASA_VIIRSActiveFiresEvent_Observations"
+  provenance_url: "https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt"
+  provenance_description: "Areas of fire events across the world as detected by VIIRS onboard the Suomi NPP satellite at 375m resolution."
+  category: STATS
+  import_groups: "auto1w"
+  start_date_in_kg: "2012"
+  end_date_in_kg: "2022"
+  automated_mcf_generation_by: "auto1w"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fires/firms/events/event_svobs/graph.tfrecord@10.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fires/firms/events/event_svobs/fire_event_svobs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fires/firms/events/event_svobs/*.csv"
+    download_config: {
+      src_prefix_dir: "/bigstore/datcom-prod-imports/scripts/fires/firms/events/event_svobs"
+    }
+  }
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "VIIRS Active Fire Data"
+  release_frequency: "P1D"
+}

@@ -1,0 +1,13 @@
+import {
+  import_name: "Brazil_Census"
+  provenance_url: "https://www.ibge.gov.br/en/statistics/social/population.html"
+  category: STATS
+  provenance_description: "Population Census and Statistics for Brazil."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/brazil/output_files/2023-05-05/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/output_files/2023-05-05/Brazil_1991_residence.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/output_files/2023-05-05/*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "Brazil Census"
+}

@@ -1,0 +1,22 @@
+{
+  "dc/base/FireFAMWEB_Agg": {
+    "parent_dcid": "dc/base/FireFAMWEB",
+    "parent_license": "https://www.nwcg.gov/notices#accessibility",
+    "parent_licenseType": "PublicDomain"
+  },
+  "dc/base/NASA_VIIRSActiveFiresEvents_Agg": {
+    "parent_dcid": "dc/base/NASA_VIIRSActiveFiresEvents",
+    "parent_license": "https://sti.nasa.gov/disclaimers/",
+    "parent_licenseType": "PublicDomain"
+  },
+  "dc/base/StormNOAA_Agg": {
+    "parent_dcid": "dc/base/StormNOAA",
+    "parent_license": "https://www.weather.gov/disclaimer",
+    "parent_licenseType": "PublicDomain"
+  },
+  "dc/base/TemperatureEvents_Agg": {
+    "parent_dcid": "dc/base/TemperatureEvents",
+    "parent_license": "https://developers.google.com/terms",
+    "parent_licenseType": "Creative Commons Attribution License"
+  }
+}

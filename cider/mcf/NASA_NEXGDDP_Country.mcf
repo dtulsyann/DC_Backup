@@ -1,0 +1,5 @@
+Node: dcid:dc/base/NASA_NEXGDDP_Country
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://esgf.nccs.nasa.gov/esgdoc/NEX-GDDP_Tech_Note_v0.pdf "
+automaticRefreshType: "NoAutomaticRefresh"

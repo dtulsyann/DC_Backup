@@ -1,0 +1,23 @@
+import: {
+  import_name: "CycloneNOAA_Stats"
+  provenance_url: "https://www.ncei.noaa.gov/products/international-best-track-archive"
+  provenance_description: "International cyclone data (including location, air pressure, windspeed, and classification) aggregated from multiple international weather agencies."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cyclone/stats/graph.tfrecord*.gz"
+  import_groups: "auto1d"
+  #import_groups: "laelaps" #Removing from laelaps as the data is not updated regularly.
+  # Updates on Monday and Friday.
+  release_frequency: "P4D"
+  data_download_url: "https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/ibtracs.ALL.list.v04r00.csv"
+  automated_mcf_generation_by: "auto1d"
+  # TODO(prajapata): Update the latest version file will be updated later as this manual refresh is temporarily done for this time.
+  mcf_download_config: {
+    src_latest_version_file: "/cns/jv-d/home/datcom/xenon_mcf/cyclone/stats/latest_version.txt"
+  }
+  resolution_info: {
+    uses_id_resolver: true
+    unresolved_mcf_urls: "/cns/jv-d/home/datcom/v3_mcf/cyclone/stats/*.mcf"
+    kg_for_resolution: KG_MCF
+  }
+  dataset_name: "International Best Track Archive for Climate Stewardship (IBTrACS)"
+}

@@ -1,0 +1,14 @@
+import: {
+  import_name: "FBIGovCrime_AggCountry"
+  provenance_url: "http://www.fbi.gov/services/cjis/ucr"
+  # This import won't be aggregated going forward as new state data is absent, though past aggregation result are preserved.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/FBIGovCrime/20250328/FBIGovCrime_AggCountry/graph.tfrecord@1.gz"
+  import_groups: "infrequent"
+  import_groups: "laelaps"
+  provenance_description: "Aggregated by DataCommons, from State to Country."
+  golden_triple_selection: {
+    svobs_nodes_pick_one_in: 5
+  }
+  category: AGGREGATED_STATS
+  dataset_name: "Uniform Crime Reporting (UCR) Program"
+}

@@ -1,0 +1,24 @@
+import {
+  import_name: "NCES_SchoolDistrict"
+  provenance_url: "https://nces.ed.gov/ccd/elsi/tableGenerator.aspx"
+  category: PLACE
+  provenance_description: "School Districts in US from National Center of Educationa Statistics."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_nces/demographics/school_district/district_place/latest/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_nces/demographics/school_district/district_place/latest/us_nces_demographics_district_place.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_nces/demographics/school_district/district_place/latest/us_nces_demographics_district_place.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_nces/demographics/school_district/NCES_SchoolDistrict/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_nces/demographics/school_district/NCES_SchoolDistrict/import_metadata_mcf.mcf"
+  import_groups: "place"
+  resolution_info: {
+    uses_id_resolver: false
+    provides_ids: "ncesId"
+    new_geo {
+      dcid_sources: "ncesId"
+    }
+  }
+  dataset_name: "Public School and School District Data"
+}

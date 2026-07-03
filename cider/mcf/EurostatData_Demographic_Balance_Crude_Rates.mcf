@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EurostatData_Demographic_Balance_Crude_Rates
+typeOf: dcid:Provenance
+descriptionUrl: "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Statistical_themes"
+license: "https://commission.europa.eu/legal-notice_en"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/eurostat/regional_statistics_by_nuts/birth_death_migration/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/eurostat/demographic_balance_crude_rates/latest/input_file/"
+sourceDataUrl: "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_gind3/?format=TSV&compressed=true"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

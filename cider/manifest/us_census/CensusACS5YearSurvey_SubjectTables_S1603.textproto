@@ -1,0 +1,18 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1603"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S1603&tid=ACSST5Y2023.S1603"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S1603: Characteristics of People by Language Spoken at Home."
+  import_groups: "uscensus"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s1603/s1603_20250107/graph.tfrecord@22.gz"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2023"
+  #lastDataRefreshDate: "2025-01-07"
+  #cachedSourceDataUrl: "gs://unresolved_mcf/census/acs5yr/subject_tables/s1603/s1603_20250107/input_files"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1603/s1603_20250107/S1603_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1603/s1603_20250107/S1603_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

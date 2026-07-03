@@ -1,0 +1,9 @@
+1. Cross-Variable Correlation (Obesity vs. Income)
+  While the website excels at showing a single map, the API can fetch multiple variables for the same set of places simultaneously. For instance, we can retrieve the Obesity Rate (2022) and Median Household Income (2024) for all 58
+  counties in California in a single workflow.
+
+   * Complexity: Requires resolving child places (Counties) of a parent (California) and aligning time-series data for two distinct statistical variables.
+   * Sample Result:
+       * San Francisco County: ~17.7% Obesity | $140,970 Median Income
+       * Fresno County: ~39.0% Obesity | $74,201 Median Income
+       * Tehama County: ~32.5% Obesity | $63,784 Median Income

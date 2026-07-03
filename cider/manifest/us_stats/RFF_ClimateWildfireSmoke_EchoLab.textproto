@@ -1,0 +1,14 @@
+import: {
+  import_name: "RFF_ClimateWildfireSmoke_EchoLab"
+  import_groups: "infrequent"
+  provenance_url: "https://www.stanfordecholab.com/wildfire_smoke"
+  category: STATS
+  provenance_description: "County and state-level statistics on wildfire smoke exposure and climate impacts."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/rff/wildfire_smoke/echo_lab/graph.tfrecord@10.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/rff/wildfire_smoke/echo_lab/echo_lab.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/rff/wildfire_smoke/fire_and_smoke_v2.csv"
+  }
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "US Wildfire, Smoke and Drought statistics - County and State"
+}

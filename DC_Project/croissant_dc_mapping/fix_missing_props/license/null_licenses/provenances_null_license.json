@@ -1,0 +1,863 @@
+[
+  {
+    "dcid": "dc/base/ACSED5YrSurvey",
+    "prov_url": "https://nces.ed.gov/programs/edge/Demographic/ACS",
+    "sourceDataUrl": "https://nces.ed.gov/programs/edge/Demographic/ACS",
+    "dataset_url": "https://nces.ed.gov/programs/edge/demographic/acs",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/ACSED5YrSurvey_StatVarAgg",
+    "prov_url": "https://nces.ed.gov/programs/edge/Demographic/ACS",
+    "sourceDataUrl": "https://nces.ed.gov/programs/edge/Demographic/ACS",
+    "dataset_url": "https://nces.ed.gov/programs/edge/demographic/acs",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/BEAGDPPriceParity",
+    "prov_url": "https://www.bea.gov/data",
+    "sourceDataUrl": "https://www.bea.gov/data",
+    "dataset_url": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area",
+    "source_url": "https://www.bea.gov/"
+  },
+  {
+    "dcid": "dc/base/Brazil_FoodDsitribution",
+    "prov_url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+    "sourceDataUrl": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+    "dataset_url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+    "source_url": "https://www.gov.br/mds/pt-br/pt-br/servicos/sistemas"
+  },
+  {
+    "dcid": "dc/base/Brazil_RuralDevelopmentProgram",
+    "prov_url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+    "sourceDataUrl": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+    "dataset_url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+    "source_url": "https://www.gov.br/mds/pt-br/pt-br/servicos/sistemas"
+  },
+  {
+    "dcid": "dc/base/CBECS_Energy",
+    "prov_url": "https://www.eia.gov/consumption/commercial/data/2012/index.php?view=consumption",
+    "sourceDataUrl": "https://www.eia.gov/consumption/commercial/data/2012/index.php?view=consumption",
+    "dataset_url": "https://www.eia.gov/consumption/commercial/",
+    "source_url": "https://www.eia.gov/"
+  },
+  {
+    "dcid": "dc/base/CDCPM25",
+    "prov_url": "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9",
+    "sourceDataUrl": "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9",
+    "dataset_url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+    "source_url": "https://www.cdc.gov/"
+  },
+  {
+    "dcid": "dc/base/CaliforniaSchoolPerformance",
+    "prov_url": "https://caaspp-elpac.ets.org/elpac/",
+    "sourceDataUrl": "https://caaspp-elpac.ets.org/elpac/",
+    "dataset_url": "https://caaspp-elpac.ets.org/elpac/",
+    "source_url": "https://caaspp-elpac.ets.org/elpac/"
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg",
+    "prov_url": "https://data.census.gov/table/ACSST5Y2023.S0801",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2023.S0801",
+    "dataset_url": "https://www.census.gov/programs-surveys/acs",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg",
+    "prov_url": "https://data.census.gov/table/ACSST5Y2022.S0804",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2022.S0804",
+    "dataset_url": "https://www.census.gov/programs-surveys/acs",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2019.S1201",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2019.S1201",
+    "dataset_url": "https://www.census.gov/programs-surveys/acs",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408",
+    "dataset_url": "https://www.census.gov/programs-surveys/acs",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/CensusACSBtable5YearSurvey_Btable_B25031",
+    "prov_url": "https://data.census.gov/table/ACSDT5Y2022.B25031",
+    "sourceDataUrl": "https://data.census.gov/table/ACSDT5Y2022.B25031",
+    "dataset_url": "https://www.census.gov/programs-surveys/acs",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/CensusSAHIE_AggCountry",
+    "prov_url": "https://www.census.gov/programs-surveys/sahie.html",
+    "sourceDataUrl": "https://www.census.gov/programs-surveys/sahie.html",
+    "dataset_url": "https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/CensusSuperTMCFTable_ECNBASIC2012_EC1200A1",
+    "prov_url": "https://data.census.gov/api/access/table/download",
+    "sourceDataUrl": "https://data.census.gov/api/access/table/download",
+    "dataset_url": "https://www.census.gov/programs-surveys/economic-census/about.html",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/Climate_StatVarCalculation",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://datacommons.org/",
+    "source_url": "https://datacommons.org/"
+  },
+  {
+    "dcid": "dc/base/Cotedivoire_Census",
+    "prov_url": "https://cotedivoire.opendataforafrica.org/",
+    "sourceDataUrl": "https://cotedivoire.opendataforafrica.org/",
+    "dataset_url": "https://cotedivoire.opendataforafrica.org/",
+    "source_url": "https://dataportal.opendataforafrica.org/"
+  },
+  {
+    "dcid": "dc/base/DataCommons_CoverageStats",
+    "prov_url": "https://datacommons.org",
+    "sourceDataUrl": "https://datacommons.org",
+    "dataset_url": "https://datacommons.org/",
+    "source_url": "https://datacommons.org/"
+  },
+  {
+    "dcid": "dc/base/EPA_EJSCREEN_AggCensusTract",
+    "prov_url": "https://zenodo.org/records/14767363",
+    "sourceDataUrl": "https://zenodo.org/records/14767363",
+    "dataset_url": "https://www.epa.gov/ejscreen",
+    "source_url": "https://www.epa.gov/"
+  },
+  {
+    "dcid": "dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty",
+    "prov_url": "https://zenodo.org/records/14767363",
+    "sourceDataUrl": "https://zenodo.org/records/14767363",
+    "dataset_url": "https://www.epa.gov/ejscreen",
+    "source_url": "https://www.epa.gov/"
+  },
+  {
+    "dcid": "dc/base/EPA_GHGRP_ParentCompanies_Ownership",
+    "prov_url": "https://enviro.epa.gov/enviro/ef_metadata_html.ef_metadata_table?p_table_name=V_PARENT_COMPANY_INFO",
+    "sourceDataUrl": "https://enviro.epa.gov/enviro/ef_metadata_html.ef_metadata_table?p_table_name=V_PARENT_COMPANY_INFO",
+    "dataset_url": "https://www.epa.gov/enviro/greenhouse-gas-overview",
+    "source_url": "https://www.epa.gov/"
+  },
+  {
+    "dcid": "dc/base/Energy_StatVarCalculation",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://datacommons.org/",
+    "source_url": "https://datacommons.org/"
+  },
+  {
+    "dcid": "dc/base/Eurostat_Early_Education_Training",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_30__custom_7874475/default/table?lang=en",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_30__custom_7874475/default/table?lang=en",
+    "dataset_url": "https://ec.europa.eu/eurostat/web/education-and-training/database",
+    "source_url": "https://ec.europa.eu/eurostat"
+  },
+  {
+    "dcid": "dc/base/FAO_Currency",
+    "prov_url": "https://www.fao.org/faostat/en/#data/PE/metadata",
+    "sourceDataUrl": "https://www.fao.org/faostat/en/#data/PE/metadata",
+    "dataset_url": "https://www.fao.org/faostat/en/#data/PE/metadata",
+    "source_url": "https://www.fao.org/faostat/"
+  },
+  {
+    "dcid": "dc/base/FAO_Currency_statvar",
+    "prov_url": "https://bulks-faostat.fao.org/production/Exchange_rate_E_All_Data.zip",
+    "sourceDataUrl": "https://bulks-faostat.fao.org/production/Exchange_rate_E_All_Data.zip",
+    "dataset_url": "https://www.fao.org/faostat/en/#data/PE/metadata",
+    "source_url": "https://www.fao.org/faostat/"
+  },
+  {
+    "dcid": "dc/base/FBIGovCrime_AggCountry",
+    "prov_url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "sourceDataUrl": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "dataset_url": "https://www.fbi.gov/services/cjis/ucr",
+    "source_url": "https://www.fbi.gov/"
+  },
+  {
+    "dcid": "dc/base/FBIHateCrime",
+    "prov_url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "sourceDataUrl": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "dataset_url": "https://www.fbi.gov/services/cjis/ucr/hate-crime",
+    "source_url": "https://www.fbi.gov/"
+  },
+  {
+    "dcid": "dc/base/FBIHateCrimePublications",
+    "prov_url": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "sourceDataUrl": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "dataset_url": "https://www.fbi.gov/services/cjis/ucr/hate-crime",
+    "source_url": "https://www.fbi.gov/"
+  },
+  {
+    "dcid": "dc/base/FEC",
+    "prov_url": "https://download.bls.gov/pub/time.series/la/",
+    "sourceDataUrl": "https://download.bls.gov/pub/time.series/la/",
+    "dataset_url": "https://www.fec.gov/data/browse-data/?tab=bulk-data",
+    "source_url": "https://www.fec.gov/"
+  },
+  {
+    "dcid": "dc/base/FeedingAmerica_FoodInsecurity",
+    "prov_url": "https://www.feedingamerica.org/hunger-in-america",
+    "sourceDataUrl": "https://www.feedingamerica.org/hunger-in-america",
+    "dataset_url": "https://map.feedingamerica.org",
+    "source_url": "https://www.feedingamerica.org/"
+  },
+  {
+    "dcid": "dc/base/FeedingAmerica_MapMealGap",
+    "prov_url": "https://map.feedingamerica.org/",
+    "sourceDataUrl": "https://map.feedingamerica.org/",
+    "dataset_url": "https://map.feedingamerica.org",
+    "source_url": "https://www.feedingamerica.org/"
+  },
+  {
+    "dcid": "dc/base/FireFAMWEB_Agg",
+    "prov_url": "https://fam.nwcg.gov/fam-web/",
+    "sourceDataUrl": "https://fam.nwcg.gov/fam-web/",
+    "dataset_url": "https://famit.nwcg.gov/",
+    "source_url": "https://www.nwcg.gov/"
+  },
+  {
+    "dcid": "dc/base/GenderIncomeInequality",
+    "prov_url": "https://www.datacommons.org/",
+    "sourceDataUrl": "https://www.datacommons.org/",
+    "dataset_url": "https://datacommons.org/",
+    "source_url": "https://datacommons.org/"
+  },
+  {
+    "dcid": "dc/base/INPE_Fire_Event_Count",
+    "prov_url": "https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/estatisticas/estatisticas_estados/",
+    "sourceDataUrl": "https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/estatisticas/estatisticas_estados/",
+    "dataset_url": "https://www.gov.br/inpe/pt-br/acesso-a-informacao/dados-abertos/",
+    "source_url": "https://www.gov.br/inpe/"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_Primary",
+    "prov_url": "https://censusindia.gov.in/",
+    "sourceDataUrl": "https://censusindia.gov.in/",
+    "dataset_url": "https://censusindia.gov.in/census.website/data/census-tables",
+    "source_url": "https://censusindia.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryHouseless",
+    "prov_url": "https://censusindia.gov.in/",
+    "sourceDataUrl": "https://censusindia.gov.in/",
+    "dataset_url": "https://censusindia.gov.in/census.website/data/census-tables",
+    "source_url": "https://censusindia.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryReligion",
+    "prov_url": "https://censusindia.gov.in/",
+    "sourceDataUrl": "https://censusindia.gov.in/",
+    "dataset_url": "https://censusindia.gov.in/census.website/data/census-tables",
+    "source_url": "https://censusindia.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimarySC",
+    "prov_url": "https://censusindia.gov.in/",
+    "sourceDataUrl": "https://censusindia.gov.in/",
+    "dataset_url": "https://censusindia.gov.in/census.website/data/census-tables",
+    "source_url": "https://censusindia.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryST",
+    "prov_url": "https://censusindia.gov.in/",
+    "sourceDataUrl": "https://censusindia.gov.in/",
+    "dataset_url": "https://censusindia.gov.in/census.website/data/census-tables",
+    "source_url": "https://censusindia.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaNHM",
+    "prov_url": "https://hmis.nhp.gov.in/",
+    "sourceDataUrl": "https://hmis.nhp.gov.in/",
+    "dataset_url": "https://hmis.nhp.gov.in/",
+    "source_url": "https://nhm.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaNSS_HealthAilments_StatVarAgg",
+    "prov_url": "https://ndap.niti.gov.in/dataset/7300",
+    "sourceDataUrl": "https://ndap.niti.gov.in/dataset/7300",
+    "dataset_url": "https://mospi.gov.in/documents/213904/301563//NSS%20Report%20no.%20586%20Health%20in%20India1606229312083.pdf/d3724e8b-5970-0559-9ed9-12378a6cc7b3",
+    "source_url": "https://mospi.gov.in/web/nss"
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_DailyWages",
+    "prov_url": "https://mospi.gov.in/web/plfs",
+    "sourceDataUrl": "https://mospi.gov.in/web/plfs",
+    "dataset_url": "https://mospi.gov.in/web/plfs",
+    "source_url": "https://mospi.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_Wages",
+    "prov_url": "https://mospi.gov.in/web/plfs",
+    "sourceDataUrl": "https://mospi.gov.in/web/plfs",
+    "dataset_url": "https://mospi.gov.in/web/plfs",
+    "source_url": "https://mospi.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaPoverty",
+    "prov_url": "https://socialjustice.gov.in/common/76672",
+    "sourceDataUrl": "https://socialjustice.gov.in/common/76672",
+    "dataset_url": "https://www.niti.gov.in/sites/default/files/2021-11/National_MPI_India-11242021.pdf",
+    "source_url": "https://niti.gov.in/"
+  },
+  {
+    "dcid": "dc/base/IndiaWRISWaterQuality",
+    "prov_url": "https://indiawris.gov.in/wris/#/DataDownload",
+    "sourceDataUrl": "https://indiawris.gov.in/wris/#/DataDownload",
+    "dataset_url": "https://indiawris.gov.in/wiki/doku.php?id=water_quality_data_and_parameters",
+    "source_url": "https://indiawris.gov.in/wris/#/"
+  },
+  {
+    "dcid": "dc/base/India_GeoSadak",
+    "prov_url": "https://geosadak-pmgsy.nic.in/",
+    "sourceDataUrl": "https://geosadak-pmgsy.nic.in/",
+    "dataset_url": "https://geosadak-pmgsy.nic.in/OpenData",
+    "source_url": "https://geosadak-pmgsy.nic.in/"
+  },
+  {
+    "dcid": "dc/base/India_RBIStateDomesticProduct_AggCountry",
+    "prov_url": "https://rbi.org.in/",
+    "sourceDataUrl": "https://rbi.org.in/",
+    "dataset_url": "https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics",
+    "source_url": "https://rbi.org.in/"
+  },
+  {
+    "dcid": "dc/base/India_RBIStateDomesticProduct_StatVarAgg",
+    "prov_url": "https://rbi.org.in/",
+    "sourceDataUrl": "https://rbi.org.in/",
+    "dataset_url": "https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics",
+    "source_url": "https://rbi.org.in/"
+  },
+  {
+    "dcid": "dc/base/India_RBIStateDomesticProduct_StatVarAgg_AggCountry",
+    "prov_url": "https://rbi.org.in/",
+    "sourceDataUrl": "https://rbi.org.in/",
+    "dataset_url": "https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics",
+    "source_url": "https://rbi.org.in/"
+  },
+  {
+    "dcid": "dc/base/Indonesia_Census",
+    "prov_url": "https://www.bps.go.id/",
+    "sourceDataUrl": "https://www.bps.go.id/",
+    "dataset_url": "https://www.bps.go.id/indikator/indikator/list_/da_03/",
+    "source_url": "https://www.bps.go.id/"
+  },
+  {
+    "dcid": "dc/base/Ireland_Census",
+    "prov_url": "https://data.cso.ie/",
+    "sourceDataUrl": "https://data.cso.ie/",
+    "dataset_url": "https://www.cso.ie/en/statistics/",
+    "source_url": "https://www.cso.ie/en/index.html"
+  },
+  {
+    "dcid": "dc/base/Israel_Census",
+    "prov_url": "https://www.cbs.gov.il/",
+    "sourceDataUrl": "https://www.cbs.gov.il/",
+    "dataset_url": "https://www.cbs.gov.il/en/Statistics/Pages/Generators/Time-Series-DataBank.aspx?level_1=4",
+    "source_url": "https://www.cbs.gov.il/he/Pages/default.aspx"
+  },
+  {
+    "dcid": "dc/base/Japan_Census",
+    "prov_url": "https://www.e-stat.go.jp/",
+    "sourceDataUrl": "https://www.e-stat.go.jp/",
+    "dataset_url": "https://dashboard.e-stat.go.jp/graphSearch/graphSearchResult?selectedLFieldCd=02",
+    "source_url": "https://www.e-stat.go.jp/"
+  },
+  {
+    "dcid": "dc/base/MexicoCensus",
+    "prov_url": "https://www.inegi.org.mx/temas/",
+    "sourceDataUrl": "https://www.inegi.org.mx/temas/",
+    "dataset_url": "https://en.www.inegi.org.mx/temas/",
+    "source_url": "https://www.inegi.org.mx/default.html"
+  },
+  {
+    "dcid": "dc/base/MexicoCensus_AA2",
+    "prov_url": "https://data.humdata.org/dataset/cod-ps-mex",
+    "sourceDataUrl": "https://data.humdata.org/dataset/cod-ps-mex",
+    "dataset_url": "https://data.humdata.org/dataset/cod-ps-mex",
+    "source_url": "https://www.unocha.org/"
+  },
+  {
+    "dcid": "dc/base/NASA_DCP30_CMIP5_Subnational_AggrDiffStats_LongRangeProjections",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXDCP30",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXDCP30_AggrDiffStats",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrDiffStats",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrOverTimeOnStatsAcrossModels",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrStatsAcrossModels",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrOverTimeOnStatsAcrossModels",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrStatsAcrossModels",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_PDFs",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Country",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Country_AggrDiffStats",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_IpccPlaces50",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_IpccPlaces50_AggrDiffStats",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Subnational",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Subnational_AggrDiffStats",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Subnational_AggrOverTimeOnStatsAcrossModels",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Subnational_AggrStatsAcrossModels",
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "sourceDataUrl": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_SeaLevelProjections_CMIP6",
+    "prov_url": "https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report",
+    "sourceDataUrl": "https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report",
+    "dataset_url": "https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_VIIRSActiveFiresEvent_Observations",
+    "prov_url": "https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt",
+    "sourceDataUrl": "https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt",
+    "dataset_url": "https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_VIIRSActiveFiresEvents_Agg",
+    "prov_url": "https://firms.modaps.eosdis.nasa.gov/active_fire/",
+    "sourceDataUrl": "https://firms.modaps.eosdis.nasa.gov/active_fire/",
+    "dataset_url": "https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_WetBulbComputation",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NASA_WetBulbComputation_Aggregation",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "source_url": "https://www.nasa.gov/"
+  },
+  {
+    "dcid": "dc/base/NCES_HBCU_Enrollment_Import",
+    "prov_url": "https://nces.ed.gov/programs/digest/d22/tables/dt22_313.30.asp",
+    "sourceDataUrl": "https://nces.ed.gov/programs/digest/d22/tables/dt22_313.30.asp",
+    "dataset_url": "https://nces.ed.gov/programs/digest/d22/tables/dt22_313.30.asp",
+    "source_url": "https://nces.ed.gov/"
+  },
+  {
+    "dcid": "dc/base/NCES_NationsReportCard",
+    "prov_url": "https://nces.ed.gov/nationsreportcard/",
+    "sourceDataUrl": "https://nces.ed.gov/nationsreportcard/",
+    "dataset_url": "https://www.nationsreportcard.gov/ndecore",
+    "source_url": "https://nces.ed.gov/"
+  },
+  {
+    "dcid": "dc/base/NCES_PrivateSchoolStats_SuperEnum",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://nces.ed.gov/ccd/elsi/",
+    "source_url": "https://nces.ed.gov/"
+  },
+  {
+    "dcid": "dc/base/NCES_PublicSchoolStats_SuperEnum",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://nces.ed.gov/ccd/elsi/",
+    "source_url": "https://nces.ed.gov/"
+  },
+  {
+    "dcid": "dc/base/NCES_SchoolDistrictStats_SuperEnum",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://nces.ed.gov/ccd/elsi/",
+    "source_url": "https://nces.ed.gov/"
+  },
+  {
+    "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceSalinity",
+    "prov_url": "https://coastwatch.noaa.gov/erddap/griddap/noaacwSMAPsss3Daily.html",
+    "sourceDataUrl": "https://coastwatch.noaa.gov/erddap/griddap/noaacwSMAPsss3Daily.html",
+    "dataset_url": "https://coastwatch.noaa.gov/cwn/index.html",
+    "source_url": "https://www.noaa.gov/"
+  },
+  {
+    "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceTemperature",
+    "prov_url": "https://coastwatch.noaa.gov/erddap/griddap/noaacwBLENDEDsstDaily.html",
+    "sourceDataUrl": "https://coastwatch.noaa.gov/erddap/griddap/noaacwBLENDEDsstDaily.html",
+    "dataset_url": "https://coastwatch.noaa.gov/cwn/index.html",
+    "source_url": "https://www.noaa.gov/"
+  },
+  {
+    "dcid": "dc/base/NOAA_EPA_Observed_Historical_Weather",
+    "prov_url": "https://www.noaa.gov/",
+    "sourceDataUrl": "https://www.noaa.gov/",
+    "dataset_url": "https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",
+    "source_url": "https://www.noaa.gov/"
+  },
+  {
+    "dcid": "dc/base/NOAA_GFS_WeatherForecast",
+    "prov_url": "https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast",
+    "sourceDataUrl": "https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast",
+    "dataset_url": "https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast",
+    "source_url": "https://www.noaa.gov/"
+  },
+  {
+    "dcid": "dc/base/NYT_COVID19",
+    "prov_url": "https://github.com/nytimes/covid-19-data/",
+    "sourceDataUrl": "https://github.com/nytimes/covid-19-data/",
+    "dataset_url": "https://github.com/nytimes/covid-19-data/",
+    "source_url": "https://www.nytimes.com/"
+  },
+  {
+    "dcid": "dc/base/New_Zealand_Census",
+    "prov_url": "https://www.stats.govt.nz/large-datasets/csv-files-for-download/",
+    "sourceDataUrl": "https://www.stats.govt.nz/large-datasets/csv-files-for-download/",
+    "dataset_url": "https://www.stats.govt.nz/topics/population",
+    "source_url": "https://www.stats.govt.nz/"
+  },
+  {
+    "dcid": "dc/base/OWID_COVID19",
+    "prov_url": "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv",
+    "sourceDataUrl": "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv",
+    "dataset_url": "https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations",
+    "source_url": "https://ourworldindata.org/"
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsNeighborhoods",
+    "prov_url": "http://opportunityinsights.org",
+    "sourceDataUrl": "http://opportunityinsights.org",
+    "dataset_url": "https://opportunityinsights.org/data/",
+    "source_url": "https://opportunityinsights.org/"
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsOutcomes",
+    "prov_url": "http://opportunityinsights.org/data",
+    "sourceDataUrl": "http://opportunityinsights.org/data",
+    "dataset_url": "https://opportunityinsights.org/data/",
+    "source_url": "https://opportunityinsights.org/"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_EchoLab",
+    "prov_url": "https://www.stanfordecholab.com/wildfire_smoke",
+    "sourceDataUrl": "https://www.stanfordecholab.com/wildfire_smoke",
+    "dataset_url": "https://www.rff.org/publications/data-tools/",
+    "source_url": "https://www.rff.org/"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_MTBS",
+    "prov_url": "https://www.mtbs.gov",
+    "sourceDataUrl": "https://www.mtbs.gov",
+    "dataset_url": "https://www.rff.org/publications/data-tools/",
+    "source_url": "https://www.rff.org/"
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou",
+    "prov_url": "https://doi.org/10.5061/dryad.tmpg4f4x1",
+    "sourceDataUrl": "https://doi.org/10.5061/dryad.tmpg4f4x1",
+    "dataset_url": "https://www.rff.org/publications/data-tools/",
+    "source_url": "https://www.rff.org/"
+  },
+  {
+    "dcid": "dc/base/RandolphGlacierInventory_Area",
+    "prov_url": "https://www.glims.org/RGI/rgi60_dl.html",
+    "sourceDataUrl": "https://www.glims.org/RGI/rgi60_dl.html",
+    "dataset_url": "https://www.glims.org/RGI/rgi60_dl.html",
+    "source_url": "https://www.glims.org/"
+  },
+  {
+    "dcid": "dc/base/StormNOAA_Agg",
+    "prov_url": "https://www.ncdc.noaa.gov/stormevents/ftp.jsp",
+    "sourceDataUrl": "https://www.ncdc.noaa.gov/stormevents/ftp.jsp",
+    "dataset_url": "https://www.ncdc.noaa.gov/stormevents/ftp.jsp",
+    "source_url": "https://www.noaa.gov/"
+  },
+  {
+    "dcid": "dc/base/Sweden_Census",
+    "prov_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/",
+    "sourceDataUrl": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/",
+    "dataset_url": "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/",
+    "source_url": "https://www.scb.se/en/"
+  },
+  {
+    "dcid": "dc/base/TemperatureEvents_Agg",
+    "prov_url": "https://datacommons.org",
+    "sourceDataUrl": "https://datacommons.org",
+    "dataset_url": "https://datacommons.org/",
+    "source_url": "https://datacommons.org/"
+  },
+  {
+    "dcid": "dc/base/UN_SDG",
+    "prov_url": "https://unstats.un.org/sdgs/dataportal",
+    "sourceDataUrl": "https://unstats.un.org/sdgs/dataportal",
+    "dataset_url": "https://unstats.un.org/sdgs/dataportal",
+    "source_url": "https://www.un.org/en/"
+  },
+  {
+    "dcid": "dc/base/UN_WHO",
+    "prov_url": "https://www.who.int/data",
+    "sourceDataUrl": "https://www.who.int/data",
+    "dataset_url": "https://www.who.int/data",
+    "source_url": "https://www.who.int/"
+  },
+  {
+    "dcid": "dc/base/USCensusGeos_SurfaceArea",
+    "prov_url": "https://www.census.gov/geographies/reference-files.html",
+    "sourceDataUrl": "https://www.census.gov/geographies/reference-files.html",
+    "dataset_url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg",
+    "prov_url": "https://www.nass.usda.gov/AgCensus/",
+    "sourceDataUrl": "https://www.nass.usda.gov/AgCensus/",
+    "dataset_url": "https://www.nass.usda.gov/AgCensus/",
+    "source_url": "https://www.usda.gov/"
+  },
+  {
+    "dcid": "dc/base/USDOL_ETA539",
+    "prov_url": "https://oui.doleta.gov/unemploy/csv/ar539.csv",
+    "sourceDataUrl": "https://oui.doleta.gov/unemploy/csv/ar539.csv",
+    "dataset_url": "https://oui.doleta.gov/unemploy/DataDownloads.asp",
+    "source_url": "https://www.dol.gov/"
+  },
+  {
+    "dcid": "dc/base/USDecennialCensus_RedistrictingRelease",
+    "prov_url": "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html",
+    "sourceDataUrl": "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html",
+    "dataset_url": "https://www.census.gov",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/USEconomicCensus",
+    "prov_url": "https://www2.census.gov/programs-surveys/economic-census/data/",
+    "sourceDataUrl": "https://www2.census.gov/programs-surveys/economic-census/data/",
+    "dataset_url": "https://www.census.gov/programs-surveys/economic-census/about.html",
+    "source_url": "https://www.census.gov/"
+  },
+  {
+    "dcid": "dc/base/USFed_ConstantMaturityRates",
+    "prov_url": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15",
+    "sourceDataUrl": "https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15",
+    "dataset_url": "https://www.federalreserve.gov/releases/h15/default.htm",
+    "source_url": "https://www.federalreserve.gov/"
+  },
+  {
+    "dcid": "dc/base/USGSWaterUse",
+    "prov_url": "https://waterdata.usgs.gov/nwis/wu",
+    "sourceDataUrl": "https://waterdata.usgs.gov/nwis/wu",
+    "dataset_url": "https://waterdata.usgs.gov/nwis/wu",
+    "source_url": "https://www.usgs.gov/"
+  },
+  {
+    "dcid": "dc/base/US_CDC_PRAMS",
+    "prov_url": "https://www.cdc.gov/prams/prams-data/",
+    "sourceDataUrl": "https://www.cdc.gov/prams/prams-data/",
+    "dataset_url": "https://www.cdc.gov/prams/php/data-research/index.html",
+    "source_url": "https://www.cdc.gov/"
+  },
+  {
+    "dcid": "dc/base/US_Federal_Rates",
+    "prov_url": "https://www.federalreserve.gov/DataDownload/Choose.aspx?rel=H15",
+    "sourceDataUrl": "https://www.federalreserve.gov/DataDownload/Choose.aspx?rel=H15",
+    "dataset_url": "https://www.federalreserve.gov/DataDownload/Choose.aspx?rel=H15",
+    "source_url": "https://www.federalreserve.gov/"
+  },
+  {
+    "dcid": "dc/base/UnitedKingdomMHCLG_IMD2019",
+    "prov_url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019",
+    "sourceDataUrl": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019",
+    "dataset_url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019/",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+  },
+  {
+    "dcid": "dc/base/UniversityData",
+    "prov_url": "https://collegescorecard.ed.gov",
+    "sourceDataUrl": "https://collegescorecard.ed.gov",
+    "dataset_url": "https://collegescorecard.ed.gov/data",
+    "source_url": "https://www.ed.gov/"
+  },
+  {
+    "dcid": "dc/base/Vietnam_Census",
+    "prov_url": "https://www.gso.gov.vn/en/homepage/",
+    "sourceDataUrl": "https://www.gso.gov.vn/en/homepage/",
+    "dataset_url": "https://www.gso.gov.vn/en/px-web/?pxid=E0201&theme=Population%20and%20Employment",
+    "source_url": "https://www.gso.gov.vn/en/homepage/"
+  },
+  {
+    "dcid": "dc/base/WRIS_India_Rainfall",
+    "prov_url": "https://indiawris.gov.in/wris/#/DataDownload",
+    "sourceDataUrl": "https://indiawris.gov.in/wris/#/DataDownload",
+    "dataset_url": "https://indiawris.gov.in/wris/#/DataDownload",
+    "source_url": "https://indiawris.gov.in/wris/#/"
+  },
+  {
+    "dcid": "dc/base/WetBulbTemperatureEventPlaces_AutoRefresh",
+    "prov_url": "https://datacommons.org/",
+    "sourceDataUrl": "https://datacommons.org/",
+    "dataset_url": "https://datacommons.org/",
+    "source_url": "https://datacommons.org/"
+  },
+  {
+    "dcid": "dc/base/WikidataPopulation",
+    "prov_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "sourceDataUrl": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "dataset_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "source_url": "https://wikimediafoundation.org/"
+  },
+  {
+    "dcid": "dc/base/WikipediaStatsData",
+    "prov_url": "https://www.wikipedia.org",
+    "sourceDataUrl": "https://www.wikipedia.org",
+    "dataset_url": null,
+    "source_url": null
+  },
+  {
+    "dcid": "dc/base/usa_child_birth",
+    "prov_url": "https://data.cdc.gov/api/views/hmz2-vwda/rows.csv?accessType=DOWNLOAD",
+    "sourceDataUrl": "https://data.cdc.gov/api/views/hmz2-vwda/rows.csv?accessType=DOWNLOAD",
+    "dataset_url": "https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.html",
+    "source_url": "https://www.cdc.gov/"
+  }
+]

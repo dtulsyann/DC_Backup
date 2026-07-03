@@ -1,0 +1,5 @@
+Node: dcid:dc/base/IndiaCensus_Primary
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://censusindia.gov.in/nada/index.php/catalog/?tab_type=table&page=3&sk=Location%20Code%20Directory&sort_by=title&sort_order=asc&ps=15"
+automaticRefreshType: "NoAutomaticRefresh"

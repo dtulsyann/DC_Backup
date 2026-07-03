@@ -1,0 +1,16 @@
+import {
+  import_name: "FAO_Currency"
+  provenance_url: "https://www.fao.org/faostat/en/#data/PE/metadata"
+  provenance_description: "The exchange rate of currency broken down by country, currency standardization type, and currency (using ISO 4217 Currency Code)."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fao/20230904/graph.tfrecord@1.gz"
+  import_groups: "infrequent"
+  start_date_in_kg: "1970"
+  end_date_in_kg: "2023"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fao/20230904/CurrencyFAO.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fao/20230904/cleaned_output.csv"
+  }
+  dataset_name: "FAO Currency and Exchange Rate"
+  release_frequency: "P1Y"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Luxembourg
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Luxembourg/boundary_files/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-lux"
+lastDataRefreshDate: "2024-06-05"
+earliestDataImportDate: "2024-06-05"

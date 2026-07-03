@@ -1,0 +1,14 @@
+import: {
+  import_name: "RFF_ClimateWildfireSmoke_PRISMComputed"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_url: "https://www.rff.org/publications/data-tools/"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/rff/wildfire_smoke/rff_computed/graph.tfrecord@10.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/rff/wildfire_smoke/rff_computed/rff_computed.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/rff/wildfire_smoke/fire_and_smoke_v2.csv"
+  }
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "US Wildfire, Smoke and Drought statistics - County and State"
+}

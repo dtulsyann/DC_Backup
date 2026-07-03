@@ -1,0 +1,26 @@
+import: {
+  import_name: "NOAA_GPCC_StandardardizedPrecipitationIndex_AggPlace"
+  provenance_url: "https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi"
+  provenance_description: "Includes StatisticalVariable aggregations computed with custom script on GitHub by weighing the areas of a place in a 1 degree grid."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/gpcc_spi/latest/aggregations/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/latest/aggregations/gpcc_spi_aggregation.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/latest/aggregations/agg_gpcc_spi_pearson_*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/noaa/gpcc_spi/NOAA_GPCC_StandardardizedPrecipitationIndex/latest_version.txt"
+    }
+  }
+  import_groups: "auto1w"
+  import_groups: "infrequent"
+  automated_mcf_generation_by: "auto1w"
+  # Retained data from 1900-2010.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/gpcc_spi/retained_1900_2010/aggregations/graph.tfrecord@4.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/retained_1900_2010/aggregations/gpcc_spi_aggregation.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/gpcc_spi/retained_1900_2010/aggregations/gpcc_spi_pearson_*_agg.csv"
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/noaa/gpcc_spi/NOAA_GPCC_StandardardizedPrecipitationIndex/import_metadata_mcf.mcf"
+  release_frequency: "P1M"
+  category: AGGREGATED_STATS
+  dataset_name: "GPCC Monthly SPI Data"
+}

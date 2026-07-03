@@ -1,0 +1,20 @@
+import: {
+  import_name: "NCSES_Employed_College_Grads_Import"
+  provenance_url: "https://ncsesdata.nsf.gov/explorer/datatables?term=race&exactMatch=no&page=1&filterSuperTopic=Demographics&filterTopic=Sex&datatablespage=2"
+  category: STATS
+  provenance_description: "Employed college graduates, by sex, ethnicity, race, and major occupation"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ncses/employed_grads/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ncses/employed_grads/latest/nces_college.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ncses/employed_grads/latest/nces_college.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_nces/nces_employed_college_grads/NCSES_Employed_College_Grads_Import/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_nces/nces_employed_college_grads/NCSES_Employed_College_Grads_Import/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  release_frequency: "P1Y"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "National Center for Science and Engineering Statistics"
+}

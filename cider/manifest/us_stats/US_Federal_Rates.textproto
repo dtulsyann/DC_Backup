@@ -1,0 +1,19 @@
+import {
+  import_name: "US_Federal_Rates"
+  provenance_url: "https://www.federalreserve.gov/DataDownload/Choose.aspx?rel=H15"
+  category: STATS
+  provenance_description: "Federal Reserve System H.15 Selected Interest Rates"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_fed/federal_funds/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_fed/federal_funds/latest/us_fed_interest_rate_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_fed/federal_funds/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_federal_reserve_h15_interest_rates/us_federal_rates/US_Federal_Rates/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_federal_reserve_h15_interest_rates/us_federal_rates/US_Federal_Rates/import_metadata_mcf.mcf"
+  release_frequency: "P1W"
+  import_groups: "country"
+  import_groups: "searchaim"
+  dataset_name: "US Federal Reserve H.15 Interest Rates"
+}

@@ -1,0 +1,4 @@
+Node: dcid:dc/base/MexicoCensus_AA2
+typeOf: dcid:Provenance
+descriptionUrl: "https://data.humdata.org/dataset/cod-ps-mex"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

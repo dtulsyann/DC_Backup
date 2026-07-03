@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Jamaica"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-jam"
+  category: PLACE
+  provenance_description: "Includes the parishes(Administrative Area 1 division) of Jamaica."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Jamaica/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

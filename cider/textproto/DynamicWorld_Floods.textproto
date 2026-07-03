@@ -1,0 +1,17 @@
+import {
+  import_name: "DynamicWorld_Floods"
+  provenance_url: "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+  provenance_description: "Floods regions inferred from areas marked with high probability of water outside the permanent water bodies."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/floods/dynamic_world/csv/graph.tfrecord@2.gz"
+  import_groups: "disaster"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2022"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/floods/dynamic_world/csv/flood-svobs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/floods/dynamic_world/csv/*.csv"
+  }
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "Inferred Floods from Dynamic World"
+  release_frequency: "P1M"
+}

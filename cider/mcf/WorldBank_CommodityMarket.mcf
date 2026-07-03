@@ -1,0 +1,12 @@
+Node: dcid:dc/base/WorldBank_CommodityMarket
+typeOf: dcs:Provenance
+license : "https://www.worldbank.org/en/about/legal/terms-and-conditions"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/world_bank/commodity_market/input_file"
+sourceDataUrl : "https://thedocs.worldbank.org/en/doc/18675f1d1639c7a34d463f59263ba0a2-0050012025/related/CMO-Historical-Data-Monthly.xlsx","https://thedocs.worldbank.org/en/doc/18675f1d1639c7a34d463f59263ba0a2-0050012025/related/CMO-Historical-Data-Annual.xlsx"
+sourceReleaseFrequency : "P1Y"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/world_bank/commodity_market"
+url: " https://www.worldbank.org/en/research/commodity-markets"
+descriptionUrl: "https://bit.ly/CMO-April-2025-Summary"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

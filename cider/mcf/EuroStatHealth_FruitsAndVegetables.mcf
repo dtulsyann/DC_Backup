@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EuroStatHealth_FruitsAndVegetables
+typeOf: dcid:Provenance
+descriptionUrl: "https://ec.europa.eu/eurostat/web/main/data/database"
+license: "https://commission.europa.eu/legal-notice_en"
+licenseType: dcid:CreativeCommonsAttributionLicense
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/eurostat/health_determinants/fruits_vegetables/README.md"
+sourceDataUrl: "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_fv3e?format=TSV&compressed=true"
+sourceReleaseFrequency: "P5Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

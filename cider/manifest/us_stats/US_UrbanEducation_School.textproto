@@ -1,0 +1,14 @@
+import {
+  import_name: "US_UrbanEducation_School"
+  provenance_url: "https://educationdata.urban.org/documentation/schools.html"
+  category: STATS
+  provenance_description: "US Urban Education School data from US Census Bureau"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/us_education/us_urbaneducation_school/school_data/graph.tfrecord@14.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/us_urbaneducation_school/school_data/school_usurban.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/us_urbaneducation_school/school_data/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  dataset_name: "US Urban Education Data Census"
+}

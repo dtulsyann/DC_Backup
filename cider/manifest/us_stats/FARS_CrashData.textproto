@@ -1,0 +1,27 @@
+import: {
+  import_name: "FARS_CrashData"
+  provenance_url: "https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/"
+  category: STATS
+  provenance_description: "Data on fatal motor vehicle crashes in the US."
+  # Retained data from 1975-2020.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_crash/fars_crashdata/historical/graph.tfrecord@5.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_crash/fars_crashdata/historical/crash_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_crash/fars_crashdata/historical/ACCIDENT_*.csv"
+  }
+  # Auto-refreshed data from 2021-present.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_crash/fars_crashdata/latest/graph.tfrecord@1.gz"
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_crash/fars_crashdata/FARS_CrashData/import_metadata_mcf.mcf"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_crash/fars_crashdata/latest/fars_crash.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_crash/fars_crashdata/latest/fars_crash_*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_crash/fars_crashdata/FARS_CrashData/latest_version.txt"
+    }
+  }
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Fatality Analysis Reporting System (FARS) Crash Data"
+}

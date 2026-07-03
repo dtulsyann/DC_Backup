@@ -1,0 +1,15 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0701PR"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S0701PR&tid=ACSST5Y2024.S0701PR"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s0701pr/20260220/nodes.mcf@1"
+  import_groups: "uscensus"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2024"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s0701pr/20260220/S0701PR_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s0701pr/20260220/S0701PR_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

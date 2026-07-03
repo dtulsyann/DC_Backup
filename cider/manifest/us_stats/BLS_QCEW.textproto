@@ -1,0 +1,31 @@
+import: {
+  import_name: "BLS_QCEW"
+  provenance_url: "https://www.bls.gov/qcew/"
+  category: STATS
+  provenance_description: "Quarterly Census of Employment and Wages (QCEW) containing comprehensive employment and wage data by industry."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/qcew/historical/graph.tfrecord@84.gz"  # Historical data from 1990 - 2023 for annual and quarterly data.
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/qcew/historical/bls_qcew.tmcf"  # Historical data from 1990 - 2023 for annual and quarterly data.
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/qcew/historical/bls_qcew_historical_*.csv"  # Historical data from 1990 - 2023 for annual and quarterly data.
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/qcew/2024_data/graph.tfrecord@20.gz"  # Data for 2024 for annual and quarterly data.
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/qcew/2024_data/bls_qcew.tmcf"  # Data for 2024 for annual and quarterly data.
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/qcew/2024_data/*.csv"  # Data for 2024 for annual and quarterly data.
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/qcew/20260409/graph.tfrecord@14.gz"  # Data for 2025 quarterly data.
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bls/qcew/20260409/quarter_2025.tmcf"  # Data for 2025 quarterly data.
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bls/qcew/20260409/*.csv"  # Data for 2025 quarterly data.
+  }
+  import_groups: "infrequent"
+  import_groups: "laelaps"
+  release_frequency: "P3M"
+  # Next release: https://www.bls.gov/cew/release-calendar.htm
+  data_download_url: "https://www.bls.gov/cew/downloadable-data-files.htm"
+  golden_triple_selection: {
+    svobs_nodes_pick_one_in: 50
+  }
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Quarterly Census of Employment and Wages (QCEW)"
+}

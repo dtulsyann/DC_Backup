@@ -1,0 +1,6 @@
+Node: dcid:dc/base/FBIGovCrime_AggCountry
+typeOf: dcid:Provenance
+sourceDataUrl: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads"
+lastDataRefreshDate: "2025-03-28"
+descriptionUrl: "https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/downloads/cius2019topic_resource_additionalreport_pages.zip"
+automaticRefreshType: "NoAutomaticRefresh"

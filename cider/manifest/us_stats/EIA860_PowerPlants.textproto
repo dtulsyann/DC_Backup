@@ -1,0 +1,14 @@
+import: {
+  import_name: "EIA860_PowerPlants"
+  provenance_url: "https://www.eia.gov/electricity/data/eia860/"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_eia/eia860_schedule2/nodes.mcf@1"
+  import_groups: "place"
+  data_download_url: "https://www.eia.gov/electricity/data/eia860/xls/eia8602019.zip"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/eia860_schedule2/2_plant.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/eia860_schedule2/2_plant.csv"
+  }
+  dataset_name: "Form EIA-860"
+}

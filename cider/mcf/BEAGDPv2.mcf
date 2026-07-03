@@ -1,0 +1,10 @@
+Node: dcid:dc/base/BEAGDPv2
+typeOf: dcid:Provenance
+license: "https://www.bea.gov/privacy"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://apps.bea.gov/regional/zip/CAGDP9.zip"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bea/gdp_chained_dollar_county_msa/latest/input_files"
+descriptionUrl: "https://www.bea.gov/news/2024/gross-domestic-product-third-estimate-corporate-profits-revised-estimate-and-gdp-0"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CDCWonderNatality
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/other/agencymaterials.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_cdc/natality/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/wonder/natality"
+sourceDataUrl: "https://wonder.cdc.gov/natality.html"
+lastDataRefreshDate: "2023-12-18"
+descriptionUrl: "https://wonder.cdc.gov/wonder/help/natality.html"
+automaticRefreshType: "NoAutomaticRefresh"

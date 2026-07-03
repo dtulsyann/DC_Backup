@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Argentina
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:CreativeCommonsAttributionLicenseGeneric
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/ARG/ADM1/BoundaryFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/ARG/ADM1"
+lastDataRefreshDate: "2024-05-02"
+earliestDataImportDate: "2024-05-02"

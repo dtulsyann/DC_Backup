@@ -1,0 +1,10 @@
+import: {
+  import_name: "CensusACS5YearSurvey_AggCountry_SuperEnum"
+  provenance_url: "https://www.census.gov/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusACS5YearSurvey/20260322/CensusACS5YearSurvey_AggCountry_SuperEnum/graph.tfrecord@1.gz"
+  import_groups: "uscensus"
+  import_groups: "laelaps"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "American Community Survey (ACS)"
+}

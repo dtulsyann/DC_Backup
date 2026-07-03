@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Brazil_Census
+typeOf: dcid:Provenance
+license: "https://www.ibge.gov.br/en/access-to-information/institutional/the-ibge.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+#dataTransformationLogic: "https://docs.google.com/document/d/1TY44xAvGEywJdbgJfKJTabyJGC7GV5VKUKegysfT-b4/edit?resourcekey=0-Idic6UEaQ942u_SG4PMQeg&tab=t.0"
+sourceDataUrl: "https://www.ibge.gov.br/en/statistics/social/population.html"
+lastDataRefreshDate: "2023-05-05"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/brazil/input_files/input_files"
+automaticRefreshType: "NoAutomaticRefresh"

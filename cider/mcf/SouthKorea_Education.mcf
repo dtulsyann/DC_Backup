@@ -1,0 +1,11 @@
+Node: dcid:dc/base/SouthKorea_Education
+typeOf: dcs:Provenance
+license : "https://kosis.kr/eng/aboutKosis/policyPublicData.do"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/statvar_imports/southkorea_statistics/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/country/southkorea/education/input_files/"
+sourceDataUrl : "https://kosis.kr/eng/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ETITLE&parmTabId=M_01_01"
+sourceReleaseFrequency : "P1Y"
+descriptionUrl : "https://kosis.kr/eng/"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,28 @@
+import: {
+  import_name: "IndiaUDISEGeos"
+  provenance_url: "http://pgi.seshagun.gov.in/BackEnd-master/api/report/getMasterData"
+  provenance_description: "Indian Unified District Information System for Education (UDISE) district and block geos."
+  category: PLACE
+  resolution_info: {
+    uses_id_resolver: true
+    # State-level codes from IndiaUDISEMappings
+    requires_ids: "udiseCode"
+    kg_for_resolution: KG_MCF
+    new_geo {
+      # Introduces udiseCode for UDISEDistrict and UDISEBlock
+      dcid_sources: "udiseCode"
+    }
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_udise/udise_geography/udise_districts/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_geography/udise_districts/UDISE_Districts.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_geography/udise_districts/UDISE_Districts.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_udise/udise_geography/udise_blocks/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_geography/udise_blocks/UDISE_Blocks.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_udise/udise_geography/udise_blocks/UDISE_Blocks.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Unified District Information System for Education (UDISE)"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Albania
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Albania/"
+sourceDataUrl : "https://en.m.wikipedia.org/wiki/Administrative_divisions_of_Albania"
+lastDataRefreshDate: "2024-05-31"
+earliestDataImportDate: "2024-05-31"

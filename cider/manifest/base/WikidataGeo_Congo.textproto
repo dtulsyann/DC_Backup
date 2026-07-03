@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Congo"
+  provenance_url: "https://en.wikipedia.org/wiki/Provinces_of_the_Democratic_Republic_of_the_Congo"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Congo."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Congo/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Congo/wikidata/cod.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Congo/wikidata/Congo-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

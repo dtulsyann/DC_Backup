@@ -1,0 +1,7 @@
+Node: dcid:dc/base/Sweden_Census
+typeOf: dcid:Provenance
+sourceDataUrl: "https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/"
+licenseType : dcs:PublicDomain
+lastDataRefreshDate: "2024-02-22"
+descriptionUrl: "https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning/befolkningens-sammansattning/befolkningsstatistik/#_Dokumentation"
+automaticRefreshType: "NoAutomaticRefresh"

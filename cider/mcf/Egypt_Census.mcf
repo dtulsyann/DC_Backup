@@ -1,0 +1,12 @@
+Node: dcid:dc/base/Egypt_Census
+typeOf: dcs:Provenance
+license : "https://egypt.opendataforafrica.org/legal/termsofuse"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/opendataforafrica/egypt_census/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/egypt/20250312/input_file"
+sourceDataUrl : "https://egypt.opendataforafrica.org/data/#menu=topic"
+sourceReleaseFrequency : "P1Y"
+lastDataRefreshDate: "2025-03-15"
+descriptionUrl : "https://egypt.opendataforafrica.org/#"
+automaticRefreshType: "NoAutomaticRefresh"

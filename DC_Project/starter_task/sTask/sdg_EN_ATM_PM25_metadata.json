@@ -1,0 +1,2788 @@
+{
+  "sdg/EN_ATM_PM25": {
+    "country/ABW": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/AFG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/AGO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/AIA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ALB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/AND": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ARE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ARG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ARM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ASM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ATG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/AUS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/AUT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/AZE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BDI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BEL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BFA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BGD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BGR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BHR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BHS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BIH": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BLR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BLZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BMU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BOL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BRA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BRB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BRN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BTN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/BWA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CAF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CAN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CCK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CHE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CHL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CHN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CIV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CMR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/COD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/COG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/COK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/COL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/COM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CPV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CRI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CUB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CXR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CYM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CYP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/CZE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/DEU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/DJI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/DMA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/DNK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/DOM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/DZA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ECU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/EGY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ERI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ESH": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ESP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/EST": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ETH": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/FIN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/FJI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/FLK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/FRA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/FRO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/FSM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GAB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GBR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GEO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GGY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GHA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GIB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GIN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GLP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GMB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GNB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GNQ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GRC": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GRD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GRL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GTM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GUF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GUM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/GUY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/HND": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/HRV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/HTI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/HUN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/IDN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/IMN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/IND": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/IRL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/IRN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/IRQ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ISL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ISR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ITA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/JAM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/JEY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/JOR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/JPN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KAZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KGZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KHM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KIR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KNA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KOR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/KWT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LAO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LBN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LBR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LBY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LCA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LIE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LKA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LSO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LTU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LUX": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/LVA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MAR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MCO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MDA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MDG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MDV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MEX": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MHL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MKD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MLI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MLT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MMR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MNE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MNG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MNP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MOZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MRT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MSR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MTQ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MUS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MWI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MYS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MYT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NAM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NCL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NER": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NFK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NGA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NIC": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NIU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NLD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NOR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NPL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NRU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/NZL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/OMN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PAK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PAN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PCN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PER": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PHL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PLW": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PNG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/POL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PRI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PRK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PRT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PRY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PSE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/PYF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/QAT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/REU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ROU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/RUS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/RWA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SAU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SDN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SGP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SHN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SLB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SLE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SLV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SMR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SOM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SPM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SRB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SSD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/STP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SUR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SVK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SVN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SWE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SWZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SYC": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SYR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TCA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TCD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TGO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/THA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TJK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TKL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TKM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TLS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TON": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TTO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TUN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TUR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TUV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/TZA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/UGA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/UKR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/URY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/USA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/UZB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/VAT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/VCT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/VEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/VGB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/VIR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/VNM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/VUT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/WLF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/WSM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/YEM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ZAF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ZMB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ],
+    "country/ZWE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UN_SDG",
+        "provenanceUrl": "https://unstats.un.org/sdgs/dataportal",
+        "unit": "SDG_MGR_M_3",
+        "measurementMethod": "SDG_E_G",
+        "observationPeriod": "N/A",
+        "earliestDate": "2010",
+        "latestDate": "2019"
+      }
+    ]
+  }
+}

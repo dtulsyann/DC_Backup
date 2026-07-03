@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Argentina_Census
+typeOf: dcid:Provenance
+license: "https://www.indec.gob.ar/indec/web/Institucional-Indec-Transparencia"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-24-84"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2023-05-11"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/argentina/input_files"
+descriptionUrl: "https://www.indec.gob.ar/indec/web/Institucional-Indec-Metodologias-1"
+automaticRefreshType: "NoAutomaticRefresh"

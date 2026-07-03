@@ -1,0 +1,13 @@
+# LINT.IfChange
+import: {
+  # GeoJSONs (full and simplified) for UK
+  import_name: "GeoCoordinatesData_UK"
+  provenance_url: "https://geoportal.statistics.gov.uk/datasets/ons::lsoa-dec-2011-boundaries-generalised-clipped-bgc-ew-v3-2/explore"
+  category: PLACE
+  # 2011 boundaries for LSOAs in UK
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geo_coordinates/uk/lsoa/*.mcf"
+  import_groups: "place"
+  dataset_name: "UK Open Geography Portal"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

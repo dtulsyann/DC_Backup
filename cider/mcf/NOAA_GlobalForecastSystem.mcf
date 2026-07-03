@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NOAA_GlobalForecastSystem
+typeOf: dcid:Provenance
+license: "https://www.weather.gov/disclaimer"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+sourceDataUrl: "https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/"
+sourceReleaseFrequency: "P1D"
+lastDataRefreshDate: "2026-03-26"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/noaa_gfs/input_files"
+descriptionUrl: "https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

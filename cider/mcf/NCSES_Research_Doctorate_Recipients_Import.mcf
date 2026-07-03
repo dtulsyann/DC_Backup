@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NCSES_Research_Doctorate_Recipients_Import
+typeOf: dcid:Provenance
+license: "https://www.nsf.gov/public-access"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/ncses/research_doctorate_recipients/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/ncses/ncses_research_doctorate_recipients/input_files.zip"
+sourceDataUrl: "https://ncses.nsf.gov/pubs/nsf23300/data-tables"
+sourceReleaseFrequency: "P1Y"
+descriptionUrl: "https://www.nsf.gov/about"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

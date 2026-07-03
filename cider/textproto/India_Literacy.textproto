@@ -1,0 +1,16 @@
+import {
+  import_name: "India_Literacy"
+  provenance_url: "https://mospi.gov.in/web/nss"
+  category: STATS
+  provenance_description: "Data covering the literacy status and rate for states in India."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_mospi/education/mospi/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_mospi/education/mospi/common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_mospi/education/mospi/*.csv"
+  }
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  start_date_in_kg: "2014"
+  end_date_in_kg: "2018"
+  dataset_name: "India Literacy"
+}

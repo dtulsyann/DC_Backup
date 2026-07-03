@@ -1,0 +1,10 @@
+Node: dcid:dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Places
+typeOf: dcid:Provenance
+license: "https://www.dwd.de/EN/service/legal_notice/legal_notice_node.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/noaa/gpcc_spi/"
+sourceDataUrl: "https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson/"
+#automaticRefreshSchedule: "0 12 * * 2"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/noaa/gpcc_spi/input_files/"
+automaticRefreshType: "NoAutomaticRefresh"

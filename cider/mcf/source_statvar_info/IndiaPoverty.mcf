@@ -1,0 +1,59 @@
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Rural_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Rural_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Rural_BelowPovertyLevelInThePast12Months_AsAFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Rural_BelowPovertyLevelInThePast12Months_AsAFractionOf_Count_Person
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Rural_BelowPovertyLevelInThePast12Months_OtherBackwardClass_AsAFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Rural_BelowPovertyLevelInThePast12Months_OtherBackwardClass_AsAFractionOf_Count_Person
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Rural_BelowPovertyLevelInThePast12Months_ScheduledCaste_AsAFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Rural_BelowPovertyLevelInThePast12Months_ScheduledCaste_AsAFractionOf_Count_Person
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Urban_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Urban_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Urban_BelowPovertyLevelInThePast12Months_AsAFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Urban_BelowPovertyLevelInThePast12Months_AsAFractionOf_Count_Person
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Urban_BelowPovertyLevelInThePast12Months_OtherBackwardClass_AsAFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Urban_BelowPovertyLevelInThePast12Months_OtherBackwardClass_AsAFractionOf_Count_Person
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_Urban_BelowPovertyLevelInThePast12Months_ScheduledCaste_AsAFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_Urban_BelowPovertyLevelInThePast12Months_ScheduledCaste_AsAFractionOf_Count_Person
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_BelowPovertyLevelInThePast12Months_AsFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_BelowPovertyLevelInThePast12Months_AsFractionOf_Count_Person
+
+Node: dcid:dc/svi/IndiaPoverty-Count_Person_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaPoverty
+variable: dcid:Count_Person_BelowPovertyLevelInThePast12Months

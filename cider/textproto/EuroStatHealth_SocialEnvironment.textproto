@@ -1,0 +1,20 @@
+import: {
+  import_name: "EuroStatHealth_SocialEnvironment"
+  provenance_url: "https://ec.europa.eu/eurostat/web/main/data/database"
+  provenance_description: "Statistics gathered from the European Health Interview Survey (EHIS) related to the social environment."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/health_determinants/social_environment/latest/graph.tfrecord@1.gz"
+  category: STATS
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P5Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/health_determinants/social_environment/latest/eurostat_population_social_environment.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/health_determinants/social_environment/latest/eurostat_population_social_environment.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/eurostat/health_determinants/EuroStatHealth_SocialEnvironment/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/eurostat/health_determinants/EuroStatHealth_SocialEnvironment/import_metadata_mcf.mcf"
+  dataset_name: "EuroStat Health"
+}

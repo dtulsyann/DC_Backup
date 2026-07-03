@@ -1,0 +1,12 @@
+import: {
+  import_name: "EarthquakeUSGS_Agg"
+  provenance_url: "https://earthquake.usgs.gov/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/Entity_2022-10-06/EarthquakeAgg/graph.tfrecord@1.gz"
+  import_groups: "experimental"
+  start_date_in_kg: "1900-01-01"
+  end_date_in_kg: "2022-10-06"
+  release_frequency: "P1D"  # TODO(b/142973110): refresh data
+  data_download_url: "https://earthquake.usgs.gov/earthquakes/search/"
+  category: AGGREGATED_STATS
+  dataset_name: "Advanced National Seismic System Comprehensive Earthquake Catalog (ComCat)"
+}

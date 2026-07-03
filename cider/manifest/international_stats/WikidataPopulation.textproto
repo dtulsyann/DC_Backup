@@ -1,0 +1,12 @@
+import: {
+  import_name: "WikidataPopulation"
+  provenance_url: "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+  category: STATS
+  provenance_description: "Population counts and demographic statistics for geographic entities extracted from Wikidata."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/wikidata_population/20250619/graph.tfrecord@1.gz"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/wikidata_population/20250619/deleted_series/graph.tfrecord.gz"
+  import_groups: "infrequent"
+  import_groups: "laelaps"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Wikidata"
+}

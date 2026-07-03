@@ -1,0 +1,14 @@
+import {
+  import_name: "WTO_TradeConnectivity"
+  provenance_url: "https://stats.wto.org/dashboard/tradeconnectivity_en.html"
+  category: STATS
+  provenance_description: "World trade Organization statistics on countrty specific Import and export across product types."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/wto/import_export/graph.tfrecord@14.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/wto/import_export/wto_trade.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/wto/import_export/output/*.csv"
+  }
+  import_groups: "experimental"
+  start_date_in_kg: "2005"
+  end_date_in_kg: "2021"
+}

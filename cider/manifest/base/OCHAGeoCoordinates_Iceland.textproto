@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Iceland"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-isl"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the Administrative Areas 1 in Iceland."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Iceland/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

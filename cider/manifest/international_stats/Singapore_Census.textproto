@@ -1,0 +1,26 @@
+import {
+  import_name: "Singapore_Census"
+  provenance_url: "https://www.singstat.gov.sg/"
+  category: STATS
+  provenance_description: "Population Census and Health Statistics for Singapore based on gender, age and ethnicity."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/singapore/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/singapore/latest/DeathByCause.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/singapore/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/singapore_census/Singapore_Census/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/singapore_census/Singapore_Census/import_metadata_mcf.mcf"
+  # Retained data that does not come up in API.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/singapore/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/singapore/historical/common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/singapore/historical/*.csv"
+  }
+  import_groups: "auto2w"
+  # TODO(b/443094549): remove from country once auto2w builds
+  import_groups: "country"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Singapore Census"
+}

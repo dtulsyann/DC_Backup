@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1301"
+  provenance_url: "https://data.census.gov/table/ACSST5Y2024.S1301?q=S1301"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S1301: Fertility characteristics."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s1301/20260523/graph.tfrecord@1.gz"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2024"
+  import_groups: "uscensus"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1301/20260523/S1301_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1301/20260523/S1301_output.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

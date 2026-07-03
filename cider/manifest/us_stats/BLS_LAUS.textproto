@@ -1,0 +1,29 @@
+import: {
+  import_name: "BLS_LAUS"
+  provenance_url: "https://www.bls.gov/lau/"
+  category: STATS
+  provenance_description: "Local Area Unemployment Statistics (LAUS) providing monthly employment and unemployment data for local regions."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bls/laus/laus*.mcf"
+  import_groups: "dcbranch"
+  import_groups: "searchbranch"
+  import_groups: "searchaim"
+  import_groups: "frequent"
+  import_groups: "laelaps"
+  # BLS staggers the state and metro area monthly data releases, but we'll
+  # refresh monthly on state release.
+  release_frequency: "P1M"
+  data_download_url: "https://download.bls.gov/pub/time.series/la/"
+  # Average obs count for one pop (total 27860 pop) in BLS_LAUS is 384.
+  golden_triple_selection: {
+    svobs_nodes_pick_one_in: 5000
+  }
+  automated_mcf_generation_by: "searchbranch"
+  mcf_download_config: {
+    src_latest_version_file: "/cns/jv-d/home/datcom/xenon_mcf/bls/laus/latest_version.txt"
+  }
+  resolution_info: {
+    uses_id_resolver: true
+    unresolved_mcf_urls: "/cns/jv-d/home/datcom/v3_mcf/bls/laus/laus*.mcf"
+  }
+  dataset_name: "Local Area Unemployment Statistics (LAUS)"
+}

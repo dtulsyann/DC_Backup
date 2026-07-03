@@ -1,0 +1,14 @@
+import: {
+  import_name: "NCBI_Assembly_Summary_Reports"
+  dataset_name: "NCBI Assembly"
+  provenance_url: "https://www.ncbi.nlm.nih.gov/assembly/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/assembly_summary_reports/nodes.mcf@1"
+  release_frequency: "P1D"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/assembly_summary_reports/ncbi_assembly_summary.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/assembly_summary_reports/ncbi_assembly_summary.csv"
+  }
+}

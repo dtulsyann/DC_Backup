@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Albania"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Albania."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Albania/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Albania/Albania.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Albania/Albania_ADM1_final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

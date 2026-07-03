@@ -1,0 +1,11 @@
+Node: dcid:dc/base/DeepSolar_AggCensusTract
+typeOf: dcid:Provenance
+license: "https://web.stanford.edu/group/deepsolar/ds"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/deepsolar/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/deepsolar/"
+sourceDataUrl: "http://web.stanford.edu/group/deepsolar/home"
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://www.cell.com/joule/fulltext/S2542-4351(22)00477-9#secsectitle0040"
+

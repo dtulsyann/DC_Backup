@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Singapore
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Singapore/ADM1/wikidata/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Regions_of_Singapore"
+lastDataRefreshDate: "2024-11-20"
+earliestDataImportDate: "2024-11-20"

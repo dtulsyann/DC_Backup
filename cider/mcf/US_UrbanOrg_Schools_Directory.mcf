@@ -1,0 +1,6 @@
+Node: dcid:dc/base/US_UrbanOrg_Schools_Directory
+typeOf: dcs:Provenance
+license: "https://educationdata.urban.org/documentation/index.html#terms"
+licenseType: dcid:OpenDataCommonsAttributionLicense
+sourceDataUrl : "https://educationdata.urban.org/documentation/schools.html"
+lastDataRefreshDate: "2025-11-25"

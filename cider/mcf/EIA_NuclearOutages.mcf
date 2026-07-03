@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EIA_NuclearOutages
+typeOf: dcs:Provenance
+license : "https://www.eia.gov/about/copyrights_reuse.php"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/blob/master/scripts/us_eia/opendata/process/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_eia/nuc_status/latest/"
+sourceDataUrl : "https://www.eia.gov/nuclear/"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

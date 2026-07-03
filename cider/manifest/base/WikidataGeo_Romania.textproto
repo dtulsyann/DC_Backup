@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Romania"
+  provenance_url: "https://en.wikipedia.org/wiki/Administrative_divisions_of_Romania"
+  category: PLACE
+  provenance_description: "Includes the counties (Administrative Area 1 division) of Romania."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Romania/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Romania/rou.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Romania/Romania-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

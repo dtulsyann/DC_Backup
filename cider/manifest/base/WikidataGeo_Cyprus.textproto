@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Cyprus"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the districts(Administrative Area 1 division) of Cyprus."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/cyprus/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/cyprus/wikidata/cyprus.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/cyprus/wikidata/cyprus-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

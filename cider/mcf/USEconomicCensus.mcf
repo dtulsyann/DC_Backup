@@ -1,0 +1,5 @@
+Node: dcid:dc/base/USEconomicCensus
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2022-06-02"
+descriptionUrl: "https://www.census.gov/programs-surveys/economic-census/year/2022/technical-documentation/methodology.html"
+automaticRefreshType: "NoAutomaticRefresh"

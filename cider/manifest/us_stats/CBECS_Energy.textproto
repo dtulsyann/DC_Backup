@@ -1,0 +1,19 @@
+import: {
+  import_name: "CBECS_Energy"
+  import_groups: "infrequent"
+  provenance_url: "https://www.eia.gov/consumption/commercial/data/2012/index.php?view=consumption"
+  category: STATS
+  provenance_description: "Energy used by commercial buildings in the US for different fuel types across US census regions."
+  start_date_in_kg: "2012"
+  end_date_in_kg: "2012"
+  end_date_in_source: "2012"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_eia/cbecs/commercial_buildings_energy/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/cbecs/commercial_buildings_energy/commercial_buildings_energy_2012.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_eia/cbecs/commercial_buildings_energy/commercial_buildings_energy_2012.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Commercial Buildings Energy Consumption Survey (CBECS)"
+}

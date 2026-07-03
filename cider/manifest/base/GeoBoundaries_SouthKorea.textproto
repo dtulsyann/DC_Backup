@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_SouthKorea"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen"
+  category: PLACE
+  provenance_description: "Includes Administrative Area1 places of SouthKorea."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geoBoundaries/gbOpen/KOR/ADM1/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

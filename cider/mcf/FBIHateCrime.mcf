@@ -1,0 +1,8 @@
+Node: dcid:dc/base/FBIHateCrime
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.fbi.gov/services/cjis/ucr/hate-crime","https://www.fbi.gov/services/cjis/ucr/hate-crime"
+processingMethod: dcid:CustomScript
+sourceDataUrl: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads"
+cachedSourceDataUrl: "datacommons_public/unresolved_mcf/fbi/hate_crime/aggregated/20250114/input_files"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/fbi/hate_crime/Readme.md"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,12 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2703
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/96f241b3ff2af0faf3081228ed028034a08ce7e0/scripts/us_census/acs5yr/subject_tables/S2703/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/subject_tables/s2703/20250203/input_files/"
+sourceDataUrl: "https://data.census.gov/cedsci/table?q=S2703&tid=ACSST5Y2023.S2703"
+lastDataRefreshDate: "2025-02-03"
+sourceReleaseFrequency: "P1Y"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2023_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2023_ACSSubjectDefinitions.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

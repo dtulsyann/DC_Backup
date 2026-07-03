@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Jordan
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Jordan/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Governorates_of_Jordan"
+lastDataRefreshDate: "2024-05-21"
+earliestDataImportDate: "2024-05-21"

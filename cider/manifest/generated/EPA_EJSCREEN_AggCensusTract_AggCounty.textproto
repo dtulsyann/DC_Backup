@@ -1,0 +1,9 @@
+import: {
+  import_name: "EPA_EJSCREEN_AggCensusTract_AggCounty"
+  provenance_url: "https://gaftp.epa.gov/EJSCREEN/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/EPA_EJSCREEN_AggCensusTract_AggCounty/graph.tfrecord@1.gz"
+  import_groups: "auto2w"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "EJSCREEN"
+}

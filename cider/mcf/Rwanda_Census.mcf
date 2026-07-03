@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Rwanda_Census
+typeOf: dcid:Provenance
+license: "https://rwanda.opendataforafrica.org/legal/termsofuse"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/rwanda/Rwanda_processed-20250311T143546Z-001.zip"
+sourceDataUrl: "https://rwanda.opendataforafrica.org/data/"
+lastDataRefreshDate: "2025-03-11"
+descriptionUrl: "https://rwanda.opendataforafrica.org/#"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,17 @@
+import: {
+  import_name: "Brazil_FoodDsitribution"
+  provenance_url: "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+  provenance_description: "Food Distribution Action to Specific Population Groups in Brazil up to state geo level."
+  category: STATS
+  import_groups: "country"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/brazil/VISDATA/FoodDistribution_FoodBasket/20240520/graph.tfrecord@1.gz"
+  start_date_in_kg: "2018"
+  end_date_in_kg: "2023"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/VISDATA/FoodDistribution_FoodBasket/20240520/FoodBaskets_SettledFamilies.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/VISDATA/FoodDistribution_FoodBasket/20240520/*.csv"
+  }
+  dataset_name: "Brazil VIS DATA 3"
+}

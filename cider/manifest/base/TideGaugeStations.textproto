@@ -1,0 +1,12 @@
+import {
+  import_name: "TideGaugeStations"
+  provenance_url: "https://podaac.jpl.nasa.gov/"
+  category: PLACE
+  provenance_description: "Includes TideGaugeStation and GeoGridPlace_1Deg entities containing sea-level projection data."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/cmip6_sealevel/places/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/cmip6_sealevel/places/sea_level_places.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/cmip6_sealevel/places/sea_level_places.csv"
+  }
+  import_groups: "place"
+}

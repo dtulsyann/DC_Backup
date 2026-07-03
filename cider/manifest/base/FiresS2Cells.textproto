@@ -1,0 +1,14 @@
+import: {
+  # This is a set of S2Cells at specific levels for Fires.
+  # This will be updated as new regions get flooded over time.
+  import_name: "FiresS2Cells"
+  provenance_url: "https://s2geometry.io/resources/s2cell_statistics.html"
+  provenance_description: "S2Cells from levels 10 to 13 that have data on fires."
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fires/firms/2022-11-23/place/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fires/firms/2022-11-23/place/s2cell-place.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fires/firms/2022-11-23/place/*.csv"
+  }
+  import_groups: "place"
+}

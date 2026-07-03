@@ -1,0 +1,2546 @@
+[
+  {
+    "dcid": "dc/base/ACSED5YrSurvey",
+    "name": "ACSED5YrSurvey",
+    "description": "American Community Survey (ACS) 5-Year Estimates focusing on educational attainment, enrollment, and related demographic characteristics.",
+    "sourceDataUrl": "https://nces.ed.gov/programs/edge/Demographic/ACS",
+    "prov_url": "https://nces.ed.gov/programs/edge/Demographic/ACS",
+    "license": null,
+    "dataset": {
+      "name": "American Community Survey Education Tabulation (ACS-ED)",
+      "url": "https://nces.ed.gov/programs/edge/demographic/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/ACSED5YrSurvey_StatVarAgg",
+    "name": "ACSED5YrSurvey_StatVarAgg",
+    "description": "Aggregated statistical variables for the American Community Survey (ACS) 5-Year Education Tabulation.",
+    "sourceDataUrl": null,
+    "prov_url": "https://nces.ed.gov/programs/edge/Demographic/ACS",
+    "license": null,
+    "dataset": {
+      "name": "American Community Survey Education Tabulation (ACS-ED)",
+      "url": "https://nces.ed.gov/programs/edge/demographic/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BEAGDPPriceParity",
+    "name": "BEAGDPPriceParity",
+    "description": "Regional price parities and cost of living indices by state and metropolitan area provided by the US Bureau of Economic Analysis.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.bea.gov/data",
+    "license": null,
+    "dataset": {
+      "name": "Regional Price Parities by State and Metro Area",
+      "url": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area",
+      "source": {
+        "name": "U.S. Bureau of Economic Analysis (BEA)",
+        "url": "https://www.bea.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BEAGDPv2",
+    "name": "BEAGDPv2",
+    "description": "Gross Domestic Product (GDP) measurements by county, metropolitan, and other regional areas from the US Bureau of Economic Analysis.",
+    "sourceDataUrl": "https://apps.bea.gov/regional/zip/CAGDP9.zip",
+    "prov_url": "https://www.bea.gov/",
+    "license": "https://www.bea.gov/privacy",
+    "dataset": {
+      "name": "GDP by County, Metro, and Other Areas",
+      "url": "https://apps.bea.gov/regional",
+      "source": {
+        "name": "U.S. Bureau of Economic Analysis (BEA)",
+        "url": "https://www.bea.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BLS_CES",
+    "name": "BLS_CES",
+    "description": "Current Employment Statistics (CES) program data detailing national employment, hours, and earnings estimates.",
+    "sourceDataUrl": "https://www.bls.gov/webapps/legacy/cesbtab1.htm",
+    "prov_url": "https://www.bls.gov/ces/",
+    "license": "https://www.bls.gov/bls/linksite.htm",
+    "dataset": {
+      "name": "Current Employment Statistics (CES)",
+      "url": "https://www.bls.gov/ces",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (BLS)",
+        "url": "https://www.bls.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BLS_CES_State",
+    "name": "BLS_CES_State",
+    "description": "State-level Current Employment Statistics (CES) detailing employment, hours, and earnings estimates.",
+    "sourceDataUrl": "https://download.bls.gov/pub/time.series/sm/",
+    "prov_url": "https://www.bls.gov/sae/overview.htm",
+    "license": "https://www.bls.gov/bls/linksite.htm",
+    "dataset": {
+      "name": "Current Employment Statistics (CES)",
+      "url": "https://www.bls.gov/ces",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (BLS)",
+        "url": "https://www.bls.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BLS_CPI_Category",
+    "name": "BLS_CPI_Category",
+    "description": "Consumer Price Index (CPI) data broken down by spending category, tracking inflation and price changes over time.",
+    "sourceDataUrl": "https://www.bls.gov/cpi/tables/supplemental-files/",
+    "prov_url": "https://www.bls.gov/cpi/",
+    "license": "https://www.bls.gov/bls/linksite.htm",
+    "dataset": {
+      "name": "Consumer Price Index by Category",
+      "url": "https://www.bls.gov/cpi/tables/supplemental-files/",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (BLS)",
+        "url": "https://www.bls.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BLS_CPS",
+    "name": "BLS_CPS",
+    "description": "Current Population Survey (CPS) labor force statistics, including employment and unemployment rates in the US.",
+    "sourceDataUrl": "https://download.bls.gov/pub/time.series/ln/ln.data.1.AllData",
+    "prov_url": "https://www.bls.gov/cps/",
+    "license": "https://www.bls.gov/bls/linksite.htm",
+    "dataset": {
+      "name": "Labor Force Statistics from the Current Population Survey (CPS)",
+      "url": "https://www.bls.gov/cps",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (BLS)",
+        "url": "https://www.bls.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BLS_LAUS",
+    "name": "BLS_LAUS",
+    "description": "Local Area Unemployment Statistics (LAUS) providing monthly employment and unemployment data for local regions.",
+    "sourceDataUrl": "https://download.bls.gov/pub/time.series/la",
+    "prov_url": "https://www.bls.gov/lau/",
+    "license": "https://www.bls.gov/bls/linksite.htm",
+    "dataset": {
+      "name": "Local Area Unemployment Statistics (LAUS)",
+      "url": "https://www.bls.gov/lau/",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (BLS)",
+        "url": "https://www.bls.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/BLS_QCEW",
+    "name": "BLS_QCEW",
+    "description": "Quarterly Census of Employment and Wages (QCEW) containing comprehensive employment and wage data by industry.",
+    "sourceDataUrl": "https://data.bls.gov/cew/doc/titles/industry/industry_titles.htm",
+    "prov_url": "https://www.bls.gov/qcew/",
+    "license": "https://www.bls.gov/bls/linksite.htm",
+    "dataset": {
+      "name": "Quarterly Census of Employment and Wages (QCEW)",
+      "url": "https://www.bls.gov/cew",
+      "source": {
+        "name": "U.S. Bureau of Labor Statistics (BLS)",
+        "url": "https://www.bls.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC500",
+    "name": "CDC500",
+    "description": "CDC 500 Cities project data containing local-level estimates for chronic disease risk factors, health outcomes, and clinical preventive services.",
+    "sourceDataUrl": "https://data.cdc.gov/browse?category=500+Cities+%26+Places",
+    "prov_url": "https://www.cdc.gov/places/index.html",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "dataset": {
+      "name": "PLACES: Local Data for Better Health",
+      "url": "https://www.cdc.gov/places/index.html",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC500_States",
+    "name": "CDC500_States",
+    "description": "State-level aggregates of chronic disease risk factors, health outcomes, and clinical preventive services from the CDC.",
+    "sourceDataUrl": "https://data.cdc.gov/browse?category=500+Cities+%26+Places",
+    "prov_url": "https://www.cdc.gov/places/index.html",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "dataset": {
+      "name": "PLACES: Local Data for Better Health",
+      "url": "https://www.cdc.gov/places/index.html",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDCDiabetes",
+    "name": "CDCDiabetes",
+    "description": "County-level data and estimates regarding diabetes prevalence and incidence in the United States.",
+    "sourceDataUrl": "https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#",
+    "prov_url": "https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "dataset": {
+      "name": "Diabetes Surveillance System",
+      "url": "https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDCMortality",
+    "name": "CDCMortality",
+    "description": "Mortality rates and death counts by cause of death across various demographics from the CDC.",
+    "sourceDataUrl": "https://wonder.cdc.gov/cmf-icd10.html",
+    "prov_url": "https://wonder.cdc.gov/mcd.html",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "dataset": {
+      "name": "Wonder: Compressed Mortality",
+      "url": "https://wonder.cdc.gov/cmf-icd10.html",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDCPM25",
+    "name": "CDCPM25",
+    "description": "Estimates of fine particulate matter (PM2.5) air pollution levels tracked by the CDC Environmental Public Health Tracking Network.",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9",
+    "license": null,
+    "dataset": {
+      "name": "Environmental Health Toxicology",
+      "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDCWonderNatality",
+    "name": "CDCWonderNatality",
+    "description": "Birth data and natality statistics, including birth weights and demographics, from the CDC WONDER database.",
+    "sourceDataUrl": "https://wonder.cdc.gov/natality.html",
+    "prov_url": "https://wonder.cdc.gov/natality.html",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "dataset": {
+      "name": "Wonder: Natality",
+      "url": "https://wonder.cdc.gov/natality.html",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC_Mortality_UnderlyingCause",
+    "name": "CDC_Mortality_UnderlyingCause",
+    "description": "Detailed statistics on underlying causes of death recorded on death certificates in the United States.",
+    "sourceDataUrl": "https://wonder.cdc.gov/controller/datarequest/D76",
+    "prov_url": "https://wonder.cdc.gov/ucd-icd10.html",
+    "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+    "dataset": {
+      "name": "Wonder: Mortality, Underlying Cause Of Death",
+      "url": "https://wonder.cdc.gov/ucd-icd10.html",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC_OzoneCounty",
+    "name": "CDC_OzoneCounty",
+    "description": "County-level ozone air quality metrics and pollution statistics from the CDC Environmental Public Health Tracking Network.",
+    "sourceDataUrl": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1",
+    "prov_url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1",
+    "license": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+    "dataset": {
+      "name": "Environmental Health Toxicology",
+      "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC_PM25CensusTract",
+    "name": "CDC_PM25CensusTract",
+    "description": "Census tract-level estimates for fine particulate matter (PM2.5) concentrations.",
+    "sourceDataUrl": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1",
+    "prov_url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology",
+    "license": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+    "dataset": {
+      "name": "Environmental Health Toxicology",
+      "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC_PM25County",
+    "name": "CDC_PM25County",
+    "description": "County-level estimates for fine particulate matter (PM2.5) concentrations.",
+    "sourceDataUrl": "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-PM2-5-Concentrations-2001-2019/dqwm-pbi7/about_data",
+    "prov_url": "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-PM2-5-Concentrations-2001-2019/dqwm-pbi7/about_data",
+    "license": "https://www.cdc.gov/nchs/policy/data-user-agreement.html",
+    "dataset": {
+      "name": "Environmental Health Toxicology",
+      "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC_PalmerDroughtSeverityIndex",
+    "name": "CDC_PalmerDroughtSeverityIndex",
+    "description": "Palmer Drought Severity Index (PDSI) measurements indicating prolonged moisture deficits or excesses.",
+    "sourceDataUrl": "https://data.cdc.gov/Environmental-Health-Toxicology/Palmer-Drought-Severity-Index-1895-2016/en5r-5ds4/about_data",
+    "prov_url": "https://data.cdc.gov/Environmental-Health-Toxicology/Palmer-Drought-Severity-Index-1895-2016/en5r-5ds4",
+    "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+    "dataset": {
+      "name": "Environmental Health Toxicology",
+      "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex",
+    "name": "CDC_StandardizedPrecipitationEvapotranspirationIndex",
+    "description": "Standardized Precipitation Evapotranspiration Index (SPEI) data for measuring drought severity.",
+    "sourceDataUrl": "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib/about_data",
+    "prov_url": "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib",
+    "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+    "dataset": {
+      "name": "Environmental Health Toxicology",
+      "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CDC_StandardizedPrecipitationIndex",
+    "name": "CDC_StandardizedPrecipitationIndex",
+    "description": "Standardized Precipitation Index (SPI) data tracking meteorological drought conditions.",
+    "sourceDataUrl": "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Index-1895-2016/xbk2-5i4e/about_data",
+    "prov_url": "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Index-1895-2016/xbk2-5i4e",
+    "license": "https://www.cdc.gov/nchs/data_access/ftp_data.htm",
+    "dataset": {
+      "name": "Environmental Health Toxicology",
+      "url": "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS1YearSurvey",
+    "name": "CensusACS1YearSurvey",
+    "description": "1-Year estimates from the American Community Survey covering socio-economic, housing, and demographic data.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey",
+    "name": "CensusACS5YearSurvey",
+    "description": "5-Year estimates from the American Community Survey providing detailed socio-economic, demographic, and housing data for small geographic areas.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0503",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0503",
+    "description": "ACS 5-Year Subject Table S0503: Selected Characteristics of the Foreign-Born Population by Region of Birth: Europe.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S0503",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S0503&tid=ACSST5Y2023.S0503",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0504",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0504",
+    "description": "ACS 5-Year Subject Table S0504: Selected Characteristics of the Foreign-Born Population by Region of Birth: Africa.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2023.S0504",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2023.S0504",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg",
+    "description": "Aggregated statistical variables for ACS Subject Table S0504.",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2019.S0504",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0505",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0505",
+    "description": "ACS 5-Year Subject Table S0505: Selected Characteristics of the Foreign-Born Population by Region of Birth: Asia.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S0505&tid=ACSST5Y2023.S0505",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S0505&tid=ACSST5Y2023.S0505",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0506",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0506",
+    "description": "ACS 5-Year Subject Table S0506: Selected Characteristics of the Foreign-Born Population by Region of Birth: Oceania.",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST1Y2023.S0503?q=S0506",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S0506&tid=ACSST5Y2023.S0506",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0701",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0701",
+    "description": "ACS 5-Year Subject Table S0701: Geographic Mobility by Selected Characteristics in the United States.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S0701&tid=ACSST5Y2024.S0701",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S0701&tid=ACSST5Y2024.S0701",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg",
+    "description": "Aggregated statistical variables for ACS Subject Table S0801 (Commuting Characteristics).",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.census.gov/table/ACSST5Y2023.S0801",
+    "license": null,
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg",
+    "name": "CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg",
+    "description": "Aggregated statistical variables for ACS Subject Table S0804 (Means of Transportation to Work).",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.census.gov/table/ACSST5Y2022.S0804",
+    "license": null,
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1201",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1201",
+    "description": "ACS 5-Year Subject Table S1201: Marital Status characteristics.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2023.S1201",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2023.S1201",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg",
+    "description": "Aggregated statistical variables for ACS Subject Table S1201.",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2019.S1201",
+    "license": null,
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1251",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1251",
+    "description": "ACS 5-Year Subject Table S1251: Non-Grandparents Living with Own Grandchildren.",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2024.S1251?q=S1251",
+    "prov_url": "https://data.census.gov/table/ACSST5Y2024.S1251?q=S1251",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg",
+    "description": "Aggregated statistical variables for ACS Subject Table S1251.",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1251&tid=ACSST5Y2023.S1251",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1301",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1301",
+    "description": "ACS 5-Year Subject Table S1301: Fertility characteristics.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S1301&tid=ACSST5Y2023.S1301",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1301&tid=ACSST5Y2023.S1301",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1602",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1602",
+    "description": "ACS 5-Year Subject Table S1602: Limited English Speaking Households.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S1602&tid=ACSST5Y2023.S1602",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1602&tid=ACSST5Y2023.S1602",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1603",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1603",
+    "description": "ACS 5-Year Subject Table S1603: Characteristics of People by Language Spoken at Home.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S1603&tid=ACSST5Y2023.S1603",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1603&tid=ACSST5Y2023.S1603",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1702",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1702",
+    "description": "ACS 5-Year Subject Table S1702: Poverty Status in the Past 12 Months of Families.",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2023.S1702?q=S1702",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1702&tid=ACSST5Y2023.S1702",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1810",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1810",
+    "description": "ACS 5-Year Subject Table S1810: Disability Characteristics.",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2024.S1810?q=S1810",
+    "prov_url": "https://data.census.gov/table/ACSST5Y2024.S1810?q=S1810",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S1903",
+    "name": "CensusACS5YearSurvey_SubjectTables_S1903",
+    "description": "ACS 5-Year Subject Table S1903: Median Income in the Past 12 Months.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S1903",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S1903&tid=ACSST5Y2023.S1903",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2001",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2001",
+    "description": "ACS 5-Year Subject Table S2001: Earnings in the Past 12 Months.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2001",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2001&tid=ACSST1Y2023.S2001",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2201",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2201",
+    "description": "ACS 5-Year Subject Table S2201: Food Stamps/Supplemental Nutrition Assistance Program (SNAP).",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2023.S2201?q=S2201",
+    "prov_url": "https://data.census.gov/table/ACSST5Y2023.S2201?q=S2201",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2303",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2303",
+    "description": "ACS 5-Year Subject Table S2303: Work Status in the Past 12 Months.",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2023.S2303?q=S2303",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2303&tid=ACSST5Y2023.S2303",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2405",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2405",
+    "description": "ACS 5-Year Subject Table S2405: Industry by Occupation for the Civilian Employed Population.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S2405&tid=ACSST5Y2023.S2405",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2405&tid=ACSST5Y2023.S2405",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2406",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2406",
+    "description": "ACS 5-Year Subject Table S2406: Occupation by Class of Worker for the Civilian Employed Population.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2406",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2406&tid=ACSST5Y2023.S2406",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2407",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2407",
+    "description": "ACS 5-Year Subject Table S2407: Industry by Class of Worker for the Civilian Employed Population.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2407",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2407&tid=ACSST5Y2023.S2407",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2408",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2408",
+    "description": "ACS 5-Year Subject Table S2408: Class of Worker by Sex for the Civilian Employed Population.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg",
+    "description": "Aggregated statistical variables for ACS Subject Table S2408.",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408",
+    "license": null,
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2409",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2409",
+    "description": "ACS 5-Year Subject Table S2409: Industry by Sex for the Civilian Employed Population.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S2409&tid=ACSST1Y2023.S2409",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2409&tid=ACSST1Y2023.S2409",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2502",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2502",
+    "description": "ACS 5-Year Subject Table S2502: Demographic Characteristics for Occupied Housing Units.",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2023.S2502?q=S2502",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2502&tid=ACSST5Y2023.S2502",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2601A",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2601A",
+    "description": "ACS 5-Year Subject Table S2601A: Characteristics of the Group Quarters Population in the US.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2601A",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2601A&tid=ACSST5Y2023.S2601A",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2601APR",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2601APR",
+    "description": "ACS 5-Year Subject Table S2601APR: Characteristics of the Group Quarters Population in Puerto Rico.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2601APR",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2601APR&tid=ACSST5Y2023.S2601APR",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2602",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2602",
+    "description": "ACS 5-Year Subject Table S2602: Characteristics of the Group Quarters Population by Group Quarters Type.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2602",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2602&tid=ACSST5Y2023.S2602",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2603",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2603",
+    "description": "ACS 5-Year Subject Table S2603: Characteristics of the Group Quarters Population by Group Quarters Type (3 Types).",
+    "sourceDataUrl": "https://data.census.gov/table/ACSST5Y2023.S2603?q=S2603",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2603&tid=ACSST5Y2023.S2603",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2701",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2701",
+    "description": "ACS 5-Year Subject Table S2701: Selected Characteristics of Health Insurance Coverage in the United States.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2023.S2701",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2023.S2701",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2702",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2702",
+    "description": "ACS 5-Year Subject Table S2702: Selected Characteristics of Health Insurance Coverage in the United States.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2702",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2702&tid=ACSST5Y2013.S2702",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2702PR",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2702PR",
+    "description": "ACS 5-Year Subject Table S2702PR: Selected Characteristics of Health Insurance Coverage in Puerto Rico.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2702PR",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2702PR&tid=ACSST5Y2013.S2702PR",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2703",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2703",
+    "description": "ACS 5-Year Subject Table S2703: Private Health Insurance Coverage by Type.",
+    "sourceDataUrl": "https://data.census.gov/cedsci/table?q=S2703&tid=ACSST5Y2023.S2703",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2703&tid=ACSST5Y2023.S2703",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACS5YearSurvey_SubjectTables_S2704",
+    "name": "CensusACS5YearSurvey_SubjectTables_S2704",
+    "description": "ACS 5-Year Subject Table S2704: Public Health Insurance Coverage by Type.",
+    "sourceDataUrl": "https://data.census.gov/table?q=S2704",
+    "prov_url": "https://data.census.gov/cedsci/table?q=S2704&tid=ACSST5Y2023.S2704",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusACSBtable5YearSurvey_Btable_B25031",
+    "name": "CensusACSBtable5YearSurvey_Btable_B25031",
+    "description": "ACS 5-Year Detailed Table B25031: Median Gross Rent by Bedrooms.",
+    "sourceDataUrl": null,
+    "prov_url": "https://data.census.gov/table/ACSDT5Y2022.B25031",
+    "license": null,
+    "dataset": {
+      "name": "American Community Survey (ACS)",
+      "url": "https://www.census.gov/programs-surveys/acs",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusCountyBusinessPatterns",
+    "name": "CensusCountyBusinessPatterns",
+    "description": "Annual data on US business establishments, employment, and payroll broken down by geographic area and industry.",
+    "sourceDataUrl": "https://www.census.gov/data/datasets/{year}/econ/cbp/{year}-cbp.html",
+    "prov_url": "https://www.census.gov/programs-surveys/cbp.html",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "County Business Patterns",
+      "url": "https://www.census.gov/programs-surveys/cbp/data/datasets.html",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/CensusPEP",
+    "name": "CensusPEP",
+    "description": "Annual population estimates detailing population counts, births, deaths, and migration by age, sex, race, and Hispanic origin.",
+    "sourceDataUrl": "https://www2.census.gov/programs-surveys/popest/tables/",
+    "prov_url": "https://www.census.gov/programs-surveys/popest.html",
+    "license": "https://www.census.gov/about/policies/open-gov/open-data.html",
+    "dataset": {
+      "name": "Population Estimates Program (PEP)",
+      "url": "https://www.census.gov/programs-surveys/popest/about.html",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/ClimateTrace_GHG_Emissions",
+    "name": "ClimateTrace_GHG_Emissions",
+    "description": "Greenhouse gas emissions estimates for various sectors and countries as tracked by Climate TRACE.",
+    "sourceDataUrl": "https://api.climatetrace.org/emissions_by_subsector_timeseries?interval=year&since=2015&to=2020&download=csv",
+    "prov_url": "https://api.climatetrace.org/",
+    "license": "https://climatetrace.org/data",
+    "dataset": {
+      "name": "Climate TRACE GHG Emissions",
+      "url": "https://climatetrace.org/inventory",
+      "source": {
+        "name": "Climate TRACE",
+        "url": "https://climatetrace.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/ClimateTrace_GHG_Emissions_OldAPI",
+    "name": "ClimateTrace_GHG_Emissions_OldAPI",
+    "description": "Historical greenhouse gas emissions data tracked by older versions of the Climate TRACE API.",
+    "sourceDataUrl": "https://api.climatetrace.org/emissions_by_subsector_timeseries?interval=year&since=2015&to=2020&download=csv",
+    "prov_url": "https://climatetrace.org/inventory",
+    "license": "https://climatetrace.org/data",
+    "dataset": {
+      "name": "Climate TRACE GHG Emissions",
+      "url": "https://climatetrace.org/inventory",
+      "source": {
+        "name": "Climate TRACE",
+        "url": "https://climatetrace.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/ClimateTrace_GreenhouseGas",
+    "name": "ClimateTrace_GreenhouseGas",
+    "description": "Granular data on emissions of specific greenhouse gases tracked globally by Climate TRACE.",
+    "sourceDataUrl": "https://api.climatetrace.org/emissions_by_subsector_timeseries?interval=year&since=2015&to=2020&download=csv",
+    "prov_url": "https://api.climatetrace.org/",
+    "license": "https://climatetrace.org/data",
+    "dataset": {
+      "name": "Climate TRACE GHG Emissions",
+      "url": "https://climatetrace.org/inventory",
+      "source": {
+        "name": "Climate TRACE",
+        "url": "https://climatetrace.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/Commerce_EDA",
+    "name": "Commerce_EDA",
+    "description": "Data regarding economic development grants, investments, and programmatic activities from the US Economic Development Administration.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.commerce.gov/bureaus-and-offices/eda",
+    "license": "https://www.commerce.gov/about/policies/accessibility",
+    "dataset": {
+      "name": "Economic Development Administration (EDA)",
+      "url": "https://www.eda.gov/performance/tools",
+      "source": {
+        "name": "U.S. Commerce Data Hub",
+        "url": "https://data.commerce.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/Copernicus_GlobalLandCoverLayers",
+    "name": "Copernicus_GlobalLandCoverLayers",
+    "description": "Global land cover mapping showing different types of land surface (forest, agriculture, urban) measured by the Copernicus program.",
+    "sourceDataUrl": "https://land.copernicus.eu/en/global",
+    "prov_url": "https://land.copernicus.eu/global/lcviewer",
+    "license": "https://www.copernicus.eu/en/access-data/copyright-and-licences",
+    "dataset": {
+      "name": "Copernicus Global Land Cover",
+      "url": "https://lcviewer.vito.be/2015",
+      "source": {
+        "name": "European Union (EU) Copernicus",
+        "url": "https://www.copernicus.eu/en"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/DataCommons_CoverageStats",
+    "name": "DataCommons_CoverageStats",
+    "description": "Metadata and internal statistics tracking data coverage and availability across different variables within Data Commons.",
+    "sourceDataUrl": null,
+    "prov_url": "https://datacommons.org",
+    "license": null,
+    "dataset": {
+      "name": "Data Commons Aggregations",
+      "url": "https://datacommons.org/",
+      "source": {
+        "name": "Data Commons",
+        "url": "https://datacommons.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_Coal",
+    "name": "EIA_Coal",
+    "description": "Comprehensive statistics on US coal production, consumption, exports, imports, and prices from the EIA.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/COAL.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=717234",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_Electricity",
+    "name": "EIA_Electricity",
+    "description": "Statistics regarding electricity generation, consumption, sales, and prices across the United States.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/ELEC.zip",
+    "prov_url": "https://www.eia.gov/opendata/browser/electricity",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_International",
+    "name": "EIA_International",
+    "description": "International energy statistics covering global production, consumption, and trade of various energy sources.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/INTL.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=2134384",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_NaturalGas",
+    "name": "EIA_NaturalGas",
+    "description": "Data on natural gas production, supply, consumption, and prices in the United States.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/NG.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=714804",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_NuclearOutages",
+    "name": "EIA_NuclearOutages",
+    "description": "Daily status and outage reports for US nuclear power plants.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/NUC_STATUS.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=2889994",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_Petroleum",
+    "name": "EIA_Petroleum",
+    "description": "US petroleum and crude oil statistics including production, refining, reserves, and prices.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/PET.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=714755",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_SEDS",
+    "name": "EIA_SEDS",
+    "description": "State Energy Data System (SEDS) providing comprehensive historical state-level energy consumption, price, and expenditure estimates.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/SEDS.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=40203",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EIA_TotalEnergy",
+    "name": "EIA_TotalEnergy",
+    "description": "Total US energy statistics detailing comprehensive energy flow from primary energy production to end-use consumption.",
+    "sourceDataUrl": "http://api.eia.gov/bulk/TOTAL.zip",
+    "prov_url": "https://www.eia.gov/opendata/qb.php?category=711224",
+    "license": "https://www.eia.gov/about/copyrights_reuse.php",
+    "dataset": {
+      "name": "Open Data",
+      "url": "https://www.eia.gov/opendata/qb.php",
+      "source": {
+        "name": "U.S. Energy Information Administration (EIA)",
+        "url": "https://www.eia.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EPAAirQualityIndex",
+    "name": "EPAAirQualityIndex",
+    "description": "Daily Air Quality Index (AQI) values across the US reporting air pollution levels and health concerns.",
+    "sourceDataUrl": "https://aqs.epa.gov/aqsweb/airdata/daily_{pollutant}_{year}.zip",
+    "prov_url": "https://aqs.epa.gov/aqsweb/airdata/download_files.html",
+    "license": "https://edg.epa.gov/EPA_Data_License.html",
+    "dataset": {
+      "name": "Air Data",
+      "url": "https://www.epa.gov/outdoor-air-quality-data",
+      "source": {
+        "name": "United States Environmental Protection Agency (EPA)",
+        "url": "https://www.epa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EPACriteriaAirPollutants",
+    "name": "EPACriteriaAirPollutants",
+    "description": "Measurements of the six criteria air pollutants (PM, Ozone, NO2, CO, SO2, Lead) monitored by the EPA.",
+    "sourceDataUrl": "https://aqs.epa.gov/aqsweb/airdata/{filename}.zip",
+    "prov_url": "https://aqs.epa.gov/aqsweb/airdata/download_files.html",
+    "license": "https://www.epa.gov/data/open-data-plan",
+    "dataset": {
+      "name": "Air Data",
+      "url": "https://www.epa.gov/outdoor-air-quality-data",
+      "source": {
+        "name": "United States Environmental Protection Agency (EPA)",
+        "url": "https://www.epa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EPA_EJSCREEN",
+    "name": "EPA_EJSCREEN",
+    "description": "Environmental Justice screening tool data combining environmental and demographic indicators at the census block group level.",
+    "sourceDataUrl": "https://zenodo.org/records/14767363",
+    "prov_url": "https://gaftp.epa.gov/EJSCREEN/",
+    "license": "https://gaftp.epa.gov/EJSCREEN/2015/EJSCREEN_Technical_Document_20150505.pdf",
+    "dataset": {
+      "name": "EJSCREEN",
+      "url": "https://www.epa.gov/ejscreen",
+      "source": {
+        "name": "United States Environmental Protection Agency (EPA)",
+        "url": "https://www.epa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EPHHeatRelatedIllness",
+    "name": "EPHHeatRelatedIllness",
+    "description": "Statistics and tracking data for heat-related illnesses and hospitalizations.",
+    "sourceDataUrl": "https://ephtracking.cdc.gov/qrlist/35",
+    "prov_url": "https://ephtracking.cdc.gov/qrlist/35",
+    "license": "https://www.cdc.gov/other/agencymaterials.html",
+    "dataset": {
+      "name": "Heat & Heat-related Illness (HRI)",
+      "url": "https://ephtracking.cdc.gov/qrlist/35",
+      "source": {
+        "name": "U.S. Centers for Disease Control and Prevention (CDC)",
+        "url": "https://www.cdc.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EthiopiaStatistics",
+    "name": "EthiopiaStatistics",
+    "description": "Demographic, economic, and social statistics pertaining to Ethiopia.",
+    "sourceDataUrl": "https://ethiopia.opendataforafrica.org/data/#menu=topic",
+    "prov_url": "https://ethiopia.opendataforafrica.org/data/#menu=topic",
+    "license": "https://ethiopia.opendataforafrica.org/legal/termsofuse",
+    "dataset": {
+      "name": "Ethiopia Statistics",
+      "url": "https://ethiopia.opendataforafrica.org/",
+      "source": {
+        "name": "Open Data for Africa",
+        "url": "https://dataportal.opendataforafrica.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EuroStatHealth_AlcoholConsumption",
+    "name": "EuroStatHealth_AlcoholConsumption",
+    "description": "Statistics on alcohol consumption patterns and frequency among populations in European countries.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_al1e?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/web/main/data/database",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "EuroStat Health",
+      "url": "https://ec.europa.eu/eurostat/web/health/data/database",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EuroStatHealth_BodyMassIndex",
+    "name": "EuroStatHealth_BodyMassIndex",
+    "description": "Data on Body Mass Index (BMI) categories and obesity rates across European countries.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_bm1e?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/web/main/data/database",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "EuroStat Health",
+      "url": "https://ec.europa.eu/eurostat/web/health/data/database",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EuroStatHealth_PhysicalActivity",
+    "name": "EuroStatHealth_PhysicalActivity",
+    "description": "Survey data regarding the frequency and duration of physical activity among European populations.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_pe9e?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/web/health/database",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "EuroStat Health",
+      "url": "https://ec.europa.eu/eurostat/web/health/data/database",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_Demographic_Balance_Crude_Rates",
+    "name": "EurostatData_Demographic_Balance_Crude_Rates",
+    "description": "Crude rates of population change, live births, and deaths across European statistical regions.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_gind3/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_gind3/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_Education_Attainment",
+    "name": "EurostatData_Education_Attainment",
+    "description": "Educational attainment levels of the population across European regions.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/edat_lfse_04/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_Education_Enrollment",
+    "name": "EurostatData_Education_Enrollment",
+    "description": "Statistics on student enrollment in various levels of education across Europe.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/trng_lfse_04/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/trng_lfse_04/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_Employment_Per_Sector",
+    "name": "EurostatData_Employment_Per_Sector",
+    "description": "Employment statistics categorized by economic sector and industry across European regions.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/nama_10r_3empers/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3empers/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_Fertility",
+    "name": "EurostatData_Fertility",
+    "description": "Fertility rates and related demographic indicators for European countries and regions.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_find3/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_find3/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_GDP",
+    "name": "EurostatData_GDP",
+    "description": "Gross Domestic Product (GDP) and economic output metrics for European regions.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/nama_10r_3gdp/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_LifeExpectancy",
+    "name": "EurostatData_LifeExpectancy",
+    "description": "Life expectancy at birth and different ages across European countries and regions.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_mlifexp/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatData_PopulationDensity",
+    "name": "EurostatData_PopulationDensity",
+    "description": "Population density statistics measured in inhabitants per square kilometer across Europe.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_d3dens/?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_d3dens/default/table?lang=en",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "Regional Statistics by NUTS Classification",
+      "url": "https://ec.europa.eu/eurostat/",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/EurostatHealth_Tobacco_Consumption",
+    "name": "EurostatHealth_Tobacco_Consumption",
+    "description": "Data on smoking prevalence and tobacco consumption habits across European countries.",
+    "sourceDataUrl": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_sk1i?format=TSV&compressed=true",
+    "prov_url": "https://ec.europa.eu/eurostat/web/main/data/database",
+    "license": "https://commission.europa.eu/legal-notice_en",
+    "dataset": {
+      "name": "EuroStat Health",
+      "url": "https://ec.europa.eu/eurostat/web/health/data/database",
+      "source": {
+        "name": "European Union (EU) Eurostat",
+        "url": "https://ec.europa.eu/eurostat"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/FBIGovCrime",
+    "name": "FBIGovCrime",
+    "description": "Crime statistics including violent and property crimes reported through the FBI Uniform Crime Reporting (UCR) Program.",
+    "sourceDataUrl": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "prov_url": "http://www.fbi.gov/services/cjis/ucr",
+    "license": "https://www.justice.gov/legalpolicies",
+    "dataset": {
+      "name": "Uniform Crime Reporting (UCR) Program",
+      "url": "https://www.fbi.gov/services/cjis/ucr",
+      "source": {
+        "name": "U.S. Federal Bureau of Investigation (FBI)",
+        "url": "https://www.fbi.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/FBIHateCrime",
+    "name": "FBIHateCrime",
+    "description": "Statistics on criminal offenses motivated by bias against race, religion, disability, sexual orientation, or ethnicity.",
+    "sourceDataUrl": "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads",
+    "prov_url": "https://www.fbi.gov/services/cjis/ucr/hate-crime",
+    "license": null,
+    "dataset": {
+      "name": "Hate Crime Statistics",
+      "url": "https://www.fbi.gov/services/cjis/ucr/hate-crime",
+      "source": {
+        "name": "U.S. Federal Bureau of Investigation (FBI)",
+        "url": "https://www.fbi.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/GenderIncomeInequality",
+    "name": "GenderIncomeInequality",
+    "description": "Aggregated statistics computing income disparities between different genders.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.datacommons.org/",
+    "license": null,
+    "dataset": {
+      "name": "Data Commons Aggregations",
+      "url": "https://datacommons.org/",
+      "source": {
+        "name": "Data Commons",
+        "url": "https://datacommons.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/Google_COVID19Mobility",
+    "name": "Google_COVID19Mobility",
+    "description": "Aggregated and anonymized data showing movement trends across different categories of places during the COVID-19 pandemic.",
+    "sourceDataUrl": "https://www.google.com/covid19/mobility",
+    "prov_url": "https://www.google.com/covid19/mobility/",
+    "license": "https://policies.google.com/terms?hl=en",
+    "dataset": {
+      "name": "COVID-19 Community Mobility Reports",
+      "url": "https://www.google.com/covid19/mobility/",
+      "source": {
+        "name": "Google",
+        "url": "https://www.google.com/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/HUD_IncomeLimits",
+    "name": "HUD_IncomeLimits",
+    "description": "Income limits defined by the US Department of Housing and Urban Development used to determine eligibility for assisted housing programs.",
+    "sourceDataUrl": "https://www.huduser.gov/portal/datasets/il/il24/Section8-FY24.xlsx",
+    "prov_url": "https://www.huduser.gov/portal/datasets/il.html",
+    "license": "https://www.huduser.gov/portal/datasets/il.html",
+    "dataset": {
+      "name": "Income Limits",
+      "url": "https://www.huduser.gov/portal/datasets/il.html",
+      "source": {
+        "name": "U.S. Department of Housing and Urban Development (HUD)",
+        "url": "https://www.hud.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_Primary",
+    "name": "IndiaCensus_Primary",
+    "description": "Primary demographic and socioeconomic data tables from the Census of India.",
+    "sourceDataUrl": null,
+    "prov_url": "https://censusindia.gov.in/",
+    "license": null,
+    "dataset": {
+      "name": "India Census Tables",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "source": {
+        "name": "Census of India",
+        "url": "https://censusindia.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryHouseless",
+    "name": "IndiaCensus_PrimaryHouseless",
+    "description": "Census of India data focusing on the houseless (homeless) population.",
+    "sourceDataUrl": null,
+    "prov_url": "https://censusindia.gov.in/",
+    "license": null,
+    "dataset": {
+      "name": "India Census Tables",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "source": {
+        "name": "Census of India",
+        "url": "https://censusindia.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryReligion",
+    "name": "IndiaCensus_PrimaryReligion",
+    "description": "Census of India population statistics broken down by major religious communities.",
+    "sourceDataUrl": null,
+    "prov_url": "https://censusindia.gov.in/",
+    "license": null,
+    "dataset": {
+      "name": "India Census Tables",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "source": {
+        "name": "Census of India",
+        "url": "https://censusindia.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimarySC",
+    "name": "IndiaCensus_PrimarySC",
+    "description": "Census of India demographic data specifically for Scheduled Castes.",
+    "sourceDataUrl": null,
+    "prov_url": "https://censusindia.gov.in/",
+    "license": null,
+    "dataset": {
+      "name": "India Census Tables",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "source": {
+        "name": "Census of India",
+        "url": "https://censusindia.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaCensus_PrimaryST",
+    "name": "IndiaCensus_PrimaryST",
+    "description": "Census of India demographic data specifically for Scheduled Tribes.",
+    "sourceDataUrl": null,
+    "prov_url": "https://censusindia.gov.in/",
+    "license": null,
+    "dataset": {
+      "name": "India Census Tables",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "source": {
+        "name": "Census of India",
+        "url": "https://censusindia.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaNSS_HealthAilments_StatVarAgg",
+    "name": "IndiaNSS_HealthAilments_StatVarAgg",
+    "description": "Aggregated statistical variables from the India National Sample Survey covering health and ailments.",
+    "sourceDataUrl": null,
+    "prov_url": "https://ndap.niti.gov.in/dataset/7300",
+    "license": null,
+    "dataset": {
+      "name": "India National Sample Survey - Health",
+      "url": "https://mospi.gov.in/documents/213904/301563//NSS%20Report%20no.%20586%20Health%20in%20India1606229312083.pdf/d3724e8b-5970-0559-9ed9-12378a6cc7b3",
+      "source": {
+        "name": "India National Sample Survey",
+        "url": "https://mospi.gov.in/web/nss"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_DailyWages",
+    "name": "IndiaPLFS_DailyWages",
+    "description": "Daily wage statistics derived from the Periodic Labour Force Survey in India.",
+    "sourceDataUrl": null,
+    "prov_url": "https://mospi.gov.in/web/plfs",
+    "license": null,
+    "dataset": {
+      "name": "Periodic Labour Force Survey",
+      "url": "https://mospi.gov.in/web/plfs",
+      "source": {
+        "name": "India Ministry of Statistics and Programme Implementation",
+        "url": "https://mospi.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaPLFS_Wages",
+    "name": "IndiaPLFS_Wages",
+    "description": "General wage and earnings statistics from the Periodic Labour Force Survey in India.",
+    "sourceDataUrl": null,
+    "prov_url": "https://mospi.gov.in/web/plfs",
+    "license": null,
+    "dataset": {
+      "name": "Periodic Labour Force Survey",
+      "url": "https://mospi.gov.in/web/plfs",
+      "source": {
+        "name": "India Ministry of Statistics and Programme Implementation",
+        "url": "https://mospi.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/IndiaWRISWaterQuality",
+    "name": "IndiaWRISWaterQuality",
+    "description": "Water quality measurements from the India Water Resources Information System.",
+    "sourceDataUrl": "https://indiawris.gov.in/wris/#/DataDownload",
+    "prov_url": "https://indiawris.gov.in/wris",
+    "license": null,
+    "dataset": {
+      "name": "India Water Quality",
+      "url": "https://indiawris.gov.in/wiki/doku.php?id=water_quality_data_and_parameters",
+      "source": {
+        "name": "India Water Resources Information System",
+        "url": "https://indiawris.gov.in/wris/#/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/India_RBIStateDomesticProduct_AggCountry",
+    "name": "India_RBIStateDomesticProduct_AggCountry",
+    "description": "National aggregates of India's State Domestic Product sourced from the Reserve Bank of India.",
+    "sourceDataUrl": null,
+    "prov_url": "https://rbi.org.in/",
+    "license": null,
+    "dataset": {
+      "name": "Database on Indian Economy",
+      "url": "https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics",
+      "source": {
+        "name": "Reserve Bank of India",
+        "url": "https://rbi.org.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/India_RBIStateDomesticProduct_StatVarAgg",
+    "name": "India_RBIStateDomesticProduct_StatVarAgg",
+    "description": "Aggregated statistical variables related to India's State Domestic Product.",
+    "sourceDataUrl": null,
+    "prov_url": "https://rbi.org.in/",
+    "license": null,
+    "dataset": {
+      "name": "Database on Indian Economy",
+      "url": "https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics",
+      "source": {
+        "name": "Reserve Bank of India",
+        "url": "https://rbi.org.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/India_RBIStateDomesticProduct_StatVarAgg_AggCountry",
+    "name": "India_RBIStateDomesticProduct_StatVarAgg_AggCountry",
+    "description": "Country-level aggregates for State Domestic Product statistical variables in India.",
+    "sourceDataUrl": null,
+    "prov_url": "https://rbi.org.in/",
+    "license": null,
+    "dataset": {
+      "name": "Database on Indian Economy",
+      "url": "https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics",
+      "source": {
+        "name": "Reserve Bank of India",
+        "url": "https://rbi.org.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/MOSPI_IndiaPLFS_DailyWages",
+    "name": "MOSPI_IndiaPLFS_DailyWages",
+    "description": "Daily wage data from the Periodic Labour Force Survey published by India's Ministry of Statistics and Programme Implementation.",
+    "sourceDataUrl": "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs",
+    "prov_url": "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs",
+    "license": "https://www.mospi.gov.in/copyright-policy",
+    "dataset": {
+      "name": "Periodic Labour Force Survey",
+      "url": "https://mospi.gov.in/web/plfs",
+      "source": {
+        "name": "India Ministry of Statistics and Programme Implementation",
+        "url": "https://mospi.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/MOSPI_IndiaPLFS_MonthlyWages",
+    "name": "MOSPI_IndiaPLFS_MonthlyWages",
+    "description": "Monthly wage data from the Periodic Labour Force Survey published by India's Ministry of Statistics.",
+    "sourceDataUrl": "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs",
+    "prov_url": "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs",
+    "license": "https://www.mospi.gov.in/copyright-policy",
+    "dataset": {
+      "name": "Periodic Labour Force Survey",
+      "url": "https://mospi.gov.in/web/plfs",
+      "source": {
+        "name": "India Ministry of Statistics and Programme Implementation",
+        "url": "https://mospi.gov.in/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_NEXDCP30",
+    "name": "NASA_NEXDCP30",
+    "description": "High-resolution downscaled climate projections for the United States based on IPCC CMIP5 scenarios.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+    "license": null,
+    "dataset": {
+      "name": "NEX - Downscaled Climate Projections for US from IPCC CMIP5",
+      "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50",
+    "name": "NASA_NEXGDDP_CMIP6_IpccPlaces50",
+    "description": "Global high-resolution climate change projections mapped to 50km grids based on IPCC CMIP6 scenarios.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "license": null,
+    "dataset": {
+      "name": "NEX - Global Downscaled Climate Projections from IPCC CMIP6",
+      "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_CMIP6_Subnational",
+    "name": "NASA_NEXGDDP_CMIP6_Subnational",
+    "description": "Global downscaled climate projections (CMIP6) aggregated to subnational administrative boundaries.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+    "license": null,
+    "dataset": {
+      "name": "NEX - Global Downscaled Climate Projections from IPCC CMIP6",
+      "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Country",
+    "name": "NASA_NEXGDDP_Country",
+    "description": "Global downscaled climate projections (CMIP5) aggregated to the country level.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "license": null,
+    "dataset": {
+      "name": "NEX - Global Downscaled Climate Projections from IPCC CMIP5",
+      "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_IpccPlaces50",
+    "name": "NASA_NEXGDDP_IpccPlaces50",
+    "description": "Global downscaled climate projections (CMIP5) mapped to 50km geographic grids.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "license": null,
+    "dataset": {
+      "name": "NEX - Global Downscaled Climate Projections from IPCC CMIP5",
+      "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_NEXGDDP_Subnational",
+    "name": "NASA_NEXGDDP_Subnational",
+    "description": "Global downscaled climate projections (CMIP5) aggregated to subnational boundaries.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+    "license": null,
+    "dataset": {
+      "name": "NEX - Global Downscaled Climate Projections from IPCC CMIP5",
+      "url": "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_SeaLevelProjections_CMIP6",
+    "name": "NASA_SeaLevelProjections_CMIP6",
+    "description": "Sea-level rise projections based on CMIP6 climate models provided by NASA's PO.DAAC.",
+    "sourceDataUrl": null,
+    "prov_url": "https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report",
+    "license": null,
+    "dataset": {
+      "name": "PO.DAAC - Sea level Projections from IPCC CMIP6",
+      "url": "https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NASA_VIIRSActiveFiresEvents_Agg",
+    "name": "NASA_VIIRSActiveFiresEvents_Agg",
+    "description": "Aggregated thermal anomalies and active fire event data captured by the VIIRS instrument.",
+    "sourceDataUrl": null,
+    "prov_url": "https://firms.modaps.eosdis.nasa.gov/active_fire/",
+    "license": null,
+    "dataset": {
+      "name": "VIIRS Active Fire Data",
+      "url": "https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt",
+      "source": {
+        "name": "U.S. National Aeronautics and Space Administration (NASA)",
+        "url": "https://www.nasa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceSalinity",
+    "name": "NOAA_CoastWatch_SeaSurfaceSalinity",
+    "description": "Satellite-derived ocean sea surface salinity measurements from NOAA CoastWatch.",
+    "sourceDataUrl": null,
+    "prov_url": "https://coastwatch.noaa.gov/erddap/griddap/noaacwSMAPsss3Daily.html",
+    "license": null,
+    "dataset": {
+      "name": "NOAA CoastWatch",
+      "url": "https://coastwatch.noaa.gov/cwn/index.html",
+      "source": {
+        "name": "U.S. National Oceanic and Atmospheric Administration (NOAA)",
+        "url": "https://www.noaa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NOAA_CoastWatch_SeaSurfaceTemperature",
+    "name": "NOAA_CoastWatch_SeaSurfaceTemperature",
+    "description": "Satellite-derived ocean sea surface temperature measurements from NOAA CoastWatch.",
+    "sourceDataUrl": null,
+    "prov_url": "https://coastwatch.noaa.gov/erddap/griddap/noaacwBLENDEDsstDaily.html",
+    "license": null,
+    "dataset": {
+      "name": "NOAA CoastWatch",
+      "url": "https://coastwatch.noaa.gov/cwn/index.html",
+      "source": {
+        "name": "U.S. National Oceanic and Atmospheric Administration (NOAA)",
+        "url": "https://www.noaa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NOAA_EPA_Observed_Historical_Weather",
+    "name": "NOAA_EPA_Observed_Historical_Weather",
+    "description": "Historical observed weather data including temperature and precipitation from NOAA and EPA networks.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.noaa.gov/",
+    "license": null,
+    "dataset": {
+      "name": "NOAA-EPA Observed Weather Data",
+      "url": "https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily",
+      "source": {
+        "name": "U.S. National Oceanic and Atmospheric Administration (NOAA)",
+        "url": "https://www.noaa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/NYT_COVID19",
+    "name": "NYT_COVID19",
+    "description": "Historical daily statistics on COVID-19 cases and deaths in the United States compiled by The New York Times.",
+    "sourceDataUrl": "https://github.com/nytimes/covid-19-data/",
+    "prov_url": "https://www.nytimes.com/article/coronavirus-county-data-us.html",
+    "license": null,
+    "dataset": {
+      "name": "Coronavirus (Covid-19) Data in the United States",
+      "url": "https://github.com/nytimes/covid-19-data/",
+      "source": {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsNeighborhoods",
+    "name": "OpportunityInsightsNeighborhoods",
+    "description": "Neighborhood-level data on social mobility, income, and outcomes for children growing up across the US.",
+    "sourceDataUrl": null,
+    "prov_url": "http://opportunityinsights.org",
+    "license": null,
+    "dataset": {
+      "name": "The Opportunity Atlas",
+      "url": "https://opportunityinsights.org/data/",
+      "source": {
+        "name": "Opportunity Insights",
+        "url": "https://opportunityinsights.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/OpportunityInsightsOutcomes",
+    "name": "OpportunityInsightsOutcomes",
+    "description": "Data on intergenerational mobility and economic outcomes based on geographic childhood environments.",
+    "sourceDataUrl": null,
+    "prov_url": "http://opportunityinsights.org/data",
+    "license": null,
+    "dataset": {
+      "name": "The Opportunity Atlas",
+      "url": "https://opportunityinsights.org/data/",
+      "source": {
+        "name": "Opportunity Insights",
+        "url": "https://opportunityinsights.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_EchoLab",
+    "name": "RFF_ClimateWildfireSmoke_EchoLab",
+    "description": "County and state-level statistics on wildfire smoke exposure and climate impacts.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.stanfordecholab.com/wildfire_smoke",
+    "license": null,
+    "dataset": {
+      "name": "US Wildfire, Smoke and Drought statistics - County and State",
+      "url": "https://www.rff.org/publications/data-tools/",
+      "source": {
+        "name": "Resources for the Future (RFF)",
+        "url": "https://www.rff.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_MTBS",
+    "name": "RFF_ClimateWildfireSmoke_MTBS",
+    "description": "Statistics on burned areas and wildfire perimeters sourced from the Monitoring Trends in Burn Severity (MTBS) project.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.mtbs.gov",
+    "license": null,
+    "dataset": {
+      "name": "US Wildfire, Smoke and Drought statistics - County and State",
+      "url": "https://www.rff.org/publications/data-tools/",
+      "source": {
+        "name": "Resources for the Future (RFF)",
+        "url": "https://www.rff.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou",
+    "name": "RFF_ClimateWildfireSmoke_ParksAbatzoglou",
+    "description": "Wildfire, smoke, and drought statistics for the US generated by researchers Parks and Abatzoglou.",
+    "sourceDataUrl": null,
+    "prov_url": "https://doi.org/10.5061/dryad.tmpg4f4x1",
+    "license": null,
+    "dataset": {
+      "name": "US Wildfire, Smoke and Drought statistics - County and State",
+      "url": "https://www.rff.org/publications/data-tools/",
+      "source": {
+        "name": "Resources for the Future (RFF)",
+        "url": "https://www.rff.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/RandolphGlacierInventory_Area",
+    "name": "RandolphGlacierInventory_Area",
+    "description": "Data specifically tracking the surface area of glaciers recorded in the Randolph Glacier Inventory.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.glims.org/RGI/rgi60_dl.html",
+    "license": null,
+    "dataset": {
+      "name": "Randolph Glacier Inventory",
+      "url": "https://www.glims.org/RGI/rgi60_dl.html",
+      "source": {
+        "name": "Global Land Ice Measurements from Space (GLIMS)",
+        "url": "https://www.glims.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/SouthKorea_Education",
+    "name": "SouthKorea_Education",
+    "description": "Educational statistics for South Korea, including enrollment, attainment, and school demographics.",
+    "sourceDataUrl": "https://kosis.kr/eng/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ETITLE&parmTabId=M_01_01",
+    "prov_url": "https://kosis.kr/eng/",
+    "license": "https://kosis.kr/eng/aboutKosis/policyPublicData.do",
+    "dataset": {
+      "name": "South Korea Statistics",
+      "url": "https://kosis.kr/eng/statisticsList/statisticsListIndex.do",
+      "source": {
+        "name": "South Korea Statistics Agency (KOSA)",
+        "url": "https://kosis.kr/eng/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/StormNOAA_Agg",
+    "name": "StormNOAA_Agg",
+    "description": "Aggregated statistics and frequency counts of severe weather events recorded in the NOAA Storm Events Database.",
+    "sourceDataUrl": "https://www.ncdc.noaa.gov/stormevents/ftp.jsp",
+    "prov_url": "https://www.ncdc.noaa.gov/",
+    "license": null,
+    "dataset": {
+      "name": "National Climatic Data Center Storm Events Database",
+      "url": "https://www.ncdc.noaa.gov/stormevents/ftp.jsp",
+      "source": {
+        "name": "U.S. National Oceanic and Atmospheric Administration (NOAA)",
+        "url": "https://www.noaa.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/TemperatureEvents_Agg",
+    "name": "TemperatureEvents_Agg",
+    "description": "Aggregated statistics detailing extreme temperature events and their geographic distribution.",
+    "sourceDataUrl": null,
+    "prov_url": "https://datacommons.org",
+    "license": null,
+    "dataset": {
+      "name": "Temperature Event",
+      "url": "https://datacommons.org/",
+      "source": {
+        "name": "Data Commons",
+        "url": "https://datacommons.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/UAE_Population",
+    "name": "UAE_Population",
+    "description": "Demographic statistics and population estimates for the United Arab Emirates.",
+    "sourceDataUrl": "https://admin.bayanat.ae/Dataset/DownloadDatasetResource?fileId=26585eaf-9a9c-486d-b773-fc51ef0204c9&resourceID=11243",
+    "prov_url": "https://bayanat.ae/en/Data?query=population",
+    "license": "https://drive.google.com/file/d/1NSRfcL_rDkMQOgwOXor2m9cPqXzRLCxj/view",
+    "dataset": {
+      "name": "UAE Population",
+      "url": "https://admin.bayanat.ae/Dataset/DownloadDatasetResource?fileId=26585eaf-9a9c-486d-b773-fc51ef0204c9&resourceID=11243",
+      "source": {
+        "name": "United Arab Emirates (UAE) Bayanat Open Data Portal",
+        "url": "https://bayanat.ae/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/UNEnergy",
+    "name": "UNEnergy",
+    "description": "Global energy statistics tracking production, trade, and consumption of energy resources collected by the United Nations.",
+    "sourceDataUrl": null,
+    "prov_url": "https://unstats.un.org/unsd/energystats/data/",
+    "license": "https://unstats.un.org/unsd/energystats/data",
+    "dataset": {
+      "name": "Energy Statistics",
+      "url": "https://unstats.un.org/unsd/energystats/data/",
+      "source": {
+        "name": "United Nations (UN)",
+        "url": "https://www.un.org/en/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/UN_SDG",
+    "name": "UN_SDG",
+    "description": "Data tracking global progress towards the United Nations Sustainable Development Goals (SDGs).",
+    "sourceDataUrl": null,
+    "prov_url": "https://unstats.un.org/sdgs/dataportal",
+    "license": null,
+    "dataset": {
+      "name": "SDG Indicators Database",
+      "url": "https://unstats.un.org/sdgs/dataportal",
+      "source": {
+        "name": "United Nations (UN)",
+        "url": "https://www.un.org/en/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/UN_WHO",
+    "name": "UN_WHO",
+    "description": "Global health data, disease statistics, and health system indicators provided by the World Health Organization.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.who.int/data",
+    "license": null,
+    "dataset": {
+      "name": "WHO Data",
+      "url": "https://www.who.int/data",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "url": "https://www.who.int/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USCensusGeos_SurfaceArea",
+    "name": "USCensusGeos_SurfaceArea",
+    "description": "Surface area measurements (land and water) for US geographic entities from Census Gazetteer files.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.census.gov/geographies/reference-files.html",
+    "license": null,
+    "dataset": {
+      "name": "Gazetteer Files",
+      "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USCensusPEP_AgeSexRace",
+    "name": "USCensusPEP_AgeSexRace",
+    "description": "Annual US population estimates broken down by detailed age, sex, and race categories.",
+    "sourceDataUrl": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/",
+    "prov_url": "https://www2.census.gov/programs-surveys/popest/tables",
+    "license": "https://www.census.gov/about/policies/section-508.html",
+    "dataset": {
+      "name": "Population Estimates Program (PEP)",
+      "url": "https://www.census.gov/programs-surveys/popest/about.html",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USCensusPEP_Annual_Population",
+    "name": "USCensusPEP_Annual_Population",
+    "description": "Annual aggregate US population estimates produced by the Census Population Estimates Program.",
+    "sourceDataUrl": "https://www.census.gov/",
+    "prov_url": "https://www.census.gov/programs-surveys/popest.html",
+    "license": "https://www.census.gov/about/policies/section-508.html",
+    "dataset": {
+      "name": "Population Estimates Program (PEP)",
+      "url": "https://www.census.gov/programs-surveys/popest/about.html",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USCensusPEP_By_SexRaceHispanicOrigin",
+    "name": "USCensusPEP_By_SexRaceHispanicOrigin",
+    "description": "Annual US population estimates categorized by sex, race, and Hispanic origin.",
+    "sourceDataUrl": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/",
+    "prov_url": "https://www.census.gov/programs-surveys/popest.html",
+    "license": "https://www.census.gov/about/policies/section-508.html",
+    "dataset": {
+      "name": "Population Estimates Program (PEP)",
+      "url": "https://www.census.gov/programs-surveys/popest/about.html",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USDA_AgricultureCensus",
+    "name": "USDA_AgricultureCensus",
+    "description": "Comprehensive statistics on US farms, ranches, and the people who operate them, published every five years.",
+    "sourceDataUrl": "https://www.nass.usda.gov/datasets/",
+    "prov_url": "https://www.nass.usda.gov/AgCensus/",
+    "license": "https://www.usda.gov/about-usda/policies-and-links",
+    "dataset": {
+      "name": "Census of Agriculture",
+      "url": "https://www.nass.usda.gov/AgCensus/",
+      "source": {
+        "name": "U.S. Department of Agriculture (USDA)",
+        "url": "https://www.usda.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg",
+    "name": "USDA_AgricultureCensus_Agriculture_StatVarAgg",
+    "description": "Aggregated agricultural statistical variables derived from the USDA Census of Agriculture.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.nass.usda.gov/AgCensus/",
+    "license": null,
+    "dataset": {
+      "name": "Census of Agriculture",
+      "url": "https://www.nass.usda.gov/AgCensus/",
+      "source": {
+        "name": "U.S. Department of Agriculture (USDA)",
+        "url": "https://www.usda.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USDA_AgricultureSurvey",
+    "name": "USDA_AgricultureSurvey",
+    "description": "Annual survey data tracking crop acreage, yields, livestock inventories, and agricultural economic indicators.",
+    "sourceDataUrl": "https://quickstats.nass.usda.gov/api/",
+    "prov_url": "https://quickstats.nass.usda.gov/",
+    "license": "https://www.usda.gov/open",
+    "dataset": {
+      "name": "Agricultural Survey",
+      "url": "https://quickstats.nass.usda.gov/",
+      "source": {
+        "name": "U.S. Department of Agriculture (USDA)",
+        "url": "https://www.usda.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USDecennialCensus_RedistrictingRelease",
+    "name": "USDecennialCensus_RedistrictingRelease",
+    "description": "Detailed US demographic and housing data collected every ten years, specifically formatted for drawing congressional and legislative districts.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html",
+    "license": null,
+    "dataset": {
+      "name": "US Decennial Census - Redistricting data",
+      "url": "https://www.census.gov",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USEconomicCensus",
+    "name": "USEconomicCensus",
+    "description": "Comprehensive official measure of US businesses and the economy conducted every five years.",
+    "sourceDataUrl": "https://www2.census.gov/programs-surveys/economic-census/data/",
+    "prov_url": "https://www.census.gov/programs-surveys/economic-census.html",
+    "license": null,
+    "dataset": {
+      "name": "Economic Census",
+      "url": "https://www.census.gov/programs-surveys/economic-census/about.html",
+      "source": {
+        "name": "U.S. Census Bureau",
+        "url": "https://www.census.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USFEMA_FloodInsuranceClaims",
+    "name": "USFEMA_FloodInsuranceClaims",
+    "description": "Data on flood insurance claims filed under the US National Flood Insurance Program (NFIP).",
+    "sourceDataUrl": "https://www.fema.gov/about/reports-and-data/openfema/v2/FimaNfipClaimsV2.csv",
+    "prov_url": "https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2",
+    "license": "https://www.fema.gov/about/website-information#copyright",
+    "dataset": {
+      "name": "National Flood Insurance Program (NFIP)",
+      "url": "https://www.fema.gov/flood-insurance",
+      "source": {
+        "name": "Federal Emergency Management Agency",
+        "url": "https://www.fema.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USFEMA_NationalRiskIndex",
+    "name": "USFEMA_NationalRiskIndex",
+    "description": "Data assessing community risk to natural hazards, combining hazard probability with socio-economic vulnerability.",
+    "sourceDataUrl": null,
+    "prov_url": "https://hazards.fema.gov/nri/",
+    "license": "https://www.fema.gov/about/website-information#copyright",
+    "dataset": {
+      "name": "National Risk Index",
+      "url": "https://hazards.fema.gov/nri/",
+      "source": {
+        "name": "Federal Emergency Management Agency",
+        "url": "https://www.fema.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USGSWaterUse",
+    "name": "USGSWaterUse",
+    "description": "Data estimating water withdrawals by source and category of use across the United States.",
+    "sourceDataUrl": null,
+    "prov_url": "https://waterdata.usgs.gov/nwis/wu",
+    "license": null,
+    "dataset": {
+      "name": "National Water Use Data",
+      "url": "https://waterdata.usgs.gov/nwis/wu",
+      "source": {
+        "name": "United States Geological Service (USGS)",
+        "url": "https://www.usgs.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USNationalPrisonerStatistics",
+    "name": "USNationalPrisonerStatistics",
+    "description": "Data on the number of prisoners in state and federal prison facilities across the United States.",
+    "sourceDataUrl": "https://www.icpsr.umich.edu/web/NACJD/studies/38871",
+    "prov_url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269",
+    "license": "https://www.icpsr.umich.edu/web/NACJD/studies/38871",
+    "dataset": {
+      "name": "National Prisoner Statistics (NPS) Program",
+      "url": "https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps-program",
+      "source": {
+        "name": "U.S. Bureau of Justice Statistics (BJS)",
+        "url": "https://bjs.ojp.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg",
+    "name": "USNationalPrisonerStatistics_Crime_StatVarAgg",
+    "description": "Aggregated crime and incarceration variables derived from the National Prisoner Statistics program.",
+    "sourceDataUrl": "https://www.icpsr.umich.edu/web/NACJD/studies/38871",
+    "prov_url": "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269",
+    "license": "https://www.icpsr.umich.edu/web/NACJD/studies/38871",
+    "dataset": {
+      "name": "National Prisoner Statistics (NPS) Program",
+      "url": "https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps-program",
+      "source": {
+        "name": "U.S. Bureau of Justice Statistics (BJS)",
+        "url": "https://bjs.ojp.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/UnitedKingdomMHCLG_IMD2019",
+    "name": "UnitedKingdomMHCLG_IMD2019",
+    "description": "Index of Multiple Deprivation 2019 measuring relative deprivation across small areas in England.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019",
+    "license": null,
+    "dataset": {
+      "name": "IMD2019",
+      "url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019/",
+      "source": {
+        "name": "UK Ministry of Housing Communities and Local Government",
+        "url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/UniversityData",
+    "name": "UniversityData",
+    "description": "Data on US higher education institutions, including costs, graduation rates, and student demographics from the College Scorecard.",
+    "sourceDataUrl": null,
+    "prov_url": "https://collegescorecard.ed.gov",
+    "license": null,
+    "dataset": {
+      "name": "College Scorecard",
+      "url": "https://collegescorecard.ed.gov/data",
+      "source": {
+        "name": "U.S. Department of Education (ED)",
+        "url": "https://www.ed.gov/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/WikidataPopulation",
+    "name": "WikidataPopulation",
+    "description": "Population counts and demographic statistics for geographic entities extracted from Wikidata.",
+    "sourceDataUrl": null,
+    "prov_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+    "license": null,
+    "dataset": {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+      "source": {
+        "name": "Wikimedia Foundation",
+        "url": "https://wikimediafoundation.org/"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/WorldBankDatasets",
+    "name": "WorldBankDatasets",
+    "description": "Wide range of global economic, social, and environmental indicators collected by the World Bank.",
+    "sourceDataUrl": "https://api.worldbank.org/v2/en/indicator/<indicatorcode>?downloadformat=csv",
+    "prov_url": "https://databank.worldbank.org/source/world-development-indicators",
+    "license": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+    "dataset": {
+      "name": "World Bank Datasets",
+      "url": "https://data.worldbank.org",
+      "source": {
+        "name": "World Bank",
+        "url": "https://www.worldbank.org/en/home"
+      }
+    }
+  },
+  {
+    "dcid": "dc/base/WorldDevelopmentIndicators",
+    "name": "WorldDevelopmentIndicators",
+    "description": "The primary World Bank collection of development indicators encompassing global economic and social data.",
+    "sourceDataUrl": "http://api.worldbank.org/v2/en/country/AFG?downloadformat=csv",
+    "prov_url": "https://datatopics.worldbank.org/world-development-indicators/",
+    "license": "https://datacatalog.worldbank.org/search/dataset/0037712",
+    "dataset": {
+      "name": "World Development Indicators",
+      "url": "https://datacatalog.worldbank.org/search/dataset/003771",
+      "source": {
+        "name": "World Bank",
+        "url": "https://www.worldbank.org/en/home"
+      }
+    }
+  }
+]

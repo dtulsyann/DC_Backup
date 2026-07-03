@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_Dominica"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/DMA/ADM1"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the Administrative Areas 1 in Dominica."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Dominica/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

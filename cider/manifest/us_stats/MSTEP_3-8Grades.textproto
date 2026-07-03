@@ -1,0 +1,8 @@
+import: {
+  import_name: "MSTEP_3-8Grades"
+  provenance_url: "https://www.mischooldata.org"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/mstep/*.mcf"
+  import_groups: "experimental"
+  resolution_info: { uses_id_resolver: true }
+}

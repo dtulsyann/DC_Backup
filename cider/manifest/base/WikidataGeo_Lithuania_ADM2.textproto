@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Lithuania_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Municipalities_of_Lithuania"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Lithuania."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Lithuania/ADM2/wikidata_ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Lithuania/ADM2/wikidata_ADM2/LTU.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Lithuania/ADM2/wikidata_ADM2/Lithuania_ADM2-final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

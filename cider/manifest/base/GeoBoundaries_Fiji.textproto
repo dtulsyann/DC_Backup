@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_Fiji"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the Administrative Areas 1 in Fiji."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geoBoundaries/gbOpen/FJI/ADM1/Boundaryfiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

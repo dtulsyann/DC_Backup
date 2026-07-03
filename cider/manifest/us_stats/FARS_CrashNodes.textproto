@@ -1,0 +1,19 @@
+import: {
+  import_name: "FARS_CrashNodes"
+  provenance_url: "https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/"
+  category: ENTITY
+  provenance_description: "Data on fatal motor vehicle crashes in the US."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_crash/crash_nodes/20250610/nodes.mcf@23"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_crash/crash_nodes/20250610/nodes.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_crash/crash_nodes/20250610/*.csv"
+  }
+  import_groups: "infrequent"
+  import_groups: "frequent"
+  start_date_in_kg: "2001-01-01"
+  end_date_in_kg: "2023-12-31"
+  end_date_in_source: "2023-12-31"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Fatality Analysis Reporting System (FARS) Crash Data"
+}

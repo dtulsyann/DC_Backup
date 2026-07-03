@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Somalia_ADM2"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-som"
+  category: PLACE
+  provenance_description: "Includes the boundary files for Administrative Area 2 in Somalia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Somalia/Boundaryfiles_ADM2/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

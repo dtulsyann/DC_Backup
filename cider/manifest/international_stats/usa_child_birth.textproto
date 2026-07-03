@@ -1,0 +1,20 @@
+import: {
+  import_name: "usa_child_birth"
+  provenance_url: "https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm"
+  provenance_description: "State and National Provisional Birth Counts."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/usa_child_birth/graph.tfrecord@1.gz"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/usa_child_birth/Child_birth.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/usa_child_birth/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/child_birth/usa_child_birth/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/child_birth/usa_child_birth/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "State and National Provisional Birth Counts"
+}

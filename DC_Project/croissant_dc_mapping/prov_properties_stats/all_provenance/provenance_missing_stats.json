@@ -1,0 +1,142 @@
+{
+  "automaticRefreshSchedule": {
+    "present": 4,
+    "missing": 623
+  },
+  "automaticRefreshType": {
+    "present": 37,
+    "missing": 590
+  },
+  "cachedSourceDataUrl": {
+    "present": 384,
+    "missing": 243
+  },
+  "curator": {
+    "present": 627,
+    "missing": 0
+  },
+  "dataBuildGroup": {
+    "present": 626,
+    "missing": 1
+  },
+  "dataTransformationLogic": {
+    "present": 198,
+    "missing": 429
+  },
+  "description": {
+    "present": 435,
+    "missing": 192
+  },
+  "descriptionUrl": {
+    "present": 224,
+    "missing": 403
+  },
+  "earliestDataImportDate": {
+    "present": 157,
+    "missing": 470
+  },
+  "earliestObservationDate": {
+    "present": 386,
+    "missing": 241
+  },
+  "entityResolutionType": {
+    "present": 627,
+    "missing": 0
+  },
+  "importTime": {
+    "present": 627,
+    "missing": 0
+  },
+  "importedSourceReleaseDate": {
+    "present": 10,
+    "missing": 617
+  },
+  "isPartOf": {
+    "present": 618,
+    "missing": 9
+  },
+  "lastDataRefeshDate": {
+    "present": 1,
+    "missing": 626
+  },
+  "lastDataRefreshDate": {
+    "present": 446,
+    "missing": 181
+  },
+  "latestObservationDate": {
+    "present": 386,
+    "missing": 241
+  },
+  "license": {
+    "present": 424,
+    "missing": 203
+  },
+  "licenseType": {
+    "present": 430,
+    "missing": 197
+  },
+  "name": {
+    "present": 627,
+    "missing": 0
+  },
+  "nextDataRefreshDate": {
+    "present": 145,
+    "missing": 482
+  },
+  "nextSourceReleaseDate": {
+    "present": 26,
+    "missing": 601
+  },
+  "preResolutionDownloadPrefixDir": {
+    "present": 7,
+    "missing": 620
+  },
+  "preResolutionDownloadVersionFile": {
+    "present": 170,
+    "missing": 457
+  },
+  "preResolutionTableUrl": {
+    "present": 419,
+    "missing": 208
+  },
+  "processingMethod": {
+    "present": 404,
+    "missing": 223
+  },
+  "provenance": {
+    "present": 627,
+    "missing": 0
+  },
+  "provenanceCategory": {
+    "present": 627,
+    "missing": 0
+  },
+  "resolvedProtoMcfUrl": {
+    "present": 328,
+    "missing": 299
+  },
+  "resolvedTextMcfUrl": {
+    "present": 303,
+    "missing": 324
+  },
+  "source": {
+    "present": 618,
+    "missing": 9
+  },
+  "sourceDataUrl": {
+    "present": 429,
+    "missing": 198
+  },
+  "sourceReleaseFrequency": {
+    "present": 246,
+    "missing": 381
+  },
+  "typeOf": {
+    "present": 627,
+    "missing": 0
+  },
+  "url": {
+    "present": 627,
+    "missing": 0
+  }
+}

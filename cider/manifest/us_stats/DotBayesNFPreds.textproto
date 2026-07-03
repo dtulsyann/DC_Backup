@@ -1,0 +1,12 @@
+import: {
+  import_name: "DotBayesNFPreds"
+  provenance_url: "https://datacommons.org"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dcv_imputation/dot_bayesnf_preds/v1/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/dcv_imputation/dot_bayesnf_preds/v1/dot_bayesnf_preds.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/dcv_imputation/dot_bayesnf_preds/v1/dot_bayesnf_preds.csv"
+  }
+  import_groups: "experimental"
+  dataset_name: "Data Commons Imputed"
+}

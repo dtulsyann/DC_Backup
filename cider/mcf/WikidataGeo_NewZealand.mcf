@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_NewZealand
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/NZL/ADM1/20240429/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Regions_of_New_Zealand"
+lastDataRefreshDate: "2024-06-07"
+earliestDataImportDate: "2024-05-10"

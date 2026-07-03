@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_France
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-fra"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/France/ADM1/wikidata/InputFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-fra"
+lastDataRefreshDate: "2024-10-15"
+earliestDataImportDate: "2024-10-15"

@@ -1,0 +1,4 @@
+Node: dcid:dc/base/OWID_COVID19
+typeOf: dcid:Provenance
+descriptionUrl: "https://github.com/owid/covid-19-data/blob/master/public/data/README.md"
+automaticRefreshType: "NoAutomaticRefresh"

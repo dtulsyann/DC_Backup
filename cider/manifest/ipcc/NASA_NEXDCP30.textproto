@@ -1,0 +1,17 @@
+import: {
+  # NOTE: This dataset includes US county-level/city-level geos for CMIP5.
+  import_name: "NASA_NEXDCP30"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30"
+  category: STATS
+  provenance_description: "High-resolution downscaled climate projections for the United States based on IPCC CMIP5 scenarios."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/nex-dcp30/graph.tfrecord*"
+  import_groups: "ipcc"
+  start_date_in_kg: "1950"
+  end_date_in_kg: "2099"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-dcp30/ipcc_geo_resolved.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-dcp30/ipcc_geo_resolved-*-of-*"
+  }
+  dataset_name: "NEX - Downscaled Climate Projections for US from IPCC CMIP5"
+}

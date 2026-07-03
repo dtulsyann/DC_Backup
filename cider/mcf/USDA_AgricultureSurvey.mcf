@@ -1,0 +1,9 @@
+Node: dcid:dc/base/USDA_AgricultureSurvey
+typeOf: dcid:Provenance
+license : "https://www.usda.gov/open"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_usda/quickstats/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_usda/ag_survey/latest/input_files"
+sourceDataUrl : "https://quickstats.nass.usda.gov/api/"
+sourceReleaseFrequency : "P1Y"

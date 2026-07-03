@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CRDC_Education_Discipline_Attendance
+typeOf: dcid:Provenance
+license: "https://civilrightsdata.ed.gov/data"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://civilrightsdata.ed.gov/data"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/data/statvar_imports/crdc_import/README.md"
+descriptionUrl: "https://civilrightsdata.ed.gov/assets/downloads/2021-22%20Appendix%20Workbook.xlsx","https://civilrightsdata.ed.gov/assets/downloads/2020-21%20Appendix%20Workbook.xlsx","https://civilrightsdata.ed.gov/assets/for-researchers/appendix/Appendix-C-LEAs-Identified-with-Post-Submission-Data-Quality-Checks.xlsx","https://civilrightsdata.ed.gov/assets/for-researchers/appendix/2015-16-data-notes-addendum.pdf"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"
+

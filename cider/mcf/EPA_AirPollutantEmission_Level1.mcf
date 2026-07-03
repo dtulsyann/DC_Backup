@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EPA_AirPollutantEmission_Level1
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei"
+license: "https://www.epa.gov/privacy/privacy-and-security-notice"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_epa/national_emissions_inventory/README.md"
+sourceDataUrl: "https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_epa/national_emissions_inventory_level1/latest/input_files/"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

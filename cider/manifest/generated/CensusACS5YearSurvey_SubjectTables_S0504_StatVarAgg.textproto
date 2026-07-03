@@ -1,0 +1,11 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2019.S0504"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables for ACS Subject Table S0504."
+  import_groups: "uscensus"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2023"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg/20250226/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg/graph.tfrecord@1.gz"
+  dataset_name: "American Community Survey (ACS)"
+}

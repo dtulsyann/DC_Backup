@@ -1,0 +1,11 @@
+import: {
+  import_name: "OECDRegionalDemography_Person_Age_StatVarAgg"
+  provenance_url: "https://datacommons.org/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/OECDRegionalDemography_Person_Age_StatVarAgg/graph.tfrecord@1.gz"
+  import_groups: "auto1w"
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  provenance_description: "Aggregated by DataCommons."
+  category: AGGREGATED_STATS
+  dataset_name: "OECD Regional Demography Statistics"
+}

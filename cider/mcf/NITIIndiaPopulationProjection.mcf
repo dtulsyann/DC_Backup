@@ -1,0 +1,9 @@
+Node: dcid:dc/base/NITIIndiaPopulationProjection
+typeOf: dcid:Provenance
+license : "https://ndap.niti.gov.in/static/media/Gazette_Notification_OGDL.bce101da.pdf"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/datacommons_public/unresolved_mcf/india_ndap/india_population_projection/input_files/*.csv"
+sourceDataUrl : "https://ndap.niti.gov.in/dataset/7208, https://ndap.niti.gov.in/dataset/7209"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType: "NoAutomaticRefresh"

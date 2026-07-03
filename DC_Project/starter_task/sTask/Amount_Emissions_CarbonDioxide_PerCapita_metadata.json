@@ -1,0 +1,2440 @@
+{
+  "Amount_Emissions_CarbonDioxide_PerCapita": {
+    "country/ABW": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/AFG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/AGO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ALB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ARE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ARG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ARM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ASM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ATG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/AUS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/AUT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/AZE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BDI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BEL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BFA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BGD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BGR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BHR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BHS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BIH": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BLR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BLZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BMU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BOL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BRA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BRB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BRN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BTN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/BWA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CAF": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CAN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CHE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CHL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CHN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CIV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CMR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/COD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/COG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/COL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/COM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CPV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CRI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CUB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CYM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CYP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/CZE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/DEU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/DJI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/DMA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/DNK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/DOM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/DZA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ECU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/EGY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ERI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ESP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/EST": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ETH": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/FIN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/FJI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/FRA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/FRO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/FSM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GAB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GBR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GEO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GHA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GIB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GIN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GMB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GNB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GNQ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GRC": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GRD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GRL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GTM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GUM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/GUY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/HKG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/HND": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/HRV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/HTI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/HUN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/IDN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/IND": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/IRL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/IRN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/IRQ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ISL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ISR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ITA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/JAM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/JOR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/JPN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KAZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KGZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KHM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KIR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KNA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KOR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/KWT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LAO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LBN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LBR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LBY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LCA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LKA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LSO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LTU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LUX": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/LVA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MAC": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MAR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MDA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MDG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MDV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MEX": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MHL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MKD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MLI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MLT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MMR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MNG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MNP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MOZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MRT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MUS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MWI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/MYS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NAM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NCL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NER": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NGA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NIC": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NLD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NOR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NPL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NRU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/NZL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/OMN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PAK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PAN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PER": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PHL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PLW": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PNG": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/POL": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PRI": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PRK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PRT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PRY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/PYF": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/QAT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ROU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/RUS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/RWA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SAU": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SDN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SGP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SLB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SLE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SLV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SOM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/STP": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SUR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SVK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SVN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SWE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SWZ": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SYC": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/SYR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TCA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TCD": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TGO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/THA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TJK": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TKM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TLS": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TON": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TTO": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TUN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TUR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TUV": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/TZA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/UGA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/UKR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/URY": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/USA": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/UZB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/VCT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/VEN": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/VGB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/VIR": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/VNM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/VUT": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/WSM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/YEM": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ZAF": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ZMB": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ],
+    "country/ZWE": [
+      {
+        "source": "datatopics.worldbank.org",
+        "importName": "WorldDevelopmentIndicators",
+        "provenanceUrl": "https://datatopics.worldbank.org/world-development-indicators/",
+        "unit": "MetricTon",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1970",
+        "latestDate": "2024"
+      }
+    ]
+  }
+}

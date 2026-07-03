@@ -1,0 +1,17 @@
+# proto-file: datacommons/proto/dc_manifest.proto
+# proto-message: DataCommonsManifest
+import: {
+  # GeoJSONs for Australia
+  import_name: "AustraliaGeoCoordinates"
+  provenance_url: "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files"
+  category: PLACE
+
+  # GeoJsons from source
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/aus/geodata/*.mcf"
+
+  # Simplified GeoJsons for Australia with proeprties geoJsonCoordinatesDP[123]
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/aus/geodata/simplified/*.mcf"
+
+  import_groups: "place"
+  dataset_name: "Australia Subnational Administrative Boundaries"
+}

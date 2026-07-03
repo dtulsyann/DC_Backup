@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CensusCountyBusinessPatterns
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+descriptionUrl: "https://www.census.gov/programs-surveys/cbp/guidance.html"
+processingMethod : dcs:CustomScript
+sourceDataUrl: "https://www.census.gov/data/datasets/{year}/econ/cbp/{year}-cbp.html"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType: dcs:GCPCloudRunAutomaticRefresh
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/CensusCountyBusinessPatterns/input_files/"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/census_county_business_patterns/README.md"

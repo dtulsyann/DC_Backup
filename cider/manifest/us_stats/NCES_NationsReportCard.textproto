@@ -1,0 +1,13 @@
+import {
+  import_name: "NCES_NationsReportCard"
+  provenance_url: "https://nces.ed.gov/nationsreportcard/"
+  category: STATS
+  provenance_description: "National educational performance - Assessement score data across different grades, subjects and student categories (such as race, disability, etc)."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_nces/performance/nces_naep/output/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_nces/performance/nces_naep/output/naep_performance.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_nces/performance/nces_naep/output/naep_performance.csv"
+  }
+  import_groups: "infrequent"
+  dataset_name: "Nations Report Card"
+}

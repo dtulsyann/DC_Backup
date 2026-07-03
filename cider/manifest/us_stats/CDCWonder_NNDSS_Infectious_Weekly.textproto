@@ -1,0 +1,13 @@
+import: {
+  import_name: "CDCWonder_NNDSS_Infectious_Weekly"
+  provenance_url: "https://data.cdc.gov/api/views/x9gk-5huc/rows.csv?accessType=DOWNLOAD&api_foundry=true"
+  category: STATS
+  provenance_description: "Notifiable Infectious Diseases Data: Weekly tables from CDC WONDER which has the incident counts of different infectious diseases per week that are reported by the 50 states, New York City, the District of Columbia, and the U.S. territories. "
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/nndss_infectious_diseases_weekly/20260418/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nndss_infectious_diseases_weekly/20260418/nndss_weekly_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nndss_infectious_diseases_weekly/20260418/nndss_weekly_output.csv"
+  }
+  import_groups: "auto2w"
+  dataset_name: "National Notifiable Diseases Surveillance System (NNDSS)"
+}

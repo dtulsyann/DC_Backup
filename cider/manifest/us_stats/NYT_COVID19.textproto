@@ -1,0 +1,26 @@
+import: {
+  # Reuse branch MCF path for freshest data in base cache.
+  #
+  # If this import requires a schema change: remove /branch from this path
+  # to point at /cns/jv-d/home/datcom/v3_resolved_mcf/nyt_covid19/*.mcf until
+  # both base and branch have been updated in prod.
+  import_name: "NYT_COVID19"
+  provenance_url: "https://www.nytimes.com/article/coronavirus-county-data-us.html"
+  category: STATS
+  provenance_description: "Historical daily statistics on COVID-19 cases and deaths in the United States compiled by The New York Times."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nyt_covid19/branch/cohortsets.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nyt_covid19/branch/us.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nyt_covid19/branch/us-counties.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nyt_covid19/branch/us-states.mcf"
+  import_groups: "dcbranch"
+  import_groups: "frequent"
+  start_date_in_kg: "2020-01-21"
+  release_frequency: "P1D"
+  data_download_url: "https://github.com/nytimes/covid-19-data/"
+  automated_mcf_generation_by: "dcbranch"
+  resolution_info: {
+    uses_id_resolver: true
+    unresolved_mcf_urls: "/cns/jv-d/home/datcom/v3_mcf/nyt_covid19/branch/*.mcf"
+  }
+  dataset_name: "Coronavirus (Covid-19) Data in the United States"
+}

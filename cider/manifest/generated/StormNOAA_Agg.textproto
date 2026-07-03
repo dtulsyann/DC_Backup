@@ -1,0 +1,14 @@
+import: {
+  import_name: "StormNOAA_Agg"
+  provenance_url: "https://www.ncdc.noaa.gov/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/StormNOAA/20250926/StormNOAA_Agg/graph.tfrecord@1.gz"
+  import_groups: "disaster"
+  import_groups: "laelaps"
+  start_date_in_kg: "1950"
+  end_date_in_kg: "2024"
+  # Instance data is updated monthly, DC aggregates monthly and yearly.
+  release_frequency: "P1M"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistics and frequency counts of severe weather events recorded in the NOAA Storm Events Database."
+  dataset_name: "National Climatic Data Center Storm Events Database"
+}

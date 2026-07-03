@@ -1,0 +1,13 @@
+import {
+  import_name: "Company_FIGI"
+  provenance_url: "https://www.openfigi.com/"
+  category: ENTITY
+  provenance_description: "OpenFIGI is an open system for identifying instruments globally across all asset classes using a free Financial Instrument Global Identifier (FIGI)."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/figi/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/figi/figi_company.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/figi/figi_company.csv"
+  }
+  import_groups: "country"
+  dataset_name: "FIGI"
+}

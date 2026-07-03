@@ -1,0 +1,9 @@
+Node:dcid:dc/base/IndiaNSS_HealthAilments
+typeOf:dcs:Provenance
+licenseType:dcs:PublicDomain
+processingMethod:dcs:StatVarProcessor
+license:"https://ndap.niti.gov.in/info?tab=termsandconditions"
+dataTransformationLogic:"https://github.com/datacommonsorg/data/tree/master/statvar_imports/india_nss/README.md"
+sourceDataUrl:"https://ndap.niti.gov.in/dataset/7300"
+sourceReleaseFrequency:"P5Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

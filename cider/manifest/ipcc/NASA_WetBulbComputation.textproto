@@ -1,0 +1,9 @@
+import: {
+  import_name: "NASA_WetBulbComputation"
+  provenance_url: "https://datacommons.org/"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dc_aggregate/WetBulb_2021-10-30/wet_bulb_calculator.mcf@337"
+  import_groups: "ipcc"
+  provenance_description: "Computed by DataCommons, according to https://journals.ametsoc.org/view/journals/apme/50/11/jamc-d-11-0143.1.xml."
+  category: AGGREGATED_STATS
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP5"
+}

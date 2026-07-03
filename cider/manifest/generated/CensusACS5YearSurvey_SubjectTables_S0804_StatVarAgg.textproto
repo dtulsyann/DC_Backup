@@ -1,0 +1,9 @@
+import {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg"
+  provenance_url: "https://data.census.gov/table/ACSST5Y2022.S0804"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated statistical variables for ACS Subject Table S0804 (Means of Transportation to Work)."
+  import_groups: "uscensus"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusACS5YearSurvey_SubjectTables_S0804/20250219/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg/graph.tfrecord@1.gz"
+  dataset_name: "American Community Survey (ACS)"
+}

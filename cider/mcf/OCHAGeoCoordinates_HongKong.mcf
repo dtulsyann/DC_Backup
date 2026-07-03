@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_HongKong
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/HongKong/wikidata/input_files/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-hkg"
+lastDataRefreshDate: "2024-07-01"
+earliestDataImportDate: "2024-07-01"

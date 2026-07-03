@@ -1,0 +1,403 @@
+# proto-file: datacommons/proto/dc_manifest.proto
+# proto-message: DataCommonsManifest
+#
+# BIO/BIOMEDICAL DATASETS
+# -----------------------
+#
+import: {
+  import_name: "ABCDAntibodyAtlas"
+  provenance_url: "https://web.expasy.org/abcd/"
+  category: ENTITY
+  provenance_description: "The ABCD (AntiBodies Chemically Defined) database is a repository of sequenced antibodies, integrating curated information about the antibody and its antigen with cross-links to standardized databases of chemical and protein entities."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/abcd_antibody_atlas/AntibodyABCDData.mcf"
+  import_groups: "experimental"
+}
+import: {
+  import_name: "ATC_Codes"
+  dataset_name: "ATC Codes"
+  provenance_url: "https://www.whocc.no/atc_ddd_index/"
+  category: ENTITY
+  import_groups: "experimental"
+  next_release_date: "2025-02-01"
+  release_frequency: "P1Y"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/who/atc_codes_3/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/who/atc_codes_3/atc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/who/atc_codes_3/atc.csv"
+  }
+}
+import: {
+  import_name: "DiseasesJensenLab"
+  dataset_name: "DISEASES"
+  provenance_url: "https://diseases.jensenlab.org/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_2/codingGenes-knowledge/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_2/codingGenes-textmining/nodes.mcf@7"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_2/experiment/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_2/nonCodingGenes-knowledge/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/DISEASES_2/nonCodingGenes-textmining/nodes.mcf@1"
+  import_groups: "biomedical"
+  next_release_date: "2024-03-11"
+  release_frequency: "P1W"
+  # Next release: https://github.com/spiekos/data/blob/diseasesAtJensenLab/scripts/biomedical/diseasesAtJensenLab/
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/codingGenes-knowledge/codingGenes-knowledge.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/codingGenes-knowledge/codingGenes-knowledge.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/codingGenes-textmining/codingGenes-textmining.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/codingGenes-textmining/codingGenes-textmining.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/experiment/experiment.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/experiment/codingGenes-experiments.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/nonCodingGenes-knowledge/nonCodingGenes-knowledge.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/nonCodingGenes-knowledge/nonCodingGenes-knowledge.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/nonCodingGenes-textmining/nonCodingGenes-textmining.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/DISEASES_2/nonCodingGenes-textmining/nonCodingGenes-textmining.csv"
+  }
+}
+import: {
+  import_name: "DiseaseOntology"
+  dataset_name: "Disease Ontology"
+  provenance_url: "https://disease-ontology.org"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/disease/diseaseOntology3/nodes.mcf@1"
+  import_groups: "biomedical"
+  next_release_date: "2023-08"
+  release_frequency: "P1M"
+  # Next release: https://github.com/DiseaseOntology/HumanDiseaseOntology/tree/main/src/ontology
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/disease/diseaseOntology3/disease_ontology.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/disease/diseaseOntology3/disease_ontology.csv"
+  }
+}
+import: {
+  import_name: "ENCODE"
+  provenance_url: "https://www.encodeproject.org/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/encode/*.mcf"
+  import_groups: "biomedical"
+  dataset_name: "Experimental Data"
+}
+import: {
+  import_name: "HumanProteinAtlas"
+  provenance_url: "https://www.proteinatlas.org"
+  category: ENTITY
+  provenance_description: "Information about the occurrence of proteins in human cells, tissues and organs."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/protein_atlas/ProteinAtlasData.mcf"
+  import_groups: "biomedical"
+  dataset_name: "The Tissue Atlas"
+}
+import: {
+  import_name: "ICTV_MasterSpeciesList"
+  dataset_name: "Master Species List"
+  provenance_url: "https://ictv.global/msl"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/taxonomy/ictv3/VirusSpecies/nodes.mcf@1"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusSpecies/VirusSpecies.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusSpecies/VirusSpecies.csv"
+  }
+}
+import: {
+  import_name: "ICTV_VirusMetadataResource"
+  dataset_name: "Virus Metadata Resource"
+  provenance_url: "https://ictv.global/vmr"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/taxonomy/ictv3/VirusIsolates/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/taxonomy/ictv3/VirusGenomeSegments/nodes.mcf@1"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusIsolates/VirusIsolates.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusIsolates/VirusIsolates.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusGenomeSegments/VirusGenomeSegments.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/taxonomy/ictv3/VirusGenomeSegments/VirusGenomeSegments.csv"
+  }
+}
+import: {
+  import_name: "MedicalSubjectHeadings"
+  dataset_name: "Medical Subject Headings (MeSH)"
+  provenance_url: "https://meshb.nlm.nih.gov/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_concept/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_concept_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_term/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_term_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_descriptor/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_record/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_concept/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_concept_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_qualifier/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_term/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_record/nodes.mcf@1"
+  next_release_date: "2025-01-01"
+  release_frequency: "P1Y"
+  # Next release: https://www.nlm.nih.gov/databases/download/mesh.html
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept/mesh_desc_concept.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept/mesh_desc_concept.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept_mapping/mesh_desc_concept_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept_mapping/mesh_desc_concept_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor/mesh_desc_descriptor.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor/mesh_desc_descriptor.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor_mapping/mesh_desc_descriptor_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor_mapping/mesh_desc_descriptor_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier/mesh_desc_qualifier.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier/mesh_desc_qualifier.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier_mapping/mesh_desc_qualifier_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier_mapping/mesh_desc_qualifier_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term/mesh_desc_term.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term/mesh_desc_term.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term_mapping/mesh_desc_term_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term_mapping/mesh_desc_term_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_descriptor/mesh_pharmacological_action_descriptor.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_descriptor/mesh_pharmacological_action_descriptor.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_record/mesh_pharmacological_action_record.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_record/mesh_pharmacological_action_record.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept/mesh_qual_concept.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept/mesh_qual_concept.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept_mapping/mesh_qual_concept_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept_mapping/mesh_qual_concept_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_qualifier/mesh_qual_qualifier.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_qualifier/mesh_qual_qualifier.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_term/mesh_qual_term.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_term/mesh_qual_term.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_record/mesh_record.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_record/mesh_record.csv"
+  }
+}
+import: {
+  import_name: "MolecularINTeractionDatabase"
+  provenance_url: "https://mint.bio.uniroma2.it/"
+  category: ENTITY
+  provenance_description: "Curated protein-protein interactions collected from the literature."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/chemicalCompound/MINT/*.mcf"
+  import_groups: "biomedical"
+  dataset_name: "The Molecular INTeraction (MINT) Database"
+}
+import: {
+  import_name: "NCBI_Taxonomy"
+  dataset_name: "NCBI Taxonomy"
+  provenance_url: "https://www.ncbi.nlm.nih.gov/taxonomy/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/ncbi/taxonomy/nodes.mcf@1"
+  release_frequency: "P1D"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/taxonomy/ncbi_taxonomy.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/ncbi/taxonomy/ncbi_taxonomy.csv"
+  }
+}
+import: {
+  import_name: "NYBG"
+  provenance_url: "https://nybg.org"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nybg/*.mcf"
+  import_groups: "experimental"
+  dataset_name: "C. V. Starr Virtual Herbarium (Collaboration)"
+}
+import: {
+  import_name: "PharmGKB_Primary_Data"
+  dataset_name: "PharmGKB Primary Data"
+  provenance_url: "https://www.pharmgkb.org/"
+  category: ENTITY
+  import_groups: "biomedical"
+  release_frequency: "P1M"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/chemicals/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/drugs/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/genes/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/phenotypes/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/variants/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/chemicals/chemicals.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/chemicals/chemicals.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/drugs/drugs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/drugs/drugs.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/genes/genes.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/genes/genes.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/phenotypes/phenotypes.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/phenotypes/phenotypes.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/variants/variants.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/variants/variants.csv"
+  }
+}
+import: {
+  import_name: "PharmGKB_Relationships"
+  dataset_name: "PharmGKB Relationships Data"
+  provenance_url: "https://www.pharmgkb.org/"
+  category: ENTITY
+  import_groups: "biomedical"
+  release_frequency: "P1M"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/chem_chem/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/chem_gene/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/chem_variant/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/disease_disease/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/disease_gene/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/disease_variant/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/gene_gene/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/gene_variant/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_2/relationships/variant_variant/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/chem_chem/chem_chem_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/chem_chem/chem_chem_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/chem_gene/chem_gene_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/chem_gene/chem_gene_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/chem_variant/chem_variant_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/chem_variant/chem_variant_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/disease_disease/disease_disease_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/disease_disease/disease_disease_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/disease_gene/disease_gene_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/disease_gene/disease_gene_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/disease_variant/disease_variant_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/disease_variant/disease_variant_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/gene_gene/gene_gene_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/gene_gene/gene_gene_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/gene_variant/gene_variant_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/gene_variant/gene_variant_assoc.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/variant_variant/variant_variant_assoc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_2/relationships/variant_variant/variant_variant_assoc.csv"
+  }
+}
+import: {
+  import_name: "PubChem"
+  dataset_name: "PubChem"
+  provenance_url: "https://pubchem.ncbi.nlm.nih.gov/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/pubChem/chembl_pubChem_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/pubChem/mesh_pubchem_mapping_3/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/chembl_pubChem_mapping/chembl_pubchem_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/chembl_pubChem_mapping/chembl_pubchem_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/mesh_pubchem_mapping_3/mesh_pubchem_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/pubChem/mesh_pubchem_mapping_3/mesh_pubchem_mapping.csv"
+  }
+}
+import: {
+  import_name: "SIDER"
+  dataset_name: "Side Effect Resource (SIDER) 4.1"
+  provenance_url: "http://sideeffects.embl.de/"
+  category: ENTITY
+  import_groups: "experimental"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/jensen_lab/sider/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/sider/sider.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/jensen_lab/sider/sider.csv"
+  }
+}
+import: {
+  import_name: "The_Sequence_Ontology"
+  dataset_name: "The Sequence Ontology"
+  provenance_url: "http://www.sequenceontology.org/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/genomeAnnotation/The_Sequence_Ontology/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/genomeAnnotation/The_Sequence_Ontology/the_sequence_ontology.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/genomeAnnotation/The_Sequence_Ontology/the_sequence_ontology.csv"
+  }
+}
+import: {
+  import_name: "UniProt"
+  provenance_url: "https://www.uniprot.org/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/chemicalCompound/protein/*.mcf"
+  import_groups: "biomedical"
+  dataset_name: "UniProt"
+  release_frequency: "P8W"
+}
+import: {
+  import_name: "USAN_Stems"
+  dataset_name: "USAN Stems"
+  provenance_url: "https://www.ama-assn.org/about/united-states-adopted-names/united-states-adopted-names-approved-stems"
+  category: ENTITY
+  import_groups: "experimental"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/usan/usan_stems_3/nodes.mcf@1"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/usan/usan_stems_3/usan.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/usan/usan_stems_3/usan.csv"
+  }
+}

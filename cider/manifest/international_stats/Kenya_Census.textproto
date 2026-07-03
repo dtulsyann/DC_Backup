@@ -1,0 +1,19 @@
+import {
+  import_name: "Kenya_Census"
+  provenance_url: "https://kenya.opendataforafrica.org/"
+  category: STATS
+  provenance_description: "Kenya Demographics, Health and Education data from Kenya National Bureau Of Statistics by country, county and towns and suburbs."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/kenya/output_files_20230719/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/kenya/output_files_20230719/common_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/kenya/output_files_20230719/*.csv"
+  }
+  # date : 14-03-25
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/kenya/20250326/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/kenya/20250326/tdxdksf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/kenya/20250326/*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "Kenya Census"
+}

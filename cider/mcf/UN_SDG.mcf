@@ -1,0 +1,7 @@
+Node: dcid:dc/base/UN_SDG
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2024-05-08"
+descriptionUrl: "https://unstats.un.org/sdgs/metadata/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+automaticRefreshType: "NoAutomaticRefresh"

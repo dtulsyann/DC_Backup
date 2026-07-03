@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_Guinea"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the regions(Administrative Area 1 division) of Guinea."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Guinea/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

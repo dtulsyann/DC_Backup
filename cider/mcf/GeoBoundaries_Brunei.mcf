@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Brunei
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/BRN/ADM1/"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/BRN/ADM1/20240617/sourceFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/BRN/ADM1"
+lastDataRefreshDate: "2024-06-19"
+earliestDataImportDate: "2024-06-19"

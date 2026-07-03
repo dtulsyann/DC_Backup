@@ -1,0 +1,24 @@
+import: {
+  import_name: "BLS_JOLTS"
+  provenance_url: "https://www.bls.gov/jlt/"
+  provenance_description: "U.S. Bureau of Labor Statistics data on job openings, hires, and separations."
+  data_download_url: "https://download.bls.gov/pub/time.series/jt/jt.data.1.AllItems"
+  category: STATS
+  import_groups: "infrequent"
+  import_groups: "auto1w"
+  import_groups: "laelaps"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1M"
+  resolution_info: { uses_id_resolver: true }
+  #processingScript: "https://github.com/datacommonsorg/data/tree/master/scripts/us_bls/jolts"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/jolts/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/jolts/latest/BLSJolts.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/jolts/latest/BLSJolts_StatisticalVariables.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_bls/jolts/BLS_JOLTS/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_bls/jolts/BLS_JOLTS/import_metadata_mcf.mcf"
+  dataset_name: "Job Openings and Labor Turnover Survey"
+}

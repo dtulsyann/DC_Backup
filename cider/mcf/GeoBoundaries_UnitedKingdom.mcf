@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_UnitedKingdom
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/GBR/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/United_Kingdom/ADM1/InputFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/GBR/ADM1"
+lastDataRefreshDate: "2024-10-16"
+earliestDataImportDate: "2024-10-16"

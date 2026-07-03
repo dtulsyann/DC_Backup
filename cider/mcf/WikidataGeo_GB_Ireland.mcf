@@ -1,0 +1,9 @@
+Node: dcid:dc/base/WikidataGeo_GB_Ireland
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Ireland/ADM1"
+sourceDataUrl : "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+lastDataRefreshDate: "2024-07-14"
+earliestDataImportDate: "2024-07-14"

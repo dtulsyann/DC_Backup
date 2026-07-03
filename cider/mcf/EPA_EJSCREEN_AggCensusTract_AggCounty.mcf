@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty
+typeOf: dcid:Provenance
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_epa/ejscreen/README.md"
+sourceDataUrl: "https://zenodo.org/records/14767363"
+lastDataRefreshDate: "2024-04-22"
+descriptionUrl: "https://gaftp.epa.gov/ejscreen/2023/2.22_September_UseMe/EJSCREEN_2023_BG_Columns.xlsx "
+cachedSourceDataUrl: "https://console.cloud.google.com/datacommons_public/unresolved_mcf/epa/ejscreen/latest/input_files.zip"
+automaticRefreshType: "NoAutomaticRefresh"
+

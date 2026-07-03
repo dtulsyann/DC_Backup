@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_OCHA_Ireland"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the counties(Administrative Area 1 division) of Ireland."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Ireland/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Ireland/wikidata/Ireland.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Ireland/wikidata/IRL_ADM1_sheet-final-OCHA.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

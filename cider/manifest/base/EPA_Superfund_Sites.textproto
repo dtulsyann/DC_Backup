@@ -1,0 +1,13 @@
+import: {
+  import_name: "EPA_Superfund_Sites"
+  provenance_url: "https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=33cebcdfdd1b4c3a8b51d416956c41f1"
+  category: PLACE
+  provenance_description: "EPA Superfund National Priorities List (NPL) Sites with Status Information rendered on a map"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/superfund/sites/nodes.mcf@1"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/sites/superfund_sites.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/sites/superfund_sites.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Superfund Sites"
+}

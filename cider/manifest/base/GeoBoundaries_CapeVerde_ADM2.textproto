@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_CapeVerde_ADM2"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/CPV/ADM2"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the Administrative Area 2 divisions of Cape Verde."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/CapeVerde/ADM2/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

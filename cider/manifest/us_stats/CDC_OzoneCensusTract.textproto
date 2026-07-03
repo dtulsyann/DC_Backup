@@ -1,0 +1,21 @@
+import: {
+  import_name: "CDC_OzoneCensusTract"
+  provenance_url: "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology"
+  category: STATS
+  provenance_description: "The air quality data comes from the CDC and the EPA. The datasets contain modeled predictions of PM2.5 and ozone levels from the EPA's Downscaler model. According to the CDC, these data are used by the CDC's National Environmental Public Health Tracking Network to generate air quality measures."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/environmental/CDC_OzoneCensusTract/latest/graph.tfrecord@74.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/CDC_OzoneCensusTract/latest/OzoneCensusTractPollution.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/CDC_OzoneCensusTract/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/environmental_health_toxicology/CDC_OzoneCensusTract/latest_version.txt"
+    }
+  }
+  import_groups: "auto1w"
+  # TODO(b/407941325): Disabling autorefresh until size issue is fixed in import automation
+  # automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Environmental Health Toxicology"
+}
+

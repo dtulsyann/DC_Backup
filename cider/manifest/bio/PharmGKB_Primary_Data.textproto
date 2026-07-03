@@ -1,0 +1,44 @@
+import: {
+  import_name: "PharmGKB_Primary_Data"
+  dataset_name: "PharmGKB Primary Data"
+  provenance_url: "https://www.pharmgkb.org/"
+  category: ENTITY
+  import_groups: "biomedical"
+  release_frequency: "P1M"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/primary_data/chemicals/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/primary_data/drugs/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/primary_data/genes/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/primary_data/phenotypes/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/primary_data/phenotypes_mesh_qualifier/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/primary_data/phenotypes_mesh_supplementary_concept_record/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/pharmGKB_3/primary_data/variants/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/chemicals/chemicals.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/chemicals/chemicals.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/drugs/drugs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/drugs/drugs.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/genes/genes.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/genes/genes.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/phenotypes/phenotypes.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/phenotypes/phenotypes.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/phenotypes_mesh_qualifier/phenotypes_mesh_qualifier.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/phenotypes_mesh_qualifier/phenotypes_mesh_qualifier.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/phenotypes_mesh_supplementary_concept_record/phenotypes_mesh_supplementary_concept_record.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/phenotypes_mesh_supplementary_concept_record/phenotypes_mesh_supplementary_concept_record.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/variants/variants.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/pharmGKB_3/primary_data/variants/variants.csv"
+  }
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/NCES_Bachelors_Degree_By_Field_Import
+typeOf: dcid:Provenance
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://nces.ed.gov/programs/digest/d23/tables/dt23_322.50.asp"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/nces/nces_bachelors_degree_by_field/latest/input_files"
+descriptionUrl: "https://ies.ed.gov/about"
+license : "https://nces.ed.gov/about/public-access-research"
+licenseType : dcid:PublicDomain
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_bachelors_degree_data/nces_bachelors_degree_by_field_import/README.md"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,15 @@
+import: {
+  import_name: "S2Cells"
+  provenance_url: "https://s2geometry.io/resources/s2cell_statistics.html"
+  category: PLACE
+  # This is a set of partial S2Cells at specific levels.
+  # - At levels 7, 8, 9, 11 covering Norway sea for Tidal exploration
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/s2cells/partial/*.mcf"
+  # This is a full set of Level10 with containment in AA2, AA1 and country
+  # computed from Maps API.
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/s2cells/level10/nodes.mcf@10"
+  # This is a full set of Level10 with containment in AA1 (for select
+  # countries) and country computed from GeoJSON overlap.
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/s2cells/level10_containment/nodes.mcf@13"
+  import_groups: "place"
+}

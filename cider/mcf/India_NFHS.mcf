@@ -1,0 +1,9 @@
+Node: dcid:dc/base/India_NFHS
+typeOf: dcs:Provenance
+license : "https://ndap.niti.gov.in/info?tab=termsandconditions"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ind_nfhs/20240523/20240705"
+sourceDataUrl : "https://ndap.niti.gov.in/dataset/6821"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/india_nfhs/README.md"

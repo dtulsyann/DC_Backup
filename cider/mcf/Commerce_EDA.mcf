@@ -1,0 +1,8 @@
+Node: dcid:dc/base/Commerce_EDA
+typeOf: dcid:Provenance
+license: "https://www.commerce.gov/about/policies/accessibility"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_eda/Investment_Jobs/"
+automaticRefreshType: "GCPCloudRunSemiAutomaticRefresh"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/commerce_eda/README.md"

@@ -1,0 +1,11 @@
+import: {
+  import_name: "FireWFIGS_Agg"
+  provenance_url: "https://data-nifc.opendata.arcgis.com/datasets/nifc::wfigs-wildland-fire-locations-full-history/about"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/FireWFIGS_Agg/graph.tfrecord@1.gz"
+  import_groups: "experimental"
+  provenance_description: "Data from the Wildland Fire Interagency Geospatial Services (WFIGS) Group aggregated by Data Commons.. WFIGS provides authoritative geospatial data products under the interagency Wildland Fire Data Program."
+  start_date_in_kg: "2014"
+  end_date_in_kg: "2022"
+  category: AGGREGATED_STATS
+  dataset_name: "WFIGS Wildland Fire Locations"
+}

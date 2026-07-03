@@ -1,0 +1,20 @@
+import: {
+  import_name: "NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+  import_groups: "ipcc"
+  provenance_description: "Aggregated by DataCommons."
+  category: STATS
+  # Histogram pdf diffs:
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/nex-gddp-cmip6/pdf_diffs/2023-08-24/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/pdf_diffs/2023-08-24/ipcc_pdf_diffs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/pdf_diffs/2023-08-24/temperature_diffs_pdfs_08_24_2023.csv"
+  }
+  # GMM pdf diffs:
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/nex-gddp-cmip6/pdf_diffs/2023-12-27/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/pdf_diffs/2023-12-27/ipcc_pdf_diffs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/pdf_diffs/2023-12-27/gmm_temp_pdf_diffs_12_27_2023.csv"
+  }
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP6"
+}

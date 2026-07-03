@@ -1,0 +1,9 @@
+import: {
+  import_name: "HumanProteinAtlas"
+  provenance_url: "https://www.proteinatlas.org"
+  category: ENTITY
+  provenance_description: "Information about the occurrence of proteins in human cells, tissues and organs."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/protein_atlas/ProteinAtlasData.mcf"
+  import_groups: "biomedical"
+  dataset_name: "The Tissue Atlas"
+}

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Singapore_Census
+typeOf: dcid:Provenance
+license: "https://data.gov.sg/open-data-licence"
+licenseType: dcid:CreativeCommonsAttributionShareAlikeLicenseSingapore
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/singapore_census/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/singapore/latest/input_files.zip"
+sourceDataUrl: "https://tablebuilder.singstat.gov.sg/"
+sourceReleaseFrequency: "P1Y"
+descriptionUrl: "https://dsbb.imf.org/sdds/dqaf-base/country/SGP/category/POP00"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

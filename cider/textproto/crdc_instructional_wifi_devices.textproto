@@ -1,0 +1,20 @@
+import: {
+  import_name: "crdc_instructional_wifi_devices"
+  provenance_url: "https://civilrightsdata.ed.gov/data"
+  provenance_description: "The Civil Rights Data Collection (CRDC) has released data concerning the total number of devices (computers, laptops, tablets, etc.) that can connect via Wi-Fi and are used by students for instructional purposes"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/us_education/crdc/instructional_wifi_devices/latest/output/graph.tfrecord@1.gz"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/crdc/instructional_wifi_devices/latest/output/instructional_wifi_devices.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/crdc/instructional_wifi_devices/latest/output/instructional_wifi_devices.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/crdc/instructional_wifi_devices/crdc_instructional_wifi_devices/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/crdc/instructional_wifi_devices/crdc_instructional_wifi_devices/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "crdc instructional wifi devices"
+}

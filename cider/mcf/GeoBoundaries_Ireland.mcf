@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Ireland
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/IRL/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/IRL/ADM1"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/IRL/ADM1"
+lastDataRefreshDate: "2024-07-14"
+earliestDataImportDate: "2024-07-14"

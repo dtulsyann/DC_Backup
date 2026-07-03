@@ -1,0 +1,15 @@
+import {
+  import_name: "India_GeoSadak"
+  provenance_url: "https://geosadak-pmgsy.nic.in/"
+  category: STATS
+  provenance_description: "Data about civic structure facilities for India from GeoSadak PMGSY National GIS at district level"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_geosadak/output_files/GeoSadakFiles/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_geosadak/output_files/GeoSadakFiles/India_GeoSadak.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_geosadak/output_files/GeoSadakFiles/India_GeoSadakFinal.csv"
+  }
+  import_groups: "infrequent"
+  start_date_in_kg: "2022"
+  end_date_in_kg: "2022"
+  dataset_name: "India GeoSadak"
+}

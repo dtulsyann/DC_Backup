@@ -1,0 +1,11 @@
+Node: dcid:dc/base/USCensusPEP_By_SexRaceHispanicOrigin
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/section-508.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_census/pep/pep_by_srh/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_census/pep/USCensusPEP_By_SRH/20241017/configs/"
+sourceDataUrl: "https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/"
+sourceReleaseFrequency: "P1Y"
+descriptionUrl: "https://www.census.gov/programs-surveys/gus/data/publicusefiles.html"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

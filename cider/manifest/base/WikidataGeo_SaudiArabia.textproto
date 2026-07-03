@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_SaudiArabia"
+  provenance_url: "https://en.wikipedia.org/wiki/Provinces_of_Saudi_Arabia"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 1 divisions of Saudi Arabia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/SaudiArabia/ADM1/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/SaudiArabia/ADM1/wikidata/sau.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/SaudiArabia/ADM1/wikidata/Saudi_Arabia-final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

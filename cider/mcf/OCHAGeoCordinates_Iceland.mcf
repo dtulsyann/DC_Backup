@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Iceland
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/whosonfirst-data-admin-isl"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Iceland/sourceFiles/inputFiles"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-isl"
+lastDataRefreshDate: "2024-06-30"
+earliestDataImportDate: "2024-06-30"

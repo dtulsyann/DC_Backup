@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Bahamas
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/BHS/ADM1/"
+licenseType : dcid:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/BHS/ADM1/20240624/source_files/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/BHS/ADM1"
+lastDataRefreshDate: "2024-06-25"
+earliestDataImportDate: "2024-06-25"

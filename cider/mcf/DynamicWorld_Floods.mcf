@@ -1,0 +1,10 @@
+Node: dcid:dc/base/DynamicWorld_Floods
+typeOf: dcid:Provenance
+license: "https://creativecommons.org/licenses/by/4.0/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/floods/dynamic_world/csv/"
+sourceDataUrl: "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+lastDataRefreshDate: "2022-11-24"
+descriptionUrl: "https://www.nature.com/articles/s41597-022-01307-4"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Niger
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/faqs/licenses"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Niger/BoundaryFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/whosonfirst-data-admin-ner"
+lastDataRefreshDate: "2024-05-29"
+earliestDataImportDate: "2024-05-10"

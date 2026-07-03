@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Greenland
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Greenland/wikidata/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Administrative_divisions_of_Greenland"
+lastDataRefreshDate: "2024-06-26"
+earliestDataImportDate: "2024-06-26"

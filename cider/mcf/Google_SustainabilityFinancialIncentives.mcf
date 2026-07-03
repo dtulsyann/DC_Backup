@@ -1,0 +1,9 @@
+Node: dcid:dc/base/Google_SustainabilityFinancialIncentives
+typeOf: dcid:Provenance
+license: "https://creativecommons.org/publicdomain/zero/1.0/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+#dataTransformationLogic: "https://docs.google.com/spreadsheets/d/1tRfxz3kgm2hlJ_YIs4hz21cbcX8QOX8ATeKPszkvf4o/edit?resourcekey=0-3HLzJM3eBXYopu0iWdPOMg&gid=1442171803#gid=1442171803"
+sourceDataUrl: "https://storage.googleapis.com/datacommons_public/source_csv/sustainability_financial_incentives/2025_06_16/financial_incentives_prod_data.textproto"
+sourceReleaseFrequency: "P1M"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

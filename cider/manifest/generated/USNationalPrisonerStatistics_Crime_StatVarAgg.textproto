@@ -1,0 +1,9 @@
+import {
+  import_name: "USNationalPrisonerStatistics_Crime_StatVarAgg"
+  provenance_url: "https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated crime and incarceration variables derived from the National Prisoner Statistics program."
+  import_groups: "auto2w"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/USNationalPrisonerStatistics_Crime_StatVarAgg/graph.tfrecord@1.gz"
+  dataset_name: "National Prisoner Statistics (NPS) Program"
+}

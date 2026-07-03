@@ -1,0 +1,21 @@
+import: {
+  import_name: "BLS_CPI_Category"
+  provenance_url: "https://www.bls.gov/cpi/tables/supplemental-files/"
+  category: STATS
+  provenance_description: "Consumer Price Index (CPI) data broken down by spending category, tracking inflation and price changes over time."
+  data_download_url: "https://www.bls.gov/cpi/tables/supplemental-files/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/cpi_category/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/cpi_category/latest/cpi_u.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/cpi_category/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/cpi_category/BLS_CPI_Category/latest_version.txt"
+    }
+  }
+  import_groups: "searchaim"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1M"
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/cpi_category/BLS_CPI_Category/import_metadata_mcf.mcf"
+  dataset_name: "Consumer Price Index by Category"
+}

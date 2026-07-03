@@ -1,0 +1,5 @@
+Node: dcid:dc/base/NYT_COVID19
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2024-12-17"
+descriptionUrl: "https://www.nytimes.com/interactive/2021/us/covid-cases.html?pgtype=Article&action=click&module=RelatedLinks"
+automaticRefreshType: "NoAutomaticRefresh"

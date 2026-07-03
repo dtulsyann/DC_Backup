@@ -1,0 +1,25 @@
+import {
+  import_name: "Brazil_SIDRA_IBGE"
+  provenance_url: "https://sidra.ibge.gov.br/home/pnadct"
+  category: STATS
+  provenance_description: "Population Census on Economy Statistics for Brazil at country and state level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/brazil/Brazil_SDG/sidra_ibge/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/Brazil_SDG/sidra_ibge/Sidra_IBGE_common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/Brazil_SDG/sidra_ibge/*/BRA*.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/brazil/Brazil_SDG/sidra_ibge/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/Brazil_SDG/sidra_ibge/latest/brazil_sidra_common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/brazil/Brazil_SDG/sidra_ibge/latest/*/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/brazil_sidra_ibge/Brazil_SIDRA_IBGE/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/brazil_sidra_ibge/Brazil_SIDRA_IBGE/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  # TODO(b/443094549): remove from country once auto2w builds
+  import_groups: "country"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Brazil Bank of Statistical Tables"
+}

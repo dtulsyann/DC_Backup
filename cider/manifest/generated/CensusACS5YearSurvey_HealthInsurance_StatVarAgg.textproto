@@ -1,0 +1,10 @@
+import: {
+  import_name: "CensusACS5YearSurvey_HealthInsurance_StatVarAgg"
+  provenance_url: "https://www.census.gov/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/CensusACS5YearSurvey/20260322/CensusACS5YearSurvey_HealthInsurance_StatVarAgg/graph.tfrecord@12.gz"
+  import_groups: "uscensus"
+  import_groups: "laelaps"
+  provenance_description: "Includes StatisticalVariable aggregations computed on the CensusACS5YearSurvey import by Data Commons."
+  category: AGGREGATED_STATS
+  dataset_name: "American Community Survey (ACS)"
+}

@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_BosniaAndHerzegovina_ADM2"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/BIH/ADM2"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the cantons(Administrative Area 2 division) of Bosnia and Herzegovina."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Bosnia_and_Herzegovina/ADM2/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

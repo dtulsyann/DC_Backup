@@ -1,0 +1,9 @@
+Node: dcid:dc/base/DEA_ARCOS_AggState_AggCountry
+typeOf: dcid:Provenance
+license: "https://www.deadiversion.usdoj.gov/arcos/arcos.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/arcos/"
+sourceDataUrl: "https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/archive/report_yr_2001.pdf#search=ARCOS"
+lastDataRefreshDate: "2022-06-02"
+automaticRefreshType: "NoAutomaticRefresh"

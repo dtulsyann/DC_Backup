@@ -1,0 +1,16 @@
+import {
+  import_name: "Cotedivoire_Census"
+  provenance_url: "https://cotedivoire.opendataforafrica.org/"
+  category: STATS
+  provenance_description: "Ivory Coast demographics, economy, education and health data from statistics Ivory Coast at country and district level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/cotedivoire/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/cotedivoire/common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/cotedivoire/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  start_date_in_kg: "1988"
+  end_date_in_kg: "2024-12"
+  dataset_name: "Ivory Coast Census"
+}

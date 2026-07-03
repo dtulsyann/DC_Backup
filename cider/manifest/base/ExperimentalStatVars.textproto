@@ -1,0 +1,13 @@
+import: {
+  # NOTE: All "schema less" StatVars from the experimental import group go here.
+  # Add a copy under datacommons/import/mcf/resolved_mcf/experimental_stat_vars.
+  import_name: "ExperimentalStatVars"
+  provenance_url: "https://datacommons.org"
+  category: CURATED_STATVAR
+  # Wildcard paths.
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/experimental_stat_vars/*/*.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/experimental_stat_vars/*/*/*.mcf"
+  import_groups: "experimental"
+  is_mcf_replicated_from_piper: true
+  dataset_name: "Data Commons Schema"
+}

@@ -1,0 +1,17 @@
+import: {
+  # NOTE: This dataset includes all countries at country level.
+  import_name: "NASA_NEXGDDP_Country"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+  category: STATS
+  provenance_description: "Global downscaled climate projections (CMIP5) aggregated to the country level."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/nex-gddp/country/nodes.mcf@100"
+  import_groups: "ipcc"
+  start_date_in_kg: "1950"
+  end_date_in_kg: "2099"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp/country/ipcc_geo_resolved.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp/country/ipcc_geo_resolved-*-of-*"
+  }
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP5"
+}

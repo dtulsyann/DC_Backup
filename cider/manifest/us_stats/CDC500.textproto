@@ -1,0 +1,33 @@
+import: {
+  import_name: "CDC500"
+  provenance_url: "https://www.cdc.gov/places/index.html"
+  category: STATS
+  provenance_description: "CDC 500 Cities project data containing local-level estimates for chronic disease risk factors, health outcomes, and clinical preventive services."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/places/historical/graph.tfrecord@2.gz"  # retained data
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/historical/cdc500_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/historical/*.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/places/zipcode_historical/graph.tfrecord@1.gz"  # retained data 2025-02-25
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/zipcode_historical/cdc_places.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/zipcode_historical/zipcode_deleted_rows20260225.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/places/2025_04_01T01_13_38_360214_07_00/graph.tfrecord@4.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/2025_04_01T01_13_38_360214_07_00/cdc_places.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/places/2025_04_01T01_13_38_360214_07_00/*.csv"
+    # TODO(b/413398248): disable autorefresh until the job on cloudrun succeeds
+    # download_config: {
+    #  src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/500_places/CDC500/latest_version.txt"
+    # }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/500_places/CDC500/import_metadata_mcf.mcf"
+  # automated_mcf_generation_by: "auto1w"
+  # import_groups: "auto1w"
+  import_groups: "laelaps"
+  import_groups: "frequent"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "PLACES: Local Data for Better Health"
+}

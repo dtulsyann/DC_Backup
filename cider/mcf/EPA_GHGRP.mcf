@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EPA_GHGRP
+typeOf: dcid:Provenance
+license: "https://www.epa.gov/accessibility/epa-accessibility-statement"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_epa/ghgrp/README.md"
+sourceDataUrl: "https://www.epa.gov/system/files/other-files/2024-10/2023_data_summary_spreadsheets.zip"
+descriptionUrl: "https://www.epa.gov/ghgreporting/ghgrp-reported-data"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/epa/ghgrp_emissions/latest/input_files"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

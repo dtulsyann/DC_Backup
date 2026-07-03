@@ -1,0 +1,13 @@
+import {
+  import_name: "MexicoCensus"
+  provenance_url: "https://www.inegi.org.mx/temas/"
+  category: STATS
+  provenance_description: "Mexican Demographics, Economy, Health and Education data from National Institute of Statistics and Geography (INEGI) at Country and State level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/mexico/20230719/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/mexico/20230719/Mexcio_Migration.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/mexico/20230719/*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "Mexico Census"
+}

@@ -1,0 +1,19 @@
+import {
+  import_name: "Commerce_NTIA"
+  provenance_url: "https://www.ntia.gov/other-publication/2022/digital-nation-data-explorer#sel=homeEverOnline&demo=race&pc=count&disp=both"
+  category: STATS
+  provenance_description: "NTIA programs and policymaking focus largely on expanding broadband Internet access and adoption in America, expanding the use of spectrum by all users."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_ntia/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_ntia/latest/ntia_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_ntia/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/ntia_internet_use_survey/commerce_ntia/Commerce_NTIA/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/ntia_internet_use_survey/commerce_ntia/Commerce_NTIA/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "NTIA Internet Use Survey"
+}

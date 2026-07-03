@@ -1,0 +1,12 @@
+import: {
+  import_name: "RandolphGlacierInventory"
+  provenance_url: "https://www.glims.org/RGI/rgi60_dl.html"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/glims/rgi/place/nodes.mcf@1"
+  import_groups: "place"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/glims/rgi/place/rgi6_glaciers_place.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/glims/rgi/place/rgi6_glaciers_place.csv"
+  }
+  dataset_name: "Randolph Glacier Inventory"
+}

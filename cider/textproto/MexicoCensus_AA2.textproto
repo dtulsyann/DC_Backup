@@ -1,0 +1,19 @@
+import {
+  import_name: "MexicoCensus_AA2"
+  provenance_url: "https://data.humdata.org/dataset/cod-ps-mex"
+  category: STATS
+  provenance_description: "Mexican Demographics data from The Humanitarian Data Exchange(HDX) at Municipal Level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/mexico/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/mexico/latest/mexico_output_aa2.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/mexico/latest/mexico_output_*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/mexico_subnational_population_statistics/mexico_census_aa2/MexicoCensus_AA2/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/mexico_subnational_population_statistics/mexico_census_aa2/MexicoCensus_AA2/import_metadata_mcf.mcf"
+  import_groups: "country"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Mexico Subnational Population Statistics"
+}

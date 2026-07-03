@@ -1,0 +1,21 @@
+import: {
+  import_name: "HUD_IncomeLimits"
+  provenance_url: "https://www.huduser.gov/portal/datasets/il.html"
+  category: STATS
+  provenance_description: "Income limits defined by the US Department of Housing and Urban Development used to determine eligibility for assisted housing programs."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/hud/income_limits/section_8/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/hud/income_limits/section_8/latest/hud.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/hud/income_limits/section_8/latest/output_*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_hud/income/HUD_IncomeLimits/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_hud/income/HUD_IncomeLimits/import_metadata_mcf.mcf"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  release_frequency: "P1Y"
+  automated_mcf_generation_by: "auto1w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Income Limits"
+}

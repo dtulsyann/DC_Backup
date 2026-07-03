@@ -1,0 +1,21 @@
+import: {
+  import_name: "WikidataGeos"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/WikidataGeos/*.mcf"
+  import_groups: "place"
+  is_mcf_replicated_from_piper: true
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "wikidataId"
+    # For the new geos created from this dataset, it is a provider of
+    # "wikidataId" for downstream resolution.
+    provides_ids: "wikidataId"
+    new_geo {
+      dcid_sources: "wikidataId"
+    }
+  }
+  next_release_date: "2021-02-01"
+  release_frequency: "P3M"
+  dataset_name: "Wikidata"
+}

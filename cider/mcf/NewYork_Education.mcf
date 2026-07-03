@@ -1,0 +1,10 @@
+Node: dcid:dc/base/NewYork_Education
+typeOf: dcs:Provenance
+license : "https://cityofnewyork.github.io/opendatatsm/publicpolicies.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/us_education/newyork_education/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_edu/urban_new_york_education/latest/input_files"
+sourceDataUrl : "https://data.cityofnewyork.us/browse?category=Education"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

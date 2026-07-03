@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S2502
+typeOf: dcs:Provenance
+license : "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_census/acs5yr/subject_tables/s2502"
+sourceDataUrl : "https://data.census.gov/table/ACSST5Y2023.S2502?q=S2502"
+lastDataRefreshDate: "2025-02-14"
+earliestDataImportDate: "2025-02-14"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,25 @@
+import: {
+  import_name: "CDC_OzoneCounty"
+  provenance_url: "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1"
+  category: STATS
+  provenance_description: "County-level ozone air quality metrics and pollution statistics from the CDC Environmental Public Health Tracking Network."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/environmental/OzoneCounty/historical/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/OzoneCounty/historical/OzoneCountyPollution.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/OzoneCounty/historical/Daily_Ozone_County_output_2001_2015.csv"
+  }
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/environmental/OzoneCounty/latest/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/OzoneCounty/latest/OzoneCountyPollution.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/OzoneCounty/latest/OzoneCounty.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/environmental_health_toxicology/CDC_OzoneCounty/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/environmental_health_toxicology/CDC_OzoneCounty/import_metadata_mcf.mcf"
+  dataset_name: "Environmental Health Toxicology"
+}

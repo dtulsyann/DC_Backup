@@ -1,0 +1,19 @@
+import: {
+  import_name: "USDecennialCensus_RedistrictingRelease"
+  provenance_url: "https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html"
+  category: STATS
+  provenance_description: "Detailed US demographic and housing data collected every ten years, specifically formatted for drawing congressional and legislative districts."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/decennial/redistricting_data/nodes.mcf@100"
+  import_groups: "uscensus"
+  import_groups: "laelaps"
+  start_date_in_kg: "2000"
+  end_date_in_kg: "2020"
+  end_date_in_source: "2020"
+  release_frequency: "P10Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/decennial/redistricting_data/decennial_us_census.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/decennial/redistricting_data/*/*.csv"
+  }
+  dataset_name: "US Decennial Census - Redistricting data"
+}

@@ -1,0 +1,9 @@
+import: {
+  # This is an entry just to create a provenance for Weather data that gets
+  # stored in a separate BQ, outside the normal MCF flow.
+  import_name: "WeatherNOAA"
+  provenance_url: "https://www.noaa.gov/weather"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/weather/empty/empty.mcf"
+  import_groups: "infrequent"
+}

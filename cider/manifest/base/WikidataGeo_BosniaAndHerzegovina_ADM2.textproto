@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_BosniaAndHerzegovina_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Cantons_of_the_Federation_of_Bosnia_and_Herzegovina"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Bosnia and Herzegovina."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Bosnia_and_Herzegovina/ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Bosnia_and_Herzegovina/ADM2/BIH.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Bosnia_and_Herzegovina/ADM2/BIH_ADM2-final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

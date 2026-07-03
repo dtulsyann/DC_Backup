@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Niger_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/Departments_of_Niger"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 2 divisions of Niger."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Niger/ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Niger/ADM2/ner.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Niger/ADM2/Niger-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Bahrain"
+  provenance_url: "https://en.m.wikipedia.org/wiki/Governorates_of_Bahrain"
+  category: PLACE
+  provenance_description: "Includes the districts(Administrative Area 1 division) of Bahrain."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/bahrain/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/bahrain/wikidata/Bahrain.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/bahrain/wikidata/BHR_ADM1_sheet-final_latest.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

@@ -1,0 +1,24 @@
+import: {
+  import_name: "OWID_COVID19"
+  provenance_url: "https://ourworldindata.org/coronavirus"
+  category: STATS
+  provenance_description: "COVID-19 related data (specially vaccine) in country level from Our World In Data."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/our_world_in_data/covid19/nodes.mcf@1"
+  import_groups: "dcbranch"
+  import_groups: "frequent"
+  release_frequency: "P1D"
+  data_download_url: "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv"
+  automated_mcf_generation_by: "dcbranch"
+  resolution_info: {
+    uses_id_resolver: true
+    kg_for_resolution: KG_MCF
+  }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/our_world_in_data/covid19/OurWorldInData_Covid19.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/our_world_in_data/covid19/OurWorldInData_Covid19.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/ourworldindata/covid19/OWID_COVID19/latest_version.txt"
+    }
+  }
+  dataset_name: "COVID-19 Vaccinations"
+}

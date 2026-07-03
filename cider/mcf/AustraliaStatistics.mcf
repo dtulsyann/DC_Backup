@@ -1,0 +1,9 @@
+Node: dcid:dc/base/AustraliaStatistics
+typeOf: dcid:Provenance
+license: "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/australian-system-national-accounts-concepts-sources-and-methods/2020-21/chapter-24-quality-national-accounts/accessibility"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceReleaseFrequency: "P1M"
+lastDataRefreshDate: "2023-05-15"
+descriptionUrl: "https://www.abs.gov.au/statistics/standards"
+automaticRefreshType: "NoAutomaticRefresh"

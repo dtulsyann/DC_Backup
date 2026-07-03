@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S2406"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S2406&tid=ACSST5Y2023.S2406"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S2406: Occupation by Class of Worker for the Civilian Employed Population."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s2406/20250204/graph.tfrecord@15.gz"
+  import_groups: "uscensus"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2023"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s2406/20250204/S2406_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s2406/20250204/S2406_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

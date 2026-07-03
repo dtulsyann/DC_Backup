@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Albania
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/ALB/ADM1"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/ALB/ADM1/BoundaryFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/ALB/ADM1"
+lastDataRefreshDate: "2024-05-31"
+earliestDataImportDate: "2024-05-31"

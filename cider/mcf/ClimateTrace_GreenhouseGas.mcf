@@ -1,0 +1,11 @@
+Node: dcid:dc/base/ClimateTrace_GreenhouseGas
+typeOf: dcid:Provenance
+license: "https://climatetrace.org/data"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/shamimansari1988/data/blob/master/scripts/climate_trace/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/climate_trace/gas/"
+sourceDataUrl: "https://api.climatetrace.org/emissions_by_subsector_timeseries?interval=year&since=2015&to=2020&download=csv"
+lastDataRefreshDate: "2023-09-13"
+descriptionUrl: "https://climatetrace.org/news/beyond-the-ui-what039s-in-the-asset-metadata"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

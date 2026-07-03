@@ -1,0 +1,30 @@
+import: {
+  import_name: "IndiaWRISWaterQuality"
+  provenance_url: "https://indiawris.gov.in/wris"
+  category: STATS
+  provenance_description: "Water quality measurements from the India Water Resources Information System."
+  data_download_url: "https://indiawris.gov.in/wris/#/DataDownload"
+  import_groups: "infrequent"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "lgdCode"
+    kg_for_resolution: KG_MCF
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_wris/ground/20231005/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/ground/20231005/India_WRIS_Ground.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/ground/20231005/India_WRIS_Ground.csv"
+  }
+  # Missing data in new Import is retained from production.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_wris/ground/20231005/Prod_retained/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/ground/20231005/Prod_retained/India_WRIS_Ground_Prod_Retained.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/ground/20231005/Prod_retained/India_WRIS_Ground_Prod_Retained.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_wris/2023-03-02/India_WRIS_Surface/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/2023-03-02/India_WRIS_Surface/India_WRIS_Surface.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/2023-03-02/India_WRIS_Surface/India_WRIS_Surface.csv"
+  }
+  dataset_name: "India Water Quality"
+}

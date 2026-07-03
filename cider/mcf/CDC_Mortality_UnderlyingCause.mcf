@@ -1,0 +1,12 @@
+Node: dcid:dc/base/CDC_Mortality_UnderlyingCause
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/nchs/data_access/ftp_data.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+#dataTransformationLogic: "https://cnsviewer-static.corp.google.com/cns/jv-d/home/datcom/v3_mcf/cdc/mortality/ucd_county/20231005/run.sh?user="
+sourceDataUrl: "https://wonder.cdc.gov/controller/datarequest/D76"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2023-10-05"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/mortality/ucd_states/input_files"
+descriptionUrl: "https://wonder.cdc.gov/wonder/help/ucd.html#","https://wonder.cdc.gov/wonder/help/ucd.html#ICD-10%20Changes"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,21 @@
+import: {
+  import_name: "CensusSAIPE"
+  provenance_url: "https://www.census.gov/programs-surveys/saipe.html"
+  category: STATS
+  provenance_description: "The Small Area Income and Poverty Estimates (SAIPE) program provides estimates of income and poverty statistics for states, counties, and school districts."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census_v2/saipe/latest/output_files/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/saipe/latest/output_files/census_saipe_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census_v2/saipe/latest/output_files/census_saipe_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/census_v2/saipe/CensusSAIPE/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/census_v2/saipe/CensusSAIPE/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Small Area Income and Poverty Estimates (SAIPE)"
+}
+

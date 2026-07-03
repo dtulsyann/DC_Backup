@@ -1,0 +1,15 @@
+import: {
+  import_name: "India_UPIStatistics"
+  provenance_url: "https://www.npci.org.in/statistics"
+  provenance_description: "It is an organisation for operating retail payments and settlement systems in India, is an initiative of Reserve Bank of India (RBI) and Indian Banks’ Association (IBA) under the provisions of the Payment and Settlement Systems Act, 2007, for creating a robust Payment & Settlement Infrastructure in India."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india/upi/output_folder/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india/upi/output_folder/UPI_Daily_Product_Statistics.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india/upi/output_folder/*.csv"
+  }
+  import_groups: "experimental"
+  start_date_in_kg: "2021"
+  end_date_in_kg: "2024"
+  # dataset_name: "Database on Indian UPI Statistics"
+}

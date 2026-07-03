@@ -1,0 +1,14 @@
+import {
+  import_name: "AustraliaStatistics"
+  provenance_url: "https://www.abs.gov.au/statistics"
+  category: STATS
+  provenance_description: "Australian Demographics, Economy, Health, Agriculture data from Australian Bureau of Statistics at Country,States and Territories level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/australia/output_files/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/australia/output_files/aus_employment.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/australia/output_files/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1M"
+  dataset_name: "Australia Statistics"
+}

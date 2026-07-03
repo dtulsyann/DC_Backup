@@ -1,0 +1,8 @@
+Node: dcid:dc/base/FBIHateCrimePublications
+typeOf: dcid:Provenance
+descriptionUrl: "https://le.fbi.gov/file-repository/hate-crime-data-collection-guidelines-and-training-manual.pdf/view","https://le.fbi.gov/file-repository/hate-crime-data-collection-guidelines-and-training-manual.pdf/view "
+processingMethod: dcid:CustomScript
+sourceDataUrl: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads"
+cachedSourceDataUrl: "datacommons_public/unresolved_mcf/fbi/hate_crime/20250107/input_files"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/fbi/hate_crime/"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

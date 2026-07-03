@@ -1,0 +1,6 @@
+Node: dcid:dc/base/US_CRDC_Schools_Directory
+typeOf: dcs:Provenance
+license: "https://catalog.data.gov/dataset/civil-rights-data-collection-crdc"
+licenseType: dcid:PublicDomain
+sourceDataUrl : "https://ocrdata.ed.gov/data"
+lastDataRefreshDate: "2025-11-25"

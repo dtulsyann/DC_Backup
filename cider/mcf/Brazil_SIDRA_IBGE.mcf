@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Brazil_SIDRA_IBGE
+typeOf: dcid:Provenance
+license: "https://dados.gov.br/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://sidra.ibge.gov.br/home/pnadct/brasil"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/blob/master/statvar_imports/brazil_sidra_ibge/README.md"
+processingMethod : dcs:StatVarProcessor
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/brazil/Brazil_SDG/sidra_ibge/latest"
+sourceReleaseFrequency : "P3M"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

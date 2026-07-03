@@ -1,0 +1,18 @@
+import {
+  import_name: "NCES_Bachelors_Degree_By_Field_Import"
+  provenance_url: "https://nces.ed.gov"
+  category: STATS
+  provenance_description: "Bachelor's degrees conferred to (fe)males by postsecondary institutions, by race/ethnicity and field of study"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/nces/nces_bachelors_degree_by_field/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/nces/nces_bachelors_degree_by_field/latest/nces_female_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/nces/nces_bachelors_degree_by_field/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_bachelors_degree_data/nces_bachelors_degree_by_field_import/NCES_Bachelors_Degree_By_Field_Import/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_bachelors_degree_data/nces_bachelors_degree_by_field_import/NCES_Bachelors_Degree_By_Field_Import/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "US Bachelor's Degrees Data"
+}

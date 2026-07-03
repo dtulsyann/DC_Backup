@@ -1,0 +1,13 @@
+import: {
+  import_name: "HumanCuratedStats"
+  provenance_url: "https://google.com"
+  category: STATS
+  provenance_description: "Human curated statistical in KG "
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_stats_v2/20251107/*/graph.tfrecord*"
+  import_groups: "searchonly"
+  import_groups: "laelaps"
+  resolution_info: { uses_id_resolver: true }
+  next_release_date: "2024-10-01"
+  release_frequency: "P1M"
+  dataset_name: "Data Commons Curated"
+}

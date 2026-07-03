@@ -1,0 +1,25 @@
+import {
+  import_name: "FAO_Currency_statvar"
+  provenance_url: "https://www.fao.org/faostat/en/#data/PE/metadata"
+  provenance_description: "The exchange rate of currency broken down by country, currency standardization type, and currency (using ISO 4217 Currency Code)."
+  category: STATS
+  # Historical data
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fao/historical_data_2026/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fao/historical_data_2026/CurrencyFAO_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fao/historical_data_2026/CurrencyFAO_deletion_history.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fao/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fao/latest/CurrencyFAO_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fao/latest/CurrencyFAO_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/fao_currency_and_exchange_rate/fao_currency_statvar/FAO_Currency_statvar/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/fao_currency_and_exchange_rate/fao_currency_statvar/FAO_Currency_statvar/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "FAO Currency and Exchange Rate"
+  release_frequency: "P1Y"
+}

@@ -1,0 +1,15 @@
+import {
+  import_name: "WHO_TuberculosisBacteriologicallyConfirmedPercentage"
+  provenance_url: "https://data.who.int/indicators/i/1891124/5D51DB1"
+  category: STATS
+  provenance_description: "Percentage of people diagnosed with a new episode of pulmonary TB whose disease was bacteriologically confirmed"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/who/tuberculosis_percentage/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/who/tuberculosis_percentage/tuberculosisPercentage_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/who/tuberculosis_percentage/tuberculosisPercentage_output.csv"
+  }
+  import_groups: "frequent"
+  import_groups: "infrequent"
+  dataset_name: "WHO Tuberculosis Bacteriologically Confirmed Percentage"
+}
+

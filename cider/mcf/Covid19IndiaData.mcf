@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Covid19IndiaData
+typeOf: dcid:Provenance
+license: "https://creativecommons.org/licenses/by-sa/4.0/"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/datameet/covid19_india/"
+sourceDataUrl: "https://projects.datameet.org/covid19/"
+lastDataRefreshDate: "2023-04-12"
+descriptionUrl: "https://projects.datameet.org/covid19/oxygen_shortage_deaths/#columns","https://thejeshgn.com/projects/covid19-india/non-virus-deaths/"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,8 @@
+import: {
+  import_name: "ENCODE"
+  provenance_url: "https://www.encodeproject.org/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/encode/*.mcf"
+  import_groups: "biomedical"
+  dataset_name: "Experimental Data"
+}

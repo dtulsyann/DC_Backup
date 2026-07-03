@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Japan
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/cod-xa-jpn"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Japan/wikidata/sourceFiles/"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-xa-jpn"
+lastDataRefreshDate: "2024-07-31"
+earliestDataImportDate: "2024-05-07"

@@ -1,0 +1,26 @@
+import: {
+  import_name: "WorldBankDatasets"
+  provenance_url: "https://databank.worldbank.org/source/world-development-indicators"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/datasets/observations/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/datasets/observations/latest/wb.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/datasets/observations/latest/transformed_data_for_all_final.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/world_bank/datasets/WorldBankDatasets/latest_version.txt"
+    }
+  }
+  # Retained data
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/world_bank/datasets/observations/historical_retained/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/datasets/observations/historical_retained/wb.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/world_bank/datasets/observations/historical_retained/*.csv"
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/world_bank/datasets/WorldBankDatasets/import_metadata_mcf.mcf"
+  import_groups: "searchaim"
+  import_groups: "infrequent"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "World Bank Datasets"
+}

@@ -1,0 +1,17 @@
+import: {
+  import_name: "EPA_Superfund_Sites_TarCreek"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_url: "https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.scs&id=0601269&doc=Y&colid=33990&region=06&type=SC"
+  category: STATS
+  provenance_description: "The import uses the EPA five-year review reports for the Tar Creek superfund site and extracts the time-series data on the level of contamination at Tar Creek by various contaminants."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/superfund/tar_creek/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/tar_creek/superfund_sites_tarcreek.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/tar_creek/superfund_sites_tarcreek.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Superfund Sites"
+}

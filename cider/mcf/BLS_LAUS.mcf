@@ -1,0 +1,9 @@
+Node: dcid:dc/base/BLS_LAUS
+typeOf: dcid:Provenance
+license: "https://www.bls.gov/bls/linksite.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+#dataTransformationLogic: "google3/datacommons/import/bls"
+sourceDataUrl: "https://download.bls.gov/pub/time.series/la"
+descriptionUrl: "https://www.bls.gov/opub/hom/lau/concepts.htm"
+automaticRefreshType: "NoAutomaticRefresh"

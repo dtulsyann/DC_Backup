@@ -1,0 +1,19 @@
+import {
+  import_name: "New_Zealand_Census"
+  provenance_url: "https://www.stats.govt.nz/"
+  category: STATS
+  provenance_description: "Population census and health statistics for New Zealand at country, district and city level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/newzealand/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/newzealand/latest/nzl_national_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/newzealand/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/statistics_new_zealand/new_zealand_census/New_Zealand_Census/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/statistics_new_zealand/new_zealand_census/New_Zealand_Census/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  release_frequency: "P1Y"
+  dataset_name: "New Zealand Census"
+}

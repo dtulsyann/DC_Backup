@@ -1,0 +1,18 @@
+import {
+  import_name: "EPA_EJSCREEN"
+  provenance_url: "https://gaftp.epa.gov/EJSCREEN/"
+  category: STATS
+  provenance_description: "Environmental Justice screening tool data combining environmental and demographic indicators at the census block group level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/epa/ejscreen/latest/graph.tfrecord@2.gz"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/epa/ejscreen/latest/ejscreen.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/epa/ejscreen/latest/ejscreen_airpollutants.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_epa/ejscreen/EPA_EJSCREEN/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_epa/ejscreen/EPA_EJSCREEN/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  dataset_name: "EJSCREEN"
+}

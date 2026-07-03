@@ -1,0 +1,3900 @@
+{
+  "Annual_Consumption_Electricity": {
+    "country/ABW": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/AFG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2010",
+        "latestDate": "2012"
+      }
+    ],
+    "country/AGO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2018"
+      }
+    ],
+    "country/AIA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2018"
+      }
+    ],
+    "country/ALB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2007"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AND": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ANT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1997"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1998",
+        "latestDate": "2011"
+      }
+    ],
+    "country/ARE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2016"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1996",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ARG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ARM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ASM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2016"
+      }
+    ],
+    "country/ATG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2020"
+      }
+    ],
+    "country/AUS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AUT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/AZE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BDI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2010"
+      }
+    ],
+    "country/BEL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1997"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1998",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BES": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2012",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BFA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2009"
+      }
+    ],
+    "country/BGD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BGR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BHR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BHS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BIH": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BLR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BLZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BMU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2021"
+      }
+    ],
+    "country/BOL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BRA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BRB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2013",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BRN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1997"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1998",
+        "latestDate": "2022"
+      }
+    ],
+    "country/BTN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2000"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/BWA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1996",
+        "latestDate": "1996"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CAF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2021",
+        "latestDate": "2021"
+      }
+    ],
+    "country/CAN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CHL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CHN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CIV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1994"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CMR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1996"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1997",
+        "latestDate": "2022"
+      }
+    ],
+    "country/COD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2021",
+        "latestDate": "2022"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2018"
+      }
+    ],
+    "country/COG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/COK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2001",
+        "latestDate": "2019"
+      }
+    ],
+    "country/COL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1991"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/COM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CPV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2005",
+        "latestDate": "2014"
+      }
+    ],
+    "country/CRI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CUB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CUW": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2012",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CYM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/CYP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/CZE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DEU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2022"
+      }
+    ],
+    "country/DJI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DMA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2012"
+      }
+    ],
+    "country/DNK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/DOM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2022"
+      }
+    ],
+    "country/DZA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ECU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/EGY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ERI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ESP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/EST": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ETH": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2022"
+      }
+    ],
+    "country/FIN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/FJI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/FLK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "1996"
+      }
+    ],
+    "country/FRO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1997",
+        "latestDate": "2022"
+      }
+    ],
+    "country/FSM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2015",
+        "latestDate": "2015"
+      }
+    ],
+    "country/GAB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1993"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2022"
+      }
+    ],
+    "country/GBR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GEO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/GGY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2004",
+        "latestDate": "2020"
+      }
+    ],
+    "country/GHA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "1996"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GIB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/GIN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GLP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2016"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2012",
+        "latestDate": "2015"
+      }
+    ],
+    "country/GMB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GNB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GNQ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GRC": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GRD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2023",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/GRL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2000",
+        "latestDate": "2021"
+      }
+    ],
+    "country/GTM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/GUF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2007"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2008",
+        "latestDate": "2016"
+      }
+    ],
+    "country/GUM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2021"
+      }
+    ],
+    "country/GUY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2022",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2021"
+      }
+    ],
+    "country/HKG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/HND": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/HRV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/HTI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2020",
+        "latestDate": "2020"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/HUN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/IDN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/IMN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2003",
+        "latestDate": "2022"
+      }
+    ],
+    "country/IND": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2020",
+        "latestDate": "2021"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/IRL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/IRN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/IRQ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ISL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ISR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/JAM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2023"
+      }
+    ],
+    "country/JEY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2023"
+      }
+    ],
+    "country/JOR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/JPN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/KAZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/KGZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/KHM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1994"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2022"
+      }
+    ],
+    "country/KIR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2015",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2014"
+      }
+    ],
+    "country/KNA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2003",
+        "latestDate": "2012"
+      }
+    ],
+    "country/KOR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/KWT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1997"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1998",
+        "latestDate": "2022"
+      }
+    ],
+    "country/LAO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2017",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/LBN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2020"
+      }
+    ],
+    "country/LBR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LBY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/LCA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2019"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LIE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2012"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2013",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LKA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/LSO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2016"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2003",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LTU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LUX": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/LVA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MAC": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2023",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MAR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MDA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MDG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2016",
+        "latestDate": "2019"
+      }
+    ],
+    "country/MDV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2007"
+      }
+    ],
+    "country/MEX": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MHL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2005",
+        "latestDate": "2013"
+      }
+    ],
+    "country/MKD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2023",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MLI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2008",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MLT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MMR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MNE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2005",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MNG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2001"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1996",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MNP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2007",
+        "latestDate": "2007"
+      }
+    ],
+    "country/MOZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MRT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1997",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MSR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2018"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2011",
+        "latestDate": "2023"
+      }
+    ],
+    "country/MTQ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2011"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2012",
+        "latestDate": "2016"
+      }
+    ],
+    "country/MUS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2002"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MWI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MYS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1991"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/MYT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2016"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2014"
+      }
+    ],
+    "country/NAM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2020",
+        "latestDate": "2021"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2022"
+      }
+    ],
+    "country/NCL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NER": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2016",
+        "latestDate": "2018"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/NGA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/NIC": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "1994"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/NIU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2009",
+        "latestDate": "2015"
+      }
+    ],
+    "country/NLD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NPL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/NRU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2005",
+        "latestDate": "2020"
+      }
+    ],
+    "country/NZL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/OMN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/PAK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2018",
+        "latestDate": "2018"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/PAN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1997",
+        "latestDate": "1997"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PER": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/PHL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/PLW": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2011"
+      }
+    ],
+    "country/PNG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2021"
+      }
+    ],
+    "country/POL": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PRI": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2018"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PRK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/PRT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PRY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "1994"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/PSE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1996",
+        "latestDate": "2022"
+      }
+    ],
+    "country/PYF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2000",
+        "latestDate": "2022"
+      }
+    ],
+    "country/QAT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1997"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1998",
+        "latestDate": "2022"
+      }
+    ],
+    "country/REU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2007"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2016"
+      }
+    ],
+    "country/ROU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/RUS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/RWA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2019"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SAU": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1994"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2022"
+      }
+    ],
+    "country/SDN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1996",
+        "latestDate": "2018"
+      }
+    ],
+    "country/SEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/SGP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SHN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "1991"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SLB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SLE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2014"
+      }
+    ],
+    "country/SLV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SOM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2019"
+      }
+    ],
+    "country/SPM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2014"
+      }
+    ],
+    "country/SRB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2005",
+        "latestDate": "2022"
+      }
+    ],
+    "country/SSD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2012",
+        "latestDate": "2022"
+      }
+    ],
+    "country/STP": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1999",
+        "latestDate": "2010"
+      }
+    ],
+    "country/SUR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/SVK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/SVN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SWE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SWZ": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2002"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/SXM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2017",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2012",
+        "latestDate": "2016"
+      }
+    ],
+    "country/SYC": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2021"
+      }
+    ],
+    "country/SYR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2022"
+      }
+    ],
+    "country/TCA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "2017"
+      }
+    ],
+    "country/TCD": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TGO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/THA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1991"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TJK": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TKM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/TLS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2007",
+        "latestDate": "2021"
+      }
+    ],
+    "country/TON": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "1999"
+      }
+    ],
+    "country/TTO": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/TUN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/TUR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/TUV": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1996",
+        "latestDate": "2020"
+      }
+    ],
+    "country/TWN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/TZA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1995",
+        "latestDate": "1996"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/UGA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2007",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2021"
+      }
+    ],
+    "country/UKR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/URY": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      }
+    ],
+    "country/USA": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/UZB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1992",
+        "latestDate": "2022"
+      }
+    ],
+    "country/VCT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2022",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2021"
+      }
+    ],
+    "country/VEN": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2021",
+        "latestDate": "2021"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/VGB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2022"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2023",
+        "latestDate": "2023"
+      }
+    ],
+    "country/VIR": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2005",
+        "latestDate": "2014"
+      }
+    ],
+    "country/VNM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ],
+    "country/VUT": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2011",
+        "latestDate": "2022"
+      }
+    ],
+    "country/WLF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2001",
+        "latestDate": "2023"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2002",
+        "latestDate": "2007"
+      }
+    ],
+    "country/WSM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2019"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2001",
+        "latestDate": "2023"
+      }
+    ],
+    "country/XKS": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "2000",
+        "latestDate": "2022"
+      }
+    ],
+    "country/YEM": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1991",
+        "latestDate": "2022"
+      }
+    ],
+    "country/YUG": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1991"
+      }
+    ],
+    "country/ZAF": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1993",
+        "latestDate": "2022"
+      }
+    ],
+    "country/ZMB": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "UNStatsEstimate",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "1992"
+      },
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1994",
+        "latestDate": "2023"
+      }
+    ],
+    "country/ZWE": [
+      {
+        "source": "unstats.un.org",
+        "importName": "UNEnergy",
+        "provenanceUrl": "https://unstats.un.org/unsd/energystats/data/",
+        "unit": "KilowattHour",
+        "measurementMethod": "N/A",
+        "observationPeriod": "P1Y",
+        "earliestDate": "1990",
+        "latestDate": "2022"
+      }
+    ]
+  }
+}

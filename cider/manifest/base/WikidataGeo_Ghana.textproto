@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Ghana"
+  provenance_url: "https://en.m.wikipedia.org/wiki/Regions_of_Ghana"
+  category: PLACE
+  provenance_description: "Includes the regions(Administrative Area 1 division) of Ghana."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Ghana/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Ghana/wikidata/Ghana.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Ghana/wikidata/Ghana_ADM1_final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

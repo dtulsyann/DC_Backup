@@ -1,0 +1,14 @@
+import {
+  import_name: "US_CRDC_Schools_Directory"
+  provenance_url: "https://ocrdata.ed.gov/data"
+  category: PLACE
+  provenance_description: "Public school directory data from the US Department of Education Office for Civil Rights (CRDC)"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/us_education/us_urbaneducation_school/ccd_crdc_schools_directory/crdc_ncesid/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/us_urbaneducation_school/ccd_crdc_schools_directory/crdc_ncesid/us_urban_schools_crdc.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/us_urbaneducation_school/ccd_crdc_schools_directory/crdc_ncesid/final_us_urban_schools.csv"
+  }
+  import_groups: "place"
+  release_frequency: "P1Y"
+  dataset_name: "Civil Rights Data Collection (CRDC) School Directory"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EuroStatHealth_SocialEnvironment
+typeOf: dcid:Provenance
+descriptionUrl: "https://ec.europa.eu/eurostat/web/health/database"
+license: "https://commission.europa.eu/legal-notice_en"
+licenseType: dcid:CreativeCommonsAttributionLicense
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/eurostat/health_determinants/social_environment/README.md"
+sourceDataUrl: "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_ss1e?format=TSV&compressed=true"
+sourceReleaseFrequency: "P5Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

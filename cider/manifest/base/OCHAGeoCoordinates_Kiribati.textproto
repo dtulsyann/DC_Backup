@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Kiribati"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-kir"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the districts(Administrative Area 1 division in Kiribati."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Kiribati/boundary_files/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

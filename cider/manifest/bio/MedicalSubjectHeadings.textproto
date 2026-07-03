@@ -1,0 +1,86 @@
+import: {
+  import_name: "MedicalSubjectHeadings"
+  dataset_name: "Medical Subject Headings (MeSH)"
+  provenance_url: "https://meshb.nlm.nih.gov/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_concept/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_concept_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_term/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_desc_term_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_descriptor/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_record/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_concept/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_concept_mapping/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_qualifier/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_qual_term/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/nlm/MeSH_2/mesh_record/nodes.mcf@1"
+  next_release_date: "2025-01-01"
+  release_frequency: "P1Y"
+  # Next release: https://www.nlm.nih.gov/databases/download/mesh.html
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept/mesh_desc_concept.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept/mesh_desc_concept.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept_mapping/mesh_desc_concept_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_concept_mapping/mesh_desc_concept_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor/mesh_desc_descriptor.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor/mesh_desc_descriptor.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor_mapping/mesh_desc_descriptor_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_descriptor_mapping/mesh_desc_descriptor_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier/mesh_desc_qualifier.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier/mesh_desc_qualifier.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier_mapping/mesh_desc_qualifier_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_qualifier_mapping/mesh_desc_qualifier_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term/mesh_desc_term.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term/mesh_desc_term.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term_mapping/mesh_desc_term_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_desc_term_mapping/mesh_desc_term_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_descriptor/mesh_pharmacological_action_descriptor.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_descriptor/mesh_pharmacological_action_descriptor.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_record/mesh_pharmacological_action_record.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_pharmacological_action_record/mesh_pharmacological_action_record.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept/mesh_qual_concept.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept/mesh_qual_concept.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept_mapping/mesh_qual_concept_mapping.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_concept_mapping/mesh_qual_concept_mapping.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_qualifier/mesh_qual_qualifier.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_qualifier/mesh_qual_qualifier.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_term/mesh_qual_term.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_qual_term/mesh_qual_term.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_record/mesh_record.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/nlm/MeSH_2/mesh_record/mesh_record.csv"
+  }
+}

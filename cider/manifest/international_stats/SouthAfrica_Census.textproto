@@ -1,0 +1,20 @@
+import {
+  import_name: "SouthAfrica_Census"
+  provenance_url: "https://southafrica.opendataforafrica.org/"
+  category: STATS
+  provenance_description: "South Africa demographics, health and education data from South Africa Data Portal by country, province and district municipality."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/southafrica/output_files_20230719/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/southafrica/output_files_20230719/common_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/southafrica/output_files_20230719/*.csv"
+  }
+  # date : 14-03-25
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/southafrica/20250317/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/southafrica/20250317/ZAF_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/southafrica/20250317/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  dataset_name: "SouthAfrica Census"
+}

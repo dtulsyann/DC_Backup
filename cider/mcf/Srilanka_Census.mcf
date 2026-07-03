@@ -1,0 +1,7 @@
+Node: dcid:dc/base/Srilanka_Census
+typeOf: dcid:Provenance
+license: "https://data.humdata.org/dataset/cod-ps-lka#metadata-0"
+licenseType: dcid:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+lastDataRefreshDate: "2023-12-19"
+descriptionUrl: "https://data.humdata.org/dataset/cod-ps-lka#metadata-0"
+automaticRefreshType: "NoAutomaticRefresh"

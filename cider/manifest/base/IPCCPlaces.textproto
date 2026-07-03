@@ -1,0 +1,9 @@
+import: {
+  import_name: "IPCCPlaces"
+  provenance_description: "Places corresponding to grids on Earth to attach IPCC Climate observations."
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/geos/ipcc_places.mcf@10"
+  import_groups: "place"
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP5"
+}

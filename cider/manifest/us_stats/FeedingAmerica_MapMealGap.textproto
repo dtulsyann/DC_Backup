@@ -1,0 +1,15 @@
+import {
+  import_name: "FeedingAmerica_MapMealGap"
+  provenance_url: "https://map.feedingamerica.org/"
+  category: STATS
+  provenance_description: "Estimates of local food insecurity and food costs produced by FeedingAmerica."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/feeding_america/map_meal_gap/table/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/feeding_america/map_meal_gap/table/FeedingAmerica_MMG.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/feeding_america/map_meal_gap/table/FeedingAmerica_MMG.csv"
+  }
+  start_date_in_kg: "2018"
+  end_date_in_kg: "2019"
+  import_groups: "infrequent"
+  dataset_name: "Feeding America: Map Meal Gap"
+}

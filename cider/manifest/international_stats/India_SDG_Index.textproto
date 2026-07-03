@@ -1,0 +1,18 @@
+import {
+  import_name: "India_SDG_Index"
+  provenance_url: "https://sdgindiaindex.niti.gov.in/#/download"
+  category: STATS
+  provenance_description: "Sustainable Development Goals India Index"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_sdg/20231205/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_sdg/20231205/common_tmcf.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_sdg/20231205/*.csv"
+  }
+  #import_groups: "infrequent"
+  #import_groups: "country"
+  import_groups: "experimental"
+  release_frequency: "P1Y"
+  start_date_in_kg: "2018"
+  end_date_in_kg: "2020"
+  dataset_name: "SDG India Index"
+}

@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_Niger_ADM2"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/NER/ADM2"
+  category: PLACE
+  provenance_description: "Includes the boundary files of the departments(Administrative Area 2 division) of Niger."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Niger/ADM2/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

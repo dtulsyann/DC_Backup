@@ -1,0 +1,17 @@
+# proto-file: datacommons/proto/import_server.proto
+# proto-message: Import
+import {
+  import_name: "OECD_Air_GHG_emissions"
+  provenance_url: "https://data.oecd.org/air/air-and-ghg-emissions.htm"
+  category: STATS
+  provenance_description: "OECD(2024),Air and GHG emissions(indicator) "
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oecd/oecd_air_and_ghg_emissions/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/oecd_air_and_ghg_emissions/AirandGHGEmissions.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/oecd/oecd_air_and_ghg_emissions/AirandGHGEmissions-latest - processed_csv.csv"
+  }
+  import_groups:"country"
+  start_date_in_kg: "1960"
+  end_date_in_kg: "2021"
+  dataset_name: "Air and GHG emissions"
+}

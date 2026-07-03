@@ -1,0 +1,16 @@
+import: {
+  import_name: "DEA_ARCOS"
+  provenance_url: "https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/dea_arcos/nodes.mcf@100"
+  import_groups: "infrequent"
+  provenance_description: "Quarterly reports of retail drug distributions from the US Drug Enforcement Administration's annual ARCOS reports. Please see http://datacommons.org/disclaimers about the scope of the data."
+  start_date_in_kg: "2006-01"
+  end_date_in_kg: "2017-10"
+  release_frequency: "P1Y"
+  next_release_date: "2018-07-03"  # TODO(b/170247184): refresh data
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "ARCOS Retail Drug Summary Reports"
+}

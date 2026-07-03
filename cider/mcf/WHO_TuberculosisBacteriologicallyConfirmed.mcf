@@ -1,0 +1,11 @@
+Node: dcid:dc/base/WHO_TuberculosisBacteriologicallyConfirmed
+typeOf: dcid:Provenance
+license: "https://www.who.int/about/policies/publishing/data-policy"
+licenseType: dcid:CreativeCommonsAttributionLicense
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://data.who.int/indicators/i/1891124/5D51DB1"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2026-03-25"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/who/PulmonaryTuberculosis_Bacteriologically_Confirmed/source_files"
+descriptionUrl: " https://data.who.int"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,13 @@
+import: {
+  import_name: "NASA_NEXGDDP_CMIP6_Subnational_PDFs"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/nex-gddp-cmip6/pdfs/2023-12-26/graph.tfrecord@30.gz"
+  import_groups: "ipcc"
+  provenance_description: "Aggregated by DataCommons."
+  category: STATS
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/pdfs/2023-12-26/ipcc_pdfs.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/pdfs/2023-12-26/ipcc_daily_estimated_mixtures*"
+  }
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP6"
+}

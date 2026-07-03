@@ -1,0 +1,11 @@
+Node: dcid:dc/base/INPE_Fire_Event_Count
+typeOf: dcs:Provenance
+license: "https://terrabrasilis.dpi.inpe.br/en/citations-and-use-licence/"
+licenseType: "dcid:PublicDomain"
+processingMethod: dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/inpe_import/Readme.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/brazil/INPE_Fire/latest/input_files"
+sourceDataUrl: "https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/estatisticas/estatisticas_estados/"
+sourceReleaseFrequency: "P1Y"
+descriptionUrl: "https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/estatisticas/estatisticas_estados/"
+

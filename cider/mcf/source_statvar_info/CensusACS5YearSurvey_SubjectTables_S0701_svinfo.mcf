@@ -1,0 +1,90 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseAbroad
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseAbroad
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseInDifferentCountyDifferentState
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseInDifferentCountyDifferentState
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseInDifferentCountySameState
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseInDifferentCountySameState
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseInSameCounty
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1.5OrMoreRatioToPovertyLine_DifferentHouseInSameCounty
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseAbroad
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseAbroad
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseInDifferentCountyDifferentState
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseInDifferentCountyDifferentState
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseInDifferentCountySameState
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseInDifferentCountySameState
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseInSameCounty
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1OrLessRatioToPovertyLine_DifferentHouseInSameCounty
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseAbroad
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseAbroad
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseInDifferentCountyDifferentState
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseInDifferentCountyDifferentState
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseInDifferentCountySameState
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseInDifferentCountySameState
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0701-Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseInSameCounty
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0701
+variable: dcid:Count_Person_1OrMoreYears_1To1.49RatioToPovertyLine_DifferentHouseInSameCounty
+

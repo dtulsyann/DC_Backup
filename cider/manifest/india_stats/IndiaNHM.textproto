@@ -1,0 +1,57 @@
+import: {
+  import_name: "IndiaNHM"
+  provenance_url: "https://hmis.nhp.gov.in/"
+  category: STATS
+  provenance_description: "Healthcare data for India from the Health Management Information System (HMIS) portal of the National Health Mission (NHM)."
+  import_groups: "infrequent"
+  start_date_in_kg: "2008"
+  end_date_in_kg: "2020"
+  release_frequency: "P1Y"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "lgdCode"
+    requires_ids: "isoCode"
+    kg_for_resolution: KG_MCF
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/states/nhm_birth_control/nodes.mcf@1"
+  table {
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_birth_control/NHM_BirthControl.csv"
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_birth_control/NHM_BirthControl.tmcf"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/states/nhm_child_health/nodes.mcf@1"
+  table {
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_child_health/NHM_ChildHealth.csv"
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_child_health/NHM_ChildHealth.tmcf"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/states/nhm_general_stats/nodes.mcf@1"
+  table {
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_general_stats/NHM_GeneralStats.csv"
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_general_stats/NHM_GeneralStats.tmcf"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/states/nhm_maternal_health/nodes.mcf@1"
+  table {
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_maternal_health/NHM_MaternalHealth.csv"
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/states/nhm_maternal_health/NHM_MaternalHealth.tmcf"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/districts/nhm_maternal_health/India_NHM_new_files/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_maternal_health/India_NHM_new_files/NHM_MaternalHealth.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_maternal_health/India_NHM_new_files/NHM_MaternalHealth.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/districts/nhm_birth_control/India_NHM_new_files/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_birth_control/India_NHM_new_files/NHM_BirthControl.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_birth_control/India_NHM_new_files/NHM_BirthControl1.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/districts/nhm_child_health/India_NHM_new_files/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_child_health/India_NHM_new_files/NHM_ChildHealth.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_child_health/India_NHM_new_files/NHM_ChildHealth.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_nhm/districts/nhm_general_stats/India_NHM_new_files/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_general_stats/India_NHM_new_files/NHM_GeneralStats.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_nhm/districts/nhm_general_stats/India_NHM_new_files/NHM_GeneralStats1.csv"
+  }
+  dataset_name: "Health Management Information System"
+}

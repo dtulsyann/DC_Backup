@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Guinea_Bissau"
+  provenance_url: "https://data.humdata.org/dataset/cod-ab-gnb"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the regions(Administrative Area 1 division) in Guinea-Bissau."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/guinea-bissau/BoundaryFiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

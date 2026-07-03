@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EPA_GHGRP_AggCounty
+typeOf: dcid:Provenance
+license: "https://www.epa.gov/accessibility/epa-accessibility-statement"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_epa/ghgrp/README.md"
+sourceDataUrl: "https://www.epa.gov/sites/default/files/2020-11/2019_data_summary_spreadsheets.zip"
+lastDataRefreshDate: "2023-08-14"
+descriptionUrl: "https://www.epa.gov/ghgreporting/ghgrp-reported-data"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/epa/ghgrp_emissions/20230808/"
+automaticRefreshType: "NoAutomaticRefresh"

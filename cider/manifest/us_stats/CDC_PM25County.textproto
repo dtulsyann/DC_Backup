@@ -1,0 +1,30 @@
+import: {
+  import_name: "CDC_PM25County"
+  provenance_url: "https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-PM2-5-Concentrations-2001-2019/dqwm-pbi7/about_data"
+  category: STATS
+  provenance_description: "County-level estimates for fine particulate matter (PM2.5) concentrations."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/environmental/PM25County/historical/graph.tfrecord@5.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/PM25County/historical/PM25CountyPollution_historical.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/PM25County/historical/Daily_PM25_County_output_2001_2015.csv"
+  }
+  import_groups: "infrequent"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  start_date_in_kg: "2001"
+  end_date_in_kg: "2019"
+  end_date_in_source: "2019"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/environmental/PM25County/latest/graph.tfrecord@3.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/PM25County/latest/PM25CountyPollution.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental/PM25County/latest/PM25county.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/environmental_health_toxicology/CDC_PM25County/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/environmental_health_toxicology/CDC_PM25County/import_metadata_mcf.mcf"
+  dataset_name: "Environmental Health Toxicology"
+}
+

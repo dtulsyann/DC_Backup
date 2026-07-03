@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_OCHA_Ireland
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Ireland/wikidata/IRL_ADM1_sheet-final-OCHA.csv"
+sourceDataUrl : "https://en.m.wikipedia.org/wiki/Local_government_in_the_Republic_of_Ireland"
+lastDataRefreshDate: "2024-07-14"
+earliestDataImportDate: "2024-07-14"

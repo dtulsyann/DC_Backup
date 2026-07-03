@@ -1,0 +1,24 @@
+import: {
+  import_name: "IndiaNSS_HealthAilments"
+  provenance_url: "https://ndap.niti.gov.in/dataset/7300"
+  category: STATS
+  provenance_description: "Data from the National Sample Survey (NSS) on the number of people with different health ailments by States in India published on the National Data and Analytics Platform (NDAP)."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_ndap/NDAP_NSS_Health/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_ndap/NDAP_NSS_Health/latest/IndiaNSS_HealthAilments_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_ndap/NDAP_NSS_Health/latest/IndiaNSS_HealthAilments_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/india_ndap/india_nss_health_ailments/IndiaNSS_HealthAilments/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/india_ndap/india_nss_health_ailments/IndiaNSS_HealthAilments/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  release_frequency: "P5Y"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "isoCode"
+    kg_for_resolution: KG_MCF
+  }
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "India National Sample Survey - Health"
+}

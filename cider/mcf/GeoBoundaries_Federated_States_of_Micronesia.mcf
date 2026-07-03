@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Federated_States_of_Micronesia
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/FSM/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/FSM/ADM1/20240619/source_files/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/FSM/ADM1"
+lastDataRefreshDate: "2024-06-21"
+earliestDataImportDate: "2024-06-21"

@@ -1,0 +1,14 @@
+import: {
+  import_name: "StormNOAA"
+  provenance_url: "https://www.ncdc.noaa.gov/"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/storms/20250925/*.mcf"
+  import_groups: "disaster"
+  start_date_in_kg: "1950"
+  end_date_in_kg: "2024"
+  next_release_date: "2025"  # TODO(b/143248891): refresh data
+  # Instance data is updated monthly, DC aggregates counts monthly and yearly.
+  release_frequency: "P1M"
+  # Assigned DCIDs, don't need "resolution_info: { uses_id_resolver: true }".
+  dataset_name: "National Climatic Data Center Storm Events Database"
+}

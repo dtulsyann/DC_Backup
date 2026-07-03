@@ -1,0 +1,8 @@
+Node: dcid:dc/base/GeoBoundaries_Israel
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:CreativeCommonsAttributionLicense
+# dataTransformationLogic
+cachedSourceDataUrl : "https://storage.mtls.cloud.google.com/unresolved_mcf/geoBoundaries/gbOpen/ISR/ADM1/Israel_ADM1.csv"
+lastDataRefreshDate: "2024-05-03"
+earliestDataImportDate: "2024-05-03"

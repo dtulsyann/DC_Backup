@@ -1,0 +1,20 @@
+import {
+  import_name: "CRDC_Education_Discipline_Attendance"
+  provenance_url: "https://civilrightsdata.ed.gov/data"
+  category: STATS
+  provenance_description: "Education discipline and attendance data from the Civil Rights Data (CRDC) at school level"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/crdc/crdc_education_discipline_and_attendance/output/graph.tfrecord@5.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/crdc/crdc_education_discipline_and_attendance/output/chronic_absenteeism_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/crdc/crdc_education_discipline_and_attendance/output/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/crdc_import/CRDC_Education_Discipline_Attendance/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/crdc_import/CRDC_Education_Discipline_Attendance/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "U.S Schools Attendance"
+}

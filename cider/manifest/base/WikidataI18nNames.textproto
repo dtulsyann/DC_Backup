@@ -1,0 +1,13 @@
+import: {
+  import_name: "WikidataI18nNames"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/WikidataI18nNames/*.mcf"
+  import_groups: "place"
+  is_mcf_replicated_from_piper: true
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "wikidataId"
+  }
+  dataset_name: "Wikidata"
+}

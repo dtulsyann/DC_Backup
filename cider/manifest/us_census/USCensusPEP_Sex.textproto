@@ -1,0 +1,23 @@
+import: {
+  import_name: "USCensusPEP_Sex"
+  provenance_url: "https://www.census.gov/programs-surveys/popest.html"
+  provenance_description: "US Census Population Estimates Program (PEP)."
+  # This file contains data for population estimate by sex from 1900 - 2022. National data for the year 1980 - 1990 has been aggregated from State. State data for the year 1990 - 2000 has been aggregated from County.
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/population_estimate_by_sex/latest/nodes.mcf@1"
+  category: STATS
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimate_by_sex/latest/population_estimate_sex.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimate_by_sex/latest/population_estimate_sex.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_census/pep/us_pep_sex/USCensusPEP_Sex/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_census/pep/us_pep_sex/USCensusPEP_Sex/import_metadata_mcf.mcf"
+  dataset_name: "Population Estimates Program (PEP)"
+}

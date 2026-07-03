@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S1702"
+  provenance_url: "https://data.census.gov/cedsci/table?q=S1702&tid=ACSST5Y2024.S1702"
+  category: STATS
+  provenance_description: "ACS 5-Year Subject Table S1702: Poverty Status in the Past 12 Months of Families."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s1702/20260414/graph.tfrecord@1.gz"
+  import_groups: "uscensus"
+  start_date_in_kg: "2010"
+  end_date_in_kg: "2024"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1702/20260414/S1702_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s1702/20260414/S1702_output.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

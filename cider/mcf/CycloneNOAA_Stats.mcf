@@ -1,0 +1,9 @@
+Node: dcid:dc/base/CycloneNOAA_Stats
+typeOf: dcid:Provenance
+license: "https://www.ncei.noaa.gov/products/international-geomagnetic-reference-field"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cyclone/stats/"
+sourceDataUrl: "https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/ibtracs.ALL.list.v04r00.csv"
+descriptionUrl: "https://www.ncei.noaa.gov/sites/default/files/2021-07/IBTrACS_v04_column_documentation.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

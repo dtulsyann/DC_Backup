@@ -1,0 +1,14 @@
+import {
+  import_name: "WikidataGeo_Federated_States_of_Micronesia"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Federated States of Micronesia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Federated_States_of_Micronesia/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Federated_States_of_Micronesia/FederatedStatesOfMicronesiaADM1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Federated_States_of_Micronesia/FederatedStatesOfMicronesiaADM1final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}
+

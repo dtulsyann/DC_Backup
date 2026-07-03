@@ -1,0 +1,90 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthAsia_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthAsia_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthAsia_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthAsia_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthAsia_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthAsia_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthEasternAsia_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthEasternAsia_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthEasternAsia_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthEasternAsia_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthEasternAsia_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthEasternAsia_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthSouthCentralAsia_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthCentralAsia_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthSouthCentralAsia_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthCentralAsia_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthSouthCentralAsia_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthCentralAsia_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthSouthEasternAsia_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthEasternAsia_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthSouthEasternAsia_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthEasternAsia_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthSouthEasternAsia_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthEasternAsia_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthWesternAsia_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthWesternAsia_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthWesternAsia_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthWesternAsia_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0505-Count_Person_ForeignBorn_PlaceOfBirthWesternAsia_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0505
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthWesternAsia_2OrMoreRatioToPovertyLine
+

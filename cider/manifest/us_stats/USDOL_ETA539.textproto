@@ -1,0 +1,24 @@
+import: {
+  import_name: "USDOL_ETA539"
+  provenance_url: "https://oui.doleta.gov/unemploy/"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_dol/eta539*.mcf"
+  import_groups: "dcbranch"
+  import_groups: "searchbranch"
+  import_groups: "frequent"
+  import_groups: "laelaps"
+  provenance_description: "The Department of Labor publishes raw data collected from the Employment & Training Administration (ETA)'s 539 reports. Please see https://datacommons.org/disclaimers for disclaimers about this data."
+  start_date_in_kg: "1984-06-09"
+  # Updates on Friday.
+  release_frequency: "P1W"
+  data_download_url: "https://oui.doleta.gov/unemploy/csv/ar539.csv"
+  automated_mcf_generation_by: "searchbranch"
+  mcf_download_config: {
+    src_latest_version_file: "/cns/jv-d/home/datcom/xenon_mcf/us_dol/eta/latest_version.txt"
+  }
+  resolution_info: {
+    uses_id_resolver: true
+    unresolved_mcf_urls: "/cns/jv-d/home/datcom/v3_mcf/us_dol/eta539*.mcf"
+  }
+  dataset_name: "Weekly Claims and Extended Benefits Trigger Data"
+}

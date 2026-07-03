@@ -1,0 +1,13 @@
+import: {
+  import_name: "WRIS_India_Rainfall"
+  provenance_url: "https://indiawris.gov.in/wris/#/DataDownload"
+  category: STATS
+  provenance_description: "WRIS India monthly rainfall data of district level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_wris/Rainfall/output/graph.tfrecord@1.gz"
+  import_groups: "infrequent"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/Rainfall/output/WRIS_rainfall.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/Rainfall/output/WRIS_rainfall.csv"
+  }
+  dataset_name: "WRIS India Rainfall"
+}

@@ -1,0 +1,7 @@
+Node: dcid:dc/base/MOSPI_IndiaPLFS_DailyWages
+typeOf: dcid:Provenance
+license: "https://www.mospi.gov.in/copyright-policy"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs"
+automaticRefreshType: "NoAutomaticRefresh"

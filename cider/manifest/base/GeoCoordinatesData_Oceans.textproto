@@ -1,0 +1,15 @@
+# LINT.IfChange
+import: {
+  import_name: "GeoCoordinatesData_Oceans"
+  provenance_url: "https://www.marineregions.org/sources.php#goas"
+  category: PLACE
+  provenance_description: "Flanders Marine Institute (2021). Global Oceans and Seas, version 1. Available online at https://www.marineregions.org/. https://doi.org/10.14284/542."
+  # Source used to generate mcf at /cns/jv-d/home/datcom/v3_mcf/oceans/geo/goas/
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/oceans/geo/goas/*.mcf"
+  import_groups: "place"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: false }
+  dataset_name: "Global Oceans and Seas"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

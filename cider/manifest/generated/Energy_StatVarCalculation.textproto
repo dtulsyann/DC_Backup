@@ -1,0 +1,9 @@
+import: {
+  import_name: "Energy_StatVarCalculation"
+  provenance_url: "https://datacommons.org/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/Energy_StatVarCalculation/graph.tfrecord@1.gz"
+  import_groups: "auto2w"
+  provenance_description: "Aggregated by DataCommons for energy with stat var calculation."
+  category: AGGREGATED_STATS
+  dataset_name: "Data Commons Aggregations"
+}

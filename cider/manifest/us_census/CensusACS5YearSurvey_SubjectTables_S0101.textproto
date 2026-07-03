@@ -1,0 +1,13 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S0101"
+  provenance_url: "https://data.census.gov/table?q=S0101:+Age+and+Sex&tid=ACSST1Y2024.S0101"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/S0101/20260219/graph.tfrecord@1.gz"
+  import_groups: "uscensus"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S0101/20260219/S0101_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/S0101/20260219/S0101_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/UNData
+typeOf: dcid:Provenance
+license: "https://data.un.org/Host.aspx?Content=UNdataUse"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+#dataTransformationLogic: ""
+descriptionUrl: "https://data.un.org/Host.aspx?Content=About"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/kg_person_counts/NewWikidata/pops_and_obs/UNData/20241016/input_files/"
+sourceDataUrl: "https://data.un.org/Handlers/DownloadHandler.ashx?DataFilter=tableCode:240&DataMartId=POP&Format=csv&c=2,3,6,8,10,12,14,16,17,18&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc"
+sourceReleaseFrequency: "P1Y"
+

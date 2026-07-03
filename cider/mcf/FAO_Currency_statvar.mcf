@@ -1,0 +1,8 @@
+Node: dcid:dc/base/FAO_Currency_statvar
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.fao.org/faostat/en/#data/PE/metadata"
+sourceDataUrl: "https://bulks-faostat.fao.org/production/Exchange_rate_E_All_Data.zip"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/fao/latest/input_files"
+sourceReleaseFrequency: "P1Y"
+processingMethod: dcid:StatVarProcessor
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,11 @@
+Node: dcid:dc/svi/IndiaRBI_Poverty-Count_Person_BelowPovertyLevelInThePast12Months
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaRBI_Poverty
+variable: dcid:Count_Person_BelowPovertyLevelInThePast12Months
+
+Node: dcid:dc/svi/IndiaRBI_Poverty-Count_Person_BelowPovertyLevelInThePast12Months_AsFractionOf_Count_Person
+footnote: "Poverty line defined by the Planning Commission of India"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/IndiaRBI_Poverty
+variable: dcid:Count_Person_BelowPovertyLevelInThePast12Months_AsFractionOf_Count_Person

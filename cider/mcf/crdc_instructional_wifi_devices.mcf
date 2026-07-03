@@ -1,0 +1,10 @@
+Node: dcid:dc/base/crdc_instructional_wifi_devices
+typeOf: dcs:Provenance
+license: "https://civilrightsdata.ed.gov/data"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/crdc/instructional_wifi_devices/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/us_education/crdc/instructional_wifi_devices/latest/input_files"
+sourceDataUrl : "https://civilrightsdata.ed.gov/data"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

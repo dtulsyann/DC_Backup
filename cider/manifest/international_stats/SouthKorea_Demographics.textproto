@@ -1,0 +1,15 @@
+import {
+  import_name: "SouthKorea_Demographics"
+  provenance_url: "https://kosis.kr/eng/statisticsList/statisticsListIndex.do"
+  category: STATS
+  provenance_description: "This data is from the South Korea Statistics Agency (KOSA), that describes about the population of South Korea."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/southkorea/demographics/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/southkorea/demographics/population.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/southkorea/demographics/*.csv"
+  }
+  import_groups: "country"
+  start_date_in_kg: "2004"
+  end_date_in_kg: "2024"
+  dataset_name: "South Korea Statistics"
+}

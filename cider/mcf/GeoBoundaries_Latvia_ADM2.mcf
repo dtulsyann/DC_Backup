@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Latvia_ADM2
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/LVA/ADM2/"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Latvia/ADM2/InputFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/LVA/ADM2"
+lastDataRefreshDate: "2024-12-20"
+earliestDataImportDate: "2024-10-29"

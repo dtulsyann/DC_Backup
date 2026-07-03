@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CDC_Mortality_UnderlyingCause_SingleRace
+typeOf: dcid:Provenance
+license: "https://wonder.cdc.gov/datause.html#"
+licenseType: dcid:PublicDomain
+automaticRefreshType: GCPCloudRunSemiAutomaticRefresh
+processingMethod: dcid:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/statvar_imports/us_cdc/single_race/README.md"
+sourceDataUrl: "https://wonder.cdc.gov/ucd-icd10-expanded.html"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/UnderlyingCause/Single_Race/latest/input_files"

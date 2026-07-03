@@ -1,0 +1,21 @@
+import: {
+  import_name: "BEAGDPv2"
+  provenance_url: "https://www.bea.gov/"
+  category: STATS
+  provenance_description: "Gross Domestic Product (GDP) measurements by county, metropolitan, and other regional areas from the US Bureau of Economic Analysis."
+  data_download_url: "https://apps.bea.gov/regional/zip/CAGDP9.zip"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bea/gdp_chained_dollar_county_msa/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bea/gdp_chained_dollar_county_msa/latest/bea_gdp_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bea/gdp_chained_dollar_county_msa/latest/bea_gdp_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/gdp_by_county_metro_and_other_areas/beagdpv2/BEAGDPv2/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/gdp_by_county_metro_and_other_areas/beagdpv2/BEAGDPv2/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "GDP by County, Metro, and Other Areas"
+}

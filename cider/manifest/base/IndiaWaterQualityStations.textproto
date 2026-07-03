@@ -1,0 +1,23 @@
+import: {
+  import_name: "IndiaWaterQualityStations"
+  provenance_url: "https://indiawris.gov.in/wris"
+  category: PLACE
+  data_download_url: "https://indiawris.gov.in/wris/#/DataDownload"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "lgdCode"
+    kg_for_resolution: KG_MCF
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_wris/stations/20231226/GroundWaterStation/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/stations/20231226/GroundWaterStation/India_WRIS_Ground_station.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/stations/20231226/GroundWaterStation/ground_water_quality_stations.csv"
+  }
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_wris/stations/20231226/SurfaceWaterStation/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/stations/20231226/SurfaceWaterStation/surface_station.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_wris/stations/20231226/SurfaceWaterStation/surface_water_quality_stations.csv"
+  }
+  import_groups: "place"
+  dataset_name: "India Water Quality"
+}

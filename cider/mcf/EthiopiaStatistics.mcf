@@ -1,0 +1,10 @@
+Node: dcid:dc/base/EthiopiaStatistics
+typeOf: dcid:Provenance
+descriptionUrl: "https://ethiopia.opendataforafrica.org/"
+license: "https://ethiopia.opendataforafrica.org/legal/termsofuse"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+lastDataRefreshDate: "2025-03-08"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/ethiopia/input_files/"
+sourceDataUrl: "https://ethiopia.opendataforafrica.org/data/#menu=topic"
+automaticRefreshType: "NoAutomaticRefresh"

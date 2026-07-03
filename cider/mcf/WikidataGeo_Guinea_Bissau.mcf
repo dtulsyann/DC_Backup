@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Guinea_Bissau
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/guinea-bissau/wikidata/"
+sourceDataUrl : "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+lastDataRefreshDate: "2024-05-21"
+earliestDataImportDate: "2024-05-21"

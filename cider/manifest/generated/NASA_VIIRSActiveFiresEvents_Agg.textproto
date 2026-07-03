@@ -1,0 +1,11 @@
+import {
+  import_name: "NASA_VIIRSActiveFiresEvents_Agg"
+  provenance_url: "https://firms.modaps.eosdis.nasa.gov/active_fire/"
+  category: AGGREGATED_STATS
+  provenance_description: "Aggregated thermal anomalies and active fire event data captured by the VIIRS instrument."
+  import_groups: "auto1w"
+  start_date_in_kg: "2012"
+  end_date_in_kg: "2022"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/derived_graph/NASA_VIIRSActiveFiresEvents_Agg/graph.tfrecord@9.gz"
+  dataset_name: "VIIRS Active Fire Data"
+}

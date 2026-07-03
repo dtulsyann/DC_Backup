@@ -1,0 +1,10 @@
+Node: dcid:dc/base/SouthKorea_Health
+typeOf: dcs:Provenance
+license : "https://kosis.kr/eng/aboutKosis/policyPublicData.do"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/statvar_imports/southkorea_statistics/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/country/southkorea/health/input_files/"
+sourceDataUrl : "https://kosis.kr/eng/"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

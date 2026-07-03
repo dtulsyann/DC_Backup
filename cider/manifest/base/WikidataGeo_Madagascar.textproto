@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Madagascar"
+  provenance_url: "https://en.wikipedia.org/wiki/Regions_of_Madagascar"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 1 of Madagascar."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Madagascar/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Madagascar/mdg.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Madagascar/Madagascar_ADM1_Final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

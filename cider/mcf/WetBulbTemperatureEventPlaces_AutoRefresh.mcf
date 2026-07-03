@@ -1,0 +1,5 @@
+Node: dcid:dc/base/WetBulbTemperatureEventPlaces_AutoRefresh
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-05-30"
+descriptionUrl: "https://developers.google.com/earth-engine/datasets/catalog/NASA_GSFC_MERRA_slv_2#description"
+automaticRefreshType: "NoAutomaticRefresh"

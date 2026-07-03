@@ -1,0 +1,19 @@
+import: {
+  import_name: "IndiaRBI_UnemploymentRate"
+  provenance_url: "https://rbi.org.in/"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_rbi/unemployment_rate/20230804/nodes.mcf@1"
+  import_groups: "experimental"
+  start_date_in_kg: "1994"
+  end_date_in_kg: "2021"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "isoCode"
+    kg_for_resolution: KG_MCF
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/unemployment_rate/20230804/india_rbi_unemployment_rate_UnemploymentRate_India_StatisticalVariables.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/unemployment_rate/20230804/UnemploymentRate_India.csv"
+  }
+  dataset_name: "Database on Indian Economy"
+}

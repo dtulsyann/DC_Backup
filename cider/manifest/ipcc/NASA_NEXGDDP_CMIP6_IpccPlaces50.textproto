@@ -1,0 +1,18 @@
+import: {
+  # NOTE: This dataset includes IPCCPlace_50 entities (0.5 degree resolution)
+  # throughout the world for 35 models.
+  import_name: "NASA_NEXGDDP_CMIP6_IpccPlaces50"
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6"
+  category: STATS
+  provenance_description: "Global high-resolution climate change projections mapped to 50km grids based on IPCC CMIP6 scenarios."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/nex-gddp-cmip6/ipcc-places-50/graph.tfrecord*"
+  import_groups: "ipcc"
+  start_date_in_kg: "1950"
+  end_date_in_kg: "2100"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/ipcc-places-50/ipcc_geo_resolved.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/nex-gddp-cmip6/ipcc-places-50/GDDP_CMIP6_GRID_PROD_*/ipcc_geo_resolved-*-of-*"
+  }
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP6"
+}

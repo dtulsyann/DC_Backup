@@ -1,0 +1,30 @@
+import: {
+  # Includes tables 1 (summary), 48-54 (owner race)
+  # https://www.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_2_US_State_Level/
+  import_name: "USDA_AgricultureCensus"
+  provenance_url: "https://www.nass.usda.gov/AgCensus/"
+  category: STATS
+  provenance_description: "Comprehensive statistics on US farms, ranches, and the people who operate them, published every five years."
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  start_date_in_kg: "1997"
+  # TODO(b/203363253): Import earlier dates
+  release_frequency: "P5Y"
+  # All the data from 2002 to latest year available in the source
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_usda/ag_census/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_census/latest/agriculture.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_census/latest/agriculture.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_usda/nass_census/USDA_AgricultureCensus/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_usda/nass_census/USDA_AgricultureCensus/import_metadata_mcf.mcf"
+  # Historical data of the year 1997
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_usda/ag_census/historical_data_1997/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_census/historical_data_1997/agriculture.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_usda/ag_census/historical_data_1997/ag_census_1997.csv"
+  }
+  dataset_name: "Census of Agriculture"
+}

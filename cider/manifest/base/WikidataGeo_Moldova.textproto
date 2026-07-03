@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Moldova"
+  provenance_url: "https://en.wikipedia.org/wiki/Administrative_divisions_of_Moldova"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Moldova."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Moldova/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Moldova/Moldova_ADM1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Moldova/Moldova_ADM1_final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

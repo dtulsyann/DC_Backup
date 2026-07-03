@@ -1,0 +1,18 @@
+import: {
+  import_name: "IndiaCensus_PrimaryReligion"
+  provenance_url: "https://censusindia.gov.in/"
+  category: STATS
+  provenance_description: "Census of India population statistics broken down by major religious communities."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_census/primary_religion/nodes.mcf@100"
+  import_groups: "infrequent"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "indianCensusAreaCode2011"
+    kg_for_resolution: KG_MCF
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_census/primary_religion/IndiaCensus2011_Primary_Abstract_Religion.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_census/primary_religion/IndiaCensus2011_Primary_Abstract_Religion_StateDistrict.csv"
+  }
+  dataset_name: "India Census Tables"
+}

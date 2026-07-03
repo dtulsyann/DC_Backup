@@ -1,0 +1,5 @@
+dc/base/Copernicus_ECMWF_ERA5_Monthly_AggrYearsStats
+dc/base/NASA_NEXDCP30_AggrYearsStats
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrYearsStats
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrYearsStats
+dc/base/NOAA_EPA_Observed_Historical_Weather_AggrYearsStats

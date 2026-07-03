@@ -1,0 +1,5 @@
+Node: dcid:dc/base/Indonesia_Census
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-05-29"
+descriptionUrl: "https://sirusa.web.bps.go.id/metadata/"
+automaticRefreshType: "NoAutomaticRefresh"

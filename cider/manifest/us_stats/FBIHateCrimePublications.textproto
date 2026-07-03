@@ -1,0 +1,58 @@
+import: {
+  import_name: "FBIHateCrimePublications"
+  provenance_url: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime"
+  category: STATS
+  provenance_description: "The FBI's UCR Program provides data on hate crimes in their annual Hate Crime Statistics publications. These publications are accessible at https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime."
+
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/hate_crime/latest/historical_data/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/historical_data/output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/historical_data/fbi_historical.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/hate_crime/latest/tables1-10/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/tables1-10/t1tot10.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/tables1-10/t1tot10_combined.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/fbi/hate_crime/FBIHateCrimePublications/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/hate_crime/latest/table11/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table11/table11_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table11/table11_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/fbi/hate_crime/FBIHateCrimePublications/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/hate_crime/latest/table12/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table12/table12_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table12/table12_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/fbi/hate_crime/FBIHateCrimePublications/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/hate_crime/latest/table13/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table13/table13_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table13/table13_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/fbi/hate_crime/FBIHateCrimePublications/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fbi/hate_crime/latest/table14/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table14/table14_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fbi/hate_crime/latest/table14/table14_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/fbi/hate_crime/FBIHateCrimePublications/latest_version.txt"
+    }
+  }
+
+  import_groups: "infrequent"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Hate Crime Statistics"
+}

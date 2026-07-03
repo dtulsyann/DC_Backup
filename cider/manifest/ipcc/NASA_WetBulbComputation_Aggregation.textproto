@@ -1,0 +1,13 @@
+import: {
+  import_name: "NASA_WetBulbComputation_Aggregation"
+  provenance_url: "https://datacommons.org/"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/ipcc/wetbulb_aggregate/nodes.mcf@1"
+  import_groups: "ipcc"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/ipcc/wetbulb_aggregate/tw.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nasa/ipcc/wetbulb_aggregate/tw.csv"
+  }
+  provenance_description: "Computed by DataCommons for the years 2022-2099, based on data in NASA_WetBulbComputation."
+  category: AGGREGATED_STATS
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP5"
+}

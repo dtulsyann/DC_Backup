@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Latvia"
+  provenance_url: "https://en.wikipedia.org/wiki/Administrative_divisions_of_Latvia"
+  category: PLACE
+  provenance_description: "Includes the Municipalities(Administrative Area 1 division) of Latvia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/Latvia/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Latvia/lva.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/Latvia/Latvia-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

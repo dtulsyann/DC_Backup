@@ -1,0 +1,90 @@
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthCaribbean_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthCaribbean_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthCaribbean_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthCaribbean_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthCaribbean_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthCaribbean_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthCentralAmericaExceptMexico_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthCentralAmericaExceptMexico_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthCentralAmericaExceptMexico_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthCentralAmericaExceptMexico_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthCentralAmericaExceptMexico_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthCentralAmericaExceptMexico_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthLatinAmerica_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthLatinAmerica_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthLatinAmerica_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthLatinAmerica_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthLatinAmerica_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthLatinAmerica_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthMexico_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthMexico_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthMexico_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthMexico_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthMexico_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthMexico_2OrMoreRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthSouthamerica_1OrLessRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthamerica_1OrLessRatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthSouthamerica_1To1.99RatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthamerica_1To1.99RatioToPovertyLine
+
+Node: dcid:dc/svi/CensusACS5YearSurvey_SubjectTables_S0506-Count_Person_ForeignBorn_PlaceOfBirthSouthamerica_2OrMoreRatioToPovertyLine
+footnote: "Poverty line defined by US Census poverty threshold"
+typeOf: dcid:SourceStatVarInfo
+isPartOf: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0506
+variable: dcid:Count_Person_ForeignBorn_PlaceOfBirthSouthamerica_2OrMoreRatioToPovertyLine
+

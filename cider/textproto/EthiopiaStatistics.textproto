@@ -1,0 +1,17 @@
+import: {
+  import_name: "EthiopiaStatistics"
+  provenance_url: "https://ethiopia.opendataforafrica.org/data/#menu=topic"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/ethiopia/graph.tfrecord@1.gz"
+  import_groups: "infrequent"
+  import_groups: "country"
+  start_date_in_kg: "1990"
+  end_date_in_kg: "2019"
+  release_frequency: "P1Y"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/ethiopia/Ethiopia.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/ethiopia/*.csv"
+  }
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "Ethiopia Statistics"
+}

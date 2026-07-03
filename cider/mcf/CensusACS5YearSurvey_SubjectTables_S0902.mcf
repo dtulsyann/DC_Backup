@@ -1,0 +1,12 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0902
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_census/acs5yr/subject_tables/s0902/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/subject_tables/s0902/20260313/input_files"
+sourceDataUrl: "https://data.census.gov/table/ACSST5Y2024.S0902?q=S0902"
+lastDataRefreshDate: "2026-03-13"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2024_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2024_ACSSubjectDefinitions.pdf"
+description: "American Community Survey (ACS) 5-Year Subject Tables: S0902: Characteristics of Teenagers 15 to 19 Years Old"
+automaticRefreshType: "NoAutomaticRefresh"

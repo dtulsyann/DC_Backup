@@ -1,0 +1,9 @@
+import: {
+  import_name: "BaseSchema"
+  provenance_url: "https://datacommons.org"
+  category: SCHEMA
+  mcf_url: "/memfile/resolved_mcfs_memfile/schema/core/*.mcf"
+  mcf_url: "/memfile/resolved_mcfs_memfile/schema/biomedical_schema/*.mcf"
+  import_groups: "schema"
+  dataset_name: "Data Commons Schema"
+}

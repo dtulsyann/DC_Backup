@@ -1,0 +1,9 @@
+import {
+  import_name: "GeoBoundaries_Romania"
+  provenance_url: "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/ROU/ADM1"
+  category: PLACE
+  provenance_description: "Includes the Boundary files for the Administrative Area 1 divisions of Romania."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/boundaryFiles/Romania/*.mcf"
+  import_groups: "place"
+  dataset_name: "Global Database of Political Administrative Boundaries Database"
+}

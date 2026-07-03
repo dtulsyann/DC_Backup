@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Poland_Census
+typeOf: dcid:Provenance
+license: "https://stat.gov.pl/en/news/the-new-knowledge-databases-website%2C119%2C1.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+sourceDataUrl: "https://stat.gov.pl/en/databases/"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2025-03-25"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/poland/input_files"
+descriptionUrl: "https://stat.gov.pl/en/"

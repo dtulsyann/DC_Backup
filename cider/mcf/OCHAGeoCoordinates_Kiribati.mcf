@@ -1,0 +1,10 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Kiribati
+typeOf: dcs:Provenance
+license : "https://data.humdata.org/dataset/cod-ab-kir"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Kiribati/source"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-kir"
+lastDataRefreshDate: "2024-07-08"
+earliestDataImportDate: "2024-07-08"

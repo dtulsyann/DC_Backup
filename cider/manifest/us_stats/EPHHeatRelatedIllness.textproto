@@ -1,0 +1,21 @@
+import: {
+  import_name: "EPHHeatRelatedIllness"
+  provenance_url: "https://ephtracking.cdc.gov/qrlist/35"
+  category: STATS
+  provenance_description: "Statistics and tracking data for heat-related illnesses and hospitalizations."
+  release_frequency: "P5M"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/environmental_public_health/heat_stress/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental_public_health/heat_stress/latest/output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental_public_health/heat_stress/latest/cleaned.csv"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/environmental_public_health/heat_stress/latest/country_output.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/heat_related_illness/EPHHeatRelatedIllness/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/heat_related_illness/EPHHeatRelatedIllness/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Heat & Heat-related Illness (HRI)"
+}

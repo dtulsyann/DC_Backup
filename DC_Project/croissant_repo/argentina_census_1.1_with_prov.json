@@ -1,0 +1,114 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "dct": "http://purl.org/dc/terms/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "data": { "@id": "cr:data", "@type": "@json" },
+    "dataType": { "@id": "cr:dataType", "@type": "@vocab" },
+    "examples": { "@id": "cr:examples", "@type": "@json" },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "name": "Argentina Census",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "description": "Population Census and Statistics for Brazil",
+  "license": "https://www.indec.gob.ar/indec/web/Institucional-Indec-Transparencia",
+  "url": "https://datacommons.org/browser/dc/d/NationalInstituteOfStatisticsAndCensusesIndec_ArgentinaCensus",
+  "isLiveDataset": true,
+  "dateModified": "2023-05-11",
+  "creator": [
+    {
+      "@type": "Organization",
+      "@id": "org-indec",
+      "name": "National Institute of Statistics and Censuses (INDEC)",
+      "url": "https://www.indec.gob.ar"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "@id": "org-datacommons",
+    "name": "Data Commons",
+    "url": "https://datacommons.org"
+  },
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "provenance-1",
+      "name": "census_data.zip",
+      "description": "A compressed archive containing all provenance CSVs for the 1980-2019 Argentina Census.",
+      "contentUrl": "https://api.example.com/data/census_1.zip",
+      "contentSize": "25585843 B",
+      "encodingFormat": "application/zip",
+      "prov:wasAttributedTo": { "@id": "org-indec" }
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "all-provenances",
+      "name": "all-provenances",
+      "containedIn": [
+        {"@id": "provenance-1"}
+      ],
+      "encodingFormat": "text/csv",
+      "includes": "*.csv"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "census-records",
+      "name": "census-records",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "name": "id",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileSet": {
+              "@id": "all-provenances"
+            },
+            "extract": { "column": "column1" }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "name": "district",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "all-provenances"
+            },
+            "extract": { "column": "column2" }
+          }
+        }
+      ]
+    }
+  ]
+}

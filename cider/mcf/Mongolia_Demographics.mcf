@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Mongolia_Demographics
+typeOf: dcs:Provenance
+license : "https://www.1212.mn/en/terms_of_use"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+sourceDataUrl : "https://www.1212.mn/en/statcate"
+sourceReleaseFrequency : "P1Y"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/mongolia_imports/mongolia_demographics/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/country/mongolia/mongolia_demographics/latest/input_files"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+

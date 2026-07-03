@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_Demographics_StatVarAgg
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+sourceDataUrl: "https://data.census.gov/table?q=Demographic"
+lastDataRefreshDate: "2025-01-27"
+sourceReleaseFrequency: "P1Y"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2022_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2022_ACSSubjectDefinitions.pdf"
+# Next release: https://www.census.gov/programs-surveys/acs/news/data-releases.html
+nextSourceReleaseDate: "2025-12-11"
+automaticRefreshType: "NoAutomaticRefresh"

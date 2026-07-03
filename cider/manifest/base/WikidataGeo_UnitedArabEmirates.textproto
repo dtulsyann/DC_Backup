@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_UnitedArabEmirates"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the emirates(Administrative Area 1 division) of Niger."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/UnitedArabEmirates/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/UnitedArabEmirates/wikidata/uae.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/UnitedArabEmirates/wikidata/ArabEmirates - Final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

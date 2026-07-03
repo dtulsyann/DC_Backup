@@ -1,0 +1,15 @@
+import {
+  import_name: "US_ITA_Economic_Activity"
+  provenance_url: "https://www.trade.gov/report/tradestats-express-national-and-state-trade-data?anchor=content-tradestats-express---national-1"
+  category: STATS
+  provenance_description: "This dataset represents the revenue from export and amount spent on import activities of all goods annually to different countries/geographical regions for different years."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_ita/US_ITA/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_ita/US_ITA/us_ita--ExportEconomicActivity.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_ita/US_ITA/*.csv"
+  }
+  import_groups: "infrequent"
+  start_date_in_kg: "2009"
+  end_date_in_kg: "2022"
+  dataset_name: "US ITA Economic Activity"
+}

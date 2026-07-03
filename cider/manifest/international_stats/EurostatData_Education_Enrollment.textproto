@@ -1,0 +1,27 @@
+import: {
+  import_name: "EurostatData_Education_Enrollment"
+  provenance_url: "https://ec.europa.eu/eurostat/databrowser/view/trng_lfse_04/default/table?lang=en"
+  category: STATS
+  provenance_description: "Statistics on student enrollment in various levels of education across Europe."
+  # retained data
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/education_enrollment/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_enrollment/historical/Eurostats_NUTS2_Enrollment.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_enrollment/historical/education_enrollment_historical_rows.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/education_enrollment/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_enrollment/latest/Eurostats_NUTS2_Enrollment.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/education_enrollment/latest/Eurostats_NUTS2_Enrollment.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/education_enrollment/EurostatData_Education_Enrollment/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/education_enrollment/EurostatData_Education_Enrollment/import_metadata_mcf.mcf"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Regional Statistics by NUTS Classification"
+}

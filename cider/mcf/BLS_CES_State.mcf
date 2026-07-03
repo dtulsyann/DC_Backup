@@ -1,0 +1,10 @@
+Node: dcid:dc/base/BLS_CES_State
+typeOf: dcid:Provenance
+license: "https://www.bls.gov/bls/linksite.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bls/ces/state/latest/input_files/"
+sourceDataUrl: "https://download.bls.gov/pub/time.series/sm/"
+sourceReleaseFrequency: "P1M"
+descriptionUrl: "https://www.bls.gov/sae/overview.htm"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

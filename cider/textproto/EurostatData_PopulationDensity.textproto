@@ -1,0 +1,20 @@
+import: {
+  import_name: "EurostatData_PopulationDensity"
+  provenance_url: "https://ec.europa.eu/eurostat/databrowser/view/demo_r_d3dens/default/table?lang=en"
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/population_density/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/population_density/latest/PopulationDensity_Eurostat_NUTS3.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/population_density/latest/PopulationDensity_Eurostat_NUTS3.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/population_density/EurostatData_PopulationDensity/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/population_density/EurostatData_PopulationDensity/import_metadata_mcf.mcf"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Regional Statistics by NUTS Classification"
+}

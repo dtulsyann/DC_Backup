@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NCES_PrivateSchoolStats
+typeOf: dcid:Provenance
+license: "https://ies.ed.gov/help/privacy.asp"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_nces/README.md"
+sourceDataUrl: "https://nces.ed.gov/ccd/elsi/tableGenerator.aspx"
+sourceReleaseFrequency: "P2Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_nces/demographics/private_school/latest/input_files"
+descriptionUrl: "https://nces.ed.gov/programs/coe/indicator/cgc/private-school-enrollment"
+automaticRefreshType: "GCPCloudRunSemiAutomaticRefresh"

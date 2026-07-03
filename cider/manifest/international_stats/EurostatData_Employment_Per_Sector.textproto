@@ -1,0 +1,26 @@
+import: {
+  import_name: "EurostatData_Employment_Per_Sector"
+  provenance_url: "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3empers/default/table?lang=en"
+  category: STATS
+  provenance_description: "Employment statistics categorized by economic sector and industry across European regions."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/employment_per_sector/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/employment_per_sector/latest/Eurostats_NUTS3_Empers.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/employment_per_sector/latest/Eurostats_NUTS3_Empers.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/employed_per_sector/EurostatData_Employment_Per_Sector/latest_version.txt"
+    }
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/employment_per_sector/historical/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/employment_per_sector/historical/Eurostats_NUTS3_Empers.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/employment_per_sector/historical/historical_deleted_rows.csv"
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/employed_per_sector/EurostatData_Employment_Per_Sector/import_metadata_mcf.mcf"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Regional Statistics by NUTS Classification"
+}

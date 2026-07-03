@@ -1,0 +1,5 @@
+# proto-file: datacommons/proto/dc_manifest.proto
+# proto-message: DataCommonsManifest
+#
+import_metadata_mcf: "/memfile/resolved_mcfs_memfile/resolved_mcf/import/*.mcf"
+import_metadata_mcf: "/memfile/resolved_mcfs_memfile/resolved_mcf/import/source_statvar_info/*.mcf"

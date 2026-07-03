@@ -1,0 +1,27 @@
+import: {
+  import_name: "USCensusPEP_AgeSexRaceHispanicOrigin"
+  provenance_url: "https://www2.census.gov/programs-surveys/popest/tables"
+  provenance_description: "The import has variables that are directly available from Census PEP source and aggregated for different year ranges"
+  #We are retaining the data from 1980 to 2019 as a historical table here
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/population_estimates_by_asrh/historical_data/graph.tfrecord@6.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_asrh/historical_data/pep_asrh.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_asrh/historical_data/pep_asrh_historical_data.csv"
+  }
+  category: STATS
+  import_groups: "auto2w"
+  release_frequency: "P1W"
+  start_date_in_kg: "1980"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/pep/population_estimates_by_asrh/latest/graph.tfrecord@2.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_asrh/latest/pep_asrh.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/pep/population_estimates_by_asrh/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_census/pep/us_census_pep_asrh/USCensusPEP_AgeSexRaceHispanicOrigin/latest_version.txt"
+    }
+  }
+  dataset_name: "Population Estimates Program (PEP)"
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_census/pep/us_census_pep_asrh/USCensusPEP_AgeSexRaceHispanicOrigin/import_metadata_mcf.mcf"
+}

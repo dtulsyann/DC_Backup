@@ -1,0 +1,15 @@
+import: {
+  # Computed from BaseGeos data using this SQL: http://gpaste/6586728008646656
+  import_name: "USCensusGeos_SurfaceArea"
+  provenance_url: "https://www.census.gov/geographies/reference-files.html"
+  category: STATS
+  provenance_description: "Surface area measurements (land and water) for US geographic entities from Census Gazetteer files."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/computed_area/nodes.mcf@1"
+  import_groups: "uscensus"
+  # TODO(shanth): Remove from frequent after infrequent build
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/computed_area/surface_area.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/computed_area/surface_area.csv"
+  }
+  dataset_name: "Gazetteer Files"
+}

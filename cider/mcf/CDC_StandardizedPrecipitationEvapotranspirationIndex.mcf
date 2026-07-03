@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/nchs/data_access/ftp_data.htm"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_cdc/README.md"
+sourceDataUrl: "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib/about_data"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/environmental/StandardizedPrecipitationEvapotranspirationIndex/latest"
+descriptionUrl: "https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib/about_data"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

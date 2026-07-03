@@ -1,0 +1,27 @@
+import: {
+  import_name: "CDCWonder_NNDSS_InfectiousAnnual"
+  import_groups: "infrequent"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  provenance_url: "https://wonder.cdc.gov/nndss/nndss_annual_tables_menu.asp"
+  category: STATS
+  provenance_description: "Notifiable Infectious Diseases Data: Annual tables from CDC WONDER which has the incident counts of different infectious diseases per year and are aggregated based on demographic factors. The statistics are reported by the 50 states, New York City, the District of Columbia, and the U.S. territories."
+  # Only measles data is available from 2016 to 2023, rest of the data is not refreshed and is available up to 2022
+  # The whole import must be refreshed in the follow up bug - http://b/505609144
+  start_date_in_kg: "2016"
+  end_date_in_kg: "2023"
+  release_frequency: "P1Y"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/nndss_infectious_diseases_annual/20260420/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nndss_infectious_diseases_annual/20260420/nndss_age.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nndss_infectious_diseases_annual/20260420/*.csv"
+    # download_config: {
+    #   src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/nndss_annual_tables/CDCWonder_NNDSS_InfectiousAnnual/latest_version.txt"
+    # }
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  # metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/nndss_annual_tables/CDCWonder_NNDSS_InfectiousAnnual/import_metadata_mcf.mcf"
+  dataset_name: "National Notifiable Diseases Surveillance System (NNDSS)"
+}

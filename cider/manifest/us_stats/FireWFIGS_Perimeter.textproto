@@ -1,0 +1,18 @@
+import: {
+  import_name: "FireWFIGS_Perimeter"
+  provenance_url: "https://data-nifc.opendata.arcgis.com/maps/wfigs-wildland-fire-perimeters-full-history"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/fire/wfigs/perimeter/nodes.mcf@1"
+  import_groups: "experimental"
+  # TODO(ajaits): remove from auto1d when mixer supports merging from multiple import
+  # groups for a node. This adds perimeter to events in FireWFIGS
+  provenance_description: "The Wildland Fire Interagency Geospatial Services (WFIGS) Group provides authoritative geospatial data products under the interagency Wildland Fire Data Program. This dataset provides perimeters for all reported wildland fires in the United States. We simplify those parameters by using Ramer-Douglas-Peucker algorithm on geoJsonCoordinates with epsilon of 0.01."
+  start_date_in_kg: "2016"
+  end_date_in_kg: "2022"
+  release_frequency: "P1D"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/fire/wfigs/perimeter/fire_geojson.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/fire/wfigs/perimeter/perimeter_geojson_subset_dp1.csv"
+  }
+  dataset_name: "WFIGS Wildland Fire Perimeters"
+}

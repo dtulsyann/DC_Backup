@@ -1,0 +1,18 @@
+import: {
+  import_name: "USFEMA_NationalRiskIndex"
+  provenance_url: "https://hazards.fema.gov/nri/"
+  category: STATS
+  provenance_description: "Data assessing community risk to natural hazards, combining hazard probability with socio-economic vulnerability."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_fema/national_risk_index/latest/graph.tfrecord@2.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_fema/national_risk_index/latest/us_fema_national_risk_index_fema_nri_counties.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_fema/national_risk_index/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_fema/national_risk_index/USFEMA_NationalRiskIndex/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_fema/national_risk_index/USFEMA_NationalRiskIndex/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "National Risk Index"
+}

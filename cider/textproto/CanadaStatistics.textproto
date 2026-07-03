@@ -1,0 +1,14 @@
+import {
+  import_name: "CanadaStatistics"
+  provenance_url: "https://www150.statcan.gc.ca/n1/en/type/data?MM=1"
+  category: STATS
+  provenance_description: "Canada Demographics, Health, Economy, Education Statistics at Country, Provenance and Territories level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/canada/20230719/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/canada/20230719/can_common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/canada/20230719/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  dataset_name: "Canada Statistics"
+}

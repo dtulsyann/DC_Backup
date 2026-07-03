@@ -1,0 +1,9 @@
+Node: dcid:dc/base/WikidataGeo_Liechtenstein
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Liechtenstein/sourceFiles/Liechtenstein_ADM1_Final.csv"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Municipalities_of_Liechtenstein"
+lastDataRefreshDate: "2024-06-25"
+earliestDataImportDate: "2024-06-25"

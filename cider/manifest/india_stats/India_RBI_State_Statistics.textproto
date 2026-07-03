@@ -1,0 +1,18 @@
+import: {
+  import_name: "India_RBI_State_Statistics"
+  provenance_url: "https://rbi.org.in/"
+  provenance_description: "Handbook of statistics on Indian states from Reserve Bank of India."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_rbi/state_statistics/latest/agriculture/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/state_statistics/latest/agriculture/agriculture_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_rbi/state_statistics/latest/*/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/database_on_indian_economy/india_rbi_state_statistics/India_RBI_State_Statistics/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/database_on_indian_economy/india_rbi_state_statistics/India_RBI_State_Statistics/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Database on Indian Economy"
+}

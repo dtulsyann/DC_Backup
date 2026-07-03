@@ -1,0 +1,13 @@
+import {
+  import_name: "Argentina_Census"
+  provenance_url: "https://www.indec.gob.ar"
+  category: STATS
+  provenance_description: "Population Census and Statistics for Brazil."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/argentina/output_files/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/argentina/output_files/argentina_common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/argentina/output_files/arg*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "Argentina Census"
+}

@@ -1,0 +1,18 @@
+import: {
+  import_name: "IndiaCensus_PrimaryST"
+  provenance_url: "https://censusindia.gov.in/"
+  category: STATS
+  provenance_description: "Census of India demographic data specifically for Scheduled Tribes."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_census/primary_st/nodes.mcf@1"
+  import_groups: "infrequent"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "indianCensusAreaCode2011"
+    kg_for_resolution: KG_MCF
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_census/primary_st/IndiaCensus2011_Primary_Abstract_ScheduledTribe.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_census/primary_st/IndiaCensus2011_Primary_Abstract_ScheduledTribe.csv"
+  }
+  dataset_name: "India Census Tables"
+}

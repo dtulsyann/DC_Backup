@@ -1,0 +1,20 @@
+import: {
+  import_name: "BaseGeos"
+  provenance_url: "https://www.census.gov/geographies/reference-files.html"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/*/*.mcf"
+  import_groups: "place"
+  is_mcf_replicated_from_piper: true
+  resolution_info: {
+    uses_id_resolver: false
+    provides_ids: "geoId"
+    provides_ids: "countryNumericCode"
+    provides_ids: "countryAlpha3Code"
+    provides_ids: "countryAlpha2Code"
+    new_geo {
+      dcid_sources: "geoId"
+      dcid_sources: "countryAlpha3Code"
+    }
+  }
+  dataset_name: "Gazetteer Files"
+}

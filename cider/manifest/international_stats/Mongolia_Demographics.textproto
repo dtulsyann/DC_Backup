@@ -1,0 +1,21 @@
+import: {
+  import_name: "Mongolia_Demographics"
+  provenance_url: "https://www.1212.mn/en/statcate"
+  provenance_description: "Dataset related to the Mongolia's population and households at country level."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/mongolia/mongolia_demographics/latest/graph.tfrecord@1.gz"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/mongolia/mongolia_demographics/latest/mid_year_total_population_by_region_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/mongolia/mongolia_demographics/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/mongolia_imports/mongolia_demographics/Mongolia_Demographics/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/mongolia_imports/mongolia_demographics/Mongolia_Demographics/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  import_groups: "country"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Mongolia Statistics"
+}

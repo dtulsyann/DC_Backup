@@ -1,0 +1,16 @@
+import: {
+  import_name: "DiseaseOntology"
+  dataset_name: "Disease Ontology"
+  provenance_url: "https://disease-ontology.org"
+  category: ENTITY
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/disease/diseaseOntology3/nodes.mcf@1"
+  import_groups: "biomedical"
+  next_release_date: "2023-08"
+  release_frequency: "P1M"
+  # Next release: https://github.com/DiseaseOntology/HumanDiseaseOntology/tree/main/src/ontology
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/disease/diseaseOntology3/disease_ontology.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/disease/diseaseOntology3/disease_ontology.csv"
+  }
+}

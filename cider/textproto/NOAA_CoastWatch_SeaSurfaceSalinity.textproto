@@ -1,0 +1,19 @@
+import: {
+  # NOTE: This is a demo dataset for Tidal explorations
+  import_name: "NOAA_CoastWatch_SeaSurfaceSalinity"
+  provenance_url: "https://coastwatch.noaa.gov/erddap/griddap/noaacwSMAPsss3Daily.html"
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/nesdis_coastwatch/sss/nodes.mcf@1"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/noaa/nesdis_coastwatch/sss/l7to9/nodes.mcf@1"
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sss/mapped_sss.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sss/mapped_sss.csv"
+  }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sss/l7to9/mapped_sss.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/noaa/nesdis_coastwatch/sss/l7to9/mapped_sss.csv"
+  }
+  dataset_name: "NOAA CoastWatch"
+}

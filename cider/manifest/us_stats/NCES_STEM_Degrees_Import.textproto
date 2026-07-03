@@ -1,0 +1,25 @@
+import {
+  import_name: "NCES_STEM_Degrees_Import"
+  provenance_url: "https://nces.ed.gov/programs/digest/d22/tables/dt22_318.45.asp"
+  category: STATS
+  provenance_description: "Number and percentage distribution of science, technology, engineering, and mathematics (STEM) degrees/certificates conferred by postsecondary institutions, by race/ ethnicity, level of degree/certificate, and sex of student"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ncses/nces_stem_degrees_import/latest/history/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ncses/nces_stem_degrees_import/latest/history/nces_steam_degree.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ncses/nces_stem_degrees_import/latest/history/bq-results-2011.csv"
+  }
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ncses/nces_stem_degrees_import/latest/graph.tfrecord@1.gz"
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ncses/nces_stem_degrees_import/latest/nces_steam_degree.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ncses/nces_stem_degrees_import/latest/nces_steam_degree.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_steam_degrees_data/nces_stem_degrees_import/NCES_STEM_Degrees_Import/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_steam_degrees_data/nces_stem_degrees_import/NCES_STEM_Degrees_Import/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  release_frequency: "P1Y"
+  automated_mcf_generation_by: "auto2w"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "US STEM Degrees Data"
+}

@@ -1,0 +1,12 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1603
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_census/acs5yr/subject_tables/S1603/README.md"
+sourceDataUrl: "https://data.census.gov/cedsci/table?q=S1603&tid=ACSST5Y2023.S1603"
+lastDataRefreshDate: "2025-01-07"
+earliestDataImportDate: "2025-01-07"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/s1603/s1603_20250107"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2022_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2022_ACSSubjectDefinitions.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "dct": "http://purl.org/dc/terms/"
+  },
+  "@type": "sc:Dataset",
+  "name": "UsBureauOfEconomicAnalysisBea_GrossDomesticProduct",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "description": "Gross Domestic Product (GDP) data collection from the US Bureau of Economic Analysis, integrated into Data Commons.",
+  "identifier": "dc/d/UsBureauOfEconomicAnalysisBea_GrossDomesticProduct",
+  "url": "https://datacommons.org/browser/dc/d/UsBureauOfEconomicAnalysisBea_GrossDomesticProduct",
+
+  "publisher": {
+    "@type": "sc:Organization",
+    "name": "US Bureau of Economic Analysis",
+    "identifier": "dc/s/UsBureauOfEconomicAnalysisBea",
+    "url": "https://www.bea.gov/"
+  },
+
+  "creator": {
+    "@type": "sc:Organization",
+    "name": "imports@datacommons.org",
+    "identifier": "dc/cjj7vp"
+  },
+
+  "distribution": [
+    {
+      "@type": "sc:FileObject",
+      "@id": "BEA_USStatesQuarterlyGDP",
+      "name": "BEA_USStatesQuarterlyGDP",
+      "description": "Quarterly data on inflation-adjusted GDP at a state level in the United States.",
+      "contentUrl": "https://api.datacommons.org/v2/observation/csv?statVars=BEA_USStatesQuarterlyGDP",
+      "encodingFormat": "text/csv",
+      "sha256": "dummy_sha256_placeholder",
+      "identifier": "dc/base/BEA_USStatesQuarterlyGDP",
+      "additionalProperty": [
+        {
+          "@type": "sc:PropertyValue",
+          "name": "licenseType",
+          "value": "PublicDomain"
+        },
+        {
+          "@type": "sc:PropertyValue",
+          "name": "dataTransformationLogic",
+          "value": "https://github.com/datacommonsorg/data/tree/master/scripts/us_bea/states_gdp"
+        },
+        {
+          "@type": "sc:PropertyValue",
+          "name": "sourceReleaseFrequency",
+          "value": "P3M"
+        },
+        {
+          "@type": "sc:PropertyValue",
+          "name": "importTime",
+          "value": "1775107832"
+        },
+        {
+          "@type": "sc:PropertyValue",
+          "name": "processingMethod",
+          "value": "CustomScript"
+        },
+        {
+          "@type": "sc:PropertyValue",
+          "name": "nextDataRefreshDate",
+          "value": "2026-04-30"
+        },
+        {
+          "@type": "sc:PropertyValue",
+          "name": "provenanceCategory",
+          "value": "StatisticsProvenance"
+        },
+        {
+          "@type": "sc:PropertyValue",
+          "name": "dataBuildGroup",
+          "value": "auto2w, infrequent, searchaim"
+        }
+      ]
+    }
+  ],
+
+  "recordSet": []
+}

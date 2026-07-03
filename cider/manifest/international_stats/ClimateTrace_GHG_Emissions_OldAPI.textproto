@@ -1,0 +1,18 @@
+import: {
+  import_name: "ClimateTrace_GHG_Emissions_OldAPI"
+  provenance_url: "https://climatetrace.org/inventory"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/climate_trace/nodes.mcf@1"
+  category: STATS
+  provenance_description: "Historical greenhouse gas emissions data tracked by older versions of the Climate TRACE API."
+  import_groups: "infrequent"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2020"
+  end_date_in_source: "2020"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table: {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/climate_trace/climate_trace.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/climate_trace/processed_data.csv"
+  }
+  dataset_name: "Climate TRACE GHG Emissions"
+}

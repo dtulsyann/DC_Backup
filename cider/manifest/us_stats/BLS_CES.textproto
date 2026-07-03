@@ -1,0 +1,31 @@
+import: {
+  import_name: "BLS_CES"
+  provenance_url: "https://www.bls.gov/ces/"
+  category: STATS
+  provenance_description: "Current Employment Statistics (CES) program data detailing national employment, hours, and earnings estimates."
+  data_download_url: "https://www.bls.gov/webapps/legacy/cesbtab1.htm"
+  #Historical data from 1939 to 2019
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/ces/historical_data/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/historical_data/historical_data.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/historical_data/historical_data.csv"
+  }
+
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_bls/ces/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/latest/bls_ces.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_bls/ces/latest/bls_ces.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/bls_ces/BLS_CES/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/us_bls/bls_ces/BLS_CES/import_metadata_mcf.mcf"
+  import_groups: "infrequent"
+  import_groups: "searchaim"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  start_date_in_kg: "1939"
+  end_date_in_kg: "2025"
+  release_frequency: "P1M"
+  dataset_name: "Current Employment Statistics (CES)"
+}

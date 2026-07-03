@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeos_HongKong"
+  provenance_url: "https://www.wikidata.org/"
+  category: PLACE
+  provenance_description: "Includes the Administrative Areas 1 of HongKong."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/HongKong/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/HongKong/wikidata/HongKong_ADM1.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/HongKong/wikidata/HongKong_ADM1_final_sheet.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

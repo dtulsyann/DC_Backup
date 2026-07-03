@@ -1,0 +1,13 @@
+import: {
+  import_name: "RandolphGlacierInventory_Area"
+  provenance_url: "https://www.glims.org/RGI/rgi60_dl.html"
+  category: STATS
+  provenance_description: "Data specifically tracking the surface area of glaciers recorded in the Randolph Glacier Inventory."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/glims/rgi/area/nodes.mcf@1"
+  import_groups: "infrequent"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/glims/rgi/area/rgi6_glaciers_area.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/glims/rgi/area/rgi6_glaciers_area.csv"
+  }
+  dataset_name: "Randolph Glacier Inventory"
+}

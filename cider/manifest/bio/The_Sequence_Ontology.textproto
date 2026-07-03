@@ -1,0 +1,13 @@
+import: {
+  import_name: "The_Sequence_Ontology"
+  dataset_name: "The Sequence Ontology"
+  provenance_url: "http://www.sequenceontology.org/"
+  category: ENTITY
+  import_groups: "biomedical"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/bio/genomeAnnotation/The_Sequence_Ontology/nodes.mcf@1"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/bio/genomeAnnotation/The_Sequence_Ontology/the_sequence_ontology.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/bio/genomeAnnotation/The_Sequence_Ontology/the_sequence_ontology.csv"
+  }
+}

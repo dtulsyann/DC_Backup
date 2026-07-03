@@ -1,0 +1,13 @@
+import {
+  import_name: "Bulgaria_Census"
+  provenance_url: "https://www.nsi.bg/en/statistical-data/206/649"
+  category: STATS
+  provenance_description: "Population Census and Statistics for Bulgaria."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/Bulgaria/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/Bulgaria/BulgariaNSI_Demographics_2012to2021_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/Bulgaria/BulgariaNSI_Demographics_*.csv"
+  }
+  import_groups: "country"
+  dataset_name: "Bulgaria Census"
+}

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_Solomon_Islands
+typeOf: dcs:Provenance
+license : "https://github.com/wmgeolab/geoBoundaries/blob/main/LICENSE"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/geoBoundaries/gbOpen/SLB/ADM1/Boundaries_file/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/SLB/ADM1"
+lastDataRefreshDate: "2024-06-11"
+earliestDataImportDate: "2024-06-11"

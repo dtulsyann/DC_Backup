@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_UnitedKingdom"
+  provenance_url: "https://en.wikipedia.org/wiki/Countries_of_the_United_Kingdom"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 1 divisions of United Kingdom."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/geos/BaseGeos/wikidata/United_Kingdom/ADM1/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/United_Kingdom/ADM1/gbr.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/geos/BaseGeos/wikidata/United_Kingdom/ADM1/UK-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

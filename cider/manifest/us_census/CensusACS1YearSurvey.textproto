@@ -1,0 +1,12 @@
+import: {
+  import_name: "CensusACS1YearSurvey"
+  provenance_url: "https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html"
+  category: STATS
+  provenance_description: "1-Year estimates from the American Community Survey covering socio-economic, housing, and demographic data."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/acs1yr_tablebuilder/pop_obs_20201002.mcf"
+  import_groups: "uscensus"
+  resolution_info: { uses_id_resolver: true }
+  # TODO(wsws): Remove after getting all the unresolved MCFs in CNS.
+  is_unresolved_mcf_missing: true
+  dataset_name: "American Community Survey (ACS)"
+}

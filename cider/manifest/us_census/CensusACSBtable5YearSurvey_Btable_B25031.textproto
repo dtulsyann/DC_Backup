@@ -1,0 +1,16 @@
+import: {
+  import_name: "CensusACSBtable5YearSurvey_Btable_B25031"
+  provenance_url: "https://data.census.gov/table/ACSDT5Y2022.B25031"
+  category: STATS
+  provenance_description: "ACS 5-Year Detailed Table B25031: Median Gross Rent by Bedrooms."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/b_tables/b25031/graph.tfrecord@1.gz"
+  import_groups: "infrequent"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2022"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/b_tables/b25031/B25031_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_census/b_tables/b25031/B25031_cleaned.csv"
+  }
+  dataset_name: "American Community Survey (ACS)"
+}

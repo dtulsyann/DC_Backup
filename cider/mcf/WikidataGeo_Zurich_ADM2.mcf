@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Zurich_ADM2
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geos/BaseGeos/wikidata/Zurich/ADM2/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Subdivisions_of_Zurich"
+lastDataRefreshDate: "2024-11-26"
+earliestDataImportDate: "2024-11-26"

@@ -1,0 +1,22 @@
+import: {
+  import_name: "CensusACS5YearSurvey"
+  provenance_url: "https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html"
+  category: STATS
+  provenance_description: "5-Year estimates from the American Community Survey providing detailed socio-economic, demographic, and housing data for small geographic areas."
+  # Data up to 2021 were generated from summary table files.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census_v6/observations/*/*/graph.tfrecord*"
+  # Data from 2022 generated from .dat files.
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/acs5y/2022/dat/graph.tfrecord@23.gz"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/acs5y/2023/data/graph.tfrecord@23.gz"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/acs5y/2024/data/graph.tfrecord@23.gz"
+  # Files from CensusUSAMedianAgeIncome with data up to 2021
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_census/acs5yr/handwritten_mcfs/20240213/graph.tfrecord@1.gz"
+  import_groups: "uscensus"
+  import_groups: "laelaps"
+  import_groups: "searchaim"
+  start_date_in_kg: "2011"
+  release_frequency: "P1Y"
+  # Next release: https://www.census.gov/programs-surveys/acs/news/data-releases.html
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "American Community Survey (ACS)"
+}

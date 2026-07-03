@@ -1,0 +1,10 @@
+Node: dcid:dc/base/Subnational_Demographics_Stats
+typeOf: dcid:Provenance
+license : "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+descriptionUrl: "https://databank.worldbank.org/source/subnational-population"
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/world_bank/subnational/latest/input_files"
+sourceDataUrl: "https://databank.worldbank.org/source/subnational-population"
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/statvar_imports/world_bank/subnational_demographics_stats/README.md"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

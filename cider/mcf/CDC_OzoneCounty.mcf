@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CDC_OzoneCounty
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/nchs/policy/data-user-agreement.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+sourceDataUrl: "https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/scripts/us_cdc/environmental_health_toxicology/README.md"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/environmental/OzoneCounty/latest/input_files/"
+sourceReleaseFrequency : "P1Y"
+importedSourceReleaseDate : "2023-10-13"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

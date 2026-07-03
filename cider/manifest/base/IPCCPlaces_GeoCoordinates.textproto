@@ -1,0 +1,12 @@
+# LINT.IfChange
+import: {
+  import_name: "IPCCPlaces_GeoCoordinates"
+  provenance_description: "Computed GeoJSON boundaries of IPCC places."
+  provenance_url: "https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nasa/geos_coordinates/ipcc_places_geojson.mcf@10"
+  import_groups: "place"
+  dataset_name: "NEX - Global Downscaled Climate Projections from IPCC CMIP5"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

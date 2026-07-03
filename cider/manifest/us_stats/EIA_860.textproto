@@ -1,0 +1,9 @@
+import: {
+  import_name: "EIA_860"
+  provenance_url: "https://www.eia.gov/electricity/data/eia860/"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/energy/EIA_860/2025-10-10/nodes.mcf@1"
+  import_groups: "place"
+  provenance_description: "The survey Form EIA-860 collects generator-level specific information about existing and planned generators and associated environmental equipment at electric power plants with 1 megawatt or greater of combined nameplate capacity."
+  dataset_name: "Form EIA-860"
+}

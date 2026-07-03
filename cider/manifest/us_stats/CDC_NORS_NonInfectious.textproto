@@ -1,0 +1,18 @@
+import: {
+  import_name: "CDC_NORS_NonInfectious"
+  provenance_url: "https://wwwn.cdc.gov/norsdashboard/"
+  provenance_description: "Reports of foodborne, waterborne disease outbreaks and disease outbreaks spread by contact with environmental sources, infected people or animals, and other means. StatVars are created for the count of disease outbreaks making aggregations by transmission modes, etiology and etiology status only. Current import has statvars with at most one etiology."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/cdc/nors_non_infectious_diseases/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nors_non_infectious_diseases/latest/NORS_NonInfectious_Disease.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/cdc/nors_non_infectious_diseases/latest/NORS_NonInfectious_Disease.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/us_cdc/non_infectious_diseases/CDC_NORS_NonInfectious/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/us_cdc/non_infectious_diseases/CDC_NORS_NonInfectious/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "National Outbreak Reporting System (NORS)"
+}

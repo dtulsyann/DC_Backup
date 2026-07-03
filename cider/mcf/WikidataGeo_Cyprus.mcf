@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Cyprus
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommonsAttributionLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/cyprus/wikidata/"
+sourceDataUrl : "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+lastDataRefreshDate: "2024-05-16"
+earliestDataImportDate: "2024-05-10"

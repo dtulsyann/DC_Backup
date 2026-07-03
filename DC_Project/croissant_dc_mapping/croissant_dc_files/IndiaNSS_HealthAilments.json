@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "dct": "http://purl.org/dc/terms/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "name": "India National Sample Survey - Health",
+  "description": "This dataset contains information related to provenances of IndiaNSS_HealthAilments, containing Data from the National Sample Survey (NSS) on the number of people with different health ailments by States in India published on the National Data and Analytics Platform (NDAP).",
+  "license": "https://ndap.niti.gov.in/info?tab=termsandconditions",
+  "url": "https://mospi.gov.in/documents/213904/301563//NSS%20Report%20no.%20586%20Health%20in%20India1606229312083.pdf/d3724e8b-5970-0559-9ed9-12378a6cc7b3",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "creator": [
+    {
+      "@type": "Organization",
+      "name": "India National Sample Survey",
+      "url": "https://mospi.gov.in/web/nss"
+    }
+  ],
+  "distribution": [],
+  "recordSet": []
+}

@@ -1,0 +1,9 @@
+import {
+  import_name: "OCHAGeoCoordinates_Ireland"
+  provenance_url: "https://data.humdata.org/dataset/whosonfirst-data-admin-irl"
+  category: PLACE
+  provenance_description: "Includes the boundary files for the counties(Administrative Area 1 division) in Ireland."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Ireland/Boundaryfiles/*.mcf"
+  import_groups: "place"
+  dataset_name: "UN OCHA Subnational Administrative Boundaries"
+}

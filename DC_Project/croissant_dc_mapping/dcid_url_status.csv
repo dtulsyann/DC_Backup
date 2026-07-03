@@ -1,0 +1,1423 @@
+DCID,Field,URL,Status_Code,Message,Is_404
+dc/base/ACSED5YrSurvey,prov_url,https://nces.ed.gov/programs/edge/Demographic/ACS,0,URL Error timed out,No
+dc/base/ACSED5YrSurvey,sourceDataUrl,https://nces.ed.gov/programs/edge/Demographic/ACS,0,URL Error timed out,No
+dc/base/ACSED5YrSurvey,dataset.url,https://nces.ed.gov/programs/edge/demographic/acs,0,URL Error timed out,No
+dc/base/ACSED5YrSurvey,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/ACSED5YrSurvey_StatVarAgg,prov_url,https://nces.ed.gov/programs/edge/Demographic/ACS,0,URL Error timed out,No
+dc/base/ACSED5YrSurvey_StatVarAgg,dataset.url,https://nces.ed.gov/programs/edge/demographic/acs,0,URL Error timed out,No
+dc/base/ACSED5YrSurvey_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/Argentina_Census,prov_url,https://www.indec.gob.ar,200,OK,No
+dc/base/Argentina_Census,sourceDataUrl,https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-24-84,200,OK,No
+dc/base/Argentina_Census,dataset.url,https://www.indec.gob.ar,200,OK,No
+dc/base/Argentina_Census,dataset.source.url,https://www.indec.gob.ar,200,OK,No
+dc/base/AustraliaStatistics,prov_url,https://www.abs.gov.au/statistics,200,OK,No
+dc/base/AustraliaStatistics,dataset.url,https://www.abs.gov.au/statistics,200,OK,No
+dc/base/AustraliaStatistics,dataset.source.url,https://www.abs.gov.au/,200,OK,No
+dc/base/BEAGDPPriceParity,prov_url,https://www.bea.gov/data,200,OK,No
+dc/base/BEAGDPPriceParity,dataset.url,https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area,200,OK,No
+dc/base/BEAGDPPriceParity,dataset.source.url,https://www.bea.gov/,200,OK,No
+dc/base/BEAGDPv2,prov_url,https://www.bea.gov/,200,OK,No
+dc/base/BEAGDPv2,sourceDataUrl,https://apps.bea.gov/regional/zip/CAGDP9.zip,200,OK,No
+dc/base/BEAGDPv2,dataset.url,https://apps.bea.gov/regional,200,OK,No
+dc/base/BEAGDPv2,dataset.source.url,https://www.bea.gov/,200,OK,No
+dc/base/BEA_USStatesQuarterlyGDP,prov_url,https://www.bea.gov/data/gdp/gdp-state,200,OK,No
+dc/base/BEA_USStatesQuarterlyGDP,sourceDataUrl,https://www.bea.gov/data/gdp/gdp-state,200,OK,No
+dc/base/BEA_USStatesQuarterlyGDP,dataset.url,https://www.bea.gov/data/gdp,200,OK,No
+dc/base/BEA_USStatesQuarterlyGDP,dataset.source.url,https://www.bea.gov/,200,OK,No
+dc/base/BIS_CentralBankPolicyRate,prov_url,https://data.bis.org/topics/CBPOL/data,200,OK,No
+dc/base/BIS_CentralBankPolicyRate,sourceDataUrl,https://data.bis.org/topics/CBPOL/data,200,OK,No
+dc/base/BIS_CentralBankPolicyRate,dataset.url,https://data.bis.org/topics/CBPOL,200,OK,No
+dc/base/BIS_CentralBankPolicyRate,dataset.source.url,https://data.bis.org/,200,OK,No
+dc/base/BLS_CES,prov_url,https://www.bls.gov/ces/,403,HTTP Error 403,No
+dc/base/BLS_CES,sourceDataUrl,https://www.bls.gov/webapps/legacy/cesbtab1.htm,403,HTTP Error 403,No
+dc/base/BLS_CES,dataset.url,https://www.bls.gov/ces,403,HTTP Error 403,No
+dc/base/BLS_CES,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CES_State,prov_url,https://www.bls.gov/sae/overview.htm,403,HTTP Error 403,No
+dc/base/BLS_CES_State,sourceDataUrl,https://download.bls.gov/pub/time.series/sm/,403,HTTP Error 403,No
+dc/base/BLS_CES_State,dataset.url,https://www.bls.gov/ces,403,HTTP Error 403,No
+dc/base/BLS_CES_State,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CPI,prov_url,https://www.bls.gov/cpi/,403,HTTP Error 403,No
+dc/base/BLS_CPI,sourceDataUrl,https://download.bls.gov/pub/time.series/cu/cu.data.1.AllItems,403,HTTP Error 403,No
+dc/base/BLS_CPI,dataset.url,https://www.bls.gov/cpi,403,HTTP Error 403,No
+dc/base/BLS_CPI,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CPI_Category,prov_url,https://www.bls.gov/cpi/,403,HTTP Error 403,No
+dc/base/BLS_CPI_Category,sourceDataUrl,https://www.bls.gov/cpi/tables/supplemental-files/,403,HTTP Error 403,No
+dc/base/BLS_CPI_Category,dataset.url,https://www.bls.gov/cpi/tables/supplemental-files/,403,HTTP Error 403,No
+dc/base/BLS_CPI_Category,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CPS,prov_url,https://www.bls.gov/cps/,403,HTTP Error 403,No
+dc/base/BLS_CPS,sourceDataUrl,https://download.bls.gov/pub/time.series/ln/ln.data.1.AllData,403,HTTP Error 403,No
+dc/base/BLS_CPS,dataset.url,https://www.bls.gov/cps,403,HTTP Error 403,No
+dc/base/BLS_CPS,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_JOLTS,prov_url,https://www.bls.gov/jlt/,403,HTTP Error 403,No
+dc/base/BLS_JOLTS,sourceDataUrl,https://download.bls.gov/pub/time.series/jt/,403,HTTP Error 403,No
+dc/base/BLS_JOLTS,dataset.url,https://www.bls.gov/jlt/,403,HTTP Error 403,No
+dc/base/BLS_JOLTS,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_LAUS,prov_url,https://www.bls.gov/lau/,403,HTTP Error 403,No
+dc/base/BLS_LAUS,sourceDataUrl,https://download.bls.gov/pub/time.series/la,403,HTTP Error 403,No
+dc/base/BLS_LAUS,dataset.url,https://www.bls.gov/lau/,403,HTTP Error 403,No
+dc/base/BLS_LAUS,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_QCEW,prov_url,https://www.bls.gov/qcew/,403,HTTP Error 403,No
+dc/base/BLS_QCEW,sourceDataUrl,https://data.bls.gov/cew/doc/titles/industry/industry_titles.htm,200,OK,No
+dc/base/BLS_QCEW,dataset.url,https://www.bls.gov/cew,403,HTTP Error 403,No
+dc/base/BLS_QCEW,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/Brazil_Census,prov_url,https://www.ibge.gov.br/en/statistics/social/population.html,0,The read operation timed out,No
+dc/base/Brazil_Census,sourceDataUrl,https://www.ibge.gov.br/en/statistics/social/population.html,0,The read operation timed out,No
+dc/base/Brazil_Census,dataset.url,https://www.ibge.gov.br/en/statistics/social/population.html,0,The read operation timed out,No
+dc/base/Brazil_Census,dataset.source.url,https://www.ibge.gov.br/en/home-eng.html,0,URL Error timed out,No
+dc/base/Brazil_FoodDsitribution,prov_url,https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php,200,OK,No
+dc/base/Brazil_FoodDsitribution,sourceDataUrl,https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php,200,OK,No
+dc/base/Brazil_FoodDsitribution,dataset.url,https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php,200,OK,No
+dc/base/Brazil_FoodDsitribution,dataset.source.url,https://www.gov.br/mds/pt-br/pt-br/servicos/sistemas,200,OK,No
+dc/base/Brazil_RuralDevelopmentProgram,prov_url,https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php,200,OK,No
+dc/base/Brazil_RuralDevelopmentProgram,sourceDataUrl,https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php,200,OK,No
+dc/base/Brazil_RuralDevelopmentProgram,dataset.url,https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php,200,OK,No
+dc/base/Brazil_RuralDevelopmentProgram,dataset.source.url,https://www.gov.br/mds/pt-br/pt-br/servicos/sistemas,200,OK,No
+dc/base/Brazil_SIDRA_IBGE,prov_url,https://sidra.ibge.gov.br/home/pnadct,200,OK,No
+dc/base/Brazil_SIDRA_IBGE,sourceDataUrl,https://sidra.ibge.gov.br/home/pnadct/brasil,200,OK,No
+dc/base/Brazil_SIDRA_IBGE,dataset.url,https://sidra.ibge.gov.br/home/pnadct,200,OK,No
+dc/base/Brazil_SIDRA_IBGE,dataset.source.url,https://www.ibge.gov.br/en/home-eng.html,0,URL Error timed out,No
+dc/base/Bulgaria_Census,prov_url,https://www.nsi.bg/en/statistical-data/206/649,403,HTTP Error 403,No
+dc/base/Bulgaria_Census,sourceDataUrl,https://www.nsi.bg/en/statistical-data/206/649,403,HTTP Error 403,No
+dc/base/Bulgaria_Census,dataset.url,https://www.nsi.bg/en/statistical-data/206/649,403,HTTP Error 403,No
+dc/base/Bulgaria_Census,dataset.source.url,https://www.nsi.bg/,403,HTTP Error 403,No
+dc/base/CBECS_Energy,prov_url,https://www.eia.gov/consumption/commercial/data/2012/index.php?view=consumption,200,OK,No
+dc/base/CBECS_Energy,dataset.url,https://www.eia.gov/consumption/commercial/,200,OK,No
+dc/base/CBECS_Energy,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/CDC500,prov_url,https://www.cdc.gov/places/index.html,200,OK,No
+dc/base/CDC500,sourceDataUrl,https://data.cdc.gov/browse?category=500+Cities+%26+Places,200,OK,No
+dc/base/CDC500,dataset.url,https://www.cdc.gov/places/index.html,200,OK,No
+dc/base/CDC500,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC500_States,prov_url,https://www.cdc.gov/places/index.html,200,OK,No
+dc/base/CDC500_States,sourceDataUrl,https://data.cdc.gov/browse?category=500+Cities+%26+Places,200,OK,No
+dc/base/CDC500_States,dataset.url,https://www.cdc.gov/places/index.html,200,OK,No
+dc/base/CDC500_States,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDCDiabetes,prov_url,https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html,200,OK,No
+dc/base/CDCDiabetes,sourceDataUrl,https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#,200,OK,No
+dc/base/CDCDiabetes,dataset.url,https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html,200,OK,No
+dc/base/CDCDiabetes,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDCMortality,prov_url,https://wonder.cdc.gov/mcd.html,403,HTTP Error 403,No
+dc/base/CDCMortality,sourceDataUrl,https://wonder.cdc.gov/cmf-icd10.html,403,HTTP Error 403,No
+dc/base/CDCMortality,dataset.url,https://wonder.cdc.gov/cmf-icd10.html,403,HTTP Error 403,No
+dc/base/CDCMortality,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDCPM25,prov_url,https://data.cdc.gov/Environmental-Health-Toxicology/Daily-PM2-5-Concentrations-All-County-2001-2016/7vdq-ztk9,404,HTTP Error 404,Yes
+dc/base/CDCPM25,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDCPM25,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDCWonderNatality,prov_url,https://wonder.cdc.gov/natality.html,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/CDCWonderNatality,sourceDataUrl,https://wonder.cdc.gov/natality.html,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/CDCWonderNatality,dataset.url,https://wonder.cdc.gov/natality.html,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/CDCWonderNatality,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDCWonder_NNDSS_InfectiousAnnual,prov_url,https://wonder.cdc.gov/nndss/nndss_annual_tables_menu.asp,403,HTTP Error 403,No
+dc/base/CDCWonder_NNDSS_InfectiousAnnual,sourceDataUrl,https://wonder.cdc.gov/nndss/,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/CDCWonder_NNDSS_InfectiousAnnual,dataset.url,https://www.cdc.gov/nndss/data-statistics/index.html,404,HTTP Error 404,Yes
+dc/base/CDCWonder_NNDSS_InfectiousAnnual,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDCWonder_NNDSS_InfectiousWeekly,prov_url,https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp,403,HTTP Error 403,No
+dc/base/CDCWonder_NNDSS_InfectiousWeekly,sourceDataUrl,https://www.cdc.gov/mmwr/mmwr_nd/index.html,200,OK,No
+dc/base/CDCWonder_NNDSS_InfectiousWeekly,dataset.url,https://www.cdc.gov/nndss/data-statistics/index.html,404,HTTP Error 404,Yes
+dc/base/CDCWonder_NNDSS_InfectiousWeekly,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDCWonder_NNDSS_Infectious_Weekly,prov_url,https://data.cdc.gov/api/views/x9gk-5huc/rows.csv?accessType=DOWNLOAD&api_foundry=true,200,OK,No
+dc/base/CDCWonder_NNDSS_Infectious_Weekly,sourceDataUrl,https://data.cdc.gov/api/views/x9gk-5huc/rows.csv?accessType=DOWNLOAD&api_foundry=true,200,OK,No
+dc/base/CDCWonder_NNDSS_Infectious_Weekly,dataset.url,https://www.cdc.gov/nndss/data-statistics/index.html,404,HTTP Error 404,Yes
+dc/base/CDCWonder_NNDSS_Infectious_Weekly,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_Mortality_UnderlyingCause,prov_url,https://wonder.cdc.gov/ucd-icd10.html,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/CDC_Mortality_UnderlyingCause,sourceDataUrl,https://wonder.cdc.gov/controller/datarequest/D76,403,HTTP Error 403,No
+dc/base/CDC_Mortality_UnderlyingCause,dataset.url,https://wonder.cdc.gov/ucd-icd10.html,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/CDC_Mortality_UnderlyingCause,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_Mortality_UnderlyingCause_SingleRace,prov_url,https://wonder.cdc.gov/ucd-icd10-expanded.html,403,HTTP Error 403,No
+dc/base/CDC_Mortality_UnderlyingCause_SingleRace,sourceDataUrl,https://wonder.cdc.gov/ucd-icd10-expanded.html,403,HTTP Error 403,No
+dc/base/CDC_Mortality_UnderlyingCause_SingleRace,dataset.url,https://wonder.cdc.gov/ucd-icd10-expanded.html,403,HTTP Error 403,No
+dc/base/CDC_Mortality_UnderlyingCause_SingleRace,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_NORS_NonInfectious,prov_url,https://wwwn.cdc.gov/norsdashboard/,200,OK,No
+dc/base/CDC_NORS_NonInfectious,sourceDataUrl,https://data.cdc.gov/Foodborne-Waterborne-and-Related-Diseases/NORS/5xkq-dg7x/about_data,200,OK,No
+dc/base/CDC_NORS_NonInfectious,dataset.url,https://wwwn.cdc.gov/norsdashboard/,200,OK,No
+dc/base/CDC_NORS_NonInfectious,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_OzoneCensusTract,prov_url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology,200,OK,No
+dc/base/CDC_OzoneCensusTract,sourceDataUrl,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1,200,OK,No
+dc/base/CDC_OzoneCensusTract,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDC_OzoneCensusTract,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_OzoneCounty,prov_url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1,200,OK,No
+dc/base/CDC_OzoneCounty,sourceDataUrl,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1,200,OK,No
+dc/base/CDC_OzoneCounty,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDC_OzoneCounty,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_PM25CensusTract,prov_url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology,200,OK,No
+dc/base/CDC_PM25CensusTract,sourceDataUrl,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology&sortBy=last_modified&page=1,200,OK,No
+dc/base/CDC_PM25CensusTract,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDC_PM25CensusTract,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_PM25County,prov_url,https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-PM2-5-Concentrations-2001-2019/dqwm-pbi7/about_data,404,HTTP Error 404,Yes
+dc/base/CDC_PM25County,sourceDataUrl,https://data.cdc.gov/Environmental-Health-Toxicology/Daily-County-Level-PM2-5-Concentrations-2001-2019/dqwm-pbi7/about_data,404,HTTP Error 404,Yes
+dc/base/CDC_PM25County,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDC_PM25County,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_PalmerDroughtSeverityIndex,prov_url,https://data.cdc.gov/Environmental-Health-Toxicology/Palmer-Drought-Severity-Index-1895-2016/en5r-5ds4,200,OK,No
+dc/base/CDC_PalmerDroughtSeverityIndex,sourceDataUrl,https://data.cdc.gov/Environmental-Health-Toxicology/Palmer-Drought-Severity-Index-1895-2016/en5r-5ds4/about_data,200,OK,No
+dc/base/CDC_PalmerDroughtSeverityIndex,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDC_PalmerDroughtSeverityIndex,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_Social_Vulnerability_Index,prov_url,https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html?CDC_AAref_Val=https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html,200,OK,No
+dc/base/CDC_Social_Vulnerability_Index,sourceDataUrl,https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html?CDC_AAref_Val=https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html,200,OK,No
+dc/base/CDC_Social_Vulnerability_Index,dataset.url,https://www.atsdr.cdc.gov/,200,OK,No
+dc/base/CDC_Social_Vulnerability_Index,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex,prov_url,https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib,200,OK,No
+dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex,sourceDataUrl,https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib/about_data,200,OK,No
+dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDC_StandardizedPrecipitationEvapotranspirationIndex,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CDC_StandardizedPrecipitationIndex,prov_url,https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Index-1895-2016/xbk2-5i4e,200,OK,No
+dc/base/CDC_StandardizedPrecipitationIndex,sourceDataUrl,https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Index-1895-2016/xbk2-5i4e/about_data,200,OK,No
+dc/base/CDC_StandardizedPrecipitationIndex,dataset.url,https://data.cdc.gov/browse?category=Environmental+Health+%26+Toxicology%22,200,OK,No
+dc/base/CDC_StandardizedPrecipitationIndex,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/CRDC_EducationSchool_HarassmentOrBullying,prov_url,https://ocrdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/CRDC_EducationSchool_HarassmentOrBullying,sourceDataUrl,https://ocrdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/CRDC_EducationSchool_HarassmentOrBullying,dataset.url,https://www.crdc.org/data,404,HTTP Error 404,Yes
+dc/base/CRDC_EducationSchool_HarassmentOrBullying,dataset.source.url,https://www.crdc.org/data,404,HTTP Error 404,Yes
+dc/base/CRDC_Education_Discipline_Attendance,prov_url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/CRDC_Education_Discipline_Attendance,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/CRDC_Education_Discipline_Attendance,dataset.url,https://www.crdc.org/data,404,HTTP Error 404,Yes
+dc/base/CRDC_Education_Discipline_Attendance,dataset.source.url,https://www.crdc.org/data,404,HTTP Error 404,Yes
+dc/base/CaliforniaSchoolPerformance,prov_url,https://caaspp-elpac.ets.org/elpac/,200,OK,No
+dc/base/CaliforniaSchoolPerformance,dataset.url,https://caaspp-elpac.ets.org/elpac/,200,OK,No
+dc/base/CaliforniaSchoolPerformance,dataset.source.url,https://caaspp-elpac.ets.org/elpac/,200,OK,No
+dc/base/CanadaStatistics,prov_url,https://www150.statcan.gc.ca/n1/en/type/data?MM=1,200,OK,No
+dc/base/CanadaStatistics,sourceDataUrl,https://www150.statcan.gc.ca/n1/en/type/data?MM=1#tables,200,OK,No
+dc/base/CanadaStatistics,dataset.url,https://www150.statcan.gc.ca/n1/en/type/data?MM=1,200,OK,No
+dc/base/CanadaStatistics,dataset.source.url,https://www.statcan.gc.ca/en/start,200,OK,No
+dc/base/CanadaStatisticsAgeGender,prov_url,https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501,200,OK,No
+dc/base/CanadaStatisticsAgeGender,sourceDataUrl,https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501,200,OK,No
+dc/base/CanadaStatisticsAgeGender,dataset.url,https://www150.statcan.gc.ca/n1/en/type/data?MM=1,200,OK,No
+dc/base/CanadaStatisticsAgeGender,dataset.source.url,https://www.statcan.gc.ca/en/start,200,OK,No
+dc/base/CensusACS1YearSurvey,prov_url,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html,200,OK,No
+dc/base/CensusACS1YearSurvey,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS1YearSurvey,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey,prov_url,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html,200,OK,No
+dc/base/CensusACS5YearSurvey,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_AbilityToSpeakEnglish_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_AbilityToSpeakEnglish_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_AbilityToSpeakEnglish_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_AggCountry,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_AggCountry,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_AggCountry,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_AggCountry_SuperEnum,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_AggCountry_SuperEnum,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_AggCountry_SuperEnum,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Demographics_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Demographics_StatVarAgg,sourceDataUrl,https://data.census.gov/table?q=Demographic,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_Demographics_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_Demographics_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Education_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Education_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_Education_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Employment_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Employment_StatVarAgg,sourceDataUrl,https://data.census.gov/table?q=Employment,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_Employment_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_Employment_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_HealthInsurance_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_HealthInsurance_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_HealthInsurance_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_HousingUnit_HomeValue_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_HousingUnit_HomeValue_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_HousingUnit_HomeValue_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_InArmedForces_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_InArmedForces_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_InArmedForces_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Income_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Income_StatVarAgg,sourceDataUrl,https://data.census.gov/table?q=Income,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_Income_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_Income_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Person_Age_StatVarAgg,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Person_Age_StatVarAgg,sourceDataUrl,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_Person_Age_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_Person_Age_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0101,prov_url,https://data.census.gov/table?q=S0101:+Age+and+Sex&tid=ACSST1Y2024.S0101,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0101,sourceDataUrl,https://data.census.gov/table/ACSST1Y2024.S0101?q=S0101:+Age+and+Sex,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0101,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0101,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0503,prov_url,https://data.census.gov/cedsci/table?q=S0503&tid=ACSST5Y2023.S0503,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0503,sourceDataUrl,https://data.census.gov/table?q=S0503,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0503,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0503,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0504,prov_url,https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2023.S0504,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0504,sourceDataUrl,https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2023.S0504,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0504,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0504,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg,prov_url,https://data.census.gov/cedsci/table?q=S0504&tid=ACSST5Y2019.S0504,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0504_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0505,prov_url,https://data.census.gov/cedsci/table?q=S0505&tid=ACSST5Y2023.S0505,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0505,sourceDataUrl,https://data.census.gov/cedsci/table?q=S0505&tid=ACSST5Y2023.S0505,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0505,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0505,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0506,prov_url,https://data.census.gov/cedsci/table?q=S0506&tid=ACSST5Y2023.S0506,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0506,sourceDataUrl,https://data.census.gov/table/ACSST1Y2023.S0503?q=S0506,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0506,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0506,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701,prov_url,https://data.census.gov/cedsci/table?q=S0701&tid=ACSST5Y2024.S0701,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701,sourceDataUrl,https://data.census.gov/cedsci/table?q=S0701&tid=ACSST5Y2024.S0701,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701PR,prov_url,https://data.census.gov/cedsci/table?q=S0701PR&tid=ACSST5Y2024.S0701PR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701PR,sourceDataUrl,https://data.census.gov/cedsci/table?q=S0701PR&tid=ACSST5Y2024.S0701PR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701PR,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0701PR,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0801,prov_url,https://data.census.gov/table?q=S0801&tid=ACSST5Y2023.S0801,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0801,sourceDataUrl,https://data.census.gov/table?q=S0801,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0801,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0801,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg,prov_url,https://data.census.gov/table/ACSST5Y2023.S0801,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0801_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0804,prov_url,https://data.census.gov/table/ACSST5Y2023.S0804,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0804,sourceDataUrl,https://data.census.gov/table/ACSST1Y2023.S0804,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0804,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0804,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg,prov_url,https://data.census.gov/table/ACSST5Y2022.S0804,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0804_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0902,prov_url,https://data.census.gov/table/ACSST5Y2024.S0902?q=S0902,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0902,sourceDataUrl,https://data.census.gov/table/ACSST5Y2024.S0902?q=S0902,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0902,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S0902,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1201,prov_url,https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2023.S1201,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1201,sourceDataUrl,https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2023.S1201,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1201,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1201,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg,prov_url,https://data.census.gov/cedsci/table?q=S1201&tid=ACSST5Y2019.S1201,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1201_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1251,prov_url,https://data.census.gov/table/ACSST5Y2024.S1251?q=S1251,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1251,sourceDataUrl,https://data.census.gov/table/ACSST5Y2024.S1251?q=S1251,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1251,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1251,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg,prov_url,https://data.census.gov/cedsci/table?q=S1251&tid=ACSST5Y2023.S1251,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1251_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1301,prov_url,https://data.census.gov/cedsci/table?q=S1301&tid=ACSST5Y2023.S1301,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1301,sourceDataUrl,https://data.census.gov/cedsci/table?q=S1301&tid=ACSST5Y2023.S1301,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1301,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1301,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1502,prov_url,https://data.census.gov/table/ACSST5Y2024.S1502?q=S1502,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1502,sourceDataUrl,https://data.census.gov/table/ACSST5Y2024.S1502?q=S1502,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1502,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1502,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1602,prov_url,https://data.census.gov/cedsci/table?q=S1602&tid=ACSST5Y2023.S1602,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1602,sourceDataUrl,https://data.census.gov/cedsci/table?q=S1602&tid=ACSST5Y2023.S1602,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1602,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1602,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1603,prov_url,https://data.census.gov/cedsci/table?q=S1603&tid=ACSST5Y2023.S1603,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1603,sourceDataUrl,https://data.census.gov/cedsci/table?q=S1603&tid=ACSST5Y2023.S1603,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1603,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1603,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1702,prov_url,https://data.census.gov/cedsci/table?q=S1702&tid=ACSST5Y2023.S1702,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1702,sourceDataUrl,https://data.census.gov/table/ACSST5Y2023.S1702?q=S1702,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1702,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1702,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1810,prov_url,https://data.census.gov/table/ACSST5Y2024.S1810?q=S1810,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1810,sourceDataUrl,https://data.census.gov/table/ACSST5Y2024.S1810?q=S1810,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1810,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1810,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1901,prov_url,https://data.census.gov/cedsci/table?q=S1901&tid=ACSST5Y2024.S1901,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1901,sourceDataUrl,"https://data.census.gov/table?q=S1901&g=010XX00US,$0400000,$0500000,$0600000,$1400000,$1600000,$3100000,$31000M1,$31000M2,$5000000,$8600000,$9500000,$9600000,$9700000",403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1901,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1901,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1903,prov_url,https://data.census.gov/cedsci/table?q=S1903&tid=ACSST5Y2023.S1903,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1903,sourceDataUrl,https://data.census.gov/table?q=S1903,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1903,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S1903,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2001,prov_url,https://data.census.gov/cedsci/table?q=S2001&tid=ACSST1Y2023.S2001,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2001,sourceDataUrl,https://data.census.gov/table?q=S2001,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2001,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2001,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2201,prov_url,https://data.census.gov/table/ACSST5Y2023.S2201?q=S2201,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2201,sourceDataUrl,https://data.census.gov/table/ACSST5Y2023.S2201?q=S2201,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2201,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2201,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2303,prov_url,https://data.census.gov/cedsci/table?q=S2303&tid=ACSST5Y2023.S2303,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2303,sourceDataUrl,https://data.census.gov/table/ACSST5Y2023.S2303?q=S2303,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2303,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2303,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2405,prov_url,https://data.census.gov/cedsci/table?q=S2405&tid=ACSST5Y2023.S2405,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2405,sourceDataUrl,https://data.census.gov/cedsci/table?q=S2405&tid=ACSST5Y2023.S2405,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2405,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2405,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2406,prov_url,https://data.census.gov/cedsci/table?q=S2406&tid=ACSST5Y2023.S2406,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2406,sourceDataUrl,https://data.census.gov/table?q=S2406,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2406,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2406,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2407,prov_url,https://data.census.gov/cedsci/table?q=S2407&tid=ACSST5Y2023.S2407,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2407,sourceDataUrl,https://data.census.gov/table?q=S2407,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2407,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2407,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2408,prov_url,https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2408,sourceDataUrl,https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2408,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2408,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg,prov_url,https://data.census.gov/cedsci/table?q=S2408&tid=ACSST5Y2023.S2408,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2408_StatVarAgg,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2409,prov_url,https://data.census.gov/cedsci/table?q=S2409&tid=ACSST1Y2023.S2409,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2409,sourceDataUrl,https://data.census.gov/cedsci/table?q=S2409&tid=ACSST1Y2023.S2409,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2409,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2409,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2418,prov_url,https://data.census.gov/cedsci/table?q=S2418&tid=ACSST5Y2024.S2418,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2418,sourceDataUrl,https://data.census.gov/table?q=S2418,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2418,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2418,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2502,prov_url,https://data.census.gov/cedsci/table?q=S2502&tid=ACSST5Y2023.S2502,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2502,sourceDataUrl,https://data.census.gov/table/ACSST5Y2023.S2502?q=S2502,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2502,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2502,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601A,prov_url,https://data.census.gov/cedsci/table?q=S2601A&tid=ACSST5Y2023.S2601A,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601A,sourceDataUrl,https://data.census.gov/table?q=S2601A,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601A,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601A,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601APR,prov_url,https://data.census.gov/cedsci/table?q=S2601APR&tid=ACSST5Y2023.S2601APR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601APR,sourceDataUrl,https://data.census.gov/table?q=S2601APR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601APR,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2601APR,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602,prov_url,https://data.census.gov/cedsci/table?q=S2602&tid=ACSST5Y2023.S2602,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602,sourceDataUrl,https://data.census.gov/table?q=S2602,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602PR,prov_url,https://data.census.gov/cedsci/table?q=S2602PR&tid=ACSST5Y2024.S2602PR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602PR,sourceDataUrl,https://data.census.gov/table?q=S2602PR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602PR,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2602PR,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2603,prov_url,https://data.census.gov/cedsci/table?q=S2603&tid=ACSST5Y2023.S2603,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2603,sourceDataUrl,https://data.census.gov/table/ACSST5Y2023.S2603?q=S2603,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2603,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2603,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2701,prov_url,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2023.S2701,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2701,sourceDataUrl,https://data.census.gov/cedsci/table?q=S2701&tid=ACSST5Y2023.S2701,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2701,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2701,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702,prov_url,https://data.census.gov/cedsci/table?q=S2702&tid=ACSST5Y2013.S2702,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702,sourceDataUrl,https://data.census.gov/table?q=S2702,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702PR,prov_url,https://data.census.gov/cedsci/table?q=S2702PR&tid=ACSST5Y2013.S2702PR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702PR,sourceDataUrl,https://data.census.gov/table?q=S2702PR,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702PR,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2702PR,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2703,prov_url,https://data.census.gov/cedsci/table?q=S2703&tid=ACSST5Y2023.S2703,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2703,sourceDataUrl,https://data.census.gov/cedsci/table?q=S2703&tid=ACSST5Y2023.S2703,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2703,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2703,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2704,prov_url,https://data.census.gov/cedsci/table?q=S2704&tid=ACSST5Y2023.S2704,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2704,sourceDataUrl,https://data.census.gov/table?q=S2704,403,HTTP Error 403,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2704,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SubjectTables_S2704,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SuperEnum,prov_url,https://www.census.gov/,200,OK,No
+dc/base/CensusACS5YearSurvey_SuperEnum,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACS5YearSurvey_SuperEnum,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusACSBtable5YearSurvey_Btable_B25031,prov_url,https://data.census.gov/table/ACSDT5Y2022.B25031,403,HTTP Error 403,No
+dc/base/CensusACSBtable5YearSurvey_Btable_B25031,dataset.url,https://www.census.gov/programs-surveys/acs,200,OK,No
+dc/base/CensusACSBtable5YearSurvey_Btable_B25031,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusCountyBusinessPatterns,prov_url,https://www.census.gov/programs-surveys/cbp.html,200,OK,No
+dc/base/CensusCountyBusinessPatterns,sourceDataUrl,https://www.census.gov/data/datasets/{year}/econ/cbp/{year}-cbp.html,404,HTTP Error 404,Yes
+dc/base/CensusCountyBusinessPatterns,dataset.url,https://www.census.gov/programs-surveys/cbp/data/datasets.html,200,OK,No
+dc/base/CensusCountyBusinessPatterns,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusPEP,prov_url,https://www.census.gov/programs-surveys/popest.html,200,OK,No
+dc/base/CensusPEP,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/tables/,200,OK,No
+dc/base/CensusPEP,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/CensusPEP,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusSAHIE,prov_url,https://www.census.gov/programs-surveys/sahie.html,200,OK,No
+dc/base/CensusSAHIE,sourceDataUrl,https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html,200,OK,No
+dc/base/CensusSAHIE,dataset.url,https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html,200,OK,No
+dc/base/CensusSAHIE,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusSAHIE_AggCountry,prov_url,https://www.census.gov/programs-surveys/sahie.html,200,OK,No
+dc/base/CensusSAHIE_AggCountry,dataset.url,https://www.census.gov/data/datasets/time-series/demo/sahie/estimates-acs.html,200,OK,No
+dc/base/CensusSAHIE_AggCountry,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusSAIPE,prov_url,https://www.census.gov/programs-surveys/saipe.html,200,OK,No
+dc/base/CensusSAIPE,sourceDataUrl,https://www.census.gov/data/datasets/time-series/demo/saipe/estimates-acs.html,404,HTTP Error 404,Yes
+dc/base/CensusSAIPE,dataset.url,https://www.census.gov/programs-surveys/saipe.html,200,OK,No
+dc/base/CensusSAIPE,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/CensusSuperTMCFTable_ECNBASIC2012_EC1200A1,prov_url,https://data.census.gov/api/access/table/download,400,HTTP Error 400,No
+dc/base/CensusSuperTMCFTable_ECNBASIC2012_EC1200A1,dataset.url,https://www.census.gov/programs-surveys/economic-census/about.html,200,OK,No
+dc/base/CensusSuperTMCFTable_ECNBASIC2012_EC1200A1,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/ClimateTrace_GHG_Emissions,prov_url,https://api.climatetrace.org/,200,OK,No
+dc/base/ClimateTrace_GHG_Emissions,sourceDataUrl,https://api.climatetrace.org/emissions_by_subsector_timeseries?interval=year&since=2015&to=2020&download=csv,404,HTTP Error 404,Yes
+dc/base/ClimateTrace_GHG_Emissions,dataset.url,https://climatetrace.org/inventory,200,OK,No
+dc/base/ClimateTrace_GHG_Emissions,dataset.source.url,https://climatetrace.org/,200,OK,No
+dc/base/ClimateTrace_GHG_Emissions_OldAPI,prov_url,https://climatetrace.org/inventory,200,OK,No
+dc/base/ClimateTrace_GHG_Emissions_OldAPI,sourceDataUrl,https://api.climatetrace.org/emissions_by_subsector_timeseries?interval=year&since=2015&to=2020&download=csv,404,HTTP Error 404,Yes
+dc/base/ClimateTrace_GHG_Emissions_OldAPI,dataset.url,https://climatetrace.org/inventory,200,OK,No
+dc/base/ClimateTrace_GHG_Emissions_OldAPI,dataset.source.url,https://climatetrace.org/,200,OK,No
+dc/base/ClimateTrace_GreenhouseGas,prov_url,https://api.climatetrace.org/,200,OK,No
+dc/base/ClimateTrace_GreenhouseGas,sourceDataUrl,https://api.climatetrace.org/emissions_by_subsector_timeseries?interval=year&since=2015&to=2020&download=csv,404,HTTP Error 404,Yes
+dc/base/ClimateTrace_GreenhouseGas,dataset.url,https://climatetrace.org/inventory,200,OK,No
+dc/base/ClimateTrace_GreenhouseGas,dataset.source.url,https://climatetrace.org/,200,OK,No
+dc/base/Climate_StatVarCalculation,prov_url,https://datacommons.org/,200,OK,No
+dc/base/Climate_StatVarCalculation,dataset.url,https://datacommons.org/,200,OK,No
+dc/base/Climate_StatVarCalculation,dataset.source.url,https://datacommons.org/,200,OK,No
+dc/base/Commerce_EDA,prov_url,https://www.commerce.gov/bureaus-and-offices/eda,403,HTTP Error 403,No
+dc/base/Commerce_EDA,dataset.url,https://www.eda.gov/performance/tools,403,HTTP Error 403,No
+dc/base/Commerce_EDA,dataset.source.url,https://data.commerce.gov/,403,HTTP Error 403,No
+dc/base/Commerce_NTIA,prov_url,https://www.ntia.gov/other-publication/2022/digital-nation-data-explorer#sel=homeEverOnline&demo=race&pc=count&disp=both,200,OK,No
+dc/base/Commerce_NTIA,sourceDataUrl,https://www.ntia.gov/sites/default/files/data_central_downloads/datasets/ntia-analyze-table.csv,200,OK,No
+dc/base/Commerce_NTIA,dataset.url,https://www.ntia.gov/other-publication/2022/digital-nation-data-explorer#sel=homeEverOnline&demo=race&pc=count&disp=both,200,OK,No
+dc/base/Commerce_NTIA,dataset.source.url,https://data.commerce.gov/,403,HTTP Error 403,No
+dc/base/Copernicus_ECMWF_ERA5_Monthly,prov_url,https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels,404,HTTP Error 404,Yes
+dc/base/Copernicus_ECMWF_ERA5_Monthly,sourceDataUrl,https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels,404,HTTP Error 404,Yes
+dc/base/Copernicus_ECMWF_ERA5_Monthly,dataset.url,https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels,404,HTTP Error 404,Yes
+dc/base/Copernicus_ECMWF_ERA5_Monthly,dataset.source.url,https://www.copernicus.eu/en,200,OK,No
+dc/base/Copernicus_GlobalLandCoverLayers,prov_url,https://land.copernicus.eu/global/lcviewer,200,OK,No
+dc/base/Copernicus_GlobalLandCoverLayers,sourceDataUrl,https://land.copernicus.eu/en/global,200,OK,No
+dc/base/Copernicus_GlobalLandCoverLayers,dataset.url,https://lcviewer.vito.be/2015,0,URL Error [Errno -2] Name or service not known,No
+dc/base/Copernicus_GlobalLandCoverLayers,dataset.source.url,https://www.copernicus.eu/en,200,OK,No
+dc/base/Cotedivoire_Census,prov_url,https://cotedivoire.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Cotedivoire_Census,dataset.url,https://cotedivoire.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Cotedivoire_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Covid19IndiaData,prov_url,http://projects.datameet.org/covid19/,200,OK,No
+dc/base/Covid19IndiaData,sourceDataUrl,https://projects.datameet.org/covid19/,200,OK,No
+dc/base/Covid19IndiaData,dataset.url,http://projects.datameet.org/covid19/,200,OK,No
+dc/base/Covid19IndiaData,dataset.source.url,https://datameet.org/,200,OK,No
+dc/base/CycloneNOAA_Stats,prov_url,https://www.ncei.noaa.gov/products/international-best-track-archive,200,OK,No
+dc/base/CycloneNOAA_Stats,sourceDataUrl,https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r00/access/csv/ibtracs.ALL.list.v04r00.csv,200,OK,No
+dc/base/CycloneNOAA_Stats,dataset.url,https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access,404,HTTP Error 404,Yes
+dc/base/CycloneNOAA_Stats,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/DEA_ARCOS,prov_url,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/,200,OK,No
+dc/base/DEA_ARCOS,sourceDataUrl,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/archive/report_yr_2001.pdf#search=ARCOS,200,OK,No
+dc/base/DEA_ARCOS,dataset.url,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/arcos-drug-summary-reports.html,200,OK,No
+dc/base/DEA_ARCOS,dataset.source.url,https://www.dea.gov/,403,HTTP Error 403,No
+dc/base/DEA_ARCOS_AggState,prov_url,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/,200,OK,No
+dc/base/DEA_ARCOS_AggState,sourceDataUrl,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/archive/report_yr_2001.pdf#search=ARCOS,200,OK,No
+dc/base/DEA_ARCOS_AggState,dataset.url,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/arcos-drug-summary-reports.html,200,OK,No
+dc/base/DEA_ARCOS_AggState,dataset.source.url,https://www.dea.gov/,403,HTTP Error 403,No
+dc/base/DEA_ARCOS_AggState_AggCountry,prov_url,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/,200,OK,No
+dc/base/DEA_ARCOS_AggState_AggCountry,sourceDataUrl,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/archive/report_yr_2001.pdf#search=ARCOS,200,OK,No
+dc/base/DEA_ARCOS_AggState_AggCountry,dataset.url,https://www.deadiversion.usdoj.gov/arcos/retail_drug_summary/arcos-drug-summary-reports.html,200,OK,No
+dc/base/DEA_ARCOS_AggState_AggCountry,dataset.source.url,https://www.dea.gov/,403,HTTP Error 403,No
+dc/base/Dartmouth_Atlas_Medicare,prov_url,https://atlasdata.dartmouth.edu,200,OK,No
+dc/base/Dartmouth_Atlas_Medicare,sourceDataUrl,https://atlasdata.dartmouth.edu/downloads,200,OK,No
+dc/base/Dartmouth_Atlas_Medicare,dataset.url,https://www.dartmouthatlas.org/,200,OK,No
+dc/base/Dartmouth_Atlas_Medicare,dataset.source.url,https://www.dartmouthatlas.org/,200,OK,No
+dc/base/DataCommons_CoverageStats,prov_url,https://datacommons.org,200,OK,No
+dc/base/DataCommons_CoverageStats,dataset.url,https://datacommons.org/,200,OK,No
+dc/base/DataCommons_CoverageStats,dataset.source.url,https://datacommons.org/,200,OK,No
+dc/base/Denmark_Demographics,prov_url,https://www.statbank.dk/statbank5a/default.asp?w=1280,200,OK,No
+dc/base/Denmark_Demographics,sourceDataUrl,https://www.statbank.dk/statbank5a/default.asp?w=1280,200,OK,No
+dc/base/Denmark_Demographics,dataset.url,https://www.statbank.dk/statbank5a/default.asp?w=1280,200,OK,No
+dc/base/Denmark_Demographics,dataset.source.url,https://www.statbank.dk/,200,OK,No
+dc/base/DynamicWorld_FloodEvents_Places_AutoRefresh,prov_url,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/DynamicWorld_FloodEvents_Places_AutoRefresh,sourceDataUrl,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/DynamicWorld_FloodEvents_Places_AutoRefresh,dataset.url,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/DynamicWorld_FloodEvents_Places_AutoRefresh,dataset.source.url,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/DynamicWorld_Floods,prov_url,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/DynamicWorld_Floods,sourceDataUrl,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/DynamicWorld_Floods,dataset.url,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/DynamicWorld_Floods,dataset.source.url,https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1,200,OK,No
+dc/base/EIA_Coal,prov_url,https://www.eia.gov/opendata/qb.php?category=717234,200,OK,No
+dc/base/EIA_Coal,sourceDataUrl,http://api.eia.gov/bulk/COAL.zip,0,The read operation timed out,No
+dc/base/EIA_Coal,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_Coal,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_Electricity,prov_url,https://www.eia.gov/opendata/browser/electricity,200,OK,No
+dc/base/EIA_Electricity,sourceDataUrl,http://api.eia.gov/bulk/ELEC.zip,200,OK,No
+dc/base/EIA_Electricity,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_Electricity,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_International,prov_url,https://www.eia.gov/opendata/qb.php?category=2134384,0,The read operation timed out,No
+dc/base/EIA_International,sourceDataUrl,http://api.eia.gov/bulk/INTL.zip,200,OK,No
+dc/base/EIA_International,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_International,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_NaturalGas,prov_url,https://www.eia.gov/opendata/qb.php?category=714804,0,The read operation timed out,No
+dc/base/EIA_NaturalGas,sourceDataUrl,http://api.eia.gov/bulk/NG.zip,200,OK,No
+dc/base/EIA_NaturalGas,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_NaturalGas,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_NuclearOutages,prov_url,https://www.eia.gov/opendata/qb.php?category=2889994,0,The read operation timed out,No
+dc/base/EIA_NuclearOutages,sourceDataUrl,http://api.eia.gov/bulk/NUC_STATUS.zip,0,The read operation timed out,No
+dc/base/EIA_NuclearOutages,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_NuclearOutages,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_Petroleum,prov_url,https://www.eia.gov/opendata/qb.php?category=714755,200,OK,No
+dc/base/EIA_Petroleum,sourceDataUrl,http://api.eia.gov/bulk/PET.zip,200,OK,No
+dc/base/EIA_Petroleum,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_Petroleum,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_SEDS,prov_url,https://www.eia.gov/opendata/qb.php?category=40203,200,OK,No
+dc/base/EIA_SEDS,sourceDataUrl,http://api.eia.gov/bulk/SEDS.zip,200,OK,No
+dc/base/EIA_SEDS,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_SEDS,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_TotalEnergy,prov_url,https://www.eia.gov/opendata/qb.php?category=711224,0,The read operation timed out,No
+dc/base/EIA_TotalEnergy,sourceDataUrl,http://api.eia.gov/bulk/TOTAL.zip,200,OK,No
+dc/base/EIA_TotalEnergy,dataset.url,https://www.eia.gov/opendata/qb.php,200,OK,No
+dc/base/EIA_TotalEnergy,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EPAAirQualityIndex,prov_url,https://aqs.epa.gov/aqsweb/airdata/download_files.html,200,OK,No
+dc/base/EPAAirQualityIndex,sourceDataUrl,https://aqs.epa.gov/aqsweb/airdata/daily_{pollutant}_{year}.zip,404,HTTP Error 404,Yes
+dc/base/EPAAirQualityIndex,dataset.url,https://www.epa.gov/outdoor-air-quality-data,200,OK,No
+dc/base/EPAAirQualityIndex,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPACriteriaAirPollutants,prov_url,https://aqs.epa.gov/aqsweb/airdata/download_files.html,200,OK,No
+dc/base/EPACriteriaAirPollutants,sourceDataUrl,https://aqs.epa.gov/aqsweb/airdata/{filename}.zip,404,HTTP Error 404,Yes
+dc/base/EPACriteriaAirPollutants,dataset.url,https://www.epa.gov/outdoor-air-quality-data,200,OK,No
+dc/base/EPACriteriaAirPollutants,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_AirPollutantEmission_Level1,prov_url,https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei,200,OK,No
+dc/base/EPA_AirPollutantEmission_Level1,sourceDataUrl,https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei,200,OK,No
+dc/base/EPA_AirPollutantEmission_Level1,dataset.url,https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei,200,OK,No
+dc/base/EPA_AirPollutantEmission_Level1,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_EJSCREEN,prov_url,https://gaftp.epa.gov/EJSCREEN/,404,HTTP Error 404,Yes
+dc/base/EPA_EJSCREEN,sourceDataUrl,https://zenodo.org/records/14767363,403,HTTP Error 403,No
+dc/base/EPA_EJSCREEN,dataset.url,https://www.epa.gov/ejscreen,404,HTTP Error 404,Yes
+dc/base/EPA_EJSCREEN,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_EJSCREEN_AggCensusTract,prov_url,https://gaftp.epa.gov/EJSCREEN/,404,HTTP Error 404,Yes
+dc/base/EPA_EJSCREEN_AggCensusTract,sourceDataUrl,https://zenodo.org/records/14767363,403,HTTP Error 403,No
+dc/base/EPA_EJSCREEN_AggCensusTract,dataset.url,https://www.epa.gov/ejscreen,404,HTTP Error 404,Yes
+dc/base/EPA_EJSCREEN_AggCensusTract,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty,prov_url,https://gaftp.epa.gov/EJSCREEN/,404,HTTP Error 404,Yes
+dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty,sourceDataUrl,https://zenodo.org/records/14767363,403,HTTP Error 403,No
+dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty,dataset.url,https://www.epa.gov/ejscreen,404,HTTP Error 404,Yes
+dc/base/EPA_EJSCREEN_AggCensusTract_AggCounty,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_GHGRP,prov_url,https://www.epa.gov/ghgreporting,200,OK,No
+dc/base/EPA_GHGRP,sourceDataUrl,https://www.epa.gov/system/files/other-files/2024-10/2023_data_summary_spreadsheets.zip,200,OK,No
+dc/base/EPA_GHGRP,dataset.url,https://www.epa.gov/enviro/greenhouse-gas-overview,200,OK,No
+dc/base/EPA_GHGRP,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_GHGRP_AggCensusZipCodeTabulationArea,prov_url,https://www.epa.gov/ghgreporting,200,OK,No
+dc/base/EPA_GHGRP_AggCensusZipCodeTabulationArea,sourceDataUrl,https://www.epa.gov/sites/default/files/2020-11/2019_data_summary_spreadsheets.zip,200,OK,No
+dc/base/EPA_GHGRP_AggCensusZipCodeTabulationArea,dataset.url,https://www.epa.gov/enviro/greenhouse-gas-overview,200,OK,No
+dc/base/EPA_GHGRP_AggCensusZipCodeTabulationArea,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_GHGRP_AggCounty,prov_url,https://www.epa.gov/ghgreporting,200,OK,No
+dc/base/EPA_GHGRP_AggCounty,sourceDataUrl,https://www.epa.gov/sites/default/files/2020-11/2019_data_summary_spreadsheets.zip,200,OK,No
+dc/base/EPA_GHGRP_AggCounty,dataset.url,https://www.epa.gov/enviro/greenhouse-gas-overview,200,OK,No
+dc/base/EPA_GHGRP_AggCounty,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_GHGRP_AggCounty_AggState,prov_url,https://www.epa.gov/ghgreporting,200,OK,No
+dc/base/EPA_GHGRP_AggCounty_AggState,sourceDataUrl,https://www.epa.gov/sites/default/files/2020-11/2019_data_summary_spreadsheets.zip,200,OK,No
+dc/base/EPA_GHGRP_AggCounty_AggState,dataset.url,https://www.epa.gov/enviro/greenhouse-gas-overview,200,OK,No
+dc/base/EPA_GHGRP_AggCounty_AggState,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies,prov_url,https://www.epa.gov/ghgreporting,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies,sourceDataUrl,https://www.epa.gov/sites/default/files/2020-11/2019_data_summary_spreadsheets.zip,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies,dataset.url,https://www.epa.gov/enviro/greenhouse-gas-overview,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies_Ownership,prov_url,https://www.epa.gov/ghgreporting,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies_Ownership,sourceDataUrl,https://enviro.epa.gov/enviro/ef_metadata_html.ef_metadata_table?p_table_name=V_PARENT_COMPANY_INFO,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies_Ownership,dataset.url,https://www.epa.gov/enviro/greenhouse-gas-overview,200,OK,No
+dc/base/EPA_GHGRP_ParentCompanies_Ownership,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_County,prov_url,https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_County,sourceDataUrl,https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_County,dataset.url,https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_County,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_NationalAndState,prov_url,https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_NationalAndState,sourceDataUrl,https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_NationalAndState,dataset.url,https://www.epa.gov/air-emissions-inventories/national-emissions-inventory-nei,200,OK,No
+dc/base/EPA_USAirPollutantEmissionTrends_NationalAndState,dataset.source.url,https://www.epa.gov/,200,OK,No
+dc/base/EPHHeatRelatedIllness,prov_url,https://ephtracking.cdc.gov/qrlist/35,404,HTTP Error 404,Yes
+dc/base/EPHHeatRelatedIllness,sourceDataUrl,https://ephtracking.cdc.gov/qrlist/35,404,HTTP Error 404,Yes
+dc/base/EPHHeatRelatedIllness,dataset.url,https://ephtracking.cdc.gov/qrlist/35,404,HTTP Error 404,Yes
+dc/base/EPHHeatRelatedIllness,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/Egypt_Census,prov_url,https://egypt.opendataforafrica.org,403,HTTP Error 403,No
+dc/base/Egypt_Census,sourceDataUrl,https://egypt.opendataforafrica.org/data/#menu=topic,403,HTTP Error 403,No
+dc/base/Egypt_Census,dataset.url,https://egypt.opendataforafrica.org,403,HTTP Error 403,No
+dc/base/Egypt_Census,dataset.source.url,https://egypt.opendataforafrica.org,403,HTTP Error 403,No
+dc/base/Energy_StatVarCalculation,prov_url,https://datacommons.org/,200,OK,No
+dc/base/Energy_StatVarCalculation,dataset.url,https://datacommons.org/,200,OK,No
+dc/base/Energy_StatVarCalculation,dataset.source.url,https://datacommons.org/,200,OK,No
+dc/base/EthiopiaStatistics,prov_url,https://ethiopia.opendataforafrica.org/data/#menu=topic,403,HTTP Error 403,No
+dc/base/EthiopiaStatistics,sourceDataUrl,https://ethiopia.opendataforafrica.org/data/#menu=topic,403,HTTP Error 403,No
+dc/base/EthiopiaStatistics,dataset.url,https://ethiopia.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/EthiopiaStatistics,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/EuroStatHealth_AlcoholConsumption,prov_url,https://ec.europa.eu/eurostat/web/main/data/database,200,OK,No
+dc/base/EuroStatHealth_AlcoholConsumption,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_al1e?format=TSV&compressed=true,200,OK,No
+dc/base/EuroStatHealth_AlcoholConsumption,dataset.url,https://ec.europa.eu/eurostat/web/health/data/database,404,HTTP Error 404,Yes
+dc/base/EuroStatHealth_AlcoholConsumption,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EuroStatHealth_BodyMassIndex,prov_url,https://ec.europa.eu/eurostat/web/main/data/database,200,OK,No
+dc/base/EuroStatHealth_BodyMassIndex,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_bm1e?format=TSV&compressed=true,200,OK,No
+dc/base/EuroStatHealth_BodyMassIndex,dataset.url,https://ec.europa.eu/eurostat/web/health/data/database,404,HTTP Error 404,Yes
+dc/base/EuroStatHealth_BodyMassIndex,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EuroStatHealth_FruitsAndVegetables,prov_url,https://ec.europa.eu/eurostat/web/main/data/database,200,OK,No
+dc/base/EuroStatHealth_FruitsAndVegetables,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_fv3e?format=TSV&compressed=true,200,OK,No
+dc/base/EuroStatHealth_FruitsAndVegetables,dataset.url,https://ec.europa.eu/eurostat/web/health/data/database,404,HTTP Error 404,Yes
+dc/base/EuroStatHealth_FruitsAndVegetables,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EuroStatHealth_PhysicalActivity,prov_url,https://ec.europa.eu/eurostat/web/health/database,200,OK,No
+dc/base/EuroStatHealth_PhysicalActivity,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_pe9e?format=TSV&compressed=true,200,OK,No
+dc/base/EuroStatHealth_PhysicalActivity,dataset.url,https://ec.europa.eu/eurostat/web/health/data/database,404,HTTP Error 404,Yes
+dc/base/EuroStatHealth_PhysicalActivity,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EuroStatHealth_SocialEnvironment,prov_url,https://ec.europa.eu/eurostat/web/main/data/database,200,OK,No
+dc/base/EuroStatHealth_SocialEnvironment,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_ss1e?format=TSV&compressed=true,200,OK,No
+dc/base/EuroStatHealth_SocialEnvironment,dataset.url,https://ec.europa.eu/eurostat/web/health/data/database,404,HTTP Error 404,Yes
+dc/base/EuroStatHealth_SocialEnvironment,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_Demographic_Balance_Crude_Rates,prov_url,https://ec.europa.eu/eurostat/databrowser/view/demo_r_gind3/default/table?lang=en,200,OK,No
+dc/base/EurostatData_Demographic_Balance_Crude_Rates,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_gind3/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_Demographic_Balance_Crude_Rates,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_Demographic_Balance_Crude_Rates,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_Education_Attainment,prov_url,https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table?lang=en,200,OK,No
+dc/base/EurostatData_Education_Attainment,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/edat_lfse_04/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_Education_Attainment,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_Education_Attainment,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_Education_Enrollment,prov_url,https://ec.europa.eu/eurostat/databrowser/view/trng_lfse_04/default/table?lang=en,200,OK,No
+dc/base/EurostatData_Education_Enrollment,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/trng_lfse_04/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_Education_Enrollment,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_Education_Enrollment,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_Employment_Per_Sector,prov_url,https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3empers/default/table?lang=en,200,OK,No
+dc/base/EurostatData_Employment_Per_Sector,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/nama_10r_3empers/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_Employment_Per_Sector,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_Employment_Per_Sector,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_Fertility,prov_url,https://ec.europa.eu/eurostat/databrowser/view/demo_r_find3/default/table?lang=en,200,OK,No
+dc/base/EurostatData_Fertility,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_find3/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_Fertility,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_Fertility,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_GDP,prov_url,https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en,200,OK,No
+dc/base/EurostatData_GDP,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/nama_10r_3gdp/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_GDP,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_GDP,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_LifeExpectancy,prov_url,https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table?lang=en,200,OK,No
+dc/base/EurostatData_LifeExpectancy,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_mlifexp/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_LifeExpectancy,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_LifeExpectancy,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatData_PopulationDensity,prov_url,https://ec.europa.eu/eurostat/databrowser/view/demo_r_d3dens/default/table?lang=en,200,OK,No
+dc/base/EurostatData_PopulationDensity,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_d3dens/?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatData_PopulationDensity,dataset.url,https://ec.europa.eu/eurostat/,200,OK,No
+dc/base/EurostatData_PopulationDensity,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/EurostatHealth_Tobacco_Consumption,prov_url,https://ec.europa.eu/eurostat/web/main/data/database,200,OK,No
+dc/base/EurostatHealth_Tobacco_Consumption,sourceDataUrl,https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/hlth_ehis_sk1i?format=TSV&compressed=true,200,OK,No
+dc/base/EurostatHealth_Tobacco_Consumption,dataset.url,https://ec.europa.eu/eurostat/web/health/data/database,404,HTTP Error 404,Yes
+dc/base/EurostatHealth_Tobacco_Consumption,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/Eurostat_Early_Education_Training,prov_url,https://ec.europa.eu/eurostat/databrowser/view/sdg_04_30__custom_7874475/default/table?lang=en,200,OK,No
+dc/base/Eurostat_Early_Education_Training,dataset.url,https://ec.europa.eu/eurostat/web/education-and-training/database,200,OK,No
+dc/base/Eurostat_Early_Education_Training,dataset.source.url,https://ec.europa.eu/eurostat,200,OK,No
+dc/base/FAO_Currency,prov_url,https://www.fao.org/faostat/en/#data/PE/metadata,200,OK,No
+dc/base/FAO_Currency,dataset.url,https://www.fao.org/faostat/en/#data/PE/metadata,200,OK,No
+dc/base/FAO_Currency,dataset.source.url,https://www.fao.org/faostat/,200,OK,No
+dc/base/FAO_Currency_statvar,prov_url,https://www.fao.org/faostat/en/#data/PE/metadata,200,OK,No
+dc/base/FAO_Currency_statvar,sourceDataUrl,https://bulks-faostat.fao.org/production/Exchange_rate_E_All_Data.zip,200,OK,No
+dc/base/FAO_Currency_statvar,dataset.url,https://www.fao.org/faostat/en/#data/PE/metadata,200,OK,No
+dc/base/FAO_Currency_statvar,dataset.source.url,https://www.fao.org/faostat/,200,OK,No
+dc/base/FARS_CrashData,prov_url,https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/,403,HTTP Error 403,No
+dc/base/FARS_CrashData,sourceDataUrl,https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/,403,HTTP Error 403,No
+dc/base/FARS_CrashData,dataset.url,https://www.nhtsa.gov/crash-data-systems/fatality-analysis-reporting-system,403,HTTP Error 403,No
+dc/base/FARS_CrashData,dataset.source.url,https://www.nhtsa.gov/,403,HTTP Error 403,No
+dc/base/FBIGovCrime,prov_url,http://www.fbi.gov/services/cjis/ucr,403,HTTP Error 403,No
+dc/base/FBIGovCrime,sourceDataUrl,https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads,200,OK,No
+dc/base/FBIGovCrime,dataset.url,https://www.fbi.gov/services/cjis/ucr,403,HTTP Error 403,No
+dc/base/FBIGovCrime,dataset.source.url,https://www.fbi.gov/,200,OK,No
+dc/base/FBIGovCrime_AggCountry,prov_url,http://www.fbi.gov/services/cjis/ucr,403,HTTP Error 403,No
+dc/base/FBIGovCrime_AggCountry,sourceDataUrl,https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads,200,OK,No
+dc/base/FBIGovCrime_AggCountry,dataset.url,https://www.fbi.gov/services/cjis/ucr,403,HTTP Error 403,No
+dc/base/FBIGovCrime_AggCountry,dataset.source.url,https://www.fbi.gov/,200,OK,No
+dc/base/FBIHateCrime,prov_url,https://www.fbi.gov/services/cjis/ucr/hate-crime,403,HTTP Error 403,No
+dc/base/FBIHateCrime,sourceDataUrl,https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads,200,OK,No
+dc/base/FBIHateCrime,dataset.url,https://www.fbi.gov/services/cjis/ucr/hate-crime,403,HTTP Error 403,No
+dc/base/FBIHateCrime,dataset.source.url,https://www.fbi.gov/,200,OK,No
+dc/base/FBIHateCrimePublications,prov_url,https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime,200,OK,No
+dc/base/FBIHateCrimePublications,sourceDataUrl,https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads,200,OK,No
+dc/base/FBIHateCrimePublications,dataset.url,https://www.fbi.gov/services/cjis/ucr/hate-crime,403,HTTP Error 403,No
+dc/base/FBIHateCrimePublications,dataset.source.url,https://www.fbi.gov/,200,OK,No
+dc/base/FEC,prov_url,https://www.fec.gov/data/browse-data/?tab=bulk-data,200,OK,No
+dc/base/FEC,sourceDataUrl,https://download.bls.gov/pub/time.series/la/,403,HTTP Error 403,No
+dc/base/FEC,dataset.url,https://www.fec.gov/data/browse-data/?tab=bulk-data,200,OK,No
+dc/base/FEC,dataset.source.url,https://www.fec.gov/,200,OK,No
+dc/base/FeedingAmerica_FoodInsecurity,prov_url,https://www.feedingamerica.org/hunger-in-america,200,OK,No
+dc/base/FeedingAmerica_FoodInsecurity,dataset.url,https://map.feedingamerica.org,200,OK,No
+dc/base/FeedingAmerica_FoodInsecurity,dataset.source.url,https://www.feedingamerica.org/,200,OK,No
+dc/base/FeedingAmerica_MapMealGap,prov_url,https://map.feedingamerica.org/,200,OK,No
+dc/base/FeedingAmerica_MapMealGap,dataset.url,https://map.feedingamerica.org,200,OK,No
+dc/base/FeedingAmerica_MapMealGap,dataset.source.url,https://www.feedingamerica.org/,200,OK,No
+dc/base/Finland_Census,prov_url,https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px/table/tableViewLayout1/,500,HTTP Error 500,No
+dc/base/Finland_Census,sourceDataUrl,https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px/table/tableViewLayout1/,500,HTTP Error 500,No
+dc/base/Finland_Census,dataset.url,https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11ra.px/table/tableViewLayout1/,500,HTTP Error 500,No
+dc/base/Finland_Census,dataset.source.url,https://pxdata.stat.fi/,200,OK,No
+dc/base/FireFAMWEB_Agg,prov_url,https://fam.nwcg.gov/fam-web/,0,URL Error [Errno -5] No address associated with hostname,No
+dc/base/FireFAMWEB_Agg,dataset.url,https://famit.nwcg.gov/,403,HTTP Error 403,No
+dc/base/FireFAMWEB_Agg,dataset.source.url,https://www.nwcg.gov/,403,HTTP Error 403,No
+dc/base/France_Demographics,prov_url,https://www.insee.fr/en/statistiques/8333211?sommaire=8333329,200,OK,No
+dc/base/France_Demographics,sourceDataUrl,https://www.insee.fr/en/statistiques/8333211?sommaire=8333329,200,OK,No
+dc/base/France_Demographics,dataset.url,https://www.insee.fr/en/statistiques/8333211?sommaire=8333329,200,OK,No
+dc/base/France_Demographics,dataset.source.url,https://www.insee.fr,200,OK,No
+dc/base/GenderIncomeInequality,prov_url,https://www.datacommons.org/,200,OK,No
+dc/base/GenderIncomeInequality,dataset.url,https://datacommons.org/,200,OK,No
+dc/base/GenderIncomeInequality,dataset.source.url,https://datacommons.org/,200,OK,No
+dc/base/Google_COVID19Mobility,prov_url,https://www.google.com/covid19/mobility/,200,OK,No
+dc/base/Google_COVID19Mobility,sourceDataUrl,https://www.google.com/covid19/mobility,200,OK,No
+dc/base/Google_COVID19Mobility,dataset.url,https://www.google.com/covid19/mobility/,200,OK,No
+dc/base/Google_COVID19Mobility,dataset.source.url,https://www.google.com/,200,OK,No
+dc/base/HUD_IncomeLimits,prov_url,https://www.huduser.gov/portal/datasets/il.html,200,OK,No
+dc/base/HUD_IncomeLimits,sourceDataUrl,https://www.huduser.gov/portal/datasets/il/il24/Section8-FY24.xlsx,200,OK,No
+dc/base/HUD_IncomeLimits,dataset.url,https://www.huduser.gov/portal/datasets/il.html,200,OK,No
+dc/base/HUD_IncomeLimits,dataset.source.url,https://www.hud.gov/,403,HTTP Error 403,No
+dc/base/INPE_Fire_Event_Count,prov_url,https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/estatisticas/estatisticas_estados/,200,OK,No
+dc/base/INPE_Fire_Event_Count,dataset.url,https://www.gov.br/inpe/pt-br/acesso-a-informacao/dados-abertos/,200,OK,No
+dc/base/INPE_Fire_Event_Count,dataset.source.url,https://www.gov.br/inpe/,200,OK,No
+dc/base/IPEDS_StudentToFacultyRatio,prov_url,https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?gotoReportId=7&fromIpeds=true&sid=859539d0-db09-4d03-a36a-eabf93d07355&rtid=1,0,URL Error timed out,No
+dc/base/IPEDS_StudentToFacultyRatio,sourceDataUrl,https://nces.ed.gov/ipeds/use-the-data,0,URL Error timed out,No
+dc/base/IPEDS_StudentToFacultyRatio,dataset.url,https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx,0,URL Error timed out,No
+dc/base/IPEDS_StudentToFacultyRatio,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/IndiaCensus_Primary,prov_url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_Primary,dataset.url,https://censusindia.gov.in/census.website/data/census-tables,200,OK,No
+dc/base/IndiaCensus_Primary,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryHouseless,prov_url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryHouseless,dataset.url,https://censusindia.gov.in/census.website/data/census-tables,200,OK,No
+dc/base/IndiaCensus_PrimaryHouseless,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryReligion,prov_url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryReligion,dataset.url,https://censusindia.gov.in/census.website/data/census-tables,200,OK,No
+dc/base/IndiaCensus_PrimaryReligion,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimarySC,prov_url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimarySC,dataset.url,https://censusindia.gov.in/census.website/data/census-tables,200,OK,No
+dc/base/IndiaCensus_PrimarySC,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryST,prov_url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryST,dataset.url,https://censusindia.gov.in/census.website/data/census-tables,200,OK,No
+dc/base/IndiaCensus_PrimaryST,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaNHM,prov_url,https://hmis.nhp.gov.in/,0,URL Error [Errno -2] Name or service not known,No
+dc/base/IndiaNHM,dataset.url,https://hmis.nhp.gov.in/,0,URL Error [Errno -2] Name or service not known,No
+dc/base/IndiaNHM,dataset.source.url,https://nhm.gov.in/,200,OK,No
+dc/base/IndiaNSS_HealthAilments,prov_url,https://ndap.niti.gov.in/dataset/7300,404,HTTP Error 404,Yes
+dc/base/IndiaNSS_HealthAilments,sourceDataUrl,https://ndap.niti.gov.in/dataset/7300,404,HTTP Error 404,Yes
+dc/base/IndiaNSS_HealthAilments,dataset.url,https://mospi.gov.in/documents/213904/301563//NSS%20Report%20no.%20586%20Health%20in%20India1606229312083.pdf/d3724e8b-5970-0559-9ed9-12378a6cc7b3,200,OK,No
+dc/base/IndiaNSS_HealthAilments,dataset.source.url,https://mospi.gov.in/web/nss,200,OK,No
+dc/base/IndiaNSS_HealthAilments_StatVarAgg,prov_url,https://ndap.niti.gov.in/dataset/7300,404,HTTP Error 404,Yes
+dc/base/IndiaNSS_HealthAilments_StatVarAgg,dataset.url,https://mospi.gov.in/documents/213904/301563//NSS%20Report%20no.%20586%20Health%20in%20India1606229312083.pdf/d3724e8b-5970-0559-9ed9-12378a6cc7b3,200,OK,No
+dc/base/IndiaNSS_HealthAilments_StatVarAgg,dataset.source.url,https://mospi.gov.in/web/nss,200,OK,No
+dc/base/IndiaPLFS_DailyWages,prov_url,https://mospi.gov.in/web/plfs,200,OK,No
+dc/base/IndiaPLFS_DailyWages,dataset.url,https://mospi.gov.in/web/plfs,200,OK,No
+dc/base/IndiaPLFS_DailyWages,dataset.source.url,https://mospi.gov.in/,200,OK,No
+dc/base/IndiaPLFS_Wages,prov_url,https://mospi.gov.in/web/plfs,200,OK,No
+dc/base/IndiaPLFS_Wages,dataset.url,https://mospi.gov.in/web/plfs,200,OK,No
+dc/base/IndiaPLFS_Wages,dataset.source.url,https://mospi.gov.in/,200,OK,No
+dc/base/IndiaPoverty,prov_url,https://socialjustice.gov.in/common/76672,200,OK,No
+dc/base/IndiaPoverty,dataset.url,https://www.niti.gov.in/sites/default/files/2021-11/National_MPI_India-11242021.pdf,200,OK,No
+dc/base/IndiaPoverty,dataset.source.url,https://niti.gov.in/,200,OK,No
+dc/base/IndiaWRISWaterQuality,prov_url,https://indiawris.gov.in/wris,0,URL Error timed out,No
+dc/base/IndiaWRISWaterQuality,sourceDataUrl,https://indiawris.gov.in/wris/#/DataDownload,0,URL Error timed out,No
+dc/base/IndiaWRISWaterQuality,dataset.url,https://indiawris.gov.in/wiki/doku.php?id=water_quality_data_and_parameters,0,URL Error timed out,No
+dc/base/IndiaWRISWaterQuality,dataset.source.url,https://indiawris.gov.in/wris/#/,0,URL Error timed out,No
+dc/base/India_GeoSadak,prov_url,https://geosadak-pmgsy.nic.in/,0,URL Error [Errno -2] Name or service not known,No
+dc/base/India_GeoSadak,dataset.url,https://geosadak-pmgsy.nic.in/OpenData,0,URL Error [Errno -2] Name or service not known,No
+dc/base/India_GeoSadak,dataset.source.url,https://geosadak-pmgsy.nic.in/,0,URL Error [Errno -2] Name or service not known,No
+dc/base/India_LifeExpectancy,prov_url,https://ndap.niti.gov.in/dataset/7375,404,HTTP Error 404,Yes
+dc/base/India_LifeExpectancy,sourceDataUrl,https://databank.worldbank.org/source/international-debt-statistics,200,OK,No
+dc/base/India_LifeExpectancy,dataset.url,https://ndap.niti.gov.in/,200,OK,No
+dc/base/India_LifeExpectancy,dataset.source.url,https://niti.gov.in/,200,OK,No
+dc/base/India_NFHS,prov_url,"https://ndap.niti.gov.in/dataset/6821, https://ndap.niti.gov.in/dataset/7034, https://ndap.niti.gov.in/dataset/6822",0,"URL can't contain control characters. '/dataset/6821, https://ndap.niti.gov.in/dataset/7034, https://ndap.niti.gov.in/dataset/6822' (found at least ' ')",No
+dc/base/India_NFHS,sourceDataUrl,https://ndap.niti.gov.in/dataset/6821,404,HTTP Error 404,Yes
+dc/base/India_NFHS,dataset.url,https://ndap.niti.gov.in/dataset/6822,404,HTTP Error 404,Yes
+dc/base/India_NFHS,dataset.source.url,https://niti.gov.in/,200,OK,No
+dc/base/India_NationalAccountsStatistics,prov_url,https://esankhyiki.mospi.gov.in/macroindicators?product=nas,200,OK,No
+dc/base/India_NationalAccountsStatistics,sourceDataUrl,https://esankhyiki.mospi.gov.in/macroindicators?product=nas,200,OK,No
+dc/base/India_NationalAccountsStatistics,dataset.url,https://esankhyiki.mospi.gov.in/macroindicators?product=nas,200,OK,No
+dc/base/India_NationalAccountsStatistics,dataset.source.url,https://mospi.gov.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct,prov_url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct,sourceDataUrl,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct,dataset.url,https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics,200,OK,No
+dc/base/India_RBIStateDomesticProduct,dataset.source.url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct_AggCountry,prov_url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct_AggCountry,dataset.url,https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics,200,OK,No
+dc/base/India_RBIStateDomesticProduct_AggCountry,dataset.source.url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct_StatVarAgg,prov_url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct_StatVarAgg,dataset.url,https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics,200,OK,No
+dc/base/India_RBIStateDomesticProduct_StatVarAgg,dataset.source.url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct_StatVarAgg_AggCountry,prov_url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBIStateDomesticProduct_StatVarAgg_AggCountry,dataset.url,https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics,200,OK,No
+dc/base/India_RBIStateDomesticProduct_StatVarAgg_AggCountry,dataset.source.url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBI_State_Statistics,prov_url,https://rbi.org.in/,200,OK,No
+dc/base/India_RBI_State_Statistics,sourceDataUrl,https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook%20of%20Statistics%20on%20Indian%20States,200,OK,No
+dc/base/India_RBI_State_Statistics,dataset.url,https://dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics,200,OK,No
+dc/base/India_RBI_State_Statistics,dataset.source.url,https://rbi.org.in/,200,OK,No
+dc/base/Indonesia_Census,prov_url,https://www.bps.go.id/,403,HTTP Error 403,No
+dc/base/Indonesia_Census,dataset.url,https://www.bps.go.id/indikator/indikator/list_/da_03/,403,HTTP Error 403,No
+dc/base/Indonesia_Census,dataset.source.url,https://www.bps.go.id/,403,HTTP Error 403,No
+dc/base/Ireland_Census,prov_url,https://www.cso.ie/en/index.html,200,OK,No
+dc/base/Ireland_Census,sourceDataUrl,https://data.cso.ie/,200,OK,No
+dc/base/Ireland_Census,dataset.url,https://www.cso.ie/en/statistics/,200,OK,No
+dc/base/Ireland_Census,dataset.source.url,https://www.cso.ie/en/index.html,200,OK,No
+dc/base/Israel_Census,prov_url,https://www.cbs.gov.il/,0,URL Error timed out,No
+dc/base/Israel_Census,dataset.url,https://www.cbs.gov.il/en/Statistics/Pages/Generators/Time-Series-DataBank.aspx?level_1=4,0,URL Error timed out,No
+dc/base/Israel_Census,dataset.source.url,https://www.cbs.gov.il/he/Pages/default.aspx,0,URL Error timed out,No
+dc/base/Japan_Census,prov_url,https://www.e-stat.go.jp/,200,OK,No
+dc/base/Japan_Census,dataset.url,https://dashboard.e-stat.go.jp/graphSearch/graphSearchResult?selectedLFieldCd=02,200,OK,No
+dc/base/Japan_Census,dataset.source.url,https://www.e-stat.go.jp/,200,OK,No
+dc/base/Kenya_Census,prov_url,https://kenya.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Kenya_Census,sourceDataUrl,https://kenya.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Kenya_Census,dataset.url,https://kenya.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Kenya_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/MOSPI_IndiaPLFS_DailyWages,prov_url,https://esankhyiki.mospi.gov.in/macroindicators?product=plfs,200,OK,No
+dc/base/MOSPI_IndiaPLFS_DailyWages,sourceDataUrl,https://esankhyiki.mospi.gov.in/macroindicators?product=plfs,200,OK,No
+dc/base/MOSPI_IndiaPLFS_DailyWages,dataset.url,https://mospi.gov.in/web/plfs,200,OK,No
+dc/base/MOSPI_IndiaPLFS_DailyWages,dataset.source.url,https://mospi.gov.in/,200,OK,No
+dc/base/MOSPI_IndiaPLFS_MonthlyWages,prov_url,https://esankhyiki.mospi.gov.in/macroindicators?product=plfs,200,OK,No
+dc/base/MOSPI_IndiaPLFS_MonthlyWages,sourceDataUrl,https://esankhyiki.mospi.gov.in/macroindicators?product=plfs,200,OK,No
+dc/base/MOSPI_IndiaPLFS_MonthlyWages,dataset.url,https://mospi.gov.in/web/plfs,200,OK,No
+dc/base/MOSPI_IndiaPLFS_MonthlyWages,dataset.source.url,https://mospi.gov.in/,200,OK,No
+dc/base/MexicoCensus,prov_url,https://www.inegi.org.mx/temas/,200,OK,No
+dc/base/MexicoCensus,dataset.url,https://en.www.inegi.org.mx/temas/,200,OK,No
+dc/base/MexicoCensus,dataset.source.url,https://www.inegi.org.mx/default.html,200,OK,No
+dc/base/MexicoCensus_AA2,prov_url,https://data.humdata.org/dataset/cod-ps-mex,202,OK,No
+dc/base/MexicoCensus_AA2,dataset.url,https://data.humdata.org/dataset/cod-ps-mex,202,OK,No
+dc/base/MexicoCensus_AA2,dataset.source.url,https://www.unocha.org/,200,OK,No
+dc/base/Mongolia_Demographics,prov_url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Demographics,sourceDataUrl,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Demographics,dataset.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Demographics,dataset.source.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Education,prov_url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Education,sourceDataUrl,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Education,dataset.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Education,dataset.source.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Employment,prov_url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Employment,sourceDataUrl,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Employment,dataset.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Employment,dataset.source.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Health,prov_url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Health,sourceDataUrl,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Health,dataset.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/Mongolia_Health,dataset.source.url,https://www.1212.mn/en/statcate,200,OK,No
+dc/base/NASA_DCP30_CMIP5_Subnational_AggrDiffStats_LongRangeProjections,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30,200,OK,No
+dc/base/NASA_DCP30_CMIP5_Subnational_AggrDiffStats_LongRangeProjections,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30,200,OK,No
+dc/base/NASA_DCP30_CMIP5_Subnational_AggrDiffStats_LongRangeProjections,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXDCP30,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30,200,OK,No
+dc/base/NASA_NEXDCP30,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30,200,OK,No
+dc/base/NASA_NEXDCP30,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXDCP30_AggrDiffStats,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30,200,OK,No
+dc/base/NASA_NEXDCP30_AggrDiffStats,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30,200,OK,No
+dc/base/NASA_NEXDCP30_AggrDiffStats,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrDiffStats,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrDiffStats,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrDiffStats,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrOverTimeOnStatsAcrossModels,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrOverTimeOnStatsAcrossModels,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrOverTimeOnStatsAcrossModels,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrStatsAcrossModels,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrStatsAcrossModels,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_IpccPlaces50_AggrStatsAcrossModels,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrDiffStats_LongRangeProjections,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrOverTimeOnStatsAcrossModels,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrOverTimeOnStatsAcrossModels,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrOverTimeOnStatsAcrossModels,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrStatsAcrossModels,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrStatsAcrossModels,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_AggrStatsAcrossModels,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_PDFs,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_PDFs,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_PDFs,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6,200,OK,No
+dc/base/NASA_NEXGDDP_CMIP6_Subnational_Prediction_Diffs,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_Country,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Country,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Country,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_Country_AggrDiffStats,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Country_AggrDiffStats,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Country_AggrDiffStats,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_IpccPlaces50,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_IpccPlaces50,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_IpccPlaces50,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_IpccPlaces50_AggrDiffStats,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_IpccPlaces50_AggrDiffStats,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_IpccPlaces50_AggrDiffStats,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrDiffStats,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrDiffStats,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrDiffStats,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrOverTimeOnStatsAcrossModels,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrOverTimeOnStatsAcrossModels,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrOverTimeOnStatsAcrossModels,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrStatsAcrossModels,prov_url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrStatsAcrossModels,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_NEXGDDP_Subnational_AggrStatsAcrossModels,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_SeaLevelProjections_CMIP6,prov_url,https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report,0,URL Error timed out,No
+dc/base/NASA_SeaLevelProjections_CMIP6,dataset.url,https://podaac.jpl.nasa.gov/announcements/2021-08-09-Sea-level-projections-from-the-IPCC-6th-Assessment-Report,0,URL Error timed out,No
+dc/base/NASA_SeaLevelProjections_CMIP6,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_VIIRSActiveFiresEvent_Observations,prov_url,https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt,200,OK,No
+dc/base/NASA_VIIRSActiveFiresEvent_Observations,dataset.url,https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt,200,OK,No
+dc/base/NASA_VIIRSActiveFiresEvent_Observations,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_VIIRSActiveFiresEvents_Agg,prov_url,https://firms.modaps.eosdis.nasa.gov/active_fire/,200,OK,No
+dc/base/NASA_VIIRSActiveFiresEvents_Agg,dataset.url,https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt,200,OK,No
+dc/base/NASA_VIIRSActiveFiresEvents_Agg,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_WetBulbComputation,prov_url,https://datacommons.org/,200,OK,No
+dc/base/NASA_WetBulbComputation,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_WetBulbComputation,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NASA_WetBulbComputation_Aggregation,prov_url,https://datacommons.org/,200,OK,No
+dc/base/NASA_WetBulbComputation_Aggregation,dataset.url,https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp,200,OK,No
+dc/base/NASA_WetBulbComputation_Aggregation,dataset.source.url,https://www.nasa.gov/,200,OK,No
+dc/base/NCES_Bachelors_Degree_By_Field_Import,prov_url,https://nces.ed.gov,0,URL Error timed out,No
+dc/base/NCES_Bachelors_Degree_By_Field_Import,sourceDataUrl,https://nces.ed.gov/programs/digest/d23/tables/dt23_322.50.asp,0,URL Error timed out,No
+dc/base/NCES_Bachelors_Degree_By_Field_Import,dataset.url,https://nces.ed.gov/programs/digest/d22/tables/dt22_322.50.asp,0,URL Error timed out,No
+dc/base/NCES_Bachelors_Degree_By_Field_Import,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_HBCU_Enrollment_Import,prov_url,https://nces.ed.gov/programs/digest/d22/tables/dt22_313.30.asp,0,URL Error timed out,No
+dc/base/NCES_HBCU_Enrollment_Import,dataset.url,https://nces.ed.gov/programs/digest/d22/tables/dt22_313.30.asp,0,URL Error timed out,No
+dc/base/NCES_HBCU_Enrollment_Import,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_NationsReportCard,prov_url,https://nces.ed.gov/nationsreportcard/,0,URL Error timed out,No
+dc/base/NCES_NationsReportCard,dataset.url,https://www.nationsreportcard.gov/ndecore,200,OK,No
+dc/base/NCES_NationsReportCard,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats,prov_url,https://nces.ed.gov/ccd/elsi/tableGenerator.aspx,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats,sourceDataUrl,https://nces.ed.gov/ccd/elsi/tableGenerator.aspx,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats,dataset.url,https://nces.ed.gov/ccd/elsi/,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats_SuperEnum,prov_url,https://datacommons.org/,200,OK,No
+dc/base/NCES_PrivateSchoolStats_SuperEnum,dataset.url,https://nces.ed.gov/ccd/elsi/,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats_SuperEnum,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats,prov_url,https://nces.ed.gov/ccd/elsi/tableGenerator.aspx,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats,sourceDataUrl,https://nces.ed.gov/ccd/elsi/tableGenerator.aspx,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats,dataset.url,https://nces.ed.gov/ccd/elsi/,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats_SuperEnum,prov_url,https://datacommons.org/,200,OK,No
+dc/base/NCES_PublicSchoolStats_SuperEnum,dataset.url,https://nces.ed.gov/ccd/elsi/,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats_SuperEnum,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_STEM_Degrees_Import,prov_url,https://nces.ed.gov/programs/digest/d22/tables/dt22_318.45.asp,0,URL Error timed out,No
+dc/base/NCES_STEM_Degrees_Import,sourceDataUrl,https://nces.ed.gov/programs/digest/d22/tables/dt22_318.45.asp,0,URL Error timed out,No
+dc/base/NCES_STEM_Degrees_Import,dataset.url,https://nces.ed.gov/programs/digest/d22/tables/dt22_318.45.asp,0,URL Error timed out,No
+dc/base/NCES_STEM_Degrees_Import,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats,prov_url,https://nces.ed.gov/ccd/elsi/tableGenerator.aspx,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats,sourceDataUrl,https://nces.ed.gov/ccd/elsi/tableGenerator.aspx,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats,dataset.url,https://nces.ed.gov/ccd/elsi/,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats_SuperEnum,prov_url,https://datacommons.org/,200,OK,No
+dc/base/NCES_SchoolDistrictStats_SuperEnum,dataset.url,https://nces.ed.gov/ccd/elsi/,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats_SuperEnum,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCHS_BRFSS_Asthma,prov_url,https://www.cdc.gov/asthma/brfss/default.htm,200,OK,No
+dc/base/NCHS_BRFSS_Asthma,sourceDataUrl,https://www.cdc.gov/asthma/brfss/default.htm,200,OK,No
+dc/base/NCHS_BRFSS_Asthma,dataset.url,https://app.powerbigov.us/view?r=eyJrIjoiZmZmOWU2N2ItYzllZi00N2I4LWE1NGItYWMxNmU3MTJmYmY4IiwidCI6IjljZTcwODY5LTYwZGItNDRmZC1hYmU4LWQyNzY3MDc3ZmM4ZiJ9,200,OK,No
+dc/base/NCHS_BRFSS_Asthma,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/NCSES_Demographics_SEH_Import,prov_url,https://ncses.nsf.gov/pubs/nsf25316,200,OK,No
+dc/base/NCSES_Demographics_SEH_Import,sourceDataUrl,https://ncses.nsf.gov/pubs/nsf25316,200,OK,No
+dc/base/NCSES_Demographics_SEH_Import,dataset.url,https://ncses.nsf.gov/,200,OK,No
+dc/base/NCSES_Demographics_SEH_Import,dataset.source.url,https://www.nsf.gov/,200,OK,No
+dc/base/NCSES_DoctorateDegreeEmployment,prov_url,https://ncses.nsf.gov/pubs/nsf19304/data,200,OK,No
+dc/base/NCSES_DoctorateDegreeEmployment,sourceDataUrl,https://ncses.nsf.gov/pubs/nsf19304/data,200,OK,No
+dc/base/NCSES_DoctorateDegreeEmployment,dataset.url,https://ncses.nsf.gov/,200,OK,No
+dc/base/NCSES_DoctorateDegreeEmployment,dataset.source.url,https://www.nsf.gov/,200,OK,No
+dc/base/NCSES_Employed_College_Grads_Import,prov_url,https://ncsesdata.nsf.gov/explorer/datatables?term=race&exactMatch=no&page=1&filterSuperTopic=Demographics&filterTopic=Sex&datatablespage=2,200,OK,No
+dc/base/NCSES_Employed_College_Grads_Import,sourceDataUrl,https://ncsesdata.nsf.gov/explorer/datatables/?term=race&exactMatch=no&page=1&filterSuperTopic=Demographics&filterTopic=Sex&datatablespage=2%22,200,OK,No
+dc/base/NCSES_Employed_College_Grads_Import,dataset.url,https://ncses.nsf.gov/,200,OK,No
+dc/base/NCSES_Employed_College_Grads_Import,dataset.source.url,https://www.nsf.gov/,200,OK,No
+dc/base/NCSES_Median_Annual_Salary_Import,prov_url,https://ncses.nsf.gov/pubs/nsf23306#section13069,200,OK,No
+dc/base/NCSES_Median_Annual_Salary_Import,sourceDataUrl,https://ncses.nsf.gov/pubs/nsf23306#section13069,200,OK,No
+dc/base/NCSES_Median_Annual_Salary_Import,dataset.url,https://ncses.nsf.gov/,200,OK,No
+dc/base/NCSES_Median_Annual_Salary_Import,dataset.source.url,https://www.nsf.gov/,200,OK,No
+dc/base/NCSES_Research_Doctorate_Recipients_Import,prov_url,https://ncses.nsf.gov/pubs/nsf23300/data-tables,200,OK,No
+dc/base/NCSES_Research_Doctorate_Recipients_Import,sourceDataUrl,https://ncses.nsf.gov/pubs/nsf23300/data-tables,200,OK,No
+dc/base/NCSES_Research_Doctorate_Recipients_Import,dataset.url,https://ncses.nsf.gov/,200,OK,No
+dc/base/NCSES_Research_Doctorate_Recipients_Import,dataset.source.url,https://www.nsf.gov/,200,OK,No
+dc/base/NITIIndiaPopulationProjection,prov_url,"https://ndap.niti.gov.in/dataset/7208, https://ndap.niti.gov.in/dataset/7209",0,"URL can't contain control characters. '/dataset/7208, https://ndap.niti.gov.in/dataset/7209' (found at least ' ')",No
+dc/base/NITIIndiaPopulationProjection,sourceDataUrl,"https://ndap.niti.gov.in/dataset/7208, https://ndap.niti.gov.in/dataset/7209",0,"URL can't contain control characters. '/dataset/7208, https://ndap.niti.gov.in/dataset/7209' (found at least ' ')",No
+dc/base/NITIIndiaPopulationProjection,dataset.url,"https://ndap.niti.gov.in/dataset/7208, https://ndap.niti.gov.in/dataset/7209",0,"URL can't contain control characters. '/dataset/7208, https://ndap.niti.gov.in/dataset/7209' (found at least ' ')",No
+dc/base/NITIIndiaPopulationProjection,dataset.source.url,https://niti.gov.in/,200,OK,No
+dc/base/NOAA_CoastWatch_SeaSurfaceSalinity,prov_url,https://coastwatch.noaa.gov/erddap/griddap/noaacwSMAPsss3Daily.html,404,HTTP Error 404,Yes
+dc/base/NOAA_CoastWatch_SeaSurfaceSalinity,dataset.url,https://coastwatch.noaa.gov/cwn/index.html,200,OK,No
+dc/base/NOAA_CoastWatch_SeaSurfaceSalinity,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_CoastWatch_SeaSurfaceTemperature,prov_url,https://coastwatch.noaa.gov/erddap/griddap/noaacwBLENDEDsstDaily.html,200,OK,No
+dc/base/NOAA_CoastWatch_SeaSurfaceTemperature,dataset.url,https://coastwatch.noaa.gov/cwn/index.html,200,OK,No
+dc/base/NOAA_CoastWatch_SeaSurfaceTemperature,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_EPA_Observed_Historical_Weather,prov_url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_EPA_Observed_Historical_Weather,dataset.url,https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily,200,OK,No
+dc/base/NOAA_EPA_Observed_Historical_Weather,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_GFS_WeatherForecast,prov_url,https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast,200,OK,No
+dc/base/NOAA_GFS_WeatherForecast,dataset.url,https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast,200,OK,No
+dc/base/NOAA_GFS_WeatherForecast,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex,prov_url,https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex,sourceDataUrl,https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson/,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex,dataset.url,https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_AggPlace,prov_url,https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_AggPlace,sourceDataUrl,https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_AggPlace,dataset.url,https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_AggPlace,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Observations,prov_url,https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Observations,sourceDataUrl,https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Observations,dataset.url,https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Observations,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Places,prov_url,https://www.drought.gov/data-maps-tools/global-precipitation-climatology-centre-gpcc-standardized-precipitation-index-spi,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Places,sourceDataUrl,https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson/,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Places,dataset.url,https://www.ncei.noaa.gov/pub/data/nidis/gpcc/spi-pearson,200,OK,No
+dc/base/NOAA_GPCC_StandardardizedPrecipitationIndex_Event_Places,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NOAA_GlobalForecastSystem,prov_url,https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/,200,OK,No
+dc/base/NOAA_GlobalForecastSystem,sourceDataUrl,https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/,200,OK,No
+dc/base/NOAA_GlobalForecastSystem,dataset.url,https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast,200,OK,No
+dc/base/NOAA_GlobalForecastSystem,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/NYT_COVID19,prov_url,https://www.nytimes.com/article/coronavirus-county-data-us.html,403,HTTP Error 403,No
+dc/base/NYT_COVID19,sourceDataUrl,https://github.com/nytimes/covid-19-data/,200,OK,No
+dc/base/NYT_COVID19,dataset.url,https://github.com/nytimes/covid-19-data/,200,OK,No
+dc/base/NYT_COVID19,dataset.source.url,https://www.nytimes.com/,200,OK,No
+dc/base/NYU_Tennessee_Diabetes,prov_url,https://www.tn.gov/health/health-program-areas/statistics/health-data/death-statistics.html,0,URL Error [Errno 104] Connection reset by peer,No
+dc/base/NYU_Tennessee_Diabetes,sourceDataUrl,https://www.tn.gov/health/health-program-areas/statistics/health-data/death-statistics.html,0,URL Error [Errno 104] Connection reset by peer,No
+dc/base/NYU_Tennessee_Diabetes,dataset.url,https://www.tn.gov/health/health-program-areas/statistics/health-data/death-statistics.html,0,URL Error [Errno 104] Connection reset by peer,No
+dc/base/NYU_Tennessee_Diabetes,dataset.source.url,https://www.tn.gov/health/,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/NewYorkUniversity_Diabetes,prov_url,https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/,200,OK,No
+dc/base/NewYorkUniversity_Diabetes,sourceDataUrl,https://www.health.ny.gov/,200,OK,No
+dc/base/NewYorkUniversity_Diabetes,dataset.url,https://www.health.ny.gov/statistics/prevention/injury_prevention/information_for_action/,200,OK,No
+dc/base/NewYorkUniversity_Diabetes,dataset.source.url,https://www.health.ny.gov/,200,OK,No
+dc/base/NewYork_Education,prov_url,https://data.cityofnewyork.us/browse?category=Education,200,OK,No
+dc/base/NewYork_Education,sourceDataUrl,https://data.cityofnewyork.us/browse?category=Education,200,OK,No
+dc/base/NewYork_Education,dataset.url,https://data.cityofnewyork.us/browse?category=Education,200,OK,No
+dc/base/NewYork_Education,dataset.source.url,https://data.cityofnewyork.us,200,OK,No
+dc/base/New_Zealand_Census,prov_url,https://www.stats.govt.nz/,200,OK,No
+dc/base/New_Zealand_Census,sourceDataUrl,https://www.stats.govt.nz/large-datasets/csv-files-for-download/,200,OK,No
+dc/base/New_Zealand_Census,dataset.url,https://www.stats.govt.nz/topics/population,200,OK,No
+dc/base/New_Zealand_Census,dataset.source.url,https://www.stats.govt.nz/,200,OK,No
+dc/base/NigeriaStatistics,prov_url,https://nigeria.opendataforafrica.org,403,HTTP Error 403,No
+dc/base/NigeriaStatistics,sourceDataUrl,https://nigeria.opendataforafrica.org,403,HTTP Error 403,No
+dc/base/NigeriaStatistics,dataset.url,https://nigeria.opendataforafrica.org,403,HTTP Error 403,No
+dc/base/NigeriaStatistics,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/OECDQuarterlyGDP,prov_url,https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23&fs[1]=Topic%2C3%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23%7CGDP%20and%20non-financial%20accounts%23ECO_NAD_GNF%23%7CGDP%20and%20components%23ECO_NAD_GNF_GDP%23&pg=0&fc=Topic&snb=22&vw=ov&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_NAMAIN1%40DF_QNA_EXPENDITURE_GROWTH_OECD&df[ag]=OECD.SDD.NAD&df[vs]=&dq=Q.....B1GQ......G1.&to[TIME_PERIOD]=false&ly[cl]=TIME_PERIOD&ly[rw]=REF_AREA&lb=bt&pd=%2C,200,OK,No
+dc/base/OECDQuarterlyGDP,sourceDataUrl,"https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA_EXPENDITURE_GROWTH_OECD,/Q.....B1GQ......G1.?dimensionAtObservation=AllDimensions",200,OK,No
+dc/base/OECDQuarterlyGDP,dataset.url,https://data-explorer.oecd.org/?fs[0]=Topic%2C1%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23&fs[1]=Topic%2C3%7CEconomy%23ECO%23%7CNational%20accounts%23ECO_NAD%23%7CGDP%20and%20non-financial%20accounts%23ECO_NAD_GNF%23%7CGDP%20and%20components%23ECO_NAD_GNF_GDP%23&pg=0&fc=Topic&snb=21,200,OK,No
+dc/base/OECDQuarterlyGDP,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECDRegionalDemography_Deaths,prov_url,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DEATH_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&pd=%2C,200,OK,No
+dc/base/OECDRegionalDemography_Deaths,sourceDataUrl,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DEATH_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&pd=%2C,200,OK,No
+dc/base/OECDRegionalDemography_Deaths,dataset.url,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DEATH_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&pd=%2C,200,OK,No
+dc/base/OECDRegionalDemography_Deaths,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECDRegionalDemography_LifeExpectancy,prov_url,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_LIFE_EXP&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb,200,OK,No
+dc/base/OECDRegionalDemography_LifeExpectancy,sourceDataUrl,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_LIFE_EXP&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb,200,OK,No
+dc/base/OECDRegionalDemography_LifeExpectancy,dataset.url,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_LIFE_EXP&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb,200,OK,No
+dc/base/OECDRegionalDemography_LifeExpectancy,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECDRegionalDemography_Mortality,prov_url,https://stats.oecd.org/Index.aspx?DataSetCode=REGION_DEMOGR#,200,OK,No
+dc/base/OECDRegionalDemography_Mortality,sourceDataUrl,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_LIFE_EXP&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb,200,OK,No
+dc/base/OECDRegionalDemography_Mortality,dataset.url,https://stats.oecd.org/Index.aspx?DataSetCode=REGION_DEMOGR#,200,OK,No
+dc/base/OECDRegionalDemography_Mortality,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECDRegionalDemography_Person_Age_StatVarAgg,prov_url,https://datacommons.org/,200,OK,No
+dc/base/OECDRegionalDemography_Person_Age_StatVarAgg,sourceDataUrl,https://data-explorer.oecd.org/?pg=0&snb=23,200,OK,No
+dc/base/OECDRegionalDemography_Person_Age_StatVarAgg,dataset.url,https://stats.oecd.org/Index.aspx?DataSetCode=REGION_DEMOGR#,200,OK,No
+dc/base/OECDRegionalDemography_Person_Age_StatVarAgg,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECDRegionalDemography_Population,prov_url,https://data-explorer.oecd.org/vis?fs[0]=Topic%2C0%7CRegional%252C%20rural%20and%20urban%20development%23GEO%23&pg=40&fc=Topic&bp=true&snb=117&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_POP_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&vw=tb&pd=%2C,200,OK,No
+dc/base/OECDRegionalDemography_Population,sourceDataUrl,https://data-explorer.oecd.org/vis?fs[0]=Topic%2C0%7CRegional%252C%20rural%20and%20urban%20development%23GEO%23&pg=40&fc=Topic&bp=true&snb=117&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_POP_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&vw=tb&pd=%2C,200,OK,No
+dc/base/OECDRegionalDemography_Population,dataset.url,https://data-explorer.oecd.org/vis?fs[0]=Topic%2C0%7CRegional%252C%20rural%20and%20urban%20development%23GEO%23&pg=40&fc=Topic&bp=true&snb=117&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_POP_5Y&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&to[TIME_PERIOD]=false&vw=tb&pd=%2C,200,OK,No
+dc/base/OECDRegionalDemography_Population,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECDRegionalDemography_PopulationDensity,prov_url,https://data-explorer.oecd.org/vis?pg=0&snb=1&tm=pop%20density&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DENSITY&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb,200,OK,No
+dc/base/OECDRegionalDemography_PopulationDensity,sourceDataUrl,https://data-explorer.oecd.org/vis?pg=0&snb=1&tm=pop%20density&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DENSITY&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb,200,OK,No
+dc/base/OECDRegionalDemography_PopulationDensity,dataset.url,https://data-explorer.oecd.org/vis?pg=0&snb=1&tm=pop%20density&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_REG_DEMO%40DF_DENSITY&df[ag]=OECD.CFE.EDS&df[vs]=2.0&dq=A.......&pd=%2C&to[TIME_PERIOD]=false&vw=tb,200,OK,No
+dc/base/OECDRegionalDemography_PopulationDensity,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECDRegionalEducation,prov_url,https://stats.oecd.org/Index.aspx?DataSetCode=REGION_EDUCAT,200,OK,No
+dc/base/OECDRegionalEducation,sourceDataUrl,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_EDU%40DF_ATTAIN&df[ag]=OECD.CFE.EDS&dq=A..AUS%2BAU1%2BAU2%2BAU3%2BAU4%2BAU5%2BAU6%2BAU7%2BAU8%2BAUT%2BAT11%2BAT12%2BAT13%2BAT21%2BAT22%2BAT31%2BAT32%2BAT33%2BAT34.......&lom=LASTNPERIODS&lo=5&to[TIME_PERIOD]=false,200,OK,No
+dc/base/OECDRegionalEducation,dataset.url,https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_REG_EDU%40DF_ATTAIN&df[ag]=OECD.CFE.EDS,200,OK,No
+dc/base/OECDRegionalEducation,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECD_Air_GHG_emissions,prov_url,https://data.oecd.org/air/air-and-ghg-emissions.htm,403,HTTP Error 403,No
+dc/base/OECD_Air_GHG_emissions,sourceDataUrl,https://data.oecd.org/air/air-and-ghg-emissions.htm,403,HTTP Error 403,No
+dc/base/OECD_Air_GHG_emissions,dataset.url,https://data.oecd.org/air/air-and-ghg-emissions.htm,403,HTTP Error 403,No
+dc/base/OECD_Air_GHG_emissions,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OECD_Waste_Water_Treatment,prov_url,https://www.oecd.org/,403,HTTP Error 403,No
+dc/base/OECD_Waste_Water_Treatment,sourceDataUrl,https://data-explorer.oecd.org/vis?lc=en&tm=DF_WATER_TREAT&pg=0&snb=1&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_WATER_TREAT%40DF_WATER_TREAT&df[ag]=OECD.ENV.EPI&df[vs]=&pd=%2C&dq=.A..&to[TIME_PERIOD]=false,200,OK,No
+dc/base/OECD_Waste_Water_Treatment,dataset.url,https://stats.oecd.org/viewhtml.aspx?datasetcode=WATER_TREAT&lang=en,200,OK,No
+dc/base/OECD_Waste_Water_Treatment,dataset.source.url,https://stats.oecd.org/,200,OK,No
+dc/base/OWID_COVID19,prov_url,https://ourworldindata.org/coronavirus,200,OK,No
+dc/base/OWID_COVID19,sourceDataUrl,https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv,200,OK,No
+dc/base/OWID_COVID19,dataset.url,https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations,200,OK,No
+dc/base/OWID_COVID19,dataset.source.url,https://ourworldindata.org/,200,OK,No
+dc/base/OpportunityInsightsNeighborhoods,prov_url,http://opportunityinsights.org,200,OK,No
+dc/base/OpportunityInsightsNeighborhoods,dataset.url,https://opportunityinsights.org/data/,200,OK,No
+dc/base/OpportunityInsightsNeighborhoods,dataset.source.url,https://opportunityinsights.org/,200,OK,No
+dc/base/OpportunityInsightsOutcomes,prov_url,http://opportunityinsights.org/data,200,OK,No
+dc/base/OpportunityInsightsOutcomes,dataset.url,https://opportunityinsights.org/data/,200,OK,No
+dc/base/OpportunityInsightsOutcomes,dataset.source.url,https://opportunityinsights.org/,200,OK,No
+dc/base/Poland_Census,prov_url,https://stat.gov.pl/en/databases/,200,OK,No
+dc/base/Poland_Census,sourceDataUrl,https://stat.gov.pl/en/databases/,200,OK,No
+dc/base/Poland_Census,dataset.url,https://bdl.stat.gov.pl/bdl/dane/podgrup/temat,200,OK,No
+dc/base/Poland_Census,dataset.source.url,https://bdl.stat.gov.pl/bdl/start,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_EchoLab,prov_url,https://www.stanfordecholab.com/wildfire_smoke,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_EchoLab,dataset.url,https://www.rff.org/publications/data-tools/,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_EchoLab,dataset.source.url,https://www.rff.org/,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_MTBS,prov_url,https://www.mtbs.gov,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_MTBS,dataset.url,https://www.rff.org/publications/data-tools/,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_MTBS,dataset.source.url,https://www.rff.org/,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou,prov_url,https://doi.org/10.5061/dryad.tmpg4f4x1,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou,dataset.url,https://www.rff.org/publications/data-tools/,200,OK,No
+dc/base/RFF_ClimateWildfireSmoke_ParksAbatzoglou,dataset.source.url,https://www.rff.org/,200,OK,No
+dc/base/RandolphGlacierInventory_Area,prov_url,https://www.glims.org/RGI/rgi60_dl.html,200,OK,No
+dc/base/RandolphGlacierInventory_Area,dataset.url,https://www.glims.org/RGI/rgi60_dl.html,200,OK,No
+dc/base/RandolphGlacierInventory_Area,dataset.source.url,https://www.glims.org/,200,OK,No
+dc/base/Rwanda_Census,prov_url,https://rwanda.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Rwanda_Census,sourceDataUrl,https://rwanda.opendataforafrica.org/data/,403,HTTP Error 403,No
+dc/base/Rwanda_Census,dataset.url,https://rwanda.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Rwanda_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Singapore_Census,prov_url,https://www.singstat.gov.sg/,403,HTTP Error 403,No
+dc/base/Singapore_Census,sourceDataUrl,https://tablebuilder.singstat.gov.sg/,200,OK,No
+dc/base/Singapore_Census,dataset.url,https://tablebuilder.singstat.gov.sg/statistical-tables/downloadMultiple/zX5lZdqFrk-29wjZN4FFXw,200,OK,No
+dc/base/Singapore_Census,dataset.source.url,https://www.singstat.gov.sg/,403,HTTP Error 403,No
+dc/base/SouthAfrica_Budget,prov_url,https://github.com/dsfsi/data-commons-data/tree/master/data/budget%20data/csv,200,OK,No
+dc/base/SouthAfrica_Budget,sourceDataUrl,https://github.com/dsfsi/data-commons-data/tree/master/data/budget%20data/csv,200,OK,No
+dc/base/SouthAfrica_Budget,dataset.url,https://github.com/dsfsi/data-commons-data/tree/master/data/budget%20data/csv/,200,OK,No
+dc/base/SouthAfrica_Budget,dataset.source.url,https://github.com/dsfsi/data-commons-data/tree/master/data/budget%20data/csv/,200,OK,No
+dc/base/SouthAfrica_Census,prov_url,https://southafrica.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/SouthAfrica_Census,sourceDataUrl,https://southafrica.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/SouthAfrica_Census,dataset.url,https://southafrica.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/SouthAfrica_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/SouthKorea_Demographics,prov_url,https://kosis.kr/eng/statisticsList/statisticsListIndex.do,200,OK,No
+dc/base/SouthKorea_Demographics,sourceDataUrl,https://kosis.kr/eng/,200,OK,No
+dc/base/SouthKorea_Demographics,dataset.url,https://kosis.kr/eng/statisticsList/statisticsListIndex.do,200,OK,No
+dc/base/SouthKorea_Demographics,dataset.source.url,https://kosis.kr/eng/,200,OK,No
+dc/base/SouthKorea_Education,prov_url,https://kosis.kr/eng/,200,OK,No
+dc/base/SouthKorea_Education,sourceDataUrl,https://kosis.kr/eng/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ETITLE&parmTabId=M_01_01,200,OK,No
+dc/base/SouthKorea_Education,dataset.url,https://kosis.kr/eng/statisticsList/statisticsListIndex.do,200,OK,No
+dc/base/SouthKorea_Education,dataset.source.url,https://kosis.kr/eng/,200,OK,No
+dc/base/SouthKorea_Employment,prov_url,https://kosis.kr/eng/statisticsList/statisticsListIndex.do,200,OK,No
+dc/base/SouthKorea_Employment,sourceDataUrl,https://kosis.kr/eng/,200,OK,No
+dc/base/SouthKorea_Employment,dataset.url,https://kosis.kr/eng/statisticsList/statisticsListIndex.do,200,OK,No
+dc/base/SouthKorea_Employment,dataset.source.url,https://kosis.kr/eng/,200,OK,No
+dc/base/SouthKorea_Health,prov_url,https://kosis.kr/eng/statisticsList/statisticsListIndex.do,200,OK,No
+dc/base/SouthKorea_Health,sourceDataUrl,https://kosis.kr/eng/,200,OK,No
+dc/base/SouthKorea_Health,dataset.url,https://kosis.kr/eng/statisticsList/statisticsListIndex.do,200,OK,No
+dc/base/SouthKorea_Health,dataset.source.url,https://kosis.kr/eng/,200,OK,No
+dc/base/Srilanka_Census,prov_url,https://data.humdata.org/,202,OK,No
+dc/base/Srilanka_Census,dataset.url,https://data.humdata.org/group/lka,202,OK,No
+dc/base/Srilanka_Census,dataset.source.url,https://www.unocha.org/,200,OK,No
+dc/base/StormNOAA_Agg,prov_url,https://www.ncdc.noaa.gov/,200,OK,No
+dc/base/StormNOAA_Agg,sourceDataUrl,https://www.ncdc.noaa.gov/stormevents/ftp.jsp,200,OK,No
+dc/base/StormNOAA_Agg,dataset.url,https://www.ncdc.noaa.gov/stormevents/ftp.jsp,200,OK,No
+dc/base/StormNOAA_Agg,dataset.source.url,https://www.noaa.gov/,200,OK,No
+dc/base/Subnational_Demographics_Stats,prov_url,https://databank.worldbank.org/source/subnational-population,200,OK,No
+dc/base/Subnational_Demographics_Stats,sourceDataUrl,https://databank.worldbank.org/source/subnational-population,200,OK,No
+dc/base/Subnational_Demographics_Stats,dataset.url,https://databank.worldbank.org/source/subnational-population,200,OK,No
+dc/base/Subnational_Demographics_Stats,dataset.source.url,https://www.worldbank.org/en/home,200,OK,No
+dc/base/Sweden_Census,prov_url,https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/,200,OK,No
+dc/base/Sweden_Census,dataset.url,https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/,200,OK,No
+dc/base/Sweden_Census,dataset.source.url,https://www.scb.se/en/,200,OK,No
+dc/base/TemperatureEvents_Agg,prov_url,https://datacommons.org,200,OK,No
+dc/base/TemperatureEvents_Agg,dataset.url,https://datacommons.org/,200,OK,No
+dc/base/TemperatureEvents_Agg,dataset.source.url,https://datacommons.org/,200,OK,No
+dc/base/UAE_Population,prov_url,https://bayanat.ae/en/Data?query=population,0,URL Error timed out,No
+dc/base/UAE_Population,sourceDataUrl,https://admin.bayanat.ae/Dataset/DownloadDatasetResource?fileId=26585eaf-9a9c-486d-b773-fc51ef0204c9&resourceID=11243,0,Remote end closed connection without response,No
+dc/base/UAE_Population,dataset.url,https://admin.bayanat.ae/Dataset/DownloadDatasetResource?fileId=26585eaf-9a9c-486d-b773-fc51ef0204c9&resourceID=11243,0,Remote end closed connection without response,No
+dc/base/UAE_Population,dataset.source.url,https://bayanat.ae/,0,URL Error timed out,No
+dc/base/UNData,prov_url,https://data.un.org/Data.aspx?q=city+population&d=POP&f=tableCode%3a240,200,OK,No
+dc/base/UNData,sourceDataUrl,"https://data.un.org/Handlers/DownloadHandler.ashx?DataFilter=tableCode:240&DataMartId=POP&Format=csv&c=2,3,6,8,10,12,14,16,17,18&s=_countryEnglishNameOrderBy:asc,refYear:desc,areaCode:asc",200,OK,No
+dc/base/UNData,dataset.url,http://data.un.org/,200,OK,No
+dc/base/UNData,dataset.source.url,https://www.un.org/en/,200,OK,No
+dc/base/UNEnergy,prov_url,https://unstats.un.org/unsd/energystats/data/,200,OK,No
+dc/base/UNEnergy,dataset.url,https://unstats.un.org/unsd/energystats/data/,200,OK,No
+dc/base/UNEnergy,dataset.source.url,https://www.un.org/en/,200,OK,No
+dc/base/UN_SDG,prov_url,https://unstats.un.org/sdgs/dataportal,200,OK,No
+dc/base/UN_SDG,dataset.url,https://unstats.un.org/sdgs/dataportal,200,OK,No
+dc/base/UN_SDG,dataset.source.url,https://www.un.org/en/,200,OK,No
+dc/base/UN_WHO,prov_url,https://www.who.int/data,200,OK,No
+dc/base/UN_WHO,dataset.url,https://www.who.int/data,200,OK,No
+dc/base/UN_WHO,dataset.source.url,https://www.who.int/,200,OK,No
+dc/base/USA_DOL_Wages,prov_url,https://www.dol.gov/general/topic/wages,403,HTTP Error 403,No
+dc/base/USA_DOL_Wages,sourceDataUrl,https://www.dol.gov/agencies/whd/state/minimum-wage/history,403,HTTP Error 403,No
+dc/base/USA_DOL_Wages,dataset.url,https://www.dol.gov/agencies/whd/state/minimum-wage/history,403,HTTP Error 403,No
+dc/base/USA_DOL_Wages,dataset.source.url,https://www.dol.gov/,403,HTTP Error 403,No
+dc/base/USBTS_Tract_Household_Transportation,prov_url,https://www.bts.dot.gov/latch/latch-data,403,HTTP Error 403,No
+dc/base/USBTS_Tract_Household_Transportation,sourceDataUrl,https://data.cdc.gov/Environmental-Health-Toxicology/Standardized-Precipitation-Evapotranspiration-Inde/6nbv-ifib/about_data,200,OK,No
+dc/base/USBTS_Tract_Household_Transportation,dataset.url,https://www.bts.dot.gov/latch/latch-data,403,HTTP Error 403,No
+dc/base/USBTS_Tract_Household_Transportation,dataset.source.url,https://www.bts.dot.gov/,403,HTTP Error 403,No
+dc/base/USCensusGeos_SurfaceArea,prov_url,https://www.census.gov/geographies/reference-files.html,200,OK,No
+dc/base/USCensusGeos_SurfaceArea,dataset.url,https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html,200,OK,No
+dc/base/USCensusGeos_SurfaceArea,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_AgeSexRace,prov_url,https://www2.census.gov/programs-surveys/popest/tables,200,OK,No
+dc/base/USCensusPEP_AgeSexRace,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/,200,OK,No
+dc/base/USCensusPEP_AgeSexRace,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_AgeSexRace,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_AgeSexRaceHispanicOrigin,prov_url,https://www2.census.gov/programs-surveys/popest/tables,200,OK,No
+dc/base/USCensusPEP_AgeSexRaceHispanicOrigin,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/,200,OK,No
+dc/base/USCensusPEP_AgeSexRaceHispanicOrigin,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_AgeSexRaceHispanicOrigin,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_Annual_Population,prov_url,https://www.census.gov/programs-surveys/popest.html,200,OK,No
+dc/base/USCensusPEP_Annual_Population,sourceDataUrl,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_Annual_Population,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_Annual_Population,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_By_SexRaceHispanicOrigin,prov_url,https://www.census.gov/programs-surveys/popest.html,200,OK,No
+dc/base/USCensusPEP_By_SexRaceHispanicOrigin,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/,200,OK,No
+dc/base/USCensusPEP_By_SexRaceHispanicOrigin,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_By_SexRaceHispanicOrigin,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_By_Sex_Race,prov_url,https://www.census.gov/programs-surveys/popest.html,200,OK,No
+dc/base/USCensusPEP_By_Sex_Race,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/,200,OK,No
+dc/base/USCensusPEP_By_Sex_Race,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_By_Sex_Race,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_MonthlyPopulation,prov_url,https://www.census.gov/programs-surveys/popest.html,200,OK,No
+dc/base/USCensusPEP_MonthlyPopulation,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/,200,OK,No
+dc/base/USCensusPEP_MonthlyPopulation,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_MonthlyPopulation,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_PopulationEstimatebyRace,prov_url,https://www.census.gov/programs-surveys/popest.html,200,OK,No
+dc/base/USCensusPEP_PopulationEstimatebyRace,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/,200,OK,No
+dc/base/USCensusPEP_PopulationEstimatebyRace,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_PopulationEstimatebyRace,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USCensusPEP_Sex,prov_url,https://www.census.gov/programs-surveys/popest.html,200,OK,No
+dc/base/USCensusPEP_Sex,sourceDataUrl,https://www2.census.gov/programs-surveys/popest/datasets/,200,OK,No
+dc/base/USCensusPEP_Sex,dataset.url,https://www.census.gov/programs-surveys/popest/about.html,200,OK,No
+dc/base/USCensusPEP_Sex,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USDA_AgricultureCensus,prov_url,https://www.nass.usda.gov/AgCensus/,200,OK,No
+dc/base/USDA_AgricultureCensus,sourceDataUrl,https://www.nass.usda.gov/datasets/,200,OK,No
+dc/base/USDA_AgricultureCensus,dataset.url,https://www.nass.usda.gov/AgCensus/,200,OK,No
+dc/base/USDA_AgricultureCensus,dataset.source.url,https://www.usda.gov/,0,The read operation timed out,No
+dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg,prov_url,https://www.nass.usda.gov/AgCensus/,200,OK,No
+dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg,dataset.url,https://www.nass.usda.gov/AgCensus/,200,OK,No
+dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg,dataset.source.url,https://www.usda.gov/,0,The read operation timed out,No
+dc/base/USDA_AgricultureSurvey,prov_url,https://quickstats.nass.usda.gov/,200,OK,No
+dc/base/USDA_AgricultureSurvey,sourceDataUrl,https://quickstats.nass.usda.gov/api/,200,OK,No
+dc/base/USDA_AgricultureSurvey,dataset.url,https://quickstats.nass.usda.gov/,200,OK,No
+dc/base/USDA_AgricultureSurvey,dataset.source.url,https://www.usda.gov/,0,The read operation timed out,No
+dc/base/USDOL_ETA539,prov_url,https://oui.doleta.gov/unemploy/,200,OK,No
+dc/base/USDOL_ETA539,sourceDataUrl,https://oui.doleta.gov/unemploy/csv/ar539.csv,200,OK,No
+dc/base/USDOL_ETA539,dataset.url,https://oui.doleta.gov/unemploy/DataDownloads.asp,200,OK,No
+dc/base/USDOL_ETA539,dataset.source.url,https://www.dol.gov/,403,HTTP Error 403,No
+dc/base/USDecennialCensus_RedistrictingRelease,prov_url,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html,200,OK,No
+dc/base/USDecennialCensus_RedistrictingRelease,dataset.url,https://www.census.gov,200,OK,No
+dc/base/USDecennialCensus_RedistrictingRelease,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USEconomicCensus,prov_url,https://www.census.gov/programs-surveys/economic-census.html,200,OK,No
+dc/base/USEconomicCensus,sourceDataUrl,https://www2.census.gov/programs-surveys/economic-census/data/,200,OK,No
+dc/base/USEconomicCensus,dataset.url,https://www.census.gov/programs-surveys/economic-census/about.html,200,OK,No
+dc/base/USEconomicCensus,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USFEMA_FloodInsuranceClaims,prov_url,https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2,403,HTTP Error 403,No
+dc/base/USFEMA_FloodInsuranceClaims,sourceDataUrl,https://www.fema.gov/about/reports-and-data/openfema/v2/FimaNfipClaimsV2.csv,403,HTTP Error 403,No
+dc/base/USFEMA_FloodInsuranceClaims,dataset.url,https://www.fema.gov/flood-insurance,403,HTTP Error 403,No
+dc/base/USFEMA_FloodInsuranceClaims,dataset.source.url,https://www.fema.gov/,403,HTTP Error 403,No
+dc/base/USFEMA_NationalRiskIndex,prov_url,https://hazards.fema.gov/nri/,0,URL Error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010),No
+dc/base/USFEMA_NationalRiskIndex,dataset.url,https://hazards.fema.gov/nri/,0,URL Error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010),No
+dc/base/USFEMA_NationalRiskIndex,dataset.source.url,https://www.fema.gov/,403,HTTP Error 403,No
+dc/base/USFed_ConstantMaturityRates,prov_url,https://www.federalreserve.gov/releases/h15/,200,OK,No
+dc/base/USFed_ConstantMaturityRates,sourceDataUrl,https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15,200,OK,No
+dc/base/USFed_ConstantMaturityRates,dataset.url,https://www.federalreserve.gov/releases/h15/default.htm,200,OK,No
+dc/base/USFed_ConstantMaturityRates,dataset.source.url,https://www.federalreserve.gov/,200,OK,No
+dc/base/USGSWaterUse,prov_url,https://waterdata.usgs.gov/nwis/wu,200,OK,No
+dc/base/USGSWaterUse,dataset.url,https://waterdata.usgs.gov/nwis/wu,200,OK,No
+dc/base/USGSWaterUse,dataset.source.url,https://www.usgs.gov/,405,HTTP Error 405,No
+dc/base/USMonthlyRetailSales,prov_url,https://www.census.gov/retail/index.html,200,OK,No
+dc/base/USMonthlyRetailSales,sourceDataUrl,https://www.census.gov/retail/mrts/www/mrtssales92-present.xlsx,200,OK,No
+dc/base/USMonthlyRetailSales,dataset.url,https://www.census.gov/retail/index.html,200,OK,No
+dc/base/USMonthlyRetailSales,dataset.source.url,https://www.census.gov/,200,OK,No
+dc/base/USNationalPrisonerStatistics,prov_url,https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269,200,OK,No
+dc/base/USNationalPrisonerStatistics,sourceDataUrl,https://www.icpsr.umich.edu/web/NACJD/studies/38871,200,OK,No
+dc/base/USNationalPrisonerStatistics,dataset.url,https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps-program,200,OK,No
+dc/base/USNationalPrisonerStatistics,dataset.source.url,https://bjs.ojp.gov/,200,OK,No
+dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg,prov_url,https://www.bjs.gov/index.cfm?ty=dcdetail&iid=269,200,OK,No
+dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg,sourceDataUrl,https://www.icpsr.umich.edu/web/NACJD/studies/38871,200,OK,No
+dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg,dataset.url,https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps-program,200,OK,No
+dc/base/USNationalPrisonerStatistics_Crime_StatVarAgg,dataset.source.url,https://bjs.ojp.gov/,200,OK,No
+dc/base/US_CCD_Enrollment,prov_url,https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp,0,URL Error timed out,No
+dc/base/US_CCD_Enrollment,sourceDataUrl,https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp,0,URL Error timed out,No
+dc/base/US_CCD_Enrollment,dataset.url,https://nces.ed.gov/programs/digest/d24/tables/dt24_203.65.asp,0,URL Error timed out,No
+dc/base/US_CCD_Enrollment,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/US_CDC_PRAMS,prov_url,https://www.cdc.gov/prams/prams-data/,403,HTTP Error 403,No
+dc/base/US_CDC_PRAMS,dataset.url,https://www.cdc.gov/prams/php/data-research/index.html,200,OK,No
+dc/base/US_CDC_PRAMS,dataset.source.url,https://www.cdc.gov/,200,OK,No
+dc/base/US_CPI,prov_url,https://www.bls.gov/cpi/,403,HTTP Error 403,No
+dc/base/US_CPI,sourceDataUrl,https://www.bls.gov/cpi/tables/supplemental-files/,403,HTTP Error 403,No
+dc/base/US_CPI,dataset.url,https://www.bls.gov/cpi,403,HTTP Error 403,No
+dc/base/US_CPI,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/US_Federal_Rates,prov_url,https://www.federalreserve.gov/DataDownload/Choose.aspx?rel=H15,200,OK,No
+dc/base/US_Federal_Rates,dataset.url,https://www.federalreserve.gov/DataDownload/Choose.aspx?rel=H15,200,OK,No
+dc/base/US_Federal_Rates,dataset.source.url,https://www.federalreserve.gov/,200,OK,No
+dc/base/US_ITA_Economic_Activity,prov_url,https://www.trade.gov/report/tradestats-express-national-and-state-trade-data?anchor=content-tradestats-express---national-1,200,OK,No
+dc/base/US_ITA_Economic_Activity,sourceDataUrl,https://www.trade.gov/data-visualization/tradestats-express-us-trade-product,200,OK,No
+dc/base/US_ITA_Economic_Activity,dataset.url,https://data.commerce.gov/,403,HTTP Error 403,No
+dc/base/US_ITA_Economic_Activity,dataset.source.url,https://data.commerce.gov/,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation,prov_url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation_state,prov_url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation_state,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation_state,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation_state,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_Texas_Diabetes,prov_url,https://healthdata.dshs.texas.gov/dashboard/births-and-deaths/deaths,403,HTTP Error 403,No
+dc/base/US_Texas_Diabetes,sourceDataUrl,https://healthdata.dshs.texas.gov/dashboard/births-and-deaths/deaths,403,HTTP Error 403,No
+dc/base/US_Texas_Diabetes,dataset.url,https://healthdata.dshs.texas.gov/dashboard/births-and-deaths/deaths,403,HTTP Error 403,No
+dc/base/US_Texas_Diabetes,dataset.source.url,https://healthdata.dshs.texas.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanEducation_School,prov_url,https://educationdata.urban.org/documentation/schools.html,403,HTTP Error 403,No
+dc/base/US_UrbanEducation_School,sourceDataUrl,https://educationdata.urban.org/documentation,403,HTTP Error 403,No
+dc/base/US_UrbanEducation_School,dataset.url,https://educationdata.urban.org/documentation/schools.html,403,HTTP Error 403,No
+dc/base/US_UrbanEducation_School,dataset.source.url,https://www.urban.org/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Covid_Directional_Indicators,prov_url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Covid_Directional_Indicators,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Covid_Directional_Indicators,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Covid_Directional_Indicators,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Enrollment,prov_url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Enrollment,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Enrollment,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Enrollment,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Finances,prov_url,https://ocrdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Finances,sourceDataUrl,https://ocrdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Finances,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Finances,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Retention,prov_url,https://ocrdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Retention,sourceDataUrl,https://ocrdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Retention,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Retention,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_Urban_MathsAndScience_Course_Enrollment,prov_url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_Urban_MathsAndScience_Course_Enrollment,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_Urban_MathsAndScience_Course_Enrollment,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_Urban_MathsAndScience_Course_Enrollment,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_Urban_Schools_Teachers_And_Staff,prov_url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_Urban_Schools_Teachers_And_Staff,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_Urban_Schools_Teachers_And_Staff,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/US_Urban_Schools_Teachers_And_Staff,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/Uganda_Census,prov_url,https://uganda.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Uganda_Census,dataset.url,https://uganda.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Uganda_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/UnitedKingdomMHCLG_IMD2019,prov_url,https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019,200,OK,No
+dc/base/UnitedKingdomMHCLG_IMD2019,dataset.url,https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019/,200,OK,No
+dc/base/UnitedKingdomMHCLG_IMD2019,dataset.source.url,https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government,200,OK,No
+dc/base/UniversityData,prov_url,https://collegescorecard.ed.gov,403,HTTP Error 403,No
+dc/base/UniversityData,dataset.url,https://collegescorecard.ed.gov/data,403,HTTP Error 403,No
+dc/base/UniversityData,dataset.source.url,https://www.ed.gov/,200,OK,No
+dc/base/Vietnam_Census,prov_url,https://www.gso.gov.vn/en/homepage/,0,URL Error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010),No
+dc/base/Vietnam_Census,dataset.url,https://www.gso.gov.vn/en/px-web/?pxid=E0201&theme=Population%20and%20Employment,0,URL Error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010),No
+dc/base/Vietnam_Census,dataset.source.url,https://www.gso.gov.vn/en/homepage/,0,URL Error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010),No
+dc/base/WHO_COVID19,prov_url,https://data.who.int/dashboards/covid19/data?n=c,200,OK,No
+dc/base/WHO_COVID19,sourceDataUrl,https://data.who.int/dashboards/covid19/cases?n=c,200,OK,No
+dc/base/WHO_COVID19,dataset.url,https://data.who.int/dashboards/covid19/,200,OK,No
+dc/base/WHO_COVID19,dataset.source.url,https://www.who.int/,200,OK,No
+dc/base/WHO_TuberculosisAndHIVTreatmentOutcome,prov_url,https://data.who.int/indicators/i/DCDC2EB/625E736,200,OK,No
+dc/base/WHO_TuberculosisAndHIVTreatmentOutcome,sourceDataUrl,https://data.who.int/indicators/i/DCDC2EB/625E736,200,OK,No
+dc/base/WHO_TuberculosisAndHIVTreatmentOutcome,dataset.url,https://data.who.int/indicators/i/DCDC2EB/625E736,200,OK,No
+dc/base/WHO_TuberculosisAndHIVTreatmentOutcome,dataset.source.url,https://www.who.int/,200,OK,No
+dc/base/WHO_TuberculosisBacteriologicallyConfirmed,prov_url,https://data.who.int/indicators/i/1891124/5D51DB1,200,OK,No
+dc/base/WHO_TuberculosisBacteriologicallyConfirmed,sourceDataUrl,https://data.who.int/indicators/i/1891124/5D51DB1,200,OK,No
+dc/base/WHO_TuberculosisBacteriologicallyConfirmed,dataset.url,https://data.who.int/indicators/i/1891124/5D51DB1,200,OK,No
+dc/base/WHO_TuberculosisBacteriologicallyConfirmed,dataset.source.url,https://www.who.int/,200,OK,No
+dc/base/WRIS_India_Rainfall,prov_url,https://indiawris.gov.in/wris/#/DataDownload,0,URL Error timed out,No
+dc/base/WRIS_India_Rainfall,dataset.url,https://indiawris.gov.in/wris/#/DataDownload,0,URL Error timed out,No
+dc/base/WRIS_India_Rainfall,dataset.source.url,https://indiawris.gov.in/wris/#/,0,URL Error timed out,No
+dc/base/WetBulbTemperatureEventPlaces_AutoRefresh,prov_url,https://datacommons.org/,200,OK,No
+dc/base/WetBulbTemperatureEventPlaces_AutoRefresh,dataset.url,https://datacommons.org/,200,OK,No
+dc/base/WetBulbTemperatureEventPlaces_AutoRefresh,dataset.source.url,https://datacommons.org/,200,OK,No
+dc/base/WikidataPopulation,prov_url,https://www.wikidata.org/wiki/Wikidata:Main_Page,200,OK,No
+dc/base/WikidataPopulation,dataset.url,https://www.wikidata.org/wiki/Wikidata:Main_Page,200,OK,No
+dc/base/WikidataPopulation,dataset.source.url,https://wikimediafoundation.org/,200,OK,No
+dc/base/WikipediaStatsData,prov_url,https://www.wikipedia.org,200,OK,No
+dc/base/WorldBankDatasets,prov_url,https://databank.worldbank.org/source/world-development-indicators,200,OK,No
+dc/base/WorldBankDatasets,sourceDataUrl,https://api.worldbank.org/v2/en/indicator/<indicatorcode>?downloadformat=csv,400,HTTP Error 400,No
+dc/base/WorldBankDatasets,dataset.url,https://data.worldbank.org,200,OK,No
+dc/base/WorldBankDatasets,dataset.source.url,https://www.worldbank.org/en/home,200,OK,No
+dc/base/WorldBank_CommodityMarket,prov_url, https://www.worldbank.org/en/research/commodity-markets,200,OK,No
+dc/base/WorldBank_CommodityMarket,sourceDataUrl,https://thedocs.worldbank.org/en/doc/18675f1d1639c7a34d463f59263ba0a2-0050012025/related/CMO-Historical-Data-Annual.xlsx,200,OK,No
+dc/base/WorldBank_CommodityMarket,dataset.url,https://data.worldbank.org,200,OK,No
+dc/base/WorldBank_CommodityMarket,dataset.source.url,https://www.worldbank.org/en/home,200,OK,No
+dc/base/WorldBank_IDS,prov_url,https://databank.worldbank.org/source/international-debt-statistics,200,OK,No
+dc/base/WorldBank_IDS,sourceDataUrl,https://databank.worldbank.org/source/international-debt-statistics,200,OK,No
+dc/base/WorldBank_IDS,dataset.url,https://databank.worldbank.org/source/international-debt-statistics,200,OK,No
+dc/base/WorldBank_IDS,dataset.source.url,https://www.worldbank.org/en/home,200,OK,No
+dc/base/WorldDevelopmentIndicators,prov_url,https://datatopics.worldbank.org/world-development-indicators/,200,OK,No
+dc/base/WorldDevelopmentIndicators,sourceDataUrl,http://api.worldbank.org/v2/en/country/AFG?downloadformat=csv,200,OK,No
+dc/base/WorldDevelopmentIndicators,dataset.url,https://datacatalog.worldbank.org/search/dataset/003771,404,HTTP Error 404,Yes
+dc/base/WorldDevelopmentIndicators,dataset.source.url,https://www.worldbank.org/en/home,200,OK,No
+dc/base/Zurich_Population,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3240_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/Zurich_Population_By_Age,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3903_age10_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population_By_Age,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_By_Age,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_By_Age,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/Zurich_Population_By_Origin,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3903_hel_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population_By_Origin,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_By_Origin,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_By_Origin,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/Zurich_Population_By_Sex,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_3903_sex_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population_By_Sex,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_By_Sex,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_By_Sex,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_4031_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population_Number_Of_Birth,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth_By_Origin,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_4031_hel_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population_Number_Of_Birth_By_Origin,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth_By_Origin,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth_By_Origin,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth_By_Sex,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/bev_4031_sex_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population_Number_Of_Birth_By_Sex,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth_By_Sex,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Birth_By_Sex,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/Zurich_Population_Number_Of_Company_Workplace_Employees,prov_url,https://www.stadt-zuerich.ch/content/dam/web/de/politik-verwaltung/statistik-und-daten/linked-open-data/datacommons/wir_2552_wiki.csv,404,HTTP Error 404,Yes
+dc/base/Zurich_Population_Number_Of_Company_Workplace_Employees,sourceDataUrl,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Company_Workplace_Employees,dataset.url,https://data.stadt-zuerich.ch/,200,OK,No
+dc/base/Zurich_Population_Number_Of_Company_Workplace_Employees,dataset.source.url,https://data.stadt-zuerich.ch//,200,OK,No
+dc/base/crdc_instructional_wifi_devices,prov_url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/crdc_instructional_wifi_devices,sourceDataUrl,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/crdc_instructional_wifi_devices,dataset.url,https://civilrightsdata.ed.gov/data,403,HTTP Error 403,No
+dc/base/crdc_instructional_wifi_devices,dataset.source.url,https://civilrightsdata.ed.gov/,403,HTTP Error 403,No
+dc/base/usa_child_birth,prov_url,https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm,200,OK,No
+dc/base/usa_child_birth,sourceDataUrl,https://data.cdc.gov/api/views/hmz2-vwda/rows.csv?accessType=DOWNLOAD,200,OK,No
+dc/base/usa_child_birth,dataset.url,https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.html,404,HTTP Error 404,Yes
+dc/base/usa_child_birth,dataset.source.url,https://www.cdc.gov/,200,OK,No

@@ -1,0 +1,17 @@
+import: {
+  import_name: "EPA_Superfund_SiteContamination"
+  #import_groups: "infrequent"
+  import_groups: "experimental"
+  provenance_url: "https://www.epa.gov/superfund/superfund-data-and-reports"
+  category: STATS
+  provenance_description: "This import uses the Contaminant of Concern Data by Media, FYs 1982-2017 dataset published by the EPA for all superfund sites on the National Priority List (NPL). (?) All the StatVarObservations are of type measurementResult."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/us_epa/superfund/superfund_sites_contamination/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/superfund_sites_contamination/superfund_sites_contamination.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/us_epa/superfund/superfund_sites_contamination/superfund_sites_contamination.csv"
+  }
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Superfund Sites"
+}

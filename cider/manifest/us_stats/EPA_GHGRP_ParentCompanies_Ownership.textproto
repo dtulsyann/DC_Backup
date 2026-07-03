@@ -1,0 +1,16 @@
+import: {
+
+  import_name: "EPA_GHGRP_ParentCompanies_Ownership"
+  provenance_url: "https://www.epa.gov/ghgreporting"
+  data_download_url: "https://enviro.epa.gov/enviro/ef_metadata_html.ef_metadata_table?p_table_name=V_PARENT_COMPANY_INFO"
+  import_groups: "infrequent"
+  resolution_info: { uses_id_resolver: true }
+  category: STATS
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/epa/parent_company/ownership/ownership_nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/epa/parent_company/ownership/EpaParentCompanyOwnership.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/epa/parent_company/ownership/EpaParentCompanyOwnership.csv"
+  }
+  provenance_description: "EPA facilities reporting data as part of the Greenhouse Gas Reporting Program (GHGRP)."
+  dataset_name: "Greenhouse Gas Reporting Program"
+}

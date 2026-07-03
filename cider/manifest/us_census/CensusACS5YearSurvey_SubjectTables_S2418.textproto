@@ -1,0 +1,15 @@
+import: {
+  import_name: "CensusACS5YearSurvey_SubjectTables_S2418"
+  category: STATS
+  provenance_url: "https://data.census.gov/cedsci/table?q=S2418&tid=ACSST5Y2024.S2418"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/census/acs5yr/subject_tables/s2418/20260317/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s2418/20260317/S2418_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/census/acs5yr/subject_tables/s2418/20260317/S2418_cleaned.csv"
+  }
+  import_groups: "uscensus"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2024"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "American Community Survey (ACS)"
+}

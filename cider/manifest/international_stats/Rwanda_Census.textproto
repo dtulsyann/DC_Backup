@@ -1,0 +1,14 @@
+import {
+  import_name: "Rwanda_Census"
+  provenance_url: "https://rwanda.opendataforafrica.org/"
+  category: STATS
+  provenance_description: "Rwanda demographics, education and employment data from Rwanda data portal."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/rwanda/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/rwanda/RWA-ztaoyl.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/rwanda/*.csv"
+  }
+  import_groups: "country"
+  release_frequency: "P1Y"
+  dataset_name: "Rwanda Census"
+}

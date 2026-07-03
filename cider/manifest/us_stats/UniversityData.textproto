@@ -1,0 +1,11 @@
+import: {
+  import_name: "UniversityData"
+  provenance_url: "https://collegescorecard.ed.gov"
+  category: STATS
+  provenance_description: "Data on US higher education institutions, including costs, graduation rates, and student demographics from the College Scorecard."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/university/USColleges.mcf"
+  import_groups: "infrequent"
+  import_groups: "place"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "College Scorecard"
+}

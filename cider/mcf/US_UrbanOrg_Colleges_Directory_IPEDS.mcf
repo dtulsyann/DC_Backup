@@ -1,0 +1,6 @@
+Node: dcid:dc/base/US_UrbanOrg_Colleges_Directory_IPEDS
+typeOf: dcs:Provenance
+license: "https://educationdata.urban.org/documentation/index.html#terms"
+licenseType: dcid:OpenDataCommonsAttributionLicense
+sourceDataUrl : "https://educationdata.urban.org/documentation/colleges.html"
+lastDataRefreshDate: "2025-12-15"

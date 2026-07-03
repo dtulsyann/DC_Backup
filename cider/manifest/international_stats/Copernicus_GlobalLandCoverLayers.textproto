@@ -1,0 +1,17 @@
+import {
+  # Note: At present, this import only includes US states and counties.
+  import_name: "Copernicus_GlobalLandCoverLayers"
+  provenance_url: "https://land.copernicus.eu/global/lcviewer"
+  category: STATS
+  provenance_description: "Global land cover mapping showing different types of land surface (forest, agriculture, urban) measured by the Copernicus program."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/earth_engine/copernicus/land_cover/earth_engine_copernicus_land_cover@10"
+  import_groups: "infrequent"
+  start_date_in_kg: "2015"
+  end_date_in_kg: "2019"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/earth_engine/copernicus/land_cover/EarthEngine_Copernicus_GlobalLandCoverLayers.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/earth_engine/copernicus/land_cover/all_us_*.csv"
+  }
+  resolution_info { uses_id_resolver: true }
+  dataset_name: "Copernicus Global Land Cover"
+}

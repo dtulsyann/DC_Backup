@@ -1,0 +1,5 @@
+Node: dcid:dc/base/NASA_NEXGDDP_CMIP6_Subnational_Histogram
+typeOf: dcid:Provenance
+lastDataRefreshDate: "2023-08-25"
+descriptionUrl: "https://nex-gddp-cmip6.s3.us-west-2.amazonaws.com/index.html"
+automaticRefreshType: "NoAutomaticRefresh"

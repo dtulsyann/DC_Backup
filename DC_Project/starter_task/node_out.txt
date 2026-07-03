@@ -1,0 +1,357 @@
+
+--- Raw Outgoing Data ---
+{
+  "data": {
+    "dc/base/BEA_USStatesQuarterlyGDP": {
+      "arcs": {
+        "entityResolutionType": {
+          "nodes": [
+            {
+              "dcid": "IdResolutionWithoutKg",
+              "name": "ID resolution without Knowledge Graph",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "EntityResolutionTypeEnum"
+              ]
+            }
+          ]
+        },
+        "lastDataRefreshDate": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "2026-04-30"
+            }
+          ]
+        },
+        "license": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "https://www.bea.gov/about/policies-and-information/accessibility"
+            }
+          ]
+        },
+        "nextSourceReleaseDate": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "2025"
+            }
+          ]
+        },
+        "preResolutionDownloadVersionFile": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "/bigstore/datcom-prod-imports/scripts/us_bea/states_gdp/BEA_USStatesQuarterlyGDP/latest_version.txt"
+            }
+          ]
+        },
+        "processingMethod": {
+          "nodes": [
+            {
+              "dcid": "CustomScript",
+              "name": "Custom script",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "ProcessingMethodEnum"
+              ]
+            }
+          ]
+        },
+        "dataBuildGroup": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "auto2w"
+            },
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "infrequent"
+            },
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "searchaim"
+            }
+          ]
+        },
+        "provenance": {
+          "nodes": [
+            {
+              "dcid": "dc/base/BEA_USStatesQuarterlyGDP",
+              "name": "BEA_USStatesQuarterlyGDP",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "Provenance"
+              ]
+            },
+            {
+              "dcid": "dc/base/BEA_USStatesQuarterlyGDP",
+              "name": "BEA_USStatesQuarterlyGDP",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "Provenance"
+              ]
+            }
+          ]
+        },
+        "typeOf": {
+          "nodes": [
+            {
+              "dcid": "Provenance",
+              "name": "Provenance",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "Class"
+              ]
+            }
+          ]
+        },
+        "url": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "https://www.bea.gov/data/gdp/gdp-state"
+            },
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "https://www.bea.gov/resources/methodologies/gdp-by-state"
+            }
+          ]
+        },
+        "latestObservationDate": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "2025-12"
+            }
+          ]
+        },
+        "name": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "BEA_USStatesQuarterlyGDP"
+            }
+          ]
+        },
+        "preResolutionTableUrl": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "/v3_mcf/us_bea/states_gdp/20250509/states_gdp.tmcf,/v3_mcf/us_bea/states_gdp/20250509/states_gdp.csv"
+            },
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "/v3_mcf/us_bea/states_industries_gdp/20250509/states_industry_gdp.tmcf,/v3_mcf/us_bea/states_industries_gdp/20250509/states_industry_gdp.csv"
+            }
+          ]
+        },
+        "provenanceCategory": {
+          "nodes": [
+            {
+              "dcid": "StatisticsProvenance",
+              "name": "Statistics provenance",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "ProvenanceCategoryEnum"
+              ]
+            }
+          ]
+        },
+        "resolvedProtoMcfUrl": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "/v3_resolved_mcf/us_bea/states_gdp/20250509/graph.tfrecord@1.gz,/v3_resolved_mcf/us_bea/states_industries_gdp/20250509/graph.tfrecord@1.gz"
+            }
+          ]
+        },
+        "source": {
+          "nodes": [
+            {
+              "dcid": "dc/s/UsBureauOfEconomicAnalysisBea",
+              "name": "U.S. Bureau of Economic Analysis (BEA)",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "Source"
+              ]
+            }
+          ]
+        },
+        "sourceDataUrl": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "https://www.bea.gov/data/gdp/gdp-state"
+            }
+          ]
+        },
+        "sourceReleaseFrequency": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "P3M"
+            }
+          ]
+        },
+        "cachedSourceDataUrl": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bea/states_industries_gdp/20250509"
+            }
+          ]
+        },
+        "curator": {
+          "nodes": [
+            {
+              "dcid": "dc/cjj7vp",
+              "name": "imports@datacommons.org",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "Curator"
+              ]
+            }
+          ]
+        },
+        "dataTransformationLogic": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "https://github.com/datacommonsorg/data/tree/master/scripts/us_bea/states_gdp"
+            }
+          ]
+        },
+        "description": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "Quarterly data on inflation-adjusted GDP at a state level in the United States from the US Bureau of Economic Analysis."
+            }
+          ]
+        },
+        "importTime": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "1777919442"
+            }
+          ]
+        },
+        "isPartOf": {
+          "nodes": [
+            {
+              "dcid": "dc/d/UsBureauOfEconomicAnalysisBea_GrossDomesticProduct",
+              "name": "Gross Domestic Product",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "Dataset"
+              ]
+            }
+          ]
+        },
+        "licenseType": {
+          "nodes": [
+            {
+              "dcid": "PublicDomain",
+              "name": "PublicDomain",
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "types": [
+                "LicenseTypeEnum"
+              ]
+            }
+          ]
+        },
+        "nextDataRefreshDate": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "2026-07-30"
+            }
+          ]
+        },
+        "descriptionUrl": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "https://www.bea.gov/news/2025/gross-domestic-product-state-and-personal-income-state-4th-quarter-2024-and-preliminary"
+            }
+          ]
+        },
+        "earliestObservationDate": {
+          "nodes": [
+            {
+              "provenanceId": "dc/base/BEA_USStatesQuarterlyGDP",
+              "value": "2005-03"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+
+--- Outgoing Properties for dc/base/BEA_USStatesQuarterlyGDP ---
+cachedSourceDataUrl :
+  - https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_bea/states_industries_gdp/20250509
+curator :
+  - imports@datacommons.org (DCID: dc/cjj7vp)
+dataBuildGroup :
+  - auto2w
+  - infrequent
+  - searchaim
+dataTransformationLogic :
+  - https://github.com/datacommonsorg/data/tree/master/scripts/us_bea/states_gdp
+description :
+  - Quarterly data on inflation-adjusted GDP at a state level in the United States from the US Bureau of Economic Analysis.
+descriptionUrl :
+  - https://www.bea.gov/news/2025/gross-domestic-product-state-and-personal-income-state-4th-quarter-2024-and-preliminary
+earliestObservationDate :
+  - 2005-03
+entityResolutionType :
+  - ID resolution without Knowledge Graph (DCID: IdResolutionWithoutKg)
+importTime :
+  - 1777919442
+isPartOf :
+  - Gross Domestic Product (DCID: dc/d/UsBureauOfEconomicAnalysisBea_GrossDomesticProduct)
+lastDataRefreshDate :
+  - 2026-04-30
+latestObservationDate :
+  - 2025-12
+license :
+  - https://www.bea.gov/about/policies-and-information/accessibility
+licenseType :
+  - PublicDomain (DCID: PublicDomain)
+name :
+  - BEA_USStatesQuarterlyGDP
+nextDataRefreshDate :
+  - 2026-07-30
+nextSourceReleaseDate :
+  - 2025
+preResolutionDownloadVersionFile :
+  - /bigstore/datcom-prod-imports/scripts/us_bea/states_gdp/BEA_USStatesQuarterlyGDP/latest_version.txt
+preResolutionTableUrl :
+  - /v3_mcf/us_bea/states_gdp/20250509/states_gdp.tmcf,/v3_mcf/us_bea/states_gdp/20250509/states_gdp.csv
+  - /v3_mcf/us_bea/states_industries_gdp/20250509/states_industry_gdp.tmcf,/v3_mcf/us_bea/states_industries_gdp/20250509/states_industry_gdp.csv
+processingMethod :
+  - Custom script (DCID: CustomScript)
+provenance :
+  - BEA_USStatesQuarterlyGDP (DCID: dc/base/BEA_USStatesQuarterlyGDP)
+  - BEA_USStatesQuarterlyGDP (DCID: dc/base/BEA_USStatesQuarterlyGDP)
+provenanceCategory :
+  - Statistics provenance (DCID: StatisticsProvenance)
+resolvedProtoMcfUrl :
+  - /v3_resolved_mcf/us_bea/states_gdp/20250509/graph.tfrecord@1.gz,/v3_resolved_mcf/us_bea/states_industries_gdp/20250509/graph.tfrecord@1.gz
+source :
+  - U.S. Bureau of Economic Analysis (BEA) (DCID: dc/s/UsBureauOfEconomicAnalysisBea)
+sourceDataUrl :
+  - https://www.bea.gov/data/gdp/gdp-state
+sourceReleaseFrequency :
+  - P3M
+typeOf :
+  - Provenance (DCID: Provenance)
+url :
+  - https://www.bea.gov/data/gdp/gdp-state
+  - https://www.bea.gov/resources/methodologies/gdp-by-state

@@ -1,0 +1,20 @@
+import: {
+  import_name: "GoogleKGOnlyGeos"
+  provenance_url: "https://www.google.com"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_stats_v2/*/place.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_stats_v2/20240819/*/place.mcf"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/kg_person_counts/NewWikidata/*.mcf"
+  import_groups: "place"
+  resolution_info: {
+    uses_id_resolver: true
+    requires_ids: "mid"
+    # Needed to know which mids don't exist.
+    provides_ids: "mid"
+    new_geo {
+      dcid_sources: "mid"
+      # This is a hash of MID to not expose it.
+    }
+  }
+  dataset_name: "Google Places"
+}

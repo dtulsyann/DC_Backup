@@ -1,0 +1,8 @@
+Node: dcid:dc/base/USFEMA_NationalRiskIndex
+licenseType: dcid:PublicDomain
+license: "https://www.fema.gov/about/website-information#copyright"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/un/energy/latest"
+processingMethod: dcid:CustomScript
+typeOf: dcid:Provenance
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/un/energy/README.md"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

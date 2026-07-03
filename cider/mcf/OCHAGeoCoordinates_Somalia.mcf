@@ -1,0 +1,9 @@
+Node: dcid:dc/base/OCHAGeoCoordinates_Somalia
+typeOf: dcs:Provenance
+license : " https://data.humdata.org/dataset/cod-ab-som"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Somalia/wikidata_ADM2/source_files"
+sourceDataUrl : "https://data.humdata.org/dataset/cod-ab-som"
+lastDataRefreshDate: "2024-08-29"
+earliestDataImportDate: "2024-07-19"

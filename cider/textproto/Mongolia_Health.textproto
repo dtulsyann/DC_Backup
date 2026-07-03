@@ -1,0 +1,21 @@
+import: {
+  import_name: "Mongolia_Health"
+  provenance_url: "https://www.1212.mn/en/statcate"
+  provenance_description: "Statistical data related to births and deaths in Mongolia."
+  category: STATS
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/mongolia/mongolia_health/latest/graph.tfrecord@1.gz"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/mongolia/mongolia_health/latest/deaths_by_month_and_region_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/mongolia/mongolia_health/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/mongolia_imports/mongolia_health/Mongolia_Health/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/mongolia_imports/mongolia_health/Mongolia_Health/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  import_groups: "country"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "Mongolia Statistics"
+}

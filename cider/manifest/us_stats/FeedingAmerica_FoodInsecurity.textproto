@@ -1,0 +1,15 @@
+import {
+  import_name: "FeedingAmerica_FoodInsecurity"
+  provenance_url: "https://www.feedingamerica.org/hunger-in-america"
+  category: STATS
+  provenance_description: "Estimates of food insecurity by FeedingAmerica at country and state level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/feeding_america/food_insecurity/output_files/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/feeding_america/food_insecurity/output_files/food_insecurity.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/feeding_america/food_insecurity/output_files/*.csv"
+  }
+  start_date_in_kg: "2019"
+  end_date_in_kg: "2021"
+  import_groups: "infrequent"
+  dataset_name: "Feeding America: Map Meal Gap"
+}

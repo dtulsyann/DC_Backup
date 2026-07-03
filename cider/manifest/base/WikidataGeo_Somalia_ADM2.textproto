@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Somalia_ADM2"
+  provenance_url: "https://en.wikipedia.org/wiki/States_and_regions_of_Somalia"
+  category: PLACE
+  provenance_description: "Includes the Administrative Areas 2 of Somalia."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Somalia/wikidata_ADM2/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Somalia/wikidata_ADM2/Somalia.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Somalia/wikidata_ADM2/SOM_ADM2-final-AA2.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

@@ -1,0 +1,11 @@
+Node: dcid:dc/base/NCES_PublicSchoolStats
+typeOf: dcid:Provenance
+license: "https://ies.ed.gov/help/privacy.asp"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_nces/README.md"
+sourceDataUrl: "https://nces.ed.gov/ccd/elsi/tableGenerator.aspx"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://pantheon.corp.google.com/storage/browser/datacommons_public/unresolved_mcf/us_nces/demographics/public_school/latest/input_files/"
+descriptionUrl: "https://nces.ed.gov/ccd/aboutccd.asp"
+automaticRefreshType: "GCPCloudRunSemiAutomaticRefresh"

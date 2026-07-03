@@ -1,0 +1,11 @@
+Node: dcid:dc/base/Google_COVID19Mobility
+typeOf: dcid:Provenance
+descriptionUrl: "https://www.google.com/covid19/mobility"
+license: "https://policies.google.com/terms?hl=en"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/google_covid/mobility/README.md/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/google_covid/mobility/latest/input_files/"
+sourceDataUrl: "https://www.google.com/covid19/mobility"
+sourceReleaseFrequency: "P1D"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

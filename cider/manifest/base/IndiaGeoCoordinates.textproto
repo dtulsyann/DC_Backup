@@ -1,0 +1,13 @@
+# LINT.IfChange
+import: {
+  import_name: "IndiaGeoCoordinates"
+  provenance_url: "http://projects.datameet.org/maps"
+  category: PLACE
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_geojson/*.mcf"
+  # IITM GeoJSON
+  # mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_geojson/jkfixed/*.mcf"
+  import_groups: "place"
+  dataset_name: "DataMeet Maps"
+}
+# LINT.ThenChange(//depot/google3/production/borg/datcom/prophet/generator/import_group.borg)
+#   - This needs a rebuild of the coordinate recon cache, and updating --coordinate_recon_cache_path

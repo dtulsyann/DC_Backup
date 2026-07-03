@@ -1,0 +1,13 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1901
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+description: "AAmerican Community Survey (ACS) 5-Year Subject Tables: S1901:Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/S1901/20260311/input_files"
+sourceDataUrl: "https://data.census.gov/table?q=S1901&g=010XX00US,$0400000,$0500000,$0600000,$1400000,$1600000,$3100000,$31000M1,$31000M2,$5000000,$8600000,$9500000,$9600000,$9700000"
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_census/acs5yr/subject_tables/README.md"
+sourceReleaseFrequency: "P1Y"
+lastDataRefreshDate: "2026-03-11"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2024_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2024_ACSSubjectDefinitions.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

@@ -1,0 +1,87 @@
+DCID,Field,URL,Status_Code,Message,Is_404
+dc/base/BLS_CES,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CES_State,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CPI,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CPI_Category,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_CPS,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_JOLTS,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_LAUS,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/BLS_QCEW,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/Brazil_Census,dataset.source.url,https://www.ibge.gov.br/en/home-eng.html,0,URL Error timed out,No
+dc/base/Brazil_SIDRA_IBGE,dataset.source.url,https://www.ibge.gov.br/en/home-eng.html,0,URL Error timed out,No
+dc/base/Bulgaria_Census,dataset.source.url,https://www.nsi.bg/,403,HTTP Error 403,No
+dc/base/CBECS_Energy,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/CRDC_EducationSchool_HarassmentOrBullying,dataset.source.url,https://www.crdc.org/data,404,HTTP Error 404,Yes
+dc/base/CRDC_Education_Discipline_Attendance,dataset.source.url,https://www.crdc.org/data,404,HTTP Error 404,Yes
+dc/base/Commerce_EDA,dataset.source.url,https://data.commerce.gov/,403,HTTP Error 403,No
+dc/base/Commerce_NTIA,dataset.source.url,https://data.commerce.gov/,403,HTTP Error 403,No
+dc/base/Cotedivoire_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/DEA_ARCOS,dataset.source.url,https://www.dea.gov/,403,HTTP Error 403,No
+dc/base/DEA_ARCOS_AggState,dataset.source.url,https://www.dea.gov/,403,HTTP Error 403,No
+dc/base/DEA_ARCOS_AggState_AggCountry,dataset.source.url,https://www.dea.gov/,403,HTTP Error 403,No
+dc/base/EIA_Coal,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_Electricity,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_International,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_NaturalGas,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_NuclearOutages,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_Petroleum,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_SEDS,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/EIA_TotalEnergy,dataset.source.url,https://www.eia.gov/,0,The read operation timed out,No
+dc/base/Egypt_Census,dataset.source.url,https://egypt.opendataforafrica.org,403,HTTP Error 403,No
+dc/base/EthiopiaStatistics,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/FARS_CrashData,dataset.source.url,https://www.nhtsa.gov/,403,HTTP Error 403,No
+dc/base/FireFAMWEB_Agg,dataset.source.url,https://www.nwcg.gov/,403,HTTP Error 403,No
+dc/base/HUD_IncomeLimits,dataset.source.url,https://www.hud.gov/,403,HTTP Error 403,No
+dc/base/IPEDS_StudentToFacultyRatio,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/IndiaCensus_Primary,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryHouseless,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryReligion,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimarySC,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaCensus_PrimaryST,dataset.source.url,https://censusindia.gov.in/,0,[Errno 104] Connection reset by peer,No
+dc/base/IndiaWRISWaterQuality,dataset.source.url,https://indiawris.gov.in/wris/#/,0,URL Error timed out,No
+dc/base/India_GeoSadak,dataset.source.url,https://geosadak-pmgsy.nic.in/,0,URL Error [Errno -2] Name or service not known,No
+dc/base/Indonesia_Census,dataset.source.url,https://www.bps.go.id/,403,HTTP Error 403,No
+dc/base/Israel_Census,dataset.source.url,https://www.cbs.gov.il/he/Pages/default.aspx,0,URL Error timed out,No
+dc/base/Kenya_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/NCES_Bachelors_Degree_By_Field_Import,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_HBCU_Enrollment_Import,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_NationsReportCard,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PrivateSchoolStats_SuperEnum,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_PublicSchoolStats_SuperEnum,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_STEM_Degrees_Import,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NCES_SchoolDistrictStats_SuperEnum,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/NYU_Tennessee_Diabetes,dataset.source.url,https://www.tn.gov/health/,0,URL Error _ssl.c:993: The handshake operation timed out,No
+dc/base/NigeriaStatistics,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Rwanda_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Singapore_Census,dataset.source.url,https://www.singstat.gov.sg/,403,HTTP Error 403,No
+dc/base/SouthAfrica_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/UAE_Population,dataset.source.url,https://bayanat.ae/,0,URL Error timed out,No
+dc/base/USA_DOL_Wages,dataset.source.url,https://www.dol.gov/,403,HTTP Error 403,No
+dc/base/USBTS_Tract_Household_Transportation,dataset.source.url,https://www.bts.dot.gov/,403,HTTP Error 403,No
+dc/base/USDA_AgricultureCensus,dataset.source.url,https://www.usda.gov/,0,The read operation timed out,No
+dc/base/USDA_AgricultureCensus_Agriculture_StatVarAgg,dataset.source.url,https://www.usda.gov/,0,The read operation timed out,No
+dc/base/USDA_AgricultureSurvey,dataset.source.url,https://www.usda.gov/,0,The read operation timed out,No
+dc/base/USDOL_ETA539,dataset.source.url,https://www.dol.gov/,403,HTTP Error 403,No
+dc/base/USFEMA_FloodInsuranceClaims,dataset.source.url,https://www.fema.gov/,403,HTTP Error 403,No
+dc/base/USFEMA_NationalRiskIndex,dataset.source.url,https://www.fema.gov/,403,HTTP Error 403,No
+dc/base/USGSWaterUse,dataset.source.url,https://www.usgs.gov/,405,HTTP Error 405,No
+dc/base/US_CCD_Enrollment,dataset.source.url,https://nces.ed.gov/,0,URL Error timed out,No
+dc/base/US_CPI,dataset.source.url,https://www.bls.gov/,403,HTTP Error 403,No
+dc/base/US_ITA_Economic_Activity,dataset.source.url,https://data.commerce.gov/,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_SAT_ACT_Participation_state,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_Texas_Diabetes,dataset.source.url,https://healthdata.dshs.texas.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanEducation_School,dataset.source.url,https://www.urban.org/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Covid_Directional_Indicators,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Enrollment,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Finances,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_UrbanSchool_Retention,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_Urban_MathsAndScience_Course_Enrollment,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/US_Urban_Schools_Teachers_And_Staff,dataset.source.url,https://ocrdata.ed.gov/,403,HTTP Error 403,No
+dc/base/Uganda_Census,dataset.source.url,https://dataportal.opendataforafrica.org/,403,HTTP Error 403,No
+dc/base/Vietnam_Census,dataset.source.url,https://www.gso.gov.vn/en/homepage/,0,URL Error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010),No
+dc/base/WRIS_India_Rainfall,dataset.source.url,https://indiawris.gov.in/wris/#/,0,URL Error timed out,No
+dc/base/crdc_instructional_wifi_devices,dataset.source.url,https://civilrightsdata.ed.gov/,403,HTTP Error 403,No

@@ -1,0 +1,12 @@
+Node: dcid:dc/base/SouthAfrica_Budget
+typeOf: dcs:Provenance
+license : "https://creativecommons.org/licenses/by/4.0/"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+#dataTransformationLogic : "https://docs.google.com/spreadsheets/d/1Vw9JXL1JTyK3yHvTUnsa2PzGFbINBqIryVaaHIvAWFA/edit?resourcekey=0-o2uoOPlWnKrhEiSIbONBiA&gid=1519300785#gid=1519300785"
+cachedSourceDataUrl : "https://storage.mtls.cloud.google.com/unresolved_mcf/country/southafrica/Budget/SouthAfrica_Budget_InputDataSheet.zip"
+sourceDataUrl: "https://github.com/dsfsi/data-commons-data/tree/master/data/budget%20data/csv"
+lastDataRefreshDate: "2024-08-29"
+nextSourceReleaseDate : "2025"
+#automaticRefreshType : dcs:InternalPipeline
+automaticRefreshType: "NoAutomaticRefresh"

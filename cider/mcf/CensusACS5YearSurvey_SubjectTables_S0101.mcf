@@ -1,0 +1,11 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S0101
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+description: "American Community Survey (ACS) 5-Year Subject Tables: S0101: Age and Sex"
+processingMethod: dcid:CustomScript
+#dataTransformationLogic: "https://github.com/datacommonsorg/data/pull/521"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/census/acs5yr/subject_tables/S0101/20260219/input_files"
+sourceDataUrl: "https://data.census.gov/table/ACSST1Y2024.S0101?q=S0101:+Age+and+Sex"
+lastDataRefreshDate: "2026-02-19"
+automaticRefreshType: "NoAutomaticRefresh"

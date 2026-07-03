@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_TrinidadAndTobago"
+  provenance_url: "https://en.wikipedia.org/wiki/Regions_and_municipalities_of_Trinidad_and_Tobago"
+  category: PLACE
+  provenance_description: "Includes the Administrative Area 1 division of Trinidad and Tobago."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/TrinidadAndTobago/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/TrinidadAndTobago/wikidata/tto.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/TrinidadAndTobago/wikidata/Trinidad_and_Tobago-final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

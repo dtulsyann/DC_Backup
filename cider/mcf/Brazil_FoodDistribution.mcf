@@ -1,0 +1,15 @@
+Node: dcid:dc/base/Brazil_FoodDsitribution
+typeOf: dcs:Provenance
+#license : "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+#licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+#dataTransformationLogic : ""
+#cachedSourceDataUrl : "/cns/jv-d/home/datcom/source_csv/bls/cps/ln.data.1.AllData"
+sourceDataUrl : "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php"
+sourceReleaseFrequency : "P1Y"
+#nextSourceReleaseDate : "2024-05-03"
+#nextDataRefreshDate : "2024-05-11"
+#automaticRefreshType : dcs:InternalPipeline
+#automaticRefreshSchedule : "40 5 * * *"
+#lastDataRefreshDate: ""
+automaticRefreshType: "NoAutomaticRefresh"

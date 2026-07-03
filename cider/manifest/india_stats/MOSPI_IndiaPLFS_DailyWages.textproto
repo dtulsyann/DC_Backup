@@ -1,0 +1,14 @@
+import: {
+  import_name: "MOSPI_IndiaPLFS_DailyWages"
+  provenance_url: "https://esankhyiki.mospi.gov.in/macroindicators?product=plfs"
+  category: STATS
+  provenance_description: "Daily wage data from the Periodic Labour Force Survey published by India's Ministry of Statistics and Programme Implementation."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/india_mospi/daily_wages/nodes.mcf@1"
+  import_groups: "infrequent"
+  import_groups: "frequent"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/india_mospi/daily_wages/dailywages.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/india_mospi/daily_wages/dailywages.csv"
+  }
+  dataset_name: "Periodic Labour Force Survey"
+}

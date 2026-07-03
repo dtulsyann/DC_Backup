@@ -1,0 +1,11 @@
+Node: dcid:dc/base/USMonthlyRetailSales
+typeOf: dcs:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod : dcs:StatVarProcessor
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/statvar_imports/us_census/us_monthly_retail_sales/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_census/monthly_retail_sales/input_file/"
+sourceDataUrl : "https://www.census.gov/retail/mrts/www/mrtssales92-present.xlsx"
+sourceReleaseFrequency : "P1Y"
+descriptionUrl : "https://www.census.gov/retail/definitions.html"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,8 @@
+Node: dcid:dc/base/Commerce_NTIA
+typeOf: dcid:Provenance
+license: "https://www.ntia.gov/page/about-ntias-web-site-accessibility-policy"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:StatVarProcessor
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_ntia/latest/input_files"
+sourceDataUrl: "https://www.ntia.gov/sites/default/files/data_central_downloads/datasets/ntia-analyze-table.csv"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

@@ -1,0 +1,10 @@
+Node: dcid:dc/base/GeoBoundaries_NorthKorea
+typeOf: dcs:Provenance
+license : "https://www.geoboundaries.org/api/current/gbOpen/PRK/ADM1/"
+licenseType : dcs:CreativeCommonsAttributionIntergovernmentalOrganizationLicense
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/geoBoundaries/gbOpen/PRK/ADM1/wikidata/sourceFiles/"
+sourceDataUrl : "https://github.com/wmgeolab/geoBoundaries/tree/main/releaseData/gbOpen/PRK/ADM1"
+lastDataRefreshDate: "2024-07-09"
+earliestDataImportDate: "2024-07-09"

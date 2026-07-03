@@ -1,0 +1,10 @@
+Node: dcid:dc/base/WikidataGeo_Tonga_ADM2
+typeOf: dcs:Provenance
+license : "https://www.wikidata.org/wiki/Wikidata:Licensing"
+licenseType : dcs:CreativeCommons0
+processingMethod : dcs:CustomScript
+# dataTransformationLogic
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/ocha/geodata/Tonga/wikidata_ADM2/"
+sourceDataUrl : "https://en.wikipedia.org/wiki/Administrative_divisions_of_Tonga"
+lastDataRefreshDate: "2024-09-12"
+earliestDataImportDate: "2024-09-12"

@@ -1,0 +1,16 @@
+import {
+  import_name: "Vietnam_Census"
+  provenance_url: "https://www.gso.gov.vn/en/homepage/"
+  category: STATS
+  provenance_description: "Vietnam Demographics, Economy, Health, Education data from Portal Site of General Statistics Office by natioanl, province and city level."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/vietnam/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/vietnam/Common.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/vietnam/*.csv"
+  }
+  import_groups: "country"
+  start_date_in_kg: "2011"
+  end_date_in_kg: "2021"
+  release_frequency: "P1Y"
+  dataset_name: "Vietnam Census"
+}

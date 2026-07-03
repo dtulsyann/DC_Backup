@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EPHHeatRelatedIllness
+typeOf: dcid:Provenance
+license: "https://www.cdc.gov/other/agencymaterials.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/us_cdc/heat_related_illness/README.md"
+sourceDataUrl: "https://ephtracking.cdc.gov/qrlist/35"
+sourceReleaseFrequency: "P1Y"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/cdc/environmental_public_health/heat_stress/latest/input_files"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+

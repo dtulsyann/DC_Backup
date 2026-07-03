@@ -1,0 +1,22 @@
+import {
+  import_name: "India_NFHS"
+  provenance_url: "https://ndap.niti.gov.in/dataset/6821, https://ndap.niti.gov.in/dataset/7034, https://ndap.niti.gov.in/dataset/6822"
+  category: STATS
+  provenance_description: "India National Family Health Survey - Data on population dynamics and health indicators as well as data on emerging issues in health and family welfare and associated domains in District Level. National Data and Analytics Platform (NDAP).(2022 January 02). Datasets. Retrieved October, 10 2023 from National Data and Analytics Platform (NDAP): https://ndap.niti.gov.in/"
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ind_nfhs/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ind_nfhs/latest/NFHS4_output.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ind_nfhs/latest/*.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/statvar_imports/india_nfhs/India_NFHS/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/statvar_imports/india_nfhs/India_NFHS/import_metadata_mcf.mcf"
+  import_groups: "auto2w"
+  # TODO(b/443094549): remove from country once auto2w builds
+  import_groups: "country"
+  automated_mcf_generation_by: "auto2w"
+  dataset_name: "India National Family Health Survey"
+
+}
+

@@ -1,0 +1,12 @@
+Node: dcid:dc/base/NCHS_BRFSS_Asthma
+typeOf: dcid:Provenance
+license : "https://www.cdc.gov/other/privacy.html"
+licenseType : dcs:PublicDomain
+processingMethod : dcs:StatVarProcessor
+descriptionUrl: "https://www.cdc.gov/asthma/brfss/default.htm"
+dataTransformationLogic : "https://github.com/datacommonsorg/data/tree/master/statvar_imports/brfss_nchs_asthma_prevalence/nchs_brfss_asthma/README.md"
+cachedSourceDataUrl : "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/us_cdc/nchs_brfss_asthma/latest/input_files"
+sourceDataUrl : "https://www.cdc.gov/asthma/brfss/default.htm"
+sourceReleaseFrequency : "P1Y"
+automaticRefreshType: "GCPCloudRunAutomaticRefresh"
+

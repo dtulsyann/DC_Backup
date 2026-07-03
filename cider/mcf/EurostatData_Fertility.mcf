@@ -1,0 +1,11 @@
+Node: dcid:dc/base/EurostatData_Fertility
+typeOf: dcid:Provenance
+descriptionUrl: "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Statistical_themes"
+license: "https://commission.europa.eu/legal-notice_en"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/tree/master/scripts/eurostat/regional_statistics_by_nuts/fertility_rate_mother_age/"
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/datacommons_public/unresolved_mcf/eurostat/fertility/latest/input_file/"
+sourceDataUrl: "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_find3/?format=TSV&compressed=true"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType : "GCPCloudRunAutomaticRefresh"

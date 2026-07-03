@@ -1,0 +1,22 @@
+import: {
+  import_name: "EurostatData_GDP"
+  provenance_url: "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table?lang=en"
+  category: STATS
+  provenance_description: "Gross Domestic Product (GDP) and economic output metrics for European regions."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/eurostat/gdp/latest/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/gdp/latest/eurostat_gdp.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/eurostat/gdp/latest/eurostat_gdp.csv"
+    download_config: {
+      src_latest_version_file: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/gdp/EurostatData_GDP/latest_version.txt"
+    }
+  }
+  metadata_mcf_url: "/bigstore/datcom-prod-imports/scripts/eurostat/regional_statistics_by_nuts/gdp/EurostatData_GDP/import_metadata_mcf.mcf"
+  import_groups: "searchaim"
+  import_groups: "laelaps"
+  import_groups: "auto1w"
+  automated_mcf_generation_by: "auto1w"
+  release_frequency: "P1Y"
+  resolution_info: { uses_id_resolver: true }
+  dataset_name: "Regional Statistics by NUTS Classification"
+}

@@ -1,0 +1,6 @@
+Node: dcid:dc/base/MexicoCensus
+typeOf: dcid:Provenance
+#license : "https://en.www.inegi.org.mx/inegi/terminos.html"
+#licenseType: dcs:CreativeCommons
+lastDataRefreshDate: "2023-07-19"
+automaticRefreshType: "NoAutomaticRefresh"

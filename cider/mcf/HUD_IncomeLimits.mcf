@@ -1,0 +1,11 @@
+Node: dcid:dc/base/HUD_IncomeLimits
+typeOf: dcid:Provenance
+license: "https://www.huduser.gov/portal/datasets/il.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+dataTransformationLogic: "https://github.com/datacommonsorg/data/blob/master/scripts/us_hud/income/README.md"
+sourceDataUrl: "https://www.huduser.gov/portal/datasets/il/il24/Section8-FY24.xlsx"
+sourceReleaseFrequency: "P1Y"
+automaticRefreshType: dcid:InternalPipeline
+automaticRefreshSchedule: "15 22 * * 4"
+descriptionUrl: "https://www.huduser.gov/portal/datasets/il/il24/FAQS-on-FY-2024-Income-Limits.docx"

@@ -1,0 +1,13 @@
+import {
+  import_name: "WikidataGeo_Iceland"
+  provenance_url: "https://en.m.wikipedia.org/wiki/Regions_of_Iceland"
+  category: PLACE
+  provenance_description: "Includes the provinces(Administrative Area 1 division) of Iceland."
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/ocha/geodata/Iceland/wikidata/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Iceland/wikidata/Iceland_ADM1_Iceland.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/ocha/geodata/Iceland/wikidata/Iceland_ADM1_Final.csv"
+  }
+  import_groups: "place"
+  dataset_name: "Wikidata"
+}

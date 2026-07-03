@@ -1,0 +1,22 @@
+import {
+  import_name: "NOAA_GFS_WeatherForecast"
+  provenance_url: "https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast"
+  provenance_description: "Global weather forecast data for up to the next 16 days."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/weather/forecast/graph.tfrecord@*.gz"
+  category: STATS
+  automated_mcf_generation_by: "auto1d"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/weather/forecast/forecast_weather_without_cloudcov.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/weather/forecast/DailyWeatherForecast.csv*"
+    download_config: {
+      src_latest_version_file: "/cns/jv-d/home/datcom/v3_mcf/weather/forecast/latest_version.txt"
+    }
+  }
+  resolution_info {
+    uses_id_resolver: true
+    kg_for_resolution: KG_NONE
+  }
+  dataset_name: "NOAA-GFS Weather Forecast"
+  import_groups: "auto1d"
+  release_frequency: "P1D"
+}

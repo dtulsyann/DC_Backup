@@ -1,0 +1,23 @@
+import {
+  import_name: "TemperatureEvents"
+  provenance_url: "https://datacommons.org/"
+  provenance_description: "Events for places where the observed temperature is much higher or lower than the normal minimum or maximum temperature."
+  category: ENTITY
+  import_groups: "disaster"
+  start_date_in_kg: "2022"
+  end_date_in_kg: "2023"
+  # Cold Events
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/temperature_event/cold_event_places/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/temperature_event/cold_event_places/cold_temperature_event_10_deg_c_events.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/temperature_event/cold_event_places/*_events.csv"
+  }
+  # Heat Events
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/temperature_event/heat_event_places/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/temperature_event/heat_event_places/heat_temperature_event_10_deg_c_events.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/temperature_event/heat_event_places/*_events.csv"
+  }
+  dataset_name: "Temperature Event"
+  release_frequency: "P1M"
+}

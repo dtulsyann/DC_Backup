@@ -1,0 +1,10 @@
+Node: dcid:dc/base/CensusACS5YearSurvey_SubjectTables_S1251
+typeOf: dcid:Provenance
+license: "https://www.census.gov/about/policies/open-gov/open-data.html"
+licenseType: dcid:PublicDomain
+processingMethod: dcid:CustomScript
+cachedSourceDataUrl: "https://console.cloud.google.com/storage/browser/unresolved_mcf/census/acs5yr/subject_tables/S1251/20260312/input_files"
+sourceDataUrl: "https://data.census.gov/table/ACSST5Y2024.S1251?q=S1251"
+lastDataRefreshDate: "2026-03-10"
+descriptionUrl: "https://www2.census.gov/programs-surveys/acs/tech_docs/table_shells/table_lists/2022_DataProductList.xlsx","https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2022_ACSSubjectDefinitions.pdf"
+automaticRefreshType: "NoAutomaticRefresh"

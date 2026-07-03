@@ -1,0 +1,16 @@
+import: {
+  import_name: "US_Texas_Diabetes"
+  provenance_url: "https://healthdata.dshs.texas.gov/dashboard/births-and-deaths/deaths"
+  category: STATS
+  provenance_description: "This import utilizes official mortality data from the Texas Department of Health, detailing county-level death statistics."
+  mcf_proto_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/nyu_diabetes/texas/graph.tfrecord@1.gz"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/nyu_diabetes/texas/Texas_Diabetes.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/nyu_diabetes/texas/Texas_Diabetes.csv"
+  }
+  import_groups: "uscensus"
+  resolution_info {
+    uses_id_resolver: true
+  }
+  dataset_name: "Texas department of health: Death statistics"
+}

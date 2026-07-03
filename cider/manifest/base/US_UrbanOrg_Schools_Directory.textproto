@@ -1,0 +1,14 @@
+import {
+  import_name: "US_UrbanOrg_Schools_Directory"
+  provenance_url: "https://educationdata.urban.org/documentation/schools.html#ccd_directory,https://www.census.gov/programs-surveys/ccd/tables/ccd-crdc-schools-directory"
+  category: PLACE
+  provenance_description: "US Urban Education School data from US Census Bureau"
+  mcf_url: "/cns/jv-d/home/datcom/v3_resolved_mcf/country/us_education/us_urbaneducation_school/ccd_crdc_schools_directory/new_school_ids/nodes.mcf@1"
+  table {
+    mapping_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/us_urbaneducation_school/ccd_crdc_schools_directory/new_school_ids/us_urban_schools.tmcf"
+    csv_path: "/cns/jv-d/home/datcom/v3_mcf/country/us_education/us_urbaneducation_school/ccd_crdc_schools_directory/new_school_ids/*.csv"
+  }
+  import_groups: "place"
+  release_frequency: "P1Y"
+  dataset_name: "US Urban Education Data Census"
+}
